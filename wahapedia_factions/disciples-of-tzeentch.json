@@ -1,0 +1,481 @@
+[
+ {
+  "faction": "Disciples of Tzeentch",
+  "faction_slug": "disciples-of-tzeentch",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "",
+  "text": "/noindex While the crude warlords of the mortal races measure their success by territory conquered, the Disciples of Tzeentch seek nothing less than to capsize reality itself. They are masters of the sorcerous rite and the devious plot. When at war, a barrage of magic reveals the awful truth – that their enemies were doomed before the first shot was fired. This page contains all of the rules you need to field your Disciples of Tzeentch miniatures on the battlefields of the Mortal Realms, from a host of exciting faction rules to a range of warscrolls. The rules are split into the following sections:"
+ },
+ {
+  "faction": "Disciples of Tzeentch",
+  "faction_slug": "disciples-of-tzeentch",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Designers’ Commentary > Battletome: Disciples of Tzeentch",
+  "text": "Q: If a Lord of Change's ‘Temporal Manipulation’ spell is measured from an Argent Shard due to the ‘Magical Focus’ ability, does the target of that spell have to end their move nearer to the Lord of Change or the Argent Shard? A: The Lord of Change . The Argent Shard ’s ‘Magical Focus’ ability only affects the picking of targets. Q: What happens to a persistent effect that is applied to unit if that unit is removed from the battlefield during the battle and set in reserve ? For example, if a DISCIPLES OF TZEENTCH unit that has had the ‘ Shield of Fate ’ spell cast on them is set up in reserve using the ‘ Smoke and Mirrors ’ ability? A: The persistent effect would remain applied for the respective timing of that ability. In the example, the Disciples of Tzeentch unit would still have the effect of ‘ Shield of Fate ’ if it was later re- set up on the battlefield before its commanding player’s next hero phase. Q: If a unit of Jade Obelisk is placed into reserve or destroyed, does the effect of ‘Chosen by the Stone’ continue to apply to the enemy unit that its Idolarc is next to? A: Yes, it is a persisting effect."
+ },
+ {
+  "faction": "Disciples of Tzeentch",
+  "faction_slug": "disciples-of-tzeentch",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Traits",
+  "text": "Disciples of Tzeentch armies can use the following abilities: Once Per Battle (Army), Deployment Phase ELDRITCH ILLUSIONS : The Disciples of Tzeentch delight in spreading confusion amongst their foes with cunningly woven glamours. Declare: Pick up to 3 friendly non- MONSTER DISCIPLES OF TZEENTCH units on the battlefield to be the targets. Effect: Remove the targets from the battlefield and set them up in reserve masked by illusion . Friendly units that are masked by illusion are destroyed at the end of the fifth battle round and not at the start of the fourth battle round. Once Per Turn (Army), Any Hero Phase SMOKE AND MIRRORS : With sudden and terrible clarity, Tzeentch’s foes realise they have been fighting the wrong enemy all along. Declare: Pick a friendly non- MONSTER DISCIPLES OF TZEENTCH unit that was not set up this turn and was not set up using this ability in the previous turn to be the target, then pick a friendly unit that is masked by illusion to be the substitute. Effect: Set up the substitute wholly within 6\" of the target and not in combat . Then, remove the target from the battlefield and set it up in reserve masked by illusion . Once Per Battle (Army), Deployment Phase SILVER SIMULACRUM : Like some amorphous organism, an Argent Shard splits in two to double its arcane potency. Effect: If there is a friendly Argent Shard on the battlefield, you can set up 1 additional Argent Shard on the battlefield. It must be set up wholly within friendly territory and more than 3\" from all objectives and other terrain features . Designer’s Note: The original Argent Shard is set up in Step 1 of the deployment phase using the ‘ Deploy Faction Terrain ’ ability."
+ },
+ {
+  "faction": "Disciples of Tzeentch",
+  "faction_slug": "disciples-of-tzeentch",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Traits",
+  "text": "Designer’s Note: The original Argent Shard is set up in Step 1 of the deployment phase using the ‘ Deploy Faction Terrain ’ ability. This ability allows you to set up a second such terrain feature and is used in Step 3 of the deployment phase, after armies have been deployed. Passive ALL PART OF THE PLAN : Tzeentch is all-seeing and all-knowing, and even setbacks may ultimately serve his destined ends. Effect: You start the battle with 0 fate points . Gain 1 fate point each time: You lose the priority roll. A spell cast by a friendly DISCIPLES OF TZEENTCH unit is unbound . A friendly DISCIPLES OF TZEENTCH unit miscast s a spell. Your opponent gains control of an objective that you controlled at the start of the turn. A friendly Argent Shard is demolished . Passive 1+ DESTINED TO SERVE : Those chosen by the Change God are not permitted to fall until they have served their fated purpose. Effect: Before allocating damage points to a friendly DISCIPLES OF TZEENTCH unit, you can spend any number of fate points . For each fate point you spend, remove 1 damage point in that unit’s damage pool. Reaction: You declared a SPELL ability for a DISCIPLES OF TZEENTCH unit 1+ DESTINED ARCANA : Tzeentch imbues the spell with a fraction of his limitless arcane might. Used By: The unit using that SPELL ability. Effect: Spend any number of fate points . For each fate point you spend, add 1 to the casting roll for that spell. Reaction: You declared a CHARGE ability for a DISCIPLES OF TZEENTCH unit in your turn 1+ DESTINED FOR BATTLE : Hand-to-hand combat is a crude pursuit, but it has its uses. Used By: The unit using that CHARGE ability. Effect: Spend any number of fate points . For each fate point you spend, add 1 to the charge roll for that CHARGE ability."
+ },
+ {
+  "faction": "Disciples of Tzeentch",
+  "faction_slug": "disciples-of-tzeentch",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations",
+  "text": "You can pick 1 of the following battle formations for a Disciples of Tzeentch army. Each battle formation grants a different ability you can use in the battle. BATTLE PROFILE Name Points Fated Blades 0 Denizens of the Silver Towers 0 Malevolent Schemers 0 Mutants and Mad Things 0 Masters of Fate 0 Spellweaver Coven 0"
+ },
+ {
+  "faction": "Disciples of Tzeentch",
+  "faction_slug": "disciples-of-tzeentch",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Fated Blades",
+  "text": "Passive COMETH THE HOUR : As moment of preordained glory, these warriors attack with renewed zeal. Effect: If you make a charge roll of 9+ for a friendly DISCIPLES OF TZEENTCH unit, add 1 to the Attacks characteristic of that unit’s melee weapons for the rest of the turn."
+ },
+ {
+  "faction": "Disciples of Tzeentch",
+  "faction_slug": "disciples-of-tzeentch",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Denizens of the Silver Towers",
+  "text": "Passive TWIST OF FATE : Those who dwell within the Silver Towers are suffused by an aura of fate‑altering magic. Effect: Each time a friendly DISCIPLES OF TZEENTCH unit uses an ability that requires you to spend 1 or more fate points , after that ability has been resolved, roll a dice. On a 4+, gain 1 fate point. If you remove 1 or more damage points from the damage pool of a friendly DISCIPLES OF TZEENTCH unit as a result of the ‘ Destined to Serve ’ ability, after the damage sequence for that unit has been resolved, roll a dice. On a 4+, gain 1 fate point."
+ },
+ {
+  "faction": "Disciples of Tzeentch",
+  "faction_slug": "disciples-of-tzeentch",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Malevolent Schemers",
+  "text": "Once Per Turn (Army), Start of Any Turn INEVITABLE ENDING : It is the duty of some simply to die, for their lifeblood will grease the ever‑turning cogs of fate. Declare: Pick a unit (friendly or enemy) to be the target. Effect: If the target is destroyed this turn, gain 1 fate point ."
+ },
+ {
+  "faction": "Disciples of Tzeentch",
+  "faction_slug": "disciples-of-tzeentch",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Mutants and Mad Things",
+  "text": "Once Per Turn (Army), Your Movement Phase HIDEOUS UNPREDICTABILITY : Tzeentch’s strange blessings allow his malformed servants to outmanoeuvre and outflank their prey. Declare: Pick a friendly unit that is masked by illusion to be the target. Effect: Set up the target wholly within 6\" of a battlefield edge and more than 9\" from all enemy units."
+ },
+ {
+  "faction": "Disciples of Tzeentch",
+  "faction_slug": "disciples-of-tzeentch",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Masters of Fate",
+  "text": "Passive SYMBIOTIC MADNESS : Arcanites who battle alongside the daemons of their manipulative deity receive maddening glimpses of the twisting strands of fate, allowing them to take advantage of fleeting gaps in their foes’ defences in the press of combat. Effect: Friendly ARCANITE units’ melee weapons have Crit (2 Hits) while they are wholly within 12\" of a friendly DISCIPLES OF TZEENTCH DAEMON unit."
+ },
+ {
+  "faction": "Disciples of Tzeentch",
+  "faction_slug": "disciples-of-tzeentch",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Spellweaver Coven",
+  "text": "Once Per Turn (Army), Your Combat Phase SORCERERS OF WAR : These champions of Tzeentch bring the fires of change directly to their god’s foes, revelling in the infinite fractals of fate that spiral from the madness of a melee. Declare: Pick a friendly DISCIPLES OF TZEENTCH WIZARD that is in combat to be the target. Effect: The target can use a non- SUMMON SPELL ability as if it were your hero phase, but only the caster or enemy units in combat with the caster can be picked to be the targets of that SPELL ability."
+ },
+ {
+  "faction": "Disciples of Tzeentch",
+  "faction_slug": "disciples-of-tzeentch",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Heroic Traits > Champions of Destiny",
+  "text": "HERO only BATTLE PROFILE Name Points SILVER SUMMONER 0 GRAND ILLUSIONIST 0 DEVOLVING AURA 0 Your Movement Phase 1 SILVER SUMMONER : This hero can channel an Argent Shard’s eldritch power to create uncanny simulacra of fallen warriors. Declare: Pick a friendly non- WARFLOCK ARCANITE unit that has been destroyed to be the target. Effect: Set up a replacement unit with half the number of models from the target unit (rounding up) more than 9\" from all enemy units and wholly within 12\" of a friendly Argent Shard that is visible to this unit. Any Hero Phase GRAND ILLUSIONIST : This hero is a supreme mountebank, able to fabricate convincing illusions that allow them to slip away undetected. Effect: If this unit was set up this turn, it can move D3\". That move cannot pass through or end within the combat range of an enemy unit. Any Hero Phase DEVOLVING AURA : Enemies that stray close to this hero are stricken by hideous malformations. Declare: Pick a visible enemy unit within 12\" of this unit to be the target. Effect: Roll a dice. Add 1 to the roll if any damage points were allocated to the target this phase. On a 3+, the target has a maximum control score of 1 until the start of your next turn."
+ },
+ {
+  "faction": "Disciples of Tzeentch",
+  "faction_slug": "disciples-of-tzeentch",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Artefacts of Power > Fated Artefacts",
+  "text": "HERO only BATTLE PROFILE Name Points FATE SLICER 10 CLOAKED IN WYRDFLAME 0 KAIRIC TOME 20 End of Any Turn FATE SLICER : This curving crystal blade can cut a victim’s soul from the tapestry of fate. Effect: Gain 1 fate point if any models were slain by this unit this turn. Passive CLOAKED IN WYRDFLAME : The bearer is engulfed in a wyrdflame blaze so intense that enemies shrink before it. Effect: Subtract 1 from wound rolls for attacks that target this unit. Reaction: You declared a SPELL ability for a DISCIPLES OF TZEENTCH unit wholly within 6\" of this unit KAIRIC TOME : Said to be penned by the Fateweaver himself, this tome is filled with all manner of eldritch secrets. Effect: Add 1 to or subtract 1 from the casting roll for that spell. This unit can use this ability more than once per phase but only once per SPELL ability."
+ },
+ {
+  "faction": "Disciples of Tzeentch",
+  "faction_slug": "disciples-of-tzeentch",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Artefacts of Power > Esoteric Treasures",
+  "text": "HERO only BATTLE PROFILE Name Points MUTATING BLADE 0 ARCANE SIPHON 0 SPELL-CATCHER AMULET 0 Deployment Phase MUTATING BLADE : An iridescent flamberge, an axe with nine edges, a lash ending in an eagle’stalon: the form of the bearer’s weapon constantly shifts, making its strikes impossible to predict. Effect: Pick 1 of this unit’s melee weapons. That weapon’s Attacks characteristic is 2D6 for the rest of the battle. Once Per Turn (Army), Your Hero Phase ARCANE SIPHON : This enigmatic device can drain the animating force from nearby magical emanations and transmute it into a shimmering, rejuvenating tonic. Declare: Pick a visible MANIFESTATION (friendly or enemy) that was not set up this turn and is within 12\" of this unit to be the target. Effect: Roll a dice. On a 3+: The target is banished . Heal (X) this unit, where X is the target’s Health characteristic. Once Per Turn (Army), Your Hero Phase SPELL-CATCHER AMULET : This amulet, in the shape of an unblinking eye, devours the residual energies of arcane manifestations that have been unravelled, re-imagining them in forms more pleasing to the Changer of the Ways. Declare: This unit can use this ability if any enemy MANIFESTATIONS were banished this phase. Effect: This unit can use a SUMMON ability from the manifestation lore you picked during army composition . That SUMMON ability does not count towards the total number of SPELL or BANISH abilities this unit can use this phase."
+ },
+ {
+  "faction": "Disciples of Tzeentch",
+  "faction_slug": "disciples-of-tzeentch",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Artefacts of Power > Fated Artefacts",
+  "text": "HERO only BATTLE PROFILE Name Points TOME OF SCORCHED INSIGHT 20 THE FIVE VERSES OF VOLARIAN 0 THE SEARING EYE 0 Reaction: You declared a non- SUMMON SPELL ability for this unit TOME OF SCORCHED INSIGHT : This book is a double-edged gift: it grants incredible arcane prowess but at a steep price, as the book slowly consumes the bearer’s own knowledge of magic. Effect: Change the casting roll for that spell to a value of 12 that cannot be modified. That spell cannot be unbound and this unit cannot use that SPELL ability again for the rest of the battle. Passive THE FIVE VERSES OF VOLARIAN : Upon reciting these stanzas, the reader is granted the gift of flight. Some acquire a Disc of Tzeentch; others sprout iridescent wings; others still find themselves propelled through the aether by an invisible force. Effect: This unit has a Move characteristic of 14\" and has FLY . Reaction: You declared a SPELL ability for a DISCIPLES OF TZEENTCH unit wholly within 12\" of this unit THE SEARING EYE : This unblinking orb is said to be the eye of a Lord of Change, its purpose as much to spy on potential rivals as to reward minions with foresight of future events. Effect: Spend 1 rage dice . If your opponent’s fury level is lower than yours, they must increase their fury level by 1, to a maximum of 7. Then, roll a dice. If the roll is the same as any of the dice in the casting roll , that spell is miscast . Otherwise, add the roll to the casting roll."
+ },
+ {
+  "faction": "Disciples of Tzeentch",
+  "faction_slug": "disciples-of-tzeentch",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Spell Lore",
+  "text": "BATTLE PROFILE Name Points Lore of Fate 0 Lore of Change 0"
+ },
+ {
+  "faction": "Disciples of Tzeentch",
+  "faction_slug": "disciples-of-tzeentch",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Spell Lore > Lore of Fate",
+  "text": "Your Hero Phase 6 INFERNAL GATEWAY : The sorcerer opens a portal to the Realm of Chaos, pulling enemies to their doom. Declare: Pick a friendly DISCIPLES OF TZEENTCH WIZARD to cast this spell, pick a visible enemy unit within 18\" of them that has not been picked to be the target of this spell this turn to be the target, then make a casting roll of 2D6. Effect: Roll either 5 dice or a number of dice equal to the number of fate points you have. For each 4+, inflict 1 mortal damage on the target. KEYWORDS SPELL, UNLIMITED Your Hero Phase 6 WYRDFLAME HAZE : The caster causes the smoke from arcane blazes to linger on the battlefield, obscuring those lurking within. Declare: Pick a friendly DISCIPLES OF TZEENTCH WIZARD to cast this spell, then make a casting roll of 2D6. Effect: Until the start of your next turn, friendly DISCIPLES OF TEENTCH units are not visible to enemy units more than 12\" from them while those friendly units are wholly within 12\" of a friendly DISCIPLES OF TZEENTCH unit that was set up in the same turn. KEYWORDS SPELL Your Hero Phase 7 SHIELD OF FATE : There is little better protection than to be guided by destiny itself and to be defended by the very hand of fate. Declare: Pick a friendly DISCIPLES OF TZEENTCH WIZARD to cast this spell, pick a visible friendly DISCIPLES OF TZEENTCH unit wholly within 12\" of them to be the target, then make a casting roll of 2D6. Effect: Until the start of your next turn: The target has WARD ( 5+ ) . Subtract 1 from hit rolls for attacks that target that unit. KEYWORDS SPELL"
+ },
+ {
+  "faction": "Disciples of Tzeentch",
+  "faction_slug": "disciples-of-tzeentch",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Spell Lore > Lore of Change",
+  "text": "Your Hero Phase 7 BOLT OF TZEENTCH : This spell manifests as a prismatic beam of raw magic that tears its victims apart in a display of multispectral colour. Declare: Pick a friendly DISCIPLES OF TZEENTCH WIZARD to cast this spell, pick a visible enemy unit within 18\" of them that has not been picked to be the target of this spell this turn to be the target, then make a casting roll of 2D6. Effect: Inflict D3 mortal damage on the target. Subtract 1 from wound rolls for the target’s attacks until the start of your next turn. KEYWORDS SPELL, UNLIMITED Your Hero Phase 6 FOLD REALITY : The sorcerer contorts the very fabric of the cosmos, allowing their minions to slip from hither to thither in an eye-blink. Declare: Pick a DISCIPLES OF TZEENTCH WIZARD to cast this spell, then you can pick a friendly non- MONSTER DISCIPLES OF TZEENTCH unit wholly within 12\" of the caster to be the target. Then, make a casting roll of 2D6. Effect: Set the target up in reserve masked by illusion . Then, you can pick a friendly unit that is masked by illusion and set it up wholly within 12\" of the caster or a friendly Argent Shard and more than 9\" from all enemy units. Designer’s Note: Both parts of the effect are optional; you can carry out either part or both. KEYWORDS SPELL Your Hero Phase 6 TRANSFORMED TO SPAWN : Tzeentch is the Changer of the Ways; to be in the presence of his minions risks being mutated into a Chaos Spawn. Declare: Pick a friendly DISCIPLES OF TZEENTCH WIZARD to cast this spell, pick a visible enemy unit within 18\" of them to be the target, then make a casting roll of 2D6. Effect: Inflict D3 mortal damage on the target."
+ },
+ {
+  "faction": "Disciples of Tzeentch",
+  "faction_slug": "disciples-of-tzeentch",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Spell Lore > Lore of Change",
+  "text": "Effect: Inflict D3 mortal damage on the target. If any models are slain by this ability, you can pick a friendly Chaos Spawn of Tzeentch unit that is masked by illusion and set it up on the battlefield in combat with the target and not in combat with any other enemy units. KEYWORDS SPELL"
+ },
+ {
+  "faction": "Disciples of Tzeentch",
+  "faction_slug": "disciples-of-tzeentch",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Manifestation Lore",
+  "text": "BATTLE PROFILE Name Points Manifestations of Tzeentch 0"
+ },
+ {
+  "faction": "Disciples of Tzeentch",
+  "faction_slug": "disciples-of-tzeentch",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Manifestation Lore > Manifestations of Tzeentch",
+  "text": "Your Hero Phase 6 SUMMON BURNING SIGIL OF TZEENTCH : Brief incantations in the Dark Tongue see these burning symbols of worship spark into reality. Declare: If there is not a friendly Burning Sigil of Tzeentch on the battlefield, pick a friendly DISCIPLES OF TZEENTCH WIZARD to cast this spell, then make a casting roll of 2D6. Effect: Set up a Burning Sigil of Tzeentch wholly within 18\" of the caster and visible to them. KEYWORDS SPELL, SUMMON Your Hero Phase 7 SUMMON DAEMONIC SIMULACRUM : The wizard draws upon their understanding of change-lore to create a temporary portal for this mirage to enter the fray. Declare: If there is not a friendly Daemonic Simulacrum on the battlefield, pick a friendly DISCIPLES OF TZEENTCH WIZARD To cast this spell, then make a casting roll of 2D6. Effect: Set up a Daemonic Simulacrum wholly within 12\" of the caster, visible to them and more than 9\" from all enemy units. KEYWORDS SPELL, SUMMON Your Hero Phase 5 SUMMON TOME OF EYES : With a snap of the conjurer’s fingers, the Tome appears at their side from a spark of blue wyrdflame. Declare: If there is not a friendly Tome of Eyes on the battlefield, pick a friendly DISCIPLES OF TZEENTCH WIZARD to cast this spell, then make a casting roll of 2D6. Effect: Set up a Tome of Eyes wholly within 18\" of the caster, visible to them and more than 9\" from all enemy units. KEYWORDS SPELL, SUMMON"
+ },
+ {
+  "faction": "Disciples of Tzeentch",
+  "faction_slug": "disciples-of-tzeentch",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Visions of Fate",
+  "text": "Visions of Fate are unique enhancements that can be given to NON-HERO NON-BEAST DISCIPLES OF TZEENTCH units. A unit can only have 1 Vision of Fate. BATTLE PROFILE Name Points VISION OF DEFIANT SUPREMACY 10 VISION OF DESTINED CONQUEST 30 VISION OF ARCANE SACRIFICE 20 Once Per Battle, Any Hero Phase 1 VISION OF DEFIANT SUPREMACY : As the tide of battle turns, you and your brethren will find yourselves in the thick of the fighting, but you will have the upper hand. Effect: If you won the priority roll this battle round and chose for your opponent to take the first turn or if your opponent seized the initiative this battle round, this unit has STRIKE-FIRST for the rest of the turn. Once Per Battle, Start of Your Turn VISION OF DESTINED CONQUEST : The winds of fate will blow strong as you and your warriors overrun a site of import deep in enemy lands. Effect: If this unit is contesting an objective that you control that is wholly outside friendly territory: If you are the underdog , gain 1 fate point for each command point you have. If you are not the underdog , roll a dice for each command point you have. For each 3+, gain 1 fate point . Passive VISION OF ARCANE SACRIFICE : All around you, incantations will wither on lips and spells will backfire catastrophically – until the moment of your fated demise. Effect: While units (friendly or enemy) are within 6\" of this unit: Add 1 to unbinding rolls for those units. Spells cast by those units are miscast on an unmodified casting roll of 4 or less. The first time this unit is destroyed, gain D6 fate points . Army of Renown"
+ },
+ {
+  "faction": "Disciples of Tzeentch",
+  "faction_slug": "disciples-of-tzeentch",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Change-Cult Uprising",
+  "text": "When you pick the Disciples of Tzeentch faction for your army, you can choose for it to be a Change-cult Uprising Army of Renown . If you do so, use the faction rules on these pages instead of the Disciples of Tzeentch faction rules. Every unit in your army must be drawn from the units listed in the roster options below. All units in your army gain the CHANGE-CULT keyword. ROSTER OPTIONS Any non- WARFLOCK ARCANITE units You cannot include Regiments of Renown"
+ },
+ {
+  "faction": "Disciples of Tzeentch",
+  "faction_slug": "disciples-of-tzeentch",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Change-Cult Uprising > Battle Traits",
+  "text": "Once Per Battle (Army), Deployment Phase SILVER SIMULACRUM : Like some amorphous organism, an Argent Shard splits in two to double its arcane potency. Effect: If there is a friendly Argent Shard on the battlefield, you can set up 1 additional Argent Shard on the battlefield. It must be set up wholly within friendly territory and more than 3\" from all objectives and other terrain features . Designer’s Note: The original Argent Shard is set up in Step 1 of the deployment phase using the ‘ Deploy Faction Terrain ’ ability. This ability allows you to set up a second such terrain feature and is used in Step 3 of the deployment phase, after armies have been deployed. Once Per Battle (Army), Deployment Phase ILLUSORY INFILTRATION : Cunning glamours conceal the advance of Kairic cultists. Declare: Pick up to 3 friendly non- reinforced CHANGE-CULT Kairic Acolytes units to be the targets. Effect: Remove the targets from the battlefield and set them up again wholly within 3\" of a terrain feature and not in combat . Once Per Turn (Army), Any Hero Phase PUPPET ON A STRING : Whether they know it or not, the enemy hero serves the will of Tzeentch. Declare: Pick an enemy HERO within 24\" of and visible to a friendly CHANGE-CULT HERO to be the target. Effect: For the rest of the turn, each time the target uses a CORE ability, gain 1 fate point . Designer’s Note: You can only gain fate points using this ability and the ‘ Spell-eater Pendant ’ ability. Once Per Turn (Army), Any Hero Phase 1 OVERTAKEN BY EVENTS : Stricken by indecision, the enemy’s leader flails helplessly. Declare: Spend 1 fate point . Then, pick an enemy unit within 24\" of and visible to a friendly CHANGE-CULT HERO to be the target. Effect: The target cannot use commands for the rest of the turn."
+ },
+ {
+  "faction": "Disciples of Tzeentch",
+  "faction_slug": "disciples-of-tzeentch",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Change-Cult Uprising > Battle Traits",
+  "text": "Effect: The target cannot use commands for the rest of the turn. Once Per Turn (Army), End of Any Turn 1 SEEDS OF DISCORD : Cunning lies and misdirections cause infighting amongst the foe. Declare: Spend 1 fate point . Then, pick an enemy model within 24\" of and visible to a friendly CHANGE-CULT HERO to be the target, then pick another enemy unit within the target’s combat range to be the victim. Effect: Pick 1 of the target’s melee weapons. Immediately resolve combat attacks for the target made with that weapon against the victim."
+ },
+ {
+  "faction": "Disciples of Tzeentch",
+  "faction_slug": "disciples-of-tzeentch",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Change-Cult Uprising > Heroic Traits",
+  "text": "HERO only Your Movement Phase 1 CALL OF ANARCHY : As the uprising swells, its architect calls forth more cultists to join the anarchy. Declare: Pick a terrain feature within 18\" of this unit, then pick a friendly non- HERO CHANGE-CULT unit that is masked by illusion or that has been destroyed to be the target. Effect: If you picked a unit that is masked by illusion , set it up wholly within 3\" of that terrain feature and more than 6\" from all enemy units. If you picked a unit that has been destroyed, set up a replacement unit with half the number of models from the target unit (rounding up) wholly within 3\" of that terrain feature and more than 6\" from all enemy units. Designer’s Note: Units can be set up in reserve masked by illusion using the Fatemaster ’s ‘Long in the Planning’ ability."
+ },
+ {
+  "faction": "Disciples of Tzeentch",
+  "faction_slug": "disciples-of-tzeentch",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Change-Cult Uprising > Artefacts of Power",
+  "text": "HERO only Passive SPELL-EATER PENDANT : This amulet devours magic and channels it to empower its bearer. Effect: Each time this unit unbinds a spell or banishes an enemy MANIFESTATION , gain 1 fate point ."
+ },
+ {
+  "faction": "Disciples of Tzeentch",
+  "faction_slug": "disciples-of-tzeentch",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Change-Cult Uprising > Spell Lore",
+  "text": "Your Hero Phase 6 ELDRITCH STRENGTH : The caster imbues their minions with supernatural might. Declare: Pick a friendly CHANGE-CULT WIZARD to cast this spell, pick a visible friendly CHANGE-CULT unit wholly within 12\" of them to be the target, then make a casting roll of 2D6. Effect: Add 1 to wound rolls for the target’s attacks until the start of your next turn. KEYWORDS SPELL, UNLIMITED"
+ },
+ {
+  "faction": "Disciples of Tzeentch",
+  "faction_slug": "disciples-of-tzeentch",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Change-Cult Uprising > Manifestation Lore",
+  "text": "Your Hero Phase 6 SHIFTING MANIFESTATIONS : In the blink of an eye, the caster banishes one manifestation and uses its power to bring forth another. Declare: Pick a friendly CHANGE-CULT WIZARD to cast this spell, pick 1 of the friendly MANIFESTATIONS below that is not on the battlefield, then make a casting roll of 2D6. Burning Sigil of Tzeentch Daemonic Simulacrum Tome of Eyes Effect: If there is already a friendly MANIFESTATION from the list above on the battlefield, it is immediately banished and removed from play. Then, set up the MANIFESTATION you picked within 1\" of the caster and visible to them. KEYWORDS SPELL, SUMMON Army of Renown"
+ },
+ {
+  "faction": "Disciples of Tzeentch",
+  "faction_slug": "disciples-of-tzeentch",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Oracles of Fate",
+  "text": "When you pick the Disciples of Tzeentch faction for your army, you can choose for it to be the Oracles of Fate Army of Renown . If you do so, use the faction rules on these pages instead of the Disciples of Tzeentch faction rules. Every unit in your army must be drawn from the units listed in the roster options below. All units in your army gain the ORACLES OF FATE keyword. ROSTER OPTIONS Kairos Fateweaver Any DISCIPLES OF TZEENTCH DAEMON units You cannot include Regiments of Renown or faction terrain"
+ },
+ {
+  "faction": "Disciples of Tzeentch",
+  "faction_slug": "disciples-of-tzeentch",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Oracles of Fate > Battle Traits",
+  "text": "Deployment Phase MASTERS OF DESTINY : To serve the Changer of the Ways is to instinctively understand the ebb and flow of future events and be able to manipulate their potential to the fullest. Effect: Roll 9 dice and place them to one side. These are your destiny dice . Destiny dice can be spent during the battle to change certain dice rolls. You can never have more than 9 destiny dice at once. During the battle, instead of making a roll from the list below for a friendly ORACLES OF FATE unit, you can spend your destiny dice . The roll you would have made is replaced with the roll on the destiny dice you spend. If you want to replace a 2D6 roll, 3D6 roll, etc. you must spend a number of destiny dice equal to the number before ‘D6’. Any rolls that have been replaced count as unmodified rolls, and they cannot be re-rolled or modified by other friendly abilities except for those that apply negative modifiers (but they can be modified by enemy abilities). You cannot spend destiny dice to replace re-rolls. Destiny dice can be spent in place of the following dice rolls: Casting rolls Unbinding rolls Banishment rolls Run rolls Charge rolls in your turn Hit rolls Wound rolls Save rolls Once Per Battle Round, Start of Your Turn NINEFOLD BLESSINGS : Nine is the sacred number of Tzeentch and presages great victories and glories for his servants. Declare: You can only use this ability if the total value of your unspent destiny dice is exactly 9. Effect: Re-roll all of your unspent destiny dice . Then, until the start of your next turn: Friendly ORACLES OF FATE units have WARD ( 5+ ) . Subtract 1 from save rolls for enemy units. Designer’s Note: Add together the values shown on each unspent destiny dice to find the total value."
+ },
+ {
+  "faction": "Disciples of Tzeentch",
+  "faction_slug": "disciples-of-tzeentch",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Oracles of Fate > Heroic Traits",
+  "text": "HERO only Your Hero Phase NEXUS OF FATE : Tzeentch’s favoured servants manipulate what mortals consider ‘destiny’ as if it were a puppet. Effect: Roll a dice. If you have 9 unspent destiny dice , you must replace 1 of your destiny dice with that roll. Otherwise, place that dice to one side as a destiny dice ."
+ },
+ {
+  "faction": "Disciples of Tzeentch",
+  "faction_slug": "disciples-of-tzeentch",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Oracles of Fate > Artefacts of Power",
+  "text": "HERO only Your Movement Phase CORRUPTED LEYSTONE : This obsidian stone is attuned to sites of arcane power, allowing the bearer to teleport between ley lines. Effect: If this unit is contesting an objective , remove it from the battlefield and set it up again contesting an objective and more than 7\" from all enemy units."
+ },
+ {
+  "faction": "Disciples of Tzeentch",
+  "faction_slug": "disciples-of-tzeentch",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Oracles of Fate > Spell Lore",
+  "text": "Your Hero Phase 7 FATEWEAVER’S GIFT : Kairos can bestow his extraordinary insight into the past and future upon those he considers worthy. Declare: Pick a friendly ORACLES OF FATE WIZARD to cast this spell, then make a casting roll of 2D6. Effect: Pick 1 of the following effects: Change the Past: Pick an enemy unit within 12\" of and visible to the caster, that is in combat and that has not been picked to be the target of this ability this turn to be the target. Roll either 4 dice or a number of dice equal to the number of unspent destiny dice you have. For each 4+, inflict 1 mortal damage on the target. Seize the Present: Until the start of your next turn, add 1 to run rolls and charge rolls for friendly ORACLES OF FATE units while they are wholly within 12\" of the caster. Predict the Future: Roll a dice. You must replace 1 of your destiny dice with that roll. KEYWORDS SPELL, UNLIMITED"
+ },
+ {
+  "faction": "Disciples of Tzeentch",
+  "faction_slug": "disciples-of-tzeentch",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Oracles of Fate > Manifestation Lore",
+  "text": "Your Hero Phase 6 SHIFTING MANIFESTATIONS : In the blink of an eye, the caster banishes one manifestation and uses its power to bring forth another. Declare: Pick a friendly ORACLES OF FATE WIZARD to cast this spell, pick 1 of the friendly MANIFESTATIONS below that is not on the battlefield, then make a casting roll of 2D6. Burning Sigil of Tzeentch Daemonic Simulacrum Tome of Eyes Effect: If there is already a friendly MANIFESTATION from the list above on the battlefield, it is immediately banished . Then, set up the MANIFESTATION you picked within 1\" of the caster and visible to them. KEYWORDS SPELL, SUMMON"
+ },
+ {
+  "faction": "Disciples of Tzeentch",
+  "faction_slug": "disciples-of-tzeentch",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Pyrofane Cult",
+  "text": "When you pick the Disciples of Tzeentch faction for your army, you can choose for it to be a Pyrofane Cult Army of Renown . If you do so, use the faction rules on these pages instead of the Disciples of Tzeentch faction rules. Every unit in your army must be drawn from the units listed in the roster options box opposite. All units in your army gain the PYROFANE keyword. ROSTER OPTIONS Any non- WARFLOCK ARCANITE 0-1 Gaunt Summoner or Gaunt Summoner on Disc of Tzeentch You cannot include Regiments of Renown REGIMENT OPTIONS Any Pyrozealot can join to a regiment led by Gaunt Summoner, Gaunt Summoner on Disc of Tzeentch, Pyrofane Fusil-Major on Ogor Warhulk, Magister, Magister on Disc of Tzeentch"
+ },
+ {
+  "faction": "Disciples of Tzeentch",
+  "faction_slug": "disciples-of-tzeentch",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Pyrofane Cult > Battle Traits",
+  "text": "Passive WYRDFLAME BARRAGE: : Tzeentchian fire consumes stone and metal as voraciously as it does living flesh, swiftly burning foes out of cover. Effect: When picking targets for shooting attacks made by friendly units with weapons that have the Wyrdflame weapon ability, you can also pick terrain features that are visible to and within range of the attacking model to be targets. Non FACTION TERRAIN terrain features are considered to have a Save characteristic of 5+ and infinite Health for the purposes of this ability. If any damage points were allocated to a terrain feature by those attacks, after the SHOOT ability has been resolved, roll a dice. If the result is less than or equal to the number of damage points allocated to that terrain feature in this phase, it has the WYRDPYRE keyword for the rest of the battle. Designer’s Note: As non- FACTION TERRAIN features are treated as having infinite Health for the purposes of this ability, you can remove all damage points allocated to them at the end of the shooting phase. Deployment Phase HIDDEN INSTIGATOR : The arcane agents of the Pyrofane Cult conceal themselves until the moment is right to spark the inferno. Declare: Pick a friendly WIZARD to use this ability if it has not been deployed. Effect: Set up that unit in reserve hidden among cultists . It has now been deployed. Friendly units that are hidden among cultists are not automatically destroyed at the start of the fourth battle round. KEYWORDS DEPLOY Any Hero Phase DECEPTION REVEALED : When the servants of the Arch-Manipulator reveal their schemes, it is already too late for their victims. Declare: Pick a friendly PYROFANE WIZARD that is hidden among cultists to use this ability, then pick a friendly PYROFANE INFANTRY unit with 3 or more models to be the target."
+ },
+ {
+  "faction": "Disciples of Tzeentch",
+  "faction_slug": "disciples-of-tzeentch",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Pyrofane Cult > Battle Traits",
+  "text": "WIZARD that is hidden among cultists to use this ability, then pick a friendly PYROFANE INFANTRY unit with 3 or more models to be the target. Effect: Set up that WIZARD within the combat range of the target. It can be set up in combat . In addition, if that WIZARD uses the ’ Magical Intervention ’ command this phase, no command points are spent to do so. Once Per Turn (Army), End of Any Turn RALLY THE WARCLANS : As spiteful as they are insane, Kairic Acolytes of the Pyrof ane Cult would rather burn than give up an inch of ground. Declare: Pick an objective being contested by any friendly Kairic Acolyte units to be the target. Effect: The target objective has the WYRDPYRE keyword for the rest of the battle. Once Per Battle Round (Army), Start of Battle Round POSSESSED BY THE POWER OF THE WAAAGH! : The pyromaniacs of the Cult would gladly watch Tzeentch's sorcerous flames spread to consume the realms entire. Declare: You must use this ability at the start of the battle round if there are WYRDPYRES on the battlefield. Effect: Resolve the effect below that corresponds to the number of WYRDPYRES on the battlefield: 1-2: Inflict 1 mortal damage on each unit within 3\" of any WYRDPYRES . Add 2\" to the Move characteristic of friendly units that were allocated any of that damage for the rest of the battle round. 3-4: Inflict D3 mortal damage on each unit within 3\" of any WYRDPYRES . Add 1 to wound rolls for combat attacks made by friendly units that were allocated any of that damage for the rest of the battle round. 5-6: Inflict D3 mortal damage on each unit within 6\" of any WYRDPYRES . Add 1 to the Attacks characteristic of melee weapons used by friendly units that were allocated any of that damage for the rest of the battle round."
+ },
+ {
+  "faction": "Disciples of Tzeentch",
+  "faction_slug": "disciples-of-tzeentch",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Pyrofane Cult > Battle Traits",
+  "text": "Add 1 to the Attacks characteristic of melee weapons used by friendly units that were allocated any of that damage for the rest of the battle round. 7-8: Inflict D3 mortal damage on each unit within 6\" of any WYRDPYRES . For friendly units that were allocated any of that damage, for the rest of the battle round: Add 1 to wound rolls for their combat attacks. Add 2\" to their Move characteristic. Add 1 to the Attacks characteristic of their melee weapons. 9+: Inflict D3+3 mortal damage on each unit within 6\" of any WYRDPYRES . Then, pick a non- FACTION TERRAIN terrain feature with the WYRDPYRE keyword to reduce to ash. Each player must remove all models that are on that terrain feature and set them up again within 3\" of it, but not on it, starting with the active player. Those models can be set up in combat . Models that cannot Ge set up in this manner are slain. Then, remove that terrain feature from the battlefield"
+ },
+ {
+  "faction": "Disciples of Tzeentch",
+  "faction_slug": "disciples-of-tzeentch",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Pyrofane Cult > Heroic Traits",
+  "text": "Passive WYRDFLAME AEGIS : Wreathed in a cloak of shifting flame, this champion can stride without care into the heart of the inferno. Effect: You can ignore mortal damage inflicted on this unit by the 'Immolation of the Realms' ability, and if damage would have been inflicted upon it by that ability, the persisting effects from that ability apply to it as though it had been allocated damage by the ability."
+ },
+ {
+  "faction": "Disciples of Tzeentch",
+  "faction_slug": "disciples-of-tzeentch",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Pyrofane Cult > Artefacts of Power",
+  "text": "Once Per Turn, Your Movement Phase PYROFLUX CONDUIT : This pulsing sliver of crimson crystal allows the bearer and a chosen few allies to leap between gouts of flame. Declare: This unit can only use this ability if it is within 3\" of a WYRDPYRE terrain feature . You can pick another friendly PYROFANE unit wholly within 12\" of this unit to be the target. Effect: Remove this unit from the battlefield, then set it up again wholly within 9\" of a WYRDPYRE terrain feature and more than 9\" from all enemy units. Then, if you picked a target, remove the target from the battlefield and set it up again wholly within 9\" of this unit and more than 9\" from all enemy units."
+ },
+ {
+  "faction": "Disciples of Tzeentch",
+  "faction_slug": "disciples-of-tzeentch",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Pyrofane Cult > Spell Lore",
+  "text": "Your Hero Phase 4 FLAMING WEAPON : A sorcerous athame is already a potent weapon, but doubly so when wreathed in angry flames. Declare: Pick a friendly PYROFANE WIZARD to cast this spell, pick a visible friendly PYROFANE HERO wholly within 12\" of them to be the target, then make a casting roll of2D6. Effect: Add 1 to the Damage characteristic of the target’s melee weapons until the start of your next turn. KEYWORDS SPELL, UNLIMITED Your Hero Phase 8 SUMMON CULT LEADER : Misdirection potent weapons of the Pyrofane Cult, ensuring their masters have free rein to control the battlefield. Declare: Pick a friendly PYROFANE WIZARD to cast this spell, pick a friendly WIZARD that has been destroyed to be the target, then make a casting roll of 2D6. Effect: Set up a replacement unit identical to the target in reserve hidden among cultists . KEYWORDS SPELL Your Hero Phase 7 BURNING ANGUISH : A sudden eruption of white-hot, burning agony is enough to dissuade enemy leaders from rallying their troops. Declare: Pick a friendly PYROFANE WIZARD to cast this spell, pick a visible enemy unit within 18\" of them and which had any damage points allocated to it this battle round by the ’Immolation of the Realms’ ability to be the target, then make a casting roll of 2D6. Effect: The target cannot use commands for the rest of the battle round. KEYWORDS SPELL, UNLIMITED"
+ },
+ {
+  "faction": "Disciples of Tzeentch",
+  "faction_slug": "disciples-of-tzeentch",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Pyrofane Cult > Manifestation Lore",
+  "text": "Your Hero Phase 7 SUMMON BURNING SIGIL OF TZEENTCH : Brief incantations in the Dark Tongue see these burning symbols of worship spark into reality. Declare: Pick a friendly PYROFANE WIZARD to cast this spell, then make a casting roll of 2D6. Effect: Set up a Burning Sigil of Tzeentch wholly within 12\" of the caster and visible to them. KEYWORDS SPELL, SUMMON"
+ },
+ {
+  "faction": "Disciples of Tzeentch",
+  "faction_slug": "disciples-of-tzeentch",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Tzaangor Warflock",
+  "text": "Mercurial and violent, the Tzaangor Warflocks surge forth from the twisted wilds of the realms, intent upon drowning the sterile cities of Order in madness, mutation and flame. These are no primitive beastmen; they wield uncanny powers over fate and destiny, and their gilded weapons glow with eldritch energies. Tzaangor Warflocks rule over the sorcery-blasted wastelands that Tzeentch has remade in his image. They roam far and wide to serve the Change God’s will, led by cunning Shamans who intuit strange fluctuations in magic in order to decide where the warflock should strike. Accompanied by a retinue of elite Tzaangor Enlightened, the Shaman plunges into battle with the same ferocity as their kin, their staff unleashing waves of mutagenic sorcery that turn mortals into gibbering mutants. In the skies above, Tzaangor Skyfires wheel and spin atop their Discs of Tzeentch, loosing fated arrows that seek out their targets with unnerving, nigh-impossible accuracy. General Tzaangor Shaman Units 10 Tzaangors 3 Tzaangor Enlightened 3 Tzaangor Skyfires",
+  "spearhead_name": "Tzaangor Warflock"
+ },
+ {
+  "faction": "Disciples of Tzeentch",
+  "faction_slug": "disciples-of-tzeentch",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Tzaangor Warflock > Battle Traits",
+  "text": "Your Tzaangor Enlightened unit is not set up during the deployment phase . Instead, from the second battle round onwards, it can use the Fated Arrival ability. Your Movement Phase FATED ARRIVAL : Followers of Tzeentch ride the waves of fate to ultimate victory. Effect: Set up this unit wholly within friendly territory, within 1\" of a battlefield edge and more than 6\" from all enemy units. Your Hero Phase PREDICT THE FUTURE : Foresighted is forearmed, as the old saying goes. Effect: You can look at up to 3 cards from the top of your battle tactic deck without adding them to your hand. Then, in any order, return each card face down to either the top or the bottom of your battle tactic deck. Reaction: You used a command on a battle tactic card CHEAT DESTINY : Can destiny truly be deceived, or are we pulled by strings we cannot see? Effect: Instead of discarding that card, return it face down to the bottom of your battle tactic deck.",
+  "spearhead_name": "Tzaangor Warflock"
+ },
+ {
+  "faction": "Disciples of Tzeentch",
+  "faction_slug": "disciples-of-tzeentch",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Tzaangor Warflock > Regiment Abilities",
+  "text": "Pick 1 of the following regiment abilities. Passive CONSTANT FLUX : Tzeentch’s plans often involve elements of self-sabotage to achieve the final goal. Effect: Subtract 1 from the Rend characteristic of weapons used for attacks that target friendly units while you are the underdog . Passive ARCANE RITUALISTS : This host specialises in esoterically gruesome sorcerous rituals. Effect: Add 1 to casting rolls for your general while they are wholly within 6\" of another friendly unit.",
+  "spearhead_name": "Tzaangor Warflock"
+ },
+ {
+  "faction": "Disciples of Tzeentch",
+  "faction_slug": "disciples-of-tzeentch",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Tzaangor Warflock > Enhancements",
+  "text": "Give your general 1 of the following enhancements. Once Per Battle, Enemy Movement Phase PREDICTED STRIKE : Few seers are more accomplished when it comes to predicting an enemy’s movements. Declare: Pick a visible friendly unit wholly within 12\" of your general and that is not in combat to be the target. Effect: The target can move D6\". It cannot move through the combat ranges of enemy units or end that move in combat. Your Hero Phase INFERNAL GATEWAY : The sorcerer opens a portal to the Realm of Chaos, pulling enemies to their doom. Declare: Pick a visible enemy unit within 18\" of your general to be the target, then make a casting roll of 2D6. Effect: On a 5+, roll either 3 dice or a number of dice equal to the number of battle tactic cards you have discarded this battle. For each 4+, inflict 1 mortal damage on the target. Your Hero Phase FOLD REALITY : The sorcerer contorts the very fabric of the cosmos, allowing their minions to slip from hither to thither in an eye-blink. Declare: Pick a visible friendly unit wholly within 12\" of your general to be the target, then make a casting roll of 2D6. Effect: On a 6+, remove the target from the battlefield and set it up again wholly within 12\" of your general and more than 6\" from all enemy units. End of Any Turn MUTAGENIC SORCERY : As warriors fall around the Tzaangors, some mutate to become the creature that struck them down. Declare: Pick a visible enemy unit within 12\" of your general to be the enemy target. Then, pick a friendly Tzaangors unit in combat with the enemy target to be the friendly target. Effect: Roll a D3. On a 2+: Inflict an amount of mortal damage on the enemy target equal to the roll. You can return 1 slain model to the friendly target.",
+  "spearhead_name": "Tzaangor Warflock"
+ },
+ {
+  "faction": "Disciples of Tzeentch",
+  "faction_slug": "disciples-of-tzeentch",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Tzaangor Warflock > Warscrolls",
+  "text": "• SPEARHEAD WARSCROLL • Tzaangor Shaman 14\" 6 5+ 2 Tzaangor Shamans are the most powerful of their bestial kind. Born amongst dark omens, they are favoured by the Architect of Fate and granted a daemonic Disc to raise them above their kin. They combine savage strength with instinctive magical prowess, a combination that few can resist. • SPEARHEAD WARSCROLL • Tzaangor Shaman MELEE WEAPONS Atk Hit Wnd Rnd Dmg Staff of Change and Ritual Dagger Staff of Change and Ritual Dagger 3 4+ 3+ 1 D3 Disc’s Teeth and Horns [ Companion ] Disc’s Teeth and Horns Companion 2 4+ 3+ 1 D3 Your Hero Phase MUTATIVE AURA : Those who strike a Tzaangor Shaman are oft reduced to bubbling pools of twisted flesh. Declare: Pick a visible enemy unit within 18\" of this unit to be the target, then make a casting roll of 2D6. Effect: On a 7+, until the start of your next turn, each time an unmodified hit roll for a combat attack made by the target is 1, inflict 1 mortal damage on the target after the FIGHT ability has been resolved. KEYWORDS HERO , WIZARD , CAVALRY , FLY • SPEARHEAD WARSCROLL • Tzaangor Enlightened 14\" 4 4+ 1 Tzaangor Enlightened are arrogant creatures, for they can see the lessons of the past as easily as mortals see daylight. They gleefully exploit their prey’s weaknesses in battle, unnerving them with an uncanny understanding of their strategies before moving in to capitalise with a killing blow.",
+  "spearhead_name": "Tzaangor Warflock"
+ },
+ {
+  "faction": "Disciples of Tzeentch",
+  "faction_slug": "disciples-of-tzeentch",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Tzaangor Warflock > Warscrolls",
+  "text": "prey’s weaknesses in battle, unnerving them with an uncanny understanding of their strategies before moving in to capitalise with a killing blow. • SPEARHEAD WARSCROLL • Tzaangor Enlightened MELEE WEAPONS Atk Hit Wnd Rnd Dmg Tzeentchian Spear and Vicious Beak Tzeentchian Spear and Vicious Beak 3 4+ 3+ 1 2 Disc’s Teeth and Horns [ Companion ] Disc’s Teeth and Horns Companion 2 4+ 3+ 1 D3 Passive DELIVER ON FATE : When on the back foot, the Enlightened use the knowledge they have of their enemy’s past battles to predict their movements, taking great satisfaction in running their destined prey to ground. Effect: Add 1 to charge rolls for this unit while you are the underdog . KEYWORDS CAVALRY , FLY • SPEARHEAD WARSCROLL • Tzaangor Skyfires 14\" 4 4+ 1 Tzaangor Skyfires soar across the battlefield, raining death upon the foe. Able to catch glimpses of the future, the Skyfires send their Arrows of Fate on baffling trajectories, striking their target’s most vulnerable weak spots with confounding accuracy. • SPEARHEAD WARSCROLL • Tzaangor Skyfires RANGED WEAPONS Rng Atk Hit Wnd Rnd Dmg Arrow of Fate Arrow of Fate 18\" 2 4+ 3+ 1 2 MELEE WEAPONS Atk Hit Wnd Rnd Dmg Bow Stave and Vicious Beak Bow Stave and Vicious Beak 1 4+ 3+ - 1 Disc’s Teeth and Horns [ Companion ] Disc’s Teeth and Horns Companion 2 4+ 3+ 1 D3 Your Shooting Phase DESTINED QUARRY : Skyfires often select a target to utterly obliterate and erase from the tapestry of fate. Declare: Pick an enemy unit that had any damage points allocated to it this phase by this unit’s shooting attacks to be the target. Effect: Add 1 to hit rolls for combat attacks made by friendly units that target that enemy unit for the rest of the turn.",
+  "spearhead_name": "Tzaangor Warflock"
+ },
+ {
+  "faction": "Disciples of Tzeentch",
+  "faction_slug": "disciples-of-tzeentch",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Tzaangor Warflock > Warscrolls",
+  "text": "Effect: Add 1 to hit rolls for combat attacks made by friendly units that target that enemy unit for the rest of the turn. KEYWORDS CAVALRY , FLY • SPEARHEAD WARSCROLL • Tzaangors 6\" 2 5+ 1 Tzaangors are savage, avian beastmen dedicated to Tzeentch and gifted with his dark blessings. Eager to impress their duplicitous god, the Tzaangors fight with lunatic energies, hoping to earn further gifts of change. • SPEARHEAD WARSCROLL • Tzaangors MELEE WEAPONS Atk Hit Wnd Rnd Dmg Savage Blade and Vicious Beak Savage Blade and Vicious Beak 2 4+ 3+ 1 1 Passive ELDRITCH RAIDERS : Tzaangors plunge into enemy lands, desperately seeking the arcane trinkets and treasures they crave – as well as victims to be transformed in their own bird-like image. Effect: Add 1 to wound rolls for this unit’s attacks while it is wholly within enemy territory. KEYWORDS INFANTRY",
+  "spearhead_name": "Tzaangor Warflock"
+ },
+ {
+  "faction": "Disciples of Tzeentch",
+  "faction_slug": "disciples-of-tzeentch",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Fluxblade Coven",
+  "text": "A Fluxblade Coven is a weapon of anarchy and subversion, a dagger thrust into the spine of those who languish in sterile stasis, fearing the inevitability of change. These hidden cells propagate for years, sometimes centuries under the cruel tutorship of a Magister of Tzeentch, awaiting the anointed hour when they will rise up and drown the enemies of disorder in liquid warpflame. Come that time, the Magister will unleash the full measure of their sorcerous gifts. Stood atop a daemonic Disc of Tzeentch, they soar across the skies, hurling bolts of magic and calling upon their uncanny gifts of precognition to ensure victory in the name of the Change God. The Magister’s infernal charges add to the mayhem: Flamers of Tzeentch spew torrents of fleshmutating fire to corral the foe, while Screamers dart and swoop from on high, tearing strips out of their prey with their razor-sharp teeth. With the battlefield ablaze, the Tzaangors and Kairic Acolytes of a Fluxblade Coven run rampant, hoping to earn the favour of their duplicitous deity by ritually slaughtering those who would dare defy his will. This Spearhead army consists of the following units: General Magister on Disc of Tzeentch Units 3 Flamers of Tzeentch 3 Screamers of Tzeentch 5 Tzaangors 5 Tzaangors 10 Kairic Acolytes",
+  "spearhead_name": "Fluxblade Coven"
+ },
+ {
+  "faction": "Disciples of Tzeentch",
+  "faction_slug": "disciples-of-tzeentch",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Fluxblade Coven > Battle Traits",
+  "text": "Once per Battle, Start of the First Battle Round MASTERS OF DESTINY : To serve the Changer of the Ways is to instinctively understand the ebb and flow of future events and manipulate them at will. Effect: Roll 9 dice and put them to one side. These are your destiny dice . During the battle, instead of rolling the dice for 1 of the rolls from the list below, you can pick one of your destiny dice and use it as the roll. Once a destiny dice has been used, it is discarded. If you want to replace a roll that uses more than one D6, you must use the same number of destiny dice (e.g. you would need to use 2 destiny dice in place of a 2D6 casting roll). Rolls that are replaced count as unmodified rolls and cannot be re-rolled or modified unless noted. The following rolls can be replaced with destiny dice: Casting rolls Run rolls Charge rolls Hit rolls Wound rolls Save rolls – you must still modify the roll by the Rend characteristic of the attacking weapon.",
+  "spearhead_name": "Fluxblade Coven"
+ },
+ {
+  "faction": "Disciples of Tzeentch",
+  "faction_slug": "disciples-of-tzeentch",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Fluxblade Coven > Regiment Abilities",
+  "text": "Pick 1 of the following regiment abilities. Passive TRANSIENT FORMS : Some Kairic Acolytes actively seek transformation into Tzaangors, whom they revere as beings closer in nature to their mercurial deity. Effect: Roll a dice each time a friendly Kairic Acolytes model is slain in the combat phase. On a 4+, you can return 1 slain model to a friendly Tzaangors unit within 9\" of the slain model. Passive ETERNAL CONFLAGRATION : Some cults of Tzeentch seek to set the very cosmos aflame with the ever-burning fires of change. Effect: Add 1 to the Rend characteristic of ranged weapons used by friendly Flamers of Tzeentch units.",
+  "spearhead_name": "Fluxblade Coven"
+ },
+ {
+  "faction": "Disciples of Tzeentch",
+  "faction_slug": "disciples-of-tzeentch",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Fluxblade Coven > Enhancements",
+  "text": "Give your general 1 of the following enhancements. Your Hero Phase SHIELD OF FATE : There is little better protection than to be guided by destiny itself. Declare: Pick a visible friendly unit wholly within 18\" of your general , then make a casting roll of 2D6. Effect: On a 6+, until the start of your next turn, that unit has WARD ( 6+ ) . If that unit already has a ward save, add 1 to ward rolls for that unit until the start of your next turn instead. Your Hero Phase GLIMPSE THE FUTURE : By focusing on the skeins of potential fates, the sorcerer can glean hints of future events in time to manipulate them. Declare: If you have fewer than 6 destiny dice , make a casting roll of 2D6. Effect: On a 7+, you can roll a dice and add it to your destiny dice . Once Per Battle, Any Combat Phase DAEMONHEART : Through a dark ritual, the heart of a daemon dwells within your general’s chest, where its dread power can be unleashed to greatly augment the strength of its host. Declare: Pick an enemy unit within 1\" of your general . Effect: Inflict an amount of mortal damage on that unit equal to the number of the current battle round. Once Per Battle, Any Combat Phase TIMESLIP PENDANT : Time is a mutable concept to the bearer of this amulet. Declare: Pick an enemy unit within 9\" of your general . Effect: That unit has STRIKE-LAST this phase.",
+  "spearhead_name": "Fluxblade Coven"
+ },
+ {
+  "faction": "Disciples of Tzeentch",
+  "faction_slug": "disciples-of-tzeentch",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Fluxblade Coven > Warscrolls",
+  "text": "• SPEARHEAD WARSCROLL • Magister on Disc of Tzeentch 14\" 6 4+ 2 Magisters are amongst the most powerful of Tzeentch’s mortal agents, corrupted in body and soul by the mind-shattering secrets they bear witness to. It is they who command the Arcanite cults, weaving webs of intrigue in the name of the Change God. Filled with eldritch energies as they ride their Discs of Tzeentch, they can wield fantastical fires to scorch the foe or turn men into bestial Tzaangor allies ready to fight for Chaos. • SPEARHEAD WARSCROLL • Magister on Disc of Tzeentch RANGED WEAPONS Rng Atk Hit Wnd Rnd Dmg Tzeentchian Runestaff Tzeentchian Runestaff 18\" 1 3+ 4+ - D3 MELEE WEAPONS Atk Hit Wnd Rnd Dmg Warpsteel Sword Warpsteel Sword 3 3+ 4+ - D3 Disc’s Teeth and Horns [ Companion ] Disc’s Teeth and Horns Companion 2 4+ 3+ 1 D3 Your Hero Phase BOLT OF CHANGE : The Magister hurls a coruscating bolt of energy at the foe, causing their flesh to run like wax and remould into a form more pleasing to Tzeentch. Declare: Pick a visible enemy unit within 18\" of this unit to be the target, then make a casting roll of 2D6. Effect: On a 6+, inflict D3 mortal damage on the target. If any models are slain by this ability, you can pick a friendly Tzaangors unit wholly within 18\" of this unit and return 1 slain model to that Tzaangors unit. KEYWORDS HERO , WIZARD , CAVALRY , FLY • SPEARHEAD WARSCROLL • Screamers of Tzeentch 14\" 3 5+ 1 6+ Speeding daemon-beasts that leave shimmering trails of change-magic in the air, Screamers streak across the skies with wailing cries. They slash any foes they pass with razor-sharp horns and fins before darting down to savage their chosen quarry.",
+  "spearhead_name": "Fluxblade Coven"
+ },
+ {
+  "faction": "Disciples of Tzeentch",
+  "faction_slug": "disciples-of-tzeentch",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Fluxblade Coven > Warscrolls",
+  "text": "They slash any foes they pass with razor-sharp horns and fins before darting down to savage their chosen quarry. • SPEARHEAD WARSCROLL • Screamers of Tzeentch MELEE WEAPONS Atk Hit Wnd Rnd Dmg Lamprey Bite Lamprey Bite 3 4+ 3+ 1 1 Your Movement Phase SLASHING FINS : Screamers swoop from discoloured skies to slash at their foes, performing fly-by attacks and effortless manoeuvres. Declare: Pick an enemy unit that any models in this unit passed across this phase to be the target, then roll a dice for each model in this unit that did so. Effect: For each 4+, inflict 1 mortal damage on the target. KEYWORDS BEAST , FLY , WARD ( 6+ ) • SPEARHEAD WARSCROLL • Flamers of Tzeentch 9\" 2 5+ 1 6+ Flamers of Tzeentch are bizarre entities created solely to spread the Change God’s fires across reality and beyond. Bounding forward on hot gusts of discoloured aether, they spew streams of sorcerous flame from their limbs and multiple gnashing mouths. The more tightly packed the ranks of the foe, the more damage such a barrage will do. • SPEARHEAD WARSCROLL • Flamers of Tzeentch RANGED WEAPONS Rng Atk Hit Wnd Rnd Dmg Wyrdflame Wyrdflame 12 3 3+ 4+ - D3 MELEE WEAPONS Atk Hit Wnd Rnd Dmg Flaming Maws Flaming Maws 3 3+ 4+ - 1 Passive CAPRICIOUS WYRDFLAME : The lurid fires of change spread as though they were possessed of a malign, mischievous sentience. Effect: Add 1 to hit rolls for attacks made by this unit if the target unit has 5 or more models. KEYWORDS INFANTRY , FLY , WARD ( 6+ ) • SPEARHEAD WARSCROLL • Kairic Acolytes 5\" 1 5+ 1 Kairic Acolytes are the chosen human cultists of Tzeentch.",
+  "spearhead_name": "Fluxblade Coven"
+ },
+ {
+  "faction": "Disciples of Tzeentch",
+  "faction_slug": "disciples-of-tzeentch",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Fluxblade Coven > Warscrolls",
+  "text": "KEYWORDS INFANTRY , FLY , WARD ( 6+ ) • SPEARHEAD WARSCROLL • Kairic Acolytes 5\" 1 5+ 1 Kairic Acolytes are the chosen human cultists of Tzeentch. They wear masks and weave illusions to conceal their identities, for they have infiltrated cities and war-camps across the Mortal Realms, awaiting the hour when Change God calls upon them to rise up in open insurrection. Harnessing their collective magical might, Acolytes unleash it in the form of searing bolts that burn through armour with ease. Enemies that do not fall before this arcane fusillade must face their curved blades, which they wield with a strength and skill granted them not by toil and experience but by forfeiting their soul to the Architect of Fate. • SPEARHEAD WARSCROLL • Kairic Acolytes RANGED WEAPONS Rng Atk Hit Wnd Rnd Dmg Sorcerous Bolts Sorcerous Bolts 18\" 1 4+ 3+ - 1 MELEE WEAPONS Atk Hit Wnd Rnd Dmg Cursed Blade Cursed Blade 2 4+ 4+ - 1 Your Shooting Phase GESTALT SORCERY : Through combined worship, a cult of Acolytes can swell their arcane power to new levels of ferocity. Declare: Make a casting roll of 2D6. Effect: On a 6+, add 1 to the Rend characteristic of this unit’s Sorcerous Bolts this phase. KEYWORDS INFANTRY , REINFORCEMENTS • SPEARHEAD WARSCROLL • Tzaangors 6\" 2 5+ 1 Tzaangors are savage, avian beastmen dedicated to Tzeentch and gifted with his dark blessings. Eager to impress their duplicitous god, the Tzaangors fight with lunatic energies, hoping to earn further gifts of change. • SPEARHEAD WARSCROLL • Tzaangors MELEE WEAPONS Atk Hit Wnd Rnd Dmg Savage Blade and Vicious Beak Savage Blade and Vicious Beak 2 4+ 3+ - 1 Passive LONG-PLANNED STRIKE : Tzaangors are fearsome agents of change on the attack, pushing their longplanned assault into enemy territory with impressive skill and strength.",
+  "spearhead_name": "Fluxblade Coven"
+ },
+ {
+  "faction": "Disciples of Tzeentch",
+  "faction_slug": "disciples-of-tzeentch",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Fluxblade Coven > Warscrolls",
+  "text": ": Tzaangors are fearsome agents of change on the attack, pushing their longplanned assault into enemy territory with impressive skill and strength. Effect: While this unit is wholly within enemy territory, its melee weapons have Crit (2 Hits) . KEYWORDS INFANTRY , REINFORCEMENTS noindex /noindex noindex",
+  "spearhead_name": "Fluxblade Coven"
+ }
+]

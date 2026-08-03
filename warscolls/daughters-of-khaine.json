@@ -1,0 +1,2969 @@
+[
+ {
+  "id": "Bloodwrack-Medusa",
+  "name": "Bloodwrack Medusa",
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "grand_alliance": "Order",
+  "move": "8\"",
+  "health": "6",
+  "save": "5+",
+  "control": "2",
+  "ward": "6+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Bloodwrack Spear and Whisperclaw",
+    "range": "",
+    "attacks": "5",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Crit (Mortal)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "EXSANGUINATING GLARE ",
+    "timing": "Once Per Turn (Army), Your Shooting Phase",
+    "declare": "If this unit is in combat , pick an enemy unit in combat with it to be the target. If this unit is not in combat, pick a visible enemy unit within 12\" of it to be the target.",
+    "effect": "Roll a D3. On a 2+, inflict an amount of mortal damage on the target equal to the roll. Then, if any enemy models were slain by that mortal damage, inflict an amount of mortal damage on the target equal to its Health characteristic."
+   },
+   {
+    "name": "ARCANE RESONANCE ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Add 1 to casting rolls for this unit when it uses a SUMMON ability and add 1 to banishment rolls for this unit."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "WIZARD ( 1 )",
+   "INFANTRY",
+   "WARD ( 6+ )",
+   "ORDER",
+   "DAUGHTERS OF KHAINE"
+  ],
+  "unit_size": 1,
+  "points": 140,
+  "base_size": "40mm",
+  "can_be_reinforced": false,
+  "regiment_options": "Any non- AELF"
+ },
+ {
+  "id": "Hag-Queen",
+  "name": "Hag Queen",
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "5",
+  "save": "5+",
+  "control": "2",
+  "ward": "6+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Blade of Khaine",
+    "range": "",
+    "attacks": "5",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "CATECHISMS OF VIOLENCE ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "",
+    "effect": "For the rest of the turn, each time a visible friendly DAUGHTERS OF KHAINE unit wholly within 12\" of this unit uses a FIGHT ability , after that ability has been resolved, you can pick a visible friendly DAUGHTERS OF KHAINE PRIEST wholly within 12\" of this unit. That PRIEST gains 1 ritual point ."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "PRIEST ( 1 )",
+   "INFANTRY",
+   "WARD ( 6+ )",
+   "ORDER",
+   "DAUGHTERS OF KHAINE",
+   "AELF"
+  ],
+  "unit_size": 1,
+  "points": 110,
+  "base_size": "25mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Coven Matriarch , Any AELF"
+ },
+ {
+  "id": "High-Gladiatrix",
+  "name": "High Gladiatrix",
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "5",
+  "save": "5+",
+  "control": "2",
+  "ward": "6+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Barbed Whip and Gladiatrix’s Blade",
+    "range": "",
+    "attacks": "6",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "PARAGON OF SLAUGHTER ",
+    "timing": "Once Per Turn (Army), Your Hero Phase",
+    "declare": "Pick a visible friendly DAUGHTERS OF KHAINE INFANTRY unit wholly within 12\" of this unit to be the target.",
+    "effect": "If this unit is in combat , add 1 to the Rend characteristic of the target’s melee weapons for the rest of the turn. If this unit is not in combat, roll a dice. On a 3+, add 1 to the Rend characteristic of the target’s melee weapons for the rest of the turn."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "INFANTRY",
+   "WARD ( 6+ )",
+   "ORDER",
+   "DAUGHTERS OF KHAINE",
+   "AELF"
+  ],
+  "unit_size": 1,
+  "points": 120,
+  "base_size": "32mm",
+  "can_be_reinforced": false,
+  "regiment_options": "Any AELF Notes: This HERO can join an eligible regiment as a Coven Matriarch ."
+ },
+ {
+  "id": "Krethusa-the-Croneseer",
+  "name": "Krethusa the Croneseer",
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "grand_alliance": "Order",
+  "move": "12\"",
+  "health": "6",
+  "save": "5+",
+  "control": "2",
+  "ward": "5+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Staff of Morai-Heg",
+    "range": "",
+    "attacks": "4",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "THE CRONESEER ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Each time you perform a blood rite , immediately after the ability that destroyed a unit has been resolved, give this unit 1 prophecy token . While this unit has 2 or more prophecy tokens , this unit cannot be picked to be the target of shooting attacks or SPELL abilities used by enemy units. While this unit has 3 or more prophecy tokens , you can re-roll unmodified chanting rolls of 1 for this unit. While this unit has 4 or more prophecy tokens , if the unmodified hit roll for an attack that targets this unit is 1-4, the attack fails and the attack sequence ends."
+   },
+   {
+    "name": "OMENS OF DOOM ",
+    "timing": "Your Hero Phase",
+    "declare": "Make a chanting roll of D6.",
+    "effect": "Pick 1 of the following effects. If the chanting roll was 10+, pick up to 2 different effects instead. Prophecy of Exile: Pick a visible enemy WIZARD or PRIEST within 18\" of this unit. Subtract 1 from that unit’s power level until the start of your next turn. Prophecy of Dark Wings: Pick a visible friendly DAUGHTERS OF KHAINE INFANTRY unit wholly within 12\" of this unit. That unit can immediately use the ‘ Normal Move ’ ability as if it were your movement phase and counts as having used a RUN ability this turn. Prophecy of Futile Endeavours: Pick a visible enemy unit within 12\" of this unit. Until the start of your next turn, that unit’s attacks cannot score critical hits (treat them as regular hits instead)."
+   }
+  ],
+  "keywords": [
+   "UNIQUE",
+   "HERO",
+   "PRIEST ( 2 )",
+   "INFANTRY",
+   "FLY",
+   "WARD ( 5+ )",
+   "ORDER",
+   "DAUGHTERS OF KHAINE",
+   "AELF"
+  ],
+  "unit_size": 1,
+  "points": 220,
+  "base_size": "60mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Coven Matriarch , Any AELF"
+ },
+ {
+  "id": "Melusai-Ironscale",
+  "name": "Melusai Ironscale",
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "grand_alliance": "Order",
+  "move": "8\"",
+  "health": "6",
+  "save": "5+",
+  "control": "2",
+  "ward": "6+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Keldrisaíth",
+    "range": "",
+    "attacks": "6",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Crit (Mortal)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "IRONSCALE’S FURY ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "Pick each friendly DAUGHTERS OF KHAINE unit within this unit’s combat range to be the targets.",
+    "effect": "For the rest of the phase, each time a model in a target unit is slain by a combat attack, roll a dice. If that unit is a Blood Sisters or Blood Stalkers unit, roll 2 dice instead. For each 5+, inflict 1 mortal damage on the attacking unit."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "INFANTRY",
+   "WARD ( 6+ )",
+   "ORDER",
+   "DAUGHTERS OF KHAINE"
+  ],
+  "unit_size": 1,
+  "points": 110,
+  "base_size": "40mm",
+  "can_be_reinforced": false,
+  "regiment_options": "Any non- AELF Notes: This HERO can join an eligible regiment as a Coven Matriarch ."
+ },
+ {
+  "id": "Morathi-Khaine",
+  "name": "Morathi-Khaine",
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "6",
+  "save": "5+",
+  "control": "2",
+  "ward": "4+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Heartrender and Bladed Wings",
+    "range": "",
+    "attacks": "5",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "2",
+    "damage": "2",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "THE IRON HEART OF KHAINE ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Each time you perform a blood rite, immediately after the ability that destroyed a unit has been resolved, pick 1 of the following effects: Until the start of your next turn, this unit is only visible to enemy units while those units are within its combat range . Heal (D6) this unit or a friendly Shadow Queen . A friendly Shadow Queen can immediately use the ‘ Normal Move ’ or ‘ Retreat ’ ability as if it was your movement phase even if it has already used that ability or another CORE ability this phase. Designer’s Note: If the Shadow Queen retreats with the ‘Iron Heart of Khaine’ ability, she cannot subsequently use the ‘ Fight ’ ability in the same combat phase. Remove this unit from the battlefield and set it up again on the battlefield more than 9\" from all enemy units. For the rest of the turn, set this unit’s Control characteristic to 5 and a friendly Shadow Queen ’s Control characteristic to 15."
+   },
+   {
+    "name": "DIVINE MATRIARCH ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick a visible friendly DAUGHTERS OF KHAINE PRIEST or WIZARD wholly within 12\" of this unit to be the target.",
+    "effect": "Add 1 to casting rolls and chanting rolls for the target until the start of your next turn."
+   },
+   {
+    "name": "SURGE OF HATRED ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick either a friendly Shadow Queen wholly within 12\" of this unit and in combat or a visible friendly non- HERO DAUGHTERS OF KHAINE unit wholly within 12\" of this unit and in combat to be the target, then make a casting roll of 2D6.",
+    "effect": "If the target is a friendly Shadow Queen , it can immediately use a FIGHT ability as if it were your combat phase. Otherwise, inflict D3 mortal damage on each enemy unit in combat with the target."
+   }
+  ],
+  "keywords": [
+   "WARMASTER",
+   "UNIQUE",
+   "HERO",
+   "WIZARD ( 3 )",
+   "INFANTRY",
+   "WARD ( 4+ )",
+   "ORDER",
+   "DAUGHTERS OF KHAINE",
+   "AELF"
+  ],
+  "unit_size": 1,
+  "points": 750,
+  "base_size": "40mm",
+  "can_be_reinforced": false,
+  "regiment_options": "The Shadow Queen (required), 0-1 Coven Matriarch , Any DAUGHTERS OF KHAINE"
+ },
+ {
+  "id": "Slaughter-Queen",
+  "name": "Slaughter Queen",
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "5",
+  "save": "5+",
+  "control": "2",
+  "ward": "6+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Deathsword and Blade of Khaine",
+    "range": "",
+    "attacks": "6",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "FANATICAL BLADEMASTER ",
+    "timing": "Once Per Turn (Army), Your Hero Phase",
+    "declare": "Pick a visible friendly DAUGHTERS OF KHAINE unit wholly within 12\" of this unit to be the target.",
+    "effect": "Roll a dice. On a 3+, pick a blessing from the ‘ Blessings of Khaine ’ ability that is not active. The effect of that blessing applies to the target until the start of your next turn as if it were active. If you have used the ‘Blessings of Khaine’ ability 3 or more times this battle, you can pick 2 blessings instead of 1."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "PRIEST ( 1 )",
+   "INFANTRY",
+   "WARD ( 6+ )",
+   "ORDER",
+   "DAUGHTERS OF KHAINE",
+   "AELF"
+  ],
+  "unit_size": 1,
+  "points": 130,
+  "base_size": "25mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Coven Matriarch , Any AELF"
+ },
+ {
+  "id": "Scourge-of-Aqshy-Melusai-Ironscale",
+  "name": "Scourge of Aqshy Melusai Ironscale",
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "grand_alliance": "Order",
+  "move": "8\"",
+  "health": "6",
+  "save": "5+",
+  "control": "2",
+  "ward": "6+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Keldrisaíth",
+    "range": "",
+    "attacks": "6",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Crit (Mortal)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "FRENZIED SLAUGHTER ",
+    "timing": "Once Per Turn (Army), Your Hero Phase",
+    "declare": "Pick a visible friendly DAUGHTERS OF KHAINE unit wholly within 12\" of this unit to be the target.",
+    "effect": "Roll a dice. If this unit is in combat , you can re-roll the dice. If the roll is lower than your fury level , add 1 to the Attacks characteristic of weapons used by this unit and the target until the start of your next turn."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "INFANTRY",
+   "WARD ( 6+ )",
+   "ORDER",
+   "DAUGHTERS OF KHAINE"
+  ],
+  "unit_size": 1,
+  "points": 140,
+  "base_size": "40mm",
+  "can_be_reinforced": false,
+  "regiment_options": "Any DAUGHTERS OF KHAINE Notes: This unit is legal for Matched Play for battles fought using the General’s Handbook 2026-27 battlepack."
+ },
+ {
+  "id": "Maleneth-Witchblade",
+  "name": "Maleneth Witchblade",
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "5",
+  "save": "5+",
+  "control": "2",
+  "ward": "6+",
+  "ranged_weapons": [
+   {
+    "name": "Poisoned Throwing Knives",
+    "range": "10\"",
+    "attacks": "3",
+    "hit": "2+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": [
+     "Crit (Auto-wound) , Shoot in Combat"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Deadly Blades",
+    "range": "",
+    "attacks": "6",
+    "hit": "2+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Anti- HERO (+1 Rend)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "VIAL OF SECRETS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "If the unmodified hit roll for an attack that targets this unit is 1-4, the attack fails and the attack sequence ends."
+   },
+   {
+    "name": "HIDDEN AGENT ",
+    "timing": "Deployment Phase",
+    "declare": "",
+    "effect": "If this unit has not been deployed, set up this unit in reserve in hiding . It has now been deployed."
+   },
+   {
+    "name": "STRIKE FROM THE SHADOWS ",
+    "timing": "Any Combat Phase",
+    "declare": "Pick this unit if it is in hiding . Then, pick a friendly INFANTRY unit that has 5 or more models to be the target.",
+    "effect": "Roll a dice. On a 3+, set up this unit anywhere on the battlefield wholly within 6\" of the target. If you do so, this unit must be set up in combat and has STRIKE-FIRST for the rest of the turn. On a failed roll, this unit remains in hiding but you automatically pass the roll the next time you use this ability."
+   }
+  ],
+  "keywords": [
+   "UNIQUE",
+   "HERO",
+   "INFANTRY",
+   "WARD ( 6+ )",
+   "ORDER",
+   "DAUGHTERS OF KHAINE",
+   "AELF"
+  ],
+  "unit_size": 1,
+  "points": 170,
+  "base_size": "32mm",
+  "can_be_reinforced": false,
+  "regiment_options": "Any DAUGHTERS OF KHAINE AELF"
+ },
+ {
+  "id": "The-Shadow-Queen",
+  "name": "The Shadow Queen",
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "grand_alliance": "Order",
+  "move": "12\"",
+  "health": "15",
+  "save": "4+",
+  "control": "10",
+  "ward": "6+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Heartrender",
+    "range": "",
+    "attacks": "8",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "2",
+    "damage": "3",
+    "abilities": [
+     "Crit (Mortal)"
+    ]
+   },
+   {
+    "name": "Envenomed Tail",
+    "range": "",
+    "attacks": "1",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "2",
+    "damage": "6",
+    "abilities": [
+     "Crit (Mortal)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "BATTLE DAMAGED",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit has 10 or more damage points, the Attacks characteristic of its Heartrender is 5."
+   },
+   {
+    "name": "TWO BODIES, ONE SOUL ",
+    "timing": "Once Per Battle (Army), Your Hero Phase",
+    "declare": "This unit can use this ability even if it has been destroyed. If you have used the Blessings of Khaine ability 3 or more times this battle, pick a friendly Morathi-Khaine or Shadow Queen that has been destroyed to be the target.",
+    "effect": "Set up a replacement unit identical to the target within 3\" of a friendly Morathi-Khaine or Shadow Queen ."
+   },
+   {
+    "name": "COILS OF THE SHADOW QUEEN ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "If any enemy units are constricted , they are no longer constricted . Pick an enemy HERO or MONSTER in combat with this unit to be the target.",
+    "effect": "Roll a dice. On a 3+, until the start of your next turn, the target is constricted while it is in combat with this unit. This unit’s combat attacks that target a constricted enemy unit score critical hits on unmodified hit rolls of 5+."
+   },
+   {
+    "name": "CROWN OF SERPENTS ",
+    "timing": "Any Combat Phase",
+    "declare": "Pick an enemy unit in combat with this unit to be the target.",
+    "effect": "Roll 5 dice. Add 2 to each roll if the target is constricted . For each 5+, pick 1 of the following effects. You cannot pick the same effect more than once per turn. Subtract 1 from hit rolls for the target’s combat attacks for the rest of the turn. Subtract 1 from wound rolls for the target’s combat attacks for the rest of the turn. Random characteristic rolls for the Damage characteristic of the target’s melee weapons are treated as unmodified rolls of 1 for the rest of the turn. Inflict D3 mortal damage on the target. The target cannot be healed or have slain models returned to it for the rest of the turn."
+   }
+  ],
+  "keywords": [
+   "UNIQUE",
+   "HERO",
+   "MONSTER",
+   "FLY",
+   "WARD ( 6+ )",
+   "ORDER",
+   "DAUGHTERS OF KHAINE"
+  ],
+  "unit_size": 1,
+  "points": 0,
+  "base_size": "100mm",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Bloodwrack-Shrine",
+  "name": "Bloodwrack Shrine",
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "12",
+  "save": "4+",
+  "control": "5",
+  "ward": "6+",
+  "ranged_weapons": [
+   {
+    "name": "Bloodwrack Stare",
+    "range": "15\"",
+    "attacks": "4",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "2",
+    "damage": "3",
+    "abilities": [
+     "Crit (2 Hits) , Shoot in Combat"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Shrine Guardians’ Blades",
+    "range": "",
+    "attacks": "9",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "BORN OF SLAUGHTER ",
+    "timing": "Your Hero Phase",
+    "declare": "If there are fewer friendly Avatars of Khaine on the battlefield than there are friendly Bloodwrack Shrines on the battlefield, make a casting roll of 2D6.",
+    "effect": "Set up an Avatar of Khaine wholly within 12\" of the caster, visible to them and more than 9\" from all enemy units."
+   },
+   {
+    "name": "AURA OF AGONY ",
+    "timing": "Once Per Turn (Army), Your Hero Phase",
+    "declare": "",
+    "effect": "Until the start of your next turn: Enemy MANIFESTATIONS cannot be set up within 12\" of this unit. This unit has WARD ( 4+ ) against mortal damage inflicted by SPELL abilities, PRAYER abilities and abilities used by MANIFESTATIONS ."
+   },
+   {
+    "name": "AGONISING SPASMS ",
+    "timing": "Reaction: You declared a SHOOT ability for this unit",
+    "declare": "",
+    "effect": "After that SHOOT ability has been resolved, if all of this unit’s attacks made as part of that SHOOT ability targeted the same enemy unit and any enemy models were slain by those attacks, roll a dice. On a 3+, that enemy unit has a maximum control score of 1 for the rest of the turn."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "WAR MACHINE",
+   "WIZARD ( 2 )",
+   "WARD ( 6+ )",
+   "ORDER",
+   "DAUGHTERS OF KHAINE"
+  ],
+  "unit_size": 1,
+  "points": 270,
+  "base_size": "120 × 92mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Coven Matriarch , Any non- AELF"
+ },
+ {
+  "id": "Hag-Queen-on-Cauldron-of-Blood",
+  "name": "Hag Queen on Cauldron of Blood",
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "12",
+  "save": "4+",
+  "control": "5",
+  "ward": "6+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Shrine Guardians’ Blades",
+    "range": "",
+    "attacks": "9",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": []
+   },
+   {
+    "name": "Avatar’s Sword",
+    "range": "",
+    "attacks": "5",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "2",
+    "damage": "3",
+    "abilities": [
+     "Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "WRATHFUL REPULSION ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "Pick a visible friendly DAUGHTERS OF KHAINE unit that is wholly within 12\" of this unit and is in combat with an enemy unit that charged this turn to be the target. If there are any friendly Slaughter Queens on Cauldrons of Blood on the battlefield, you can pick another eligible unit to be a second target.",
+    "effect": "The targets have WARD ( 5+ ) for the rest of the turn."
+   },
+   {
+    "name": "ROARING IDOL ",
+    "timing": "Once Per Turn (Army), Your Hero Phase",
+    "declare": "Pick a friendly DAUGHTERS OF KHAINE MANIFESTATION wholly within 12\" of this unit to be the target.",
+    "effect": "Roll a dice. On a 3+, the target cannot be picked to be the target of BANISH abilities used by enemy units until the start of your next turn."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "PRIEST ( 1 )",
+   "WAR MACHINE",
+   "WARD ( 6+ )",
+   "ORDER",
+   "DAUGHTERS OF KHAINE",
+   "AELF"
+  ],
+  "unit_size": 1,
+  "points": 290,
+  "base_size": "120 × 92mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Coven Matriarch , Any AELF"
+ },
+ {
+  "id": "Slaughter-Queen-on-Cauldron-of-Blood",
+  "name": "Slaughter Queen on Cauldron of Blood",
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "12",
+  "save": "4+",
+  "control": "5",
+  "ward": "6+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Shrine Guardians’ Blades",
+    "range": "",
+    "attacks": "9",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": []
+   },
+   {
+    "name": "Avatar’s Sword",
+    "range": "",
+    "attacks": "5",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "2",
+    "damage": "3",
+    "abilities": [
+     "Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "CONSECRATED REVULSION ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Add 1 to save rolls for visible friendly DAUGHTERS OF KHAINE INFANTRY units while they are wholly within 12\" of this unit."
+   },
+   {
+    "name": "ICON OF SLAUGHTER ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Each time a friendly DAUGHTERS OF KHAINE unit wholly within 12\" of this unit uses the ‘ Rally ’ command, you can make 3 additional rally rolls of D6. In addition, if there are any friendly Hag Queens on Cauldrons of Blood on the battlefield when that command is used, you receive D3 additional rally points."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "PRIEST ( 1 )",
+   "WAR MACHINE",
+   "WARD ( 6+ )",
+   "ORDER",
+   "DAUGHTERS OF KHAINE",
+   "AELF"
+  ],
+  "unit_size": 1,
+  "points": 300,
+  "base_size": "120 × 92mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Coven Matriarch , Any AELF"
+ },
+ {
+  "id": "Doomfire-Warlocks",
+  "name": "Doomfire Warlocks",
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "grand_alliance": "Order",
+  "move": "14\"",
+  "health": "3",
+  "save": "5+",
+  "control": "1",
+  "ward": "6+",
+  "ranged_weapons": [
+   {
+    "name": "Doomfire Crossbow",
+    "range": "10\"",
+    "attacks": "2",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": []
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Cursed Scimitar",
+    "range": "",
+    "attacks": "2",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": []
+   },
+   {
+    "name": "Dark Steed’s Vicious Bite",
+    "range": "",
+    "attacks": "2",
+    "hit": "5+",
+    "wound": "3+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": [
+     "Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "OUTMANOEUVRE ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "When this unit uses the ‘ Redeploy ’ command, if you roll a 1-3 when determining the distance this unit can move, you can use a value of 4 instead."
+   }
+  ],
+  "keywords": [
+   "WIZARD ( 1 )",
+   "CAVALRY",
+   "CHAMPION",
+   "WARD ( 6+ )",
+   "ORDER",
+   "DAUGHTERS OF KHAINE",
+   "AELF"
+  ],
+  "unit_size": 5,
+  "points": 150,
+  "base_size": "60 × 35mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Blood-Hags",
+  "name": "Blood Hags",
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "1",
+  "save": "5+",
+  "control": "1",
+  "ward": "6+",
+  "ranged_weapons": [
+   {
+    "name": "Ki’raich",
+    "range": "10\"",
+    "attacks": "1",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": []
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Valthrai",
+    "range": "",
+    "attacks": "3",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "WICKED WARDENS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit is wholly within 12\" of a friendly Hag Queen on Cauldron of Blood , Slaughter Queen on Cauldron of Blood or Shrine of Dark Tribute , this unit’s melee weapons have Anti-charge (+1 Rend) ."
+   },
+   {
+    "name": "CRIMSON OFFERINGS ",
+    "timing": "Once Per Turn (Army), Reaction: You declared the ‘ Blessings of Khaine ’ ability",
+    "declare": "",
+    "effect": "If an enemy unit was destroyed by this unit’s combat attacks this turn, when resolving that ability, you can pick 2 blessings instead of 1."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "CHAMPION ( 1/10 )",
+   "STANDARD BEARER ( 1/10 )",
+   "WARD ( 6+ )",
+   "ORDER",
+   "DAUGHTERS OF KHAINE",
+   "AELF"
+  ],
+  "unit_size": 10,
+  "points": 150,
+  "base_size": "28.5mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Blood-Sisters",
+  "name": "Blood Sisters",
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "grand_alliance": "Order",
+  "move": "8\"",
+  "health": "3",
+  "save": "5+",
+  "control": "1",
+  "ward": "6+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Heartshard Glaive",
+    "range": "",
+    "attacks": "2",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Crit (Mortal)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "CRYSTAL TOUCH ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "Pick an enemy INFANTRY or CAVALRY unit in combat with this unit to be the target.",
+    "effect": "Roll a dice. If the roll is equal to or less than the target’s Health characteristic, the target has STRIKE-LAST for the rest of the turn."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "CHAMPION",
+   "WARD ( 6+ )",
+   "ORDER",
+   "DAUGHTERS OF KHAINE"
+  ],
+  "unit_size": 5,
+  "points": 160,
+  "base_size": "40mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Blood-Stalkers",
+  "name": "Blood Stalkers",
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "grand_alliance": "Order",
+  "move": "8\"",
+  "health": "3",
+  "save": "5+",
+  "control": "1",
+  "ward": "6+",
+  "ranged_weapons": [
+   {
+    "name": "Heartseeker Bow",
+    "range": "18\"",
+    "attacks": "3",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Crit (Auto-wound)"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Scianlar",
+    "range": "",
+    "attacks": "2",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "BARBED ARROWS ",
+    "timing": "Once Per Turn (Army), Reaction: You declared a SHOOT ability for this unit",
+    "declare": "",
+    "effect": "After that SHOOT ability has been resolved, if all of this unit’s attacks targeted the same enemy unit, roll a dice. Add 1 to the roll if any other friendly Blood Stalkers units picked that enemy unit to be the target of all of their shooting attacks this turn. On a 3+, until the start of your next turn, subtract 1 from the number of dice rolled when making charge rolls for the target, to a minimum of 1."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "CHAMPION",
+   "WARD ( 6+ )",
+   "ORDER",
+   "DAUGHTERS OF KHAINE"
+  ],
+  "unit_size": 5,
+  "points": 150,
+  "base_size": "40mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Khainite-Shadowstalkers",
+  "name": "Khainite Shadowstalkers",
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "1",
+  "save": "5+",
+  "control": "1",
+  "ward": "6+",
+  "ranged_weapons": [
+   {
+    "name": "Cursed Bolts and Missiles",
+    "range": "10\"",
+    "attacks": "2",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": []
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Blades of Murder",
+    "range": "",
+    "attacks": "2",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "SHADOW LEAP ",
+    "timing": "Once Per Turn (Army), Your Movement Phase",
+    "declare": "",
+    "effect": "Remove this unit from the battlefield and set it up again on the battlefield more than 9\" from all enemy units."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "CHAMPION ( 1/9 )",
+   "WARD ( 6+ )",
+   "ORDER",
+   "DAUGHTERS OF KHAINE",
+   "AELF"
+  ],
+  "unit_size": 9,
+  "points": 130,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Khinerai-Heartrenders",
+  "name": "Khinerai Heartrenders",
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "grand_alliance": "Order",
+  "move": "12\"",
+  "health": "2",
+  "save": "5+",
+  "control": "1",
+  "ward": "6+",
+  "ranged_weapons": [
+   {
+    "name": "Barbed Javelin",
+    "range": "12\"",
+    "attacks": "2",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": []
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Barbed Javelin",
+    "range": "",
+    "attacks": "1",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "FIRE AND FLIGHT ",
+    "timing": "Once Per Turn (Army), Reaction: You declared a SHOOT ability for this unit",
+    "declare": "",
+    "effect": "After that SHOOT ability has been resolved, this unit can move 2D6\". It cannot move into combat during any part of that move."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "CHAMPION",
+   "FLY",
+   "WARD ( 6+ )",
+   "ORDER",
+   "DAUGHTERS OF KHAINE"
+  ],
+  "unit_size": 5,
+  "points": 100,
+  "base_size": "40mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Khinerai-Lifetakers",
+  "name": "Khinerai Lifetakers",
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "grand_alliance": "Order",
+  "move": "12\"",
+  "health": "2",
+  "save": "5+",
+  "control": "1",
+  "ward": "6+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Barbed Sickle",
+    "range": "",
+    "attacks": "2",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "FIGHT AND FLIGHT ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "",
+    "effect": "If this unit is in combat , it can move 12\". It can pass through the combat ranges of enemy units but cannot end that move in combat. Then, roll a D3 for each enemy unit that this unit passed across during that move. On a 2+, inflict an amount of mortal damage on that enemy unit equal to the roll."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "CHAMPION",
+   "FLY",
+   "WARD ( 6+ )",
+   "ORDER",
+   "DAUGHTERS OF KHAINE"
+  ],
+  "unit_size": 5,
+  "points": 110,
+  "base_size": "40mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Sisters-of-Slaughter",
+  "name": "Sisters of Slaughter",
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "1",
+  "save": "6+",
+  "control": "1",
+  "ward": "6+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Kruiplash",
+    "range": "",
+    "attacks": "3",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "DANCE OF DEATH ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "Pick an enemy unit that charged this turn and is in combat with this unit to be the target.",
+    "effect": "Subtract 1 from hit rolls and wound rolls for the target’s combat attacks for the rest of the turn."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "CHAMPION",
+   "MUSICIAN ( 1/5 )",
+   "STANDARD BEARER ( 1/5 )",
+   "WARD ( 6+ )",
+   "ORDER",
+   "DAUGHTERS OF KHAINE",
+   "AELF"
+  ],
+  "unit_size": 10,
+  "points": 110,
+  "base_size": "25mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Witch-Aelves",
+  "name": "Witch Aelves",
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "1",
+  "save": "6+",
+  "control": "1",
+  "ward": "6+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Sciansá",
+    "range": "",
+    "attacks": "3",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "FRENZIED FERVOUR ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Add 1 to the Rend characteristic of this unit’s melee weapons if it charged in the same turn."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "CHAMPION",
+   "MUSICIAN ( 1/5 )",
+   "STANDARD BEARER ( 1/5 )",
+   "WARD ( 6+ )",
+   "ORDER",
+   "DAUGHTERS OF KHAINE",
+   "AELF"
+  ],
+  "unit_size": 10,
+  "points": 120,
+  "base_size": "25mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Scourge-of-Aqshy-Khainite-Shadowstalkers",
+  "name": "Scourge of Aqshy Khainite Shadowstalkers",
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "1",
+  "save": "5+",
+  "control": "1",
+  "ward": "6+",
+  "ranged_weapons": [
+   {
+    "name": "Cursed Bolts and Missiles",
+    "range": "10\"",
+    "attacks": "2",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": []
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Blades of Murder",
+    "range": "",
+    "attacks": "2",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "SHADOW LARIAT ",
+    "timing": "Once Per Turn (Army), End of Any Turn",
+    "declare": "If this unit is not in combat , pick a visible enemy INFANTRY or CAVALRY HERO that has no more than 1 model and is within 12\" of this unit to be the target.",
+    "effect": "If the target is more than 3\" from all other friendly units, apply the effect below. Otherwise, roll a dice. On a 3+, apply the effect below. Your opponent must remove the target from the battlefield and set it up again in combat with this unit."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "CHAMPION ( 1/9 )",
+   "WARD ( 6+ )",
+   "ORDER",
+   "DAUGHTERS OF KHAINE",
+   "AELF"
+  ],
+  "unit_size": 9,
+  "points": 100,
+  "base_size": "",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Gryselle-s-Arenai",
+  "name": "Gryselle’s Arenai",
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "2",
+  "save": "6+",
+  "control": "1",
+  "ward": "6+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Gladiatorial Weapons",
+    "range": "",
+    "attacks": "3",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": [
+     "Crit (Auto-wound)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "ACROBATIC BLOODSHED ",
+    "timing": "Any Combat Phase",
+    "declare": "Pick an enemy unit in combat with this unit to be the target.",
+    "effect": "For the rest of the turn, while this unit is in combat with the target, its combat attacks must target that enemy unit. In addition, if any of this unit’s attacks score a critical hit on the target this phase, the target has STRIKE-LAST for the rest of the turn."
+   }
+  ],
+  "keywords": [
+   "UNIQUE",
+   "INFANTRY",
+   "CHAMPION",
+   "WARD ( 6+ )",
+   "ORDER",
+   "DAUGHTERS OF KHAINE",
+   "AELF"
+  ],
+  "unit_size": 5,
+  "points": 70,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Knives-of-the-Crone",
+  "name": "Knives of the Crone",
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "3",
+  "save": "5+",
+  "control": "2",
+  "ward": "6+",
+  "ranged_weapons": [
+   {
+    "name": "Aelven Crossbow",
+    "range": "10\"",
+    "attacks": "3",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": [
+     "Crit (Auto-wound)"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Haruspicy Blades",
+    "range": "",
+    "attacks": "3",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "RITUALS OF PROPHECY ",
+    "timing": "Your Hero Phase",
+    "declare": "",
+    "effect": "Roll 6 dice: For each 1, add 1 to the Attacks characteristic of this unit’s melee weapons until the start of your next turn. For each 3, add 1\" to this unit’s Move characteristic until the start of your next turn. If any of the rolls are a 6, add 1 to save rolls for this unit until the start of your next turn."
+   }
+  ],
+  "keywords": [
+   "UNIQUE",
+   "INFANTRY",
+   "WARD ( 6+ )",
+   "ORDER",
+   "DAUGHTERS OF KHAINE",
+   "AELF"
+  ],
+  "unit_size": 4,
+  "points": 220,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Morgwaeth-s-Blade-coven",
+  "name": "Morgwaeth’s Blade-coven",
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "2",
+  "save": "6+",
+  "control": "1",
+  "ward": "6+",
+  "ranged_weapons": [
+   {
+    "name": "Heartseeker Bow",
+    "range": "18\"",
+    "attacks": "3",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Crit (Auto-wound)"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Sacrificial Weapons",
+    "range": "",
+    "attacks": "3",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": [
+     "Crit (Auto-wound)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "WITCHBREW ",
+    "timing": "Once Per Turn (Army), Any Hero Phase",
+    "declare": "Pick a friendly DAUGHTERS OF KHAINE unit wholly within 12\" of this unit to be the target.",
+    "effect": "Roll a dice. On a 3+, the target has WARD ( 5+ ) for the rest of the turn."
+   },
+   {
+    "name": "MORGWAETH THE BLOODIED ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit’s Morgwaeth the Bloodied is on the battlefield, it has PRIEST ( 1 ) ."
+   }
+  ],
+  "keywords": [
+   "UNIQUE",
+   "INFANTRY",
+   "CHAMPION",
+   "WARD ( 6+ )",
+   "ORDER",
+   "DAUGHTERS OF KHAINE",
+   "AELF"
+  ],
+  "unit_size": 5,
+  "points": 120,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "The-Shadeborn",
+  "name": "The Shadeborn",
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "2",
+  "save": "5+",
+  "control": "1",
+  "ward": "6+",
+  "ranged_weapons": [
+   {
+    "name": "Cursed Missiles",
+    "range": "10\"",
+    "attacks": "1",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": []
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Shadowstalker Blades",
+    "range": "",
+    "attacks": "2",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "SHADOW LEAP ",
+    "timing": "Your Movement Phase",
+    "declare": "",
+    "effect": "Remove this unit from the battlefield and set it up again on the battlefield more than 9\" from all enemy units."
+   },
+   {
+    "name": "MASK OF SHADOWED MIRRORS ",
+    "timing": "Any Combat Phase",
+    "declare": "Pick an enemy unit in combat with this unit to be the target.",
+    "effect": "Roll a dice. On a 3+, the target cannot use commands for the rest of the turn."
+   }
+  ],
+  "keywords": [
+   "UNIQUE",
+   "INFANTRY",
+   "CHAMPION",
+   "WARD ( 6+ )",
+   "ORDER",
+   "DAUGHTERS OF KHAINE",
+   "AELF"
+  ],
+  "unit_size": 4,
+  "points": 80,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Shrine-of-Dark-Tribute",
+  "name": "Shrine of Dark Tribute",
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "grand_alliance": "Order",
+  "move": "-",
+  "health": "12",
+  "save": "4+",
+  "control": "-",
+  "ward": "6+",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "CALL TO MURDER ",
+    "timing": "Your Hero Phase",
+    "declare": "",
+    "effect": "Pick a blessing from the ‘ Blessings of Khaine ’ ability that is active. That blessing is no longer active. Then, pick a blessing that is not active. That blessing is now active. Designer’s Note: When you use this ability, you are not using the ‘Blessings of Khaine’ ability."
+   },
+   {
+    "name": "IN DARK COMMUNION ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick a friendly DAUGHTERS OF KHAINE WIZARD or PRIEST within 3\" of this terrain feature to be the target.",
+    "effect": "The target is in dark communion until this terrain feature uses this ability again or until this terrain feature is removed from the battlefield, whichever comes first. While the target is in dark communion , you can re-roll 1 casting roll or 1 chanting roll for the target each turn."
+   }
+  ],
+  "keywords": [
+   "FACTION TERRAIN",
+   "WARD ( 6+ )",
+   "ORDER",
+   "DAUGHTERS OF KHAINE"
+  ],
+  "unit_size": 1,
+  "points": 20,
+  "base_size": "130mm",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Avatar-of-Khaine",
+  "name": "Avatar of Khaine",
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Blade of the Bloody‑Handed God",
+    "range": "",
+    "attacks": "3",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "2",
+    "damage": "3",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "LORD OF MURDER INCARNATE ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "This MANIFESTATION is affected by the ‘ Blessings of Khaine ’ ability as if it were a unit."
+   },
+   {
+    "name": "WRATH OF KHAINE ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Add X to the Attacks characteristic of this MANIFESTATION ’s melee weapons, where X is the number of times you have used the ‘ Blessings of Khaine ’ ability this battle, to a maximum of 3."
+   }
+  ],
+  "keywords": [
+   "MANIFESTATION",
+   "ENDLESS SPELL",
+   "WARD ( 6+ )",
+   "ORDER",
+   "DAUGHTERS OF KHAINE"
+  ],
+  "unit_size": null,
+  "points": null,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Bladewind",
+  "name": "Bladewind",
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Bladed Vortex",
+    "range": "",
+    "attacks": "9",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "UNNATURAL EDGE ",
+    "timing": "Any Combat Phase",
+    "declare": "If this MANIFESTATION charged this turn, pick an enemy unit in combat with it to be the target.",
+    "effect": "If any damage points are allocated to the target this phase by this MANIFESTATION ’s combat attacks , ward rolls cannot be made for the target for the rest of the battle."
+   }
+  ],
+  "keywords": [
+   "MANIFESTATION",
+   "ENDLESS SPELL",
+   "FLY",
+   "WARD ( 6+ )",
+   "ORDER",
+   "DAUGHTERS OF KHAINE"
+  ],
+  "unit_size": null,
+  "points": null,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Bloodwrack-Viper",
+  "name": "Bloodwrack Viper",
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Fanged Strikes",
+    "range": "",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "1",
+    "damage": "3",
+    "abilities": [
+     "Anti- HERO (+1 Rend) , Crit (Mortal)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "CRUSHING COILS ",
+    "timing": "Any Combat Phase",
+    "declare": "Pick an enemy HERO or MONSTER in combat with this MANIFESTATION to be the target.",
+    "effect": "Roll a dice. On a 3+, the target has STRIKE-LAST for the rest of the turn."
+   },
+   {
+    "name": "BIND AND BITE ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "This unit’s combat attacks score critical hits on unmodified hit rolls of 4+ if the target of those attacks has STRIKE-LAST ."
+   }
+  ],
+  "keywords": [
+   "MANIFESTATION",
+   "ENDLESS SPELL",
+   "WARD ( 6+ )",
+   "ORDER",
+   "DAUGHTERS OF KHAINE"
+  ],
+  "unit_size": null,
+  "points": null,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Heart-of-Fury",
+  "name": "Heart of Fury",
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "LOCUS OF THE MURDER GOD ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Subtract 1 from wound rolls for attacks that target friendly DAUGHTERS OF KHAINE INFANTRY units while they are wholly within 12\" of this MANIFESTATION ."
+   }
+  ],
+  "keywords": [
+   "MANIFESTATION",
+   "ENDLESS SPELL",
+   "WARD ( 6+ )",
+   "ORDER",
+   "DAUGHTERS OF KHAINE"
+  ],
+  "unit_size": null,
+  "points": null,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Bloodthirsty-Shiver",
+  "name": "Bloodthirsty Shiver",
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "HUNT OF THE BLOODTHIRSTY SHIVER ",
+    "timing": "Your Hero Phase",
+    "declare": "",
+    "effect": "If both units in this Regiment of Renown are within each other’s combat range , pick 1 of the following effects to apply until the start of your next turn: Evasive Approach: While both units in this Regiment of Renown are within each other’s combat range, subtract 1 from hit rolls for attacks that target them. Ferocious Attack: While both units in this Regiment of Renown are within each other’s combat range, their Allopex’s Ferocious Bites have Crit (2 Hits) ."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 300,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Bundo-Whalebiter",
+  "name": "Bundo Whalebiter",
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "DEAD CUNNING, FOR A GARGANT ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "",
+    "effect": "For the rest of the turn, add 1 to the Attacks characteristic of this unit’s weapons. Then, roll a dice. On a 4+, this unit has STRIKE-LAST for the rest of the turn."
+   },
+   {
+    "name": "TIMBERRRRR! ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "When the MEGA-GARGANT in this regiment of renown is slain, before removing it from play, the players must roll off . The winner picks a point on the battlefield within 3\" of that model. Inflict D3 mortal damage on each unit (friendly and enemy) within 3\" of that point that has a lower Health characteristic than that model."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 450,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Cogfort-Raiders",
+  "name": "Cogfort Raiders",
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [],
+  "keywords": [],
+  "unit_size": null,
+  "points": 450,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Outlaw-Conqueror-Cogfort",
+  "name": "Outlaw Conqueror Cogfort",
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "25",
+  "save": "3+",
+  "control": "10",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Realmscorcher Flame Cannon",
+    "range": "18\"",
+    "attacks": "6D6",
+    "hit": "2+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Anti- INFANTRY (+1 Rend)"
+    ]
+   },
+   {
+    "name": "Crew’s Leadshotters",
+    "range": "12\"",
+    "attacks": "6",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": [
+     "Shoot in Combat"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Crushing Iron Feet",
+    "range": "",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "4",
+    "abilities": [
+     "Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "BATTLE DAMAGED",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit has 10 or more damage points: The Attacks characteristic of its Crushing Iron Feet is 3. It has a Control characteristic of 5."
+   },
+   {
+    "name": "EVERYONE ABOARD! ",
+    "timing": "Deployment Phase",
+    "declare": "Pick up to 1 friendly INFANTRY HERO and up to 1 friendly non- reinforced , non- HERO INFANTR y unit that have not been deployed.",
+    "effect": "Set up those units in reserve as this unit’s passengers . They have now been deployed."
+   },
+   {
+    "name": "THIS IS YOUR STOP, MAGGOTS! ",
+    "timing": "Once Per Battle, Any Charge Phase",
+    "declare": "Pick this unit’s passengers to be the targets.",
+    "effect": "Set up each target wholly within 6\" of this unit and more than 9\" from all enemy units. In addition, the targets’ melee weapons have Charge (+1 Damage) for the rest of the turn."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "WAR MACHINE",
+   "ORDER"
+  ],
+  "unit_size": null,
+  "points": null,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Dawnrider-Lance",
+  "name": "Dawnrider Lance",
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "BLINDING CHARGE ",
+    "timing": "Once Per Turn (Army), Any Charge Phase",
+    "declare": "Pick a unit in this Regiment of Renown that charged this turn. Then, pick an enemy INFANTRY unit within 1\" of that unit to be the target.",
+    "effect": "For the rest of the turn, ignore positive modifiers to save rolls for the target."
+   },
+   {
+    "name": "MASTERS OF ALL TERRAIN ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Ignore negative modifiers to run rolls and charge rolls for units in this Regiment of Renown and to their Move characteristic."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 260,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Drekki-s-Privateers",
+  "name": "Drekki’s Privateers",
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "CRUISING INTO POSITION ",
+    "timing": "Deployment Phase",
+    "declare": "Pick all units in this Regiment of Renown that have not been deployed.",
+    "effect": "Set up all of those units in reserve plying the winds. They have now been deployed."
+   },
+   {
+    "name": "YOU CALL IT YOURS, I CALL IT MINE ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Add 1 to hit rolls and wound rolls for shooting attacks made by units in this Regiment of Renown that target an enemy unit that is within 6\" of an enemy unit that has an enhancement."
+   },
+   {
+    "name": "DAREDEVIL DEPLOYMENT ",
+    "timing": "Your Movement Phase",
+    "declare": "Pick the Arkanaut Frigate in this Regiment of Renown to use this ability if it is plying the winds.",
+    "effect": "Set up the Arkanaut Frigate anywhere on the battlefield more than 9\" from all enemy units. Then, set up all other units in this Regiment of Renown wholly within 6\" of the Arkanaut Frigate and more than 9\" from all enemy units."
+   },
+   {
+    "name": "THE GOOD SHIP AELSLING ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "The Aelsling in this Regiment of Renown has a Health characteristic of 17 instead of 14."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 500,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Drycha-s-Talons",
+  "name": "Drycha’s Talons",
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "BITTER ROOTS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "If they do not otherwise have one, terrain features have a friendly overgrown token while they are contested by a Spite-Revenants unit in this Regiment of Renown ."
+   },
+   {
+    "name": "CONCEALED IN THE SHADOWS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While they are wholly within 3\" of a terrain feature , the Spite-Revenants units in this Regiment of Renown are not visible to enemy units more than 12\" away from them."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 360,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Elthwin-s-Thorns",
+  "name": "Elthwin’s Thorns",
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "GOSSAMID CHAMPION ",
+    "timing": "Your Shooting Phase",
+    "declare": "Pick the Arch-Revenant in this Regiment of Renown to use this ability, the pick a visible enemy unit within 12\" of them to be the target.",
+    "effect": "Until the start of your next turn, subtract X from charge rolls for the target, where X is the number of damage points allocated to the target this phase by shooting attacks made by the Gossamid Archers unit in the Regiment of Renown, to a maximum of 6."
+   },
+   {
+    "name": "FLIGHT OF THE ZEPHYRSPITES ",
+    "timing": "Once Per Turn (Army), Your Shooting Phase",
+    "declare": "",
+    "effect": "If both units in this Regiment of Renown are within each other’s combat range and neither unit is in combat , roll a dice. On a 3+, remove both units from the battlefield, then set them up again within each other’s combat range, wholly within 3\" of a terrain feature and more than 9\" from all enemy units."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 220,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Enforcers-of-the-Tithe",
+  "name": "Enforcers of the Tithe",
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "COLLECT THE TITHE ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "Pick the GOTHIZZAR HARVESTER in this Regiment of Renown to use this ability, then pick a NON-HERO INFANTRY unit (friendly or enemy) within its combat range to be the target.",
+    "effect": "Roll a dice. If the roll equals or exceeds the target’s Health characteristic, 1 model in the target unit is slain, then give the unit using this ability 1 bone-tithe point ."
+   },
+   {
+    "name": "SOUL TAX ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick the Mortisan Ossifector in this Regiment of Renown to cast this spell, then: Pick a friendly unit, excluding units in this Regiment of Renown, to be the target. Pick a unit in this Regiment of Renown to be the recipient . The target and the recipient must be wholly within 12\" of and visible to the caster. Then, make a casting roll of 2D6.",
+    "effect": "Until the start of your next turn: The target has a maximum control score of 1. Add 1 to hit rolls and wound rolls for the recipient ’s combat attacks ."
+   },
+   {
+    "name": "REBUILD ON THE MARCH ",
+    "timing": "Your Movement Phase",
+    "declare": "Pick the Gothizzar Harvester in this Regiment of Renown to use this ability if it has 6 bone-tithe points . Then, pick another unit in this Regiment of Renown that has been destroyed to be the target.",
+    "effect": "Reset the Gothizzar Harvester ’s bone-tithe points to 0. Then, set up a replacement of the target unit with half the number of models (rounding up) wholly within 9\" of the Gothizzar Harvester and more than 9\" from all enemy units."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 470,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Exile-Scavengers",
+  "name": "Exile Scavengers",
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "AN EYE FOR LOOT ",
+    "timing": "Deployment Phase",
+    "declare": "This ability must be used to deploy this Regiment of Renown .",
+    "effect": "Set up the units in this Regiment of Renown in reserve studying the battlefield . They have now been deployed."
+   },
+   {
+    "name": "SWOOP IN ",
+    "timing": "Your Movement Phase",
+    "declare": "Pick the Grundstok Gunhauler in this Regiment of Renown to use this ability if it is studying the battlefield .",
+    "effect": "Set up the Grundstok Gunhauler on the battlefield more than 6\" from all enemy units that have an artefact of power and more than 9\" from all other enemy units. Then, set up all other units in this Regiment of Renown wholly within 3\" of the Grundstok Gunhauler and more than 6\" from all enemy units."
+   },
+   {
+    "name": "WHAT’S YOURS IS MINE ",
+    "timing": "Once Per Turn (Army), Your Combat Phase",
+    "declare": "Pick an enemy unit in combat with a unit in this Regiment of Renown to be the target. Then, pick an artefact of power the target has.",
+    "effect": "Roll a dice. Add 1 to the roll for each unit in this Regiment of Renown that is in combat with the target. On a 6+, the target no longer has that artefact of power."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 410,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Heroes-of-The-Jade-Abbey",
+  "name": "Heroes of The Jade Abbey",
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "STRONGER TOGETHER ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While each unit in this Regiment of Renown is wholly within 6\" of each other unit in this Regiment of Renown, add 1 to the Attacks characteristic of melee weapons used by units in this Regiment of Renown."
+   },
+   {
+    "name": "WATERS OF THE EVERSPRING ",
+    "timing": "End of Any Turn",
+    "declare": "",
+    "effect": "Heal (1) each unit in this Regiment of Renown."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": null,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Mask-of-the-Deceiver",
+  "name": "Mask of the Deceiver",
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [],
+  "keywords": [],
+  "unit_size": null,
+  "points": 170,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Mask-of-The-Deceiver-1",
+  "name": "Mask of The Deceiver",
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "grand_alliance": "Order",
+  "move": "5\"",
+  "health": "6",
+  "save": "5+",
+  "control": "2",
+  "ward": "5+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "The Trickster’s Staff",
+    "range": "",
+    "attacks": "3",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "MASKED IN PLAIN SIGHT ",
+    "timing": "Deployment Phase",
+    "declare": "This unit must be deployed using this ability.",
+    "effect": "Set up this unit in reserve incognito . It has now been deployed. Friendly incognito units are destroyed at the end of the fifth battle round and not at the start of the fourth battle round"
+   },
+   {
+    "name": "BAIT AND SWITCH ",
+    "timing": "Any Hero Phase",
+    "declare": "This unit can use this ability if it is incognito . Pick this unit and a friendly INFANTRY HERO to be the targets. One target must be incognito and the other must be on the battlefield.",
+    "effect": "Set up the incognito target wholly within 6\" of the other target and not in combat . Then, remove the other target from the battlefield and set it up in reserve incognito . If this unit is destroyed, before removing it from play, set up the friendly incognito unit wholly within 6\" of a battlefield edge and not in combat."
+   },
+   {
+    "name": "FORCEFUL COMMAND ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick a visible friendly unit wholly within 12\" of this unit to be the target, then make a casting roll of 2D6.",
+    "effect": "Until the start of your next turn: The target cannot use MOVE abilities. The target’s melee weapons have Anti-charge (+1 Rend) ."
+   }
+  ],
+  "keywords": [
+   "UNIQUE",
+   "HERO",
+   "WIZARD ( 2 )",
+   "INFANTRY",
+   "WARD ( 5+ )",
+   "CHAOS",
+   "DISCIPLES OF TZEENTCH",
+   "DAEMON"
+  ],
+  "unit_size": null,
+  "points": null,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Namarti-Shore-Raid",
+  "name": "Namarti Shore Raid",
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "IN THE SHADOW OF THE ETHERSEA ",
+    "timing": "Deployment Phase",
+    "declare": "This ability must be used to deploy this Regiment of Renown .",
+    "effect": "Set up the units in this Regiment of Renown in reserve in the ethersea . They have now been deployed."
+   },
+   {
+    "name": "LAUNCH THE ATTACK ",
+    "timing": "Your Movement Phase",
+    "declare": "Pick each unit in this Regiment of Renown that is in the ethersea .",
+    "effect": "Set up each unit on the battlefield wholly within 7\" of a battlefield edge, more than 9\" from all enemy units and within the combat range of another unit in this Regiment of Renown. Then, each unit can immediately move D3\". The units cannot move into combat during any part of that move."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 270,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Norgrimm-s-Rune-Throng",
+  "name": "Norgrimm’s Rune Throng",
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "WRATH AND RUIN ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick the Runelord in this Regiment of Renown to chant this prayer, pick a visible enemy unit within 18\" of them to be the target, then make a chanting roll of D6.",
+    "effect": "Roll 6 dice. If the chanting roll was 8+, roll 9 dice instead. For each 5+, inflict 1 mortal damage on the target. If 3 or more damage points are allocated to the target as a result of those dice rolls, ignore positive modifiers to save rolls for the target until the start of your next turn."
+   },
+   {
+    "name": "RUNE OF RESTORED HEARTH ",
+    "timing": "Once Per Battle (Army), Your Hero Phase",
+    "declare": "",
+    "effect": "If the Runelord in the Regiment of Renown is contesting an objective , for the rest of the battle, units in this Regiment of Renown have WARD ( 5+ ) while they are contesting that objective."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 330,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Reinholt-s-Sharpshooters",
+  "name": "Reinholt’s Sharpshooters",
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "FRIENDLY COMPETITION ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Add 1 to hit rolls for shooting attacks made by non- HERO units in this Regiment of Renown if any enemy models were slain by shooting attacks made by non- HERO units in this Regiment of Renown in the same turn."
+   },
+   {
+    "name": "CASTLE UP! ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While a non- HERO unit in this Regiment of Renown is within the combat range of and visible to this Regiment of Renown’s HERO , those units are under orders ."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 400,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Rogue-Engine",
+  "name": "Rogue Engine",
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [],
+  "keywords": [],
+  "unit_size": null,
+  "points": 470,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Outlaw-Cannonade-Cogfort-1",
+  "name": "Outlaw Cannonade Cogfort",
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "25",
+  "save": "3+",
+  "control": "10",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Godbreaker Cannon",
+    "range": "24\"",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "4",
+    "abilities": []
+   },
+   {
+    "name": "Breacher Cannon",
+    "range": "12\"",
+    "attacks": "6",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Anti- INFANTRY (+1 Rend)"
+    ]
+   },
+   {
+    "name": "Crew’s Leadshotters",
+    "range": "12\"",
+    "attacks": "6",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": [
+     "Shoot in Combat"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Crushing Iron Feet",
+    "range": "",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "4",
+    "abilities": [
+     "Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "BATTLE DAMAGED",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit has 10 or more damage points: The Attacks characteristic of its Crushing Iron Feet is 3. It has a Control characteristic of 5."
+   },
+   {
+    "name": "MERCENARY ATTITUDES ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick another friendly NON-UNIQUE unit wholly within 12\" of this unit to be the target.",
+    "effect": "Pick 1 of the following effects to apply until the start of your next turn and while the target is wholly within 12\" of this unit: You can re-roll run rolls for the target. Add 1 to charge rolls for the target. The target cannot be targeted by shooting attacks . Add 1 to wound rolls for the target’s combat attacks . Add 10 to the target’s control score ."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "WAR MACHINE",
+   "ORDER"
+  ],
+  "unit_size": null,
+  "points": null,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Saviours-of-Cinderfall",
+  "name": "Saviours of Cinderfall",
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "SIGMAR’S JUSTICE ",
+    "timing": "Once Per Battle (Army), Deployment Phase",
+    "declare": "Pick an enemy unit to be marked for justice . You can pick a unit that is in reserve .",
+    "effect": "For the rest of the battle, add 1 to wound rolls for combat attacks made by units in this Regiment of Renown that target a unit that is marked for justice ."
+   },
+   {
+    "name": "DUTY BOUND ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While every model in the same unit in the Regiment of Renown is contesting the same objective , add 1 to save rolls and ward rolls for that unit."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 290,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Sigil-Convocation",
+  "name": "Sigil Convocation",
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "CYCLE MANIFESTATION ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick the Scinari Calligrave in this Regiment of Renown to cast this spell, pick 1 of the friendly MANIFESTATIONS below that is not on the battlefield, then make a casting roll of 2D6. Sanctum of Amyntok Hyshian Twinstones Rune of Petrification",
+    "effect": "If there is already a friendly MANIFESTATION from the list above on the battlefield, it is immediately banished and removed from play. Then, set up the MANIFESTATION you picked within 1\" of the caster and visible to them. If that MANIFESTATION is a Sanctum of Amyntok , it must instead be set up wholly within 12\" of the caster, more than 3\" from all enemy units, and with its 3 parts touching each other so that they form a ring."
+   },
+   {
+    "name": "SWIFT ERASURE ",
+    "timing": "Reaction: Opponent declared a SPELL ability",
+    "declare": "",
+    "effect": "Roll a dice for each friendly unit that was picked to be a target of that SPELL ability and that is wholly within 12\" of the Scinari Calligrave in this Regiment of Renown . On a 4+, that SPELL ability has no effect on that unit."
+   },
+   {
+    "name": "ARCANE TAXONOMY ",
+    "timing": "Once Per Turn, Your Movement Phase",
+    "declare": "",
+    "effect": "Remove the Scinari Calligrave in this Regiment of Renown from the battlefield and set it up again on the battlefield wholly within 3\" of a friendly MANIFESTATION and more than 7\" from all enemy units."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 130,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Sky-Port-Profiteers",
+  "name": "Sky-Port Profiteers",
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "SUPPLIES DONT COME CHEAP ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick a visible terrain feature within 18\" of the Codewright in this Regiment of Renown . Each friendly unit wholly within 3\" of that terrain feature is a target.",
+    "effect": "Roll a D3 for each target. On a 2+, Heal (X) the target, where X is an amount equal to the roll."
+   },
+   {
+    "name": "NO ONE RIDES FOR FREE ",
+    "timing": "Your Movement Phase",
+    "declare": "Pick a friendly INFANTRY unit with up to 10 models that is wholly within 9\" of the Codewright in this Regiment of Renown and not in combat to be the target.",
+    "effect": "Remove the target from the battlefield, then set it up again on the battlefield more than 9\" from all enemy units."
+   },
+   {
+    "name": "LONG-RANGE SUPPORT ",
+    "timing": "Your Shooting Phase",
+    "declare": "Pick an objective within 15\" of the Codewright in this Regiment of Renown and that no friendly units are contesting . Each unit contesting that objective is a target.",
+    "effect": "Roll a dice for each target. If the roll exceeds the target’s Health characteristic, inflict an amount of mortal damage on the target equal to the roll."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 350,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "The-Horizon-Seekers",
+  "name": "The Horizon Seekers",
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "HUNTER’S COHESION ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Each time this Regiment of Renown’s Lord-Aquilor uses its ’Ride the Winds Aetheric’ ability, you can pick all units in this Regiment of Renown that are not in combat to be the targets. In addition, add 1 to hit rolls for attacks made by this Regiment of Renown’s Lord-Aquilor and VANGUARD-PALLADORS units that target a HUNTED enemy unit. Designer’s Note: See the ’Astral Compass’ ability on the Vanguard-Hunters warscroll to see how an enemy unit can become Hunted."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 500,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "The-Twisted-Branch",
+  "name": "The Twisted Branch",
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "SEARCHING FOR REMEDIES ",
+    "timing": "Deployment Phase",
+    "declare": "",
+    "effect": "Remove each unit in this Regiment of Renown from the battlefield and set them up again wholly within 6\" of a terrain feature and more than 9\" from all enemy units."
+   },
+   {
+    "name": "SOOTHING PULSE ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick the Branchwych in this Regiment of Renown to cast this spell, pick a visible friendly unit wholly within 12\" of them to be the target, then make a casting roll of 2D6.",
+    "effect": "Heal (3) the target."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 210,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Valnir-s-Stormwing",
+  "name": "Valnir’s Stormwing",
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "HOUR OF RETRIBUTION ",
+    "timing": "Once Per Battle (Army), Your Hero Phase",
+    "declare": "",
+    "effect": "For the rest of the turn: Add 1 to wound rolls for attacks made by units in this Regiment of Renown . Add 1 to save rolls for units in this Regiment of Renown."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 350,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Ven-Denst-s-Hounds",
+  "name": "Ven Denst’s Hounds",
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "SPELL HUNTERS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While both units in this Regiment of Renown are within each other’s combat range , enemy MANIFESTATIONS cannot be set up within 12\" of either of those units."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 230,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Fjori-s-Flamebearers",
+  "name": "Fjori’s Flamebearers",
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "TOE TO TOE ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Subtract 10 from the control scores of enemy MONSTERS while they are in combat with any units in this Regiment of Renown ."
+   },
+   {
+    "name": "GRIMNIR’S DEFIANCE ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Units in this Regiment of Renown cannot be picked to be the target of RAMPAGE abilities used by enemy units."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 420,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Gotrek-Gurnisson",
+  "name": "Gotrek Gurnisson",
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [],
+  "keywords": [],
+  "unit_size": null,
+  "points": 320,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Gotrek-Gurnisson",
+  "name": "Gotrek Gurnisson",
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "grand_alliance": "Order",
+  "move": "4\"",
+  "health": "8",
+  "save": "5+",
+  "control": "2",
+  "ward": "3+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Zangrom-az",
+    "range": "",
+    "attacks": "8",
+    "hit": "2+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "3",
+    "abilities": [
+     "Crit (Mortal)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "UNSTOPPABLE BATTLE FURY ",
+    "timing": "Any Combat Phase",
+    "declare": "",
+    "effect": "is unit can use 2 FIGHT abilities this phase. After the first is used, however, this unit has STRIKE-LAST for the rest of the turn."
+   },
+   {
+    "name": "‘I’LL GET THERE MYSELF!’ ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "This unit cannot be set up in reserve and cannot be targeted by abilities that would remove it from the battleeld."
+   }
+  ],
+  "keywords": [
+   "UNIQUE",
+   "INFANTRY",
+   "HERO",
+   "WARD ( 3+ )",
+   "ORDER",
+   "DUARDIN"
+  ],
+  "unit_size": null,
+  "points": null,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Nurgle-s-Gift",
+  "name": "Nurgle’s Gift",
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "INCUBATION PERIOD ",
+    "timing": "Deployment Phase",
+    "declare": "This ability must be used to deploy this Regiment of Renown .",
+    "effect": "Set up the units in this Regiment of Renown in reserve festering within . They have now been deployed."
+   },
+   {
+    "name": "BURSTING WITH LIFE ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "If a friendly non- NURGLE’S GIFT unit would be destroyed, before the last model is removed from play, roll a dice. Add 1 to the roll for each other friendly non- NURGLE’S GIFT unit that has been destroyed this battle. On a 5+, pick a friendly unit that is festering within and set it up wholly within 6\" of that model. It can be set up in combat ."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 180,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Snerk-s-Trogg-Fer-Hire",
+  "name": "Snerk’s Trogg-Fer-Hire",
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "GO DAT WAY! ",
+    "timing": "Your Charge Phase",
+    "declare": "Pick the Dankhold Troggoth in this Regiment of Renown to be the target if it is within 12\" of the Loonboss in this Regiment of Renown.",
+    "effect": "For the rest of the turn, the target can still use CHARGE abilities even if it used a RETREAT ability in the same turn."
+   },
+   {
+    "name": "TAKTIKAL COWERING ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While the Loonboss in this Regiment of Renown is within the combat range of the Dankhold Troggoth in this Regiment of Renown: That Loonboss has WARD ( 4+ ) . Each time you make a successful ward roll for that Loonboss , allocate 1 damage point to that Dankhold Troggoth after the damage sequence for that Loonboss has been resolved (ward rolls cannot be made for those damage points)."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 220,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Stumblefoot-Gargant",
+  "name": "Stumblefoot Gargant",
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "PROJECTILE VOMIT ",
+    "timing": "Once Per Turn (Army), Your Shooting Phase",
+    "declare": "Pick this unit to use this ability if it has not used a RAMPAGE ability this turn. Then, pick a point on the battlefield within 6\" of this unit and pick all other units (friendly and enemy) within 3\" of that point to be the targets.",
+    "effect": "Roll a D3 for each target. On a 2+, inflict an amount of mortal damage on that target equal to the roll."
+   },
+   {
+    "name": "BELLOWING MOCKERY ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "Pick this unit to use this ability if it has not used a RAMPAGE ability this turn, then pick an enemy unit within this unit’s combat range to be the target.",
+    "effect": "Roll a dice. On a 3+, subtract 1 from hit rolls for the target’s attacks for the rest of the turn."
+   },
+   {
+    "name": "WHAT’RE YOU LOOKIN’ AT? ",
+    "timing": "Once Per Turn (Army), Any Charge Phase",
+    "declare": "Pick this unit to use this ability if it charged this turn and has not used a RAMPAGE ability this turn. Then, pick an enemy unit within 9\" of this unit to be the target.",
+    "effect": "Roll 2D6. This unit can move a number of inches equal to the roll. It can pass through enemy models and must end that move in combat with the target."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 140,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "The-Blacktalons",
+  "name": "The Blacktalons",
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "JUSTICE WILL BE SERVED ",
+    "timing": "Once Per Battle (Army), Any Combat Phase",
+    "declare": "Pick the Neave Blacktalon in this Regiment of Renown to be the target if it is in combat with an enemy HERO .",
+    "effect": "The target can use 2 FIGHT abilities this phase. Each time it does so, if it is in combat with an enemy HERO , all of its attacks must target an enemy HERO . In addition, after the first FIGHT ability is used, the target has STRIKE-LAST for the rest of the turn."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 320,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ }
+]

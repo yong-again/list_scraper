@@ -1,0 +1,110 @@
+[
+ {
+  "page": "Quick Start Guide",
+  "category": "quick_start",
+  "section": "",
+  "text": "/noindex This guide will help you get started with games of Warhammer Age of Sigmar. For more information, see the Core Rules . Warhammer Age of Sigmar battles are played in a series of battle rounds. In each of these, both players have a turn, broken into different phases that must be completed in order."
+ },
+ {
+  "page": "Quick Start Guide",
+  "category": "quick_start",
+  "section": "Rules Reference",
+  "text": "USING ABILITIES Declare the ability Use Reactions : alternate, starting with the active player Resolve the effect A unit cannot use more than 1 CORE ability per phase. Passive abilities are not declared. The effects of passive abilities always apply if the conditions of the ability are met, and they must be applied if it is possible to do so. A unit cannot be affected by the same passive ability more than once at the same time. Commands are abilities that cost command points ( ). You must spend the number of command points specified on a command to use it. Each unit can only use 1 command in each phase, and each command can only be used 1 time by each army in each phase. DEPLOYMENT PHASE In each step, the player who begins deployment uses their abilities first, then their opponent does the same. Deploy faction terrain features using DEPLOY TERRAIN abilities Deploy units using DEPLOY abilities Use Deployment Phase abilities that are not DEPLOY or DEPLOY TERRAIN abilities. Make sure you follow the instructions in the battleplan you are playing when deploying your armies and faction terrain. Deployment Phase DEPLOY UNIT : Additional forces take to the field. Declare: Pick a unit from your army roster that has not been deployed to be the target. Effect: Set up the target unit wholly within friendly territory and more than 9\" from enemy territory. After you have done so, it has been deployed . KEYWORDS DEPLOY Deployment Phase DEPLOY FACTION TERRAIN : The army has taken to the field surrounding an important and powerful landmark. Declare: Pick a friendly faction terrain feature that has not been deployed to be the target. Effect: Set up the target faction terrain feature wholly within friendly territory, more than 3\" from all objectives and other terrain features."
+ },
+ {
+  "page": "Quick Start Guide",
+  "category": "quick_start",
+  "section": "Rules Reference",
+  "text": "Effect: Set up the target faction terrain feature wholly within friendly territory, more than 3\" from all objectives and other terrain features. After you have done so, it has been deployed . KEYWORDS DEPLOY TERRAIN Deployment Phase DEPLOY REGIMENT : A mighty hero leads their retinue into battle. Declare: Pick a regiment from your army roster to be the target. No units in that regiment can have already been deployed . Effect: Keep using DEPLOY abilities without alternating until all units in that regiment have been deployed . You cannot pick units that are not in that regiment as the target of any of those DEPLOY abilities. KEYWORDS DEPLOY A regiment is a collection of units. It is one of the main building blocks of an army (see ‘ Army Composition ’ in the Advanced Rules ). Some factions have special DEPLOY abilities, such as the ‘Scions of the Storm’ ability of the Stormcast Eternals . DEPLOYMENT PHASE (ONE PER BATTLE) BATTLE ROUNDS 1-5 END OF BATTLE"
+ },
+ {
+  "page": "Quick Start Guide",
+  "category": "quick_start",
+  "section": "Start of Turn Abilities",
+  "text": "Once Per Battle Round, Start of Your Turn TACTICAL GAMBIT : You order your troops to seize an opportunity that has arisen amidst the flow of battle. You cannot use this ability if you went second in the previous battle round and chose to go first in the current battle round. Effect: Pick 1 battle tactic that you have not yet attempted. You can attempt to complete that battle tactic this turn. Once Per Turn (Army), Start of Any Turn ACTIVATE PLACE OF POWER : There are many locus points of volcanic magic in Aqshy. From these simmering fonts of passion and fury, one can draw great strength or unleash a dizzying wave of anger that causes spellcasters to lose control of their magic. Declare: Pick a friendly HERO within 3\" of any Places of Power to use this ability. Effect: Roll a dice. On a 1, inflict D3 mortal damage on that HERO . On a 2+, pick 1 of the following effects: Ignite Fury: Gain 2 rage dice , then increase your fury level by 2, to a maximum of 7. Channel Wrath: If that HERO is a WIZARD or PRIEST , add 1 to casting rolls or chanting rolls for that HERO for the rest of the turn. Dizzying Rage: For the rest of the turn, if that HERO is not a WIZARD or PRIEST , they can use the ’ Unbind ’ or ’ Banish Manifestation ’ ability as if they had WIZARD ( 1 ) . KEYWORDS CORE"
+ },
+ {
+  "page": "Quick Start Guide",
+  "category": "quick_start",
+  "section": "Hero Phase Abilities",
+  "text": "Any Hero Phase 1 RALLY : With an inspiring call to action, wounded soldiers get a second wind and fresh troops take the field to replace their fallen comrades. Declare: Pick a friendly unit that is not in combat to use this ability. Effect: Make 6 rally rolls of D6. For each 4+, you receive 1 rally point . Rally points can be spent in the following ways: For each rally point spent, Heal (1) that unit. You can spend a number of rally points equal to the Health characteristic of that unit to return a slain model to that unit. You can spend the rally points in any combination of the above. Unspent rally points are then lost. Enemy Hero Phase 1 MAGICAL INTERVENTION : A warrior learned in the mystic arts utters a rapid incantation to disrupt the enemy’s plans. Declare: Pick a friendly WIZARD or PRIEST to use this ability. Effect: That friendly unit can use a SPELL , PRAYER or BANISH ability (as appropriate) as if it were your hero phase. If you do so, subtract 1 from casting rolls or chanting rolls made as part of that ability. Passive MUSICIAN : The beat of a drum or the blast of a horn drives the soldiers ever onward. Effect: While this unit contains any musicians, if it uses the ‘ Rally ’ command, you can make one additional rally roll of D6. Your Hero Phase BANISH MANIFESTATION : The arcane forces sustaining a manifestation are disrupted. Declare: Pick a friendly WIZARD or PRIEST to use this ability, pick a MANIFESTATION within 30\" of them that was not summoned this turn to be the target, then make a banishment roll of 2D6. Add 1 to the banishment roll for each additional enemy MANIFESTATION on the battlefield after the first. You cannot pick the same MANIFESTATION to be the target of this ability more than once per turn."
+ },
+ {
+  "page": "Quick Start Guide",
+  "category": "quick_start",
+  "section": "Hero Phase Abilities",
+  "text": "You cannot pick the same MANIFESTATION to be the target of this ability more than once per turn. Effect: If the banishment roll equals or exceeds the banishment value listed on the MANIFESTATION ’s warscroll , it is banished and removed from play. KEYWORDS BANISH Reaction: Opponent declared a SPELL ability UNBIND : The wizard saps the energy from an enemy’s spell, nullifying its effects. Used By: A friendly WIZARD within 30\" of the enemy WIZARD casting the spell . Effect: Make an unbinding roll of 2D6. If the roll exceeds the casting roll tor the spell, then the spell is unbound and its effect is not resolved. This reaction cannot be used more than once per casting roll . KEYWORDS UNBIND Your Hero Phase SACRED RITES : The priest focuses on safely setting their ritual into motion. Declare: Pick a friendly PRIEST to use this ability, then make a chanting roll of D6. On an unmodified chanting roll of 1, remove 1 ritual point from that PRIEST instead of D3. Effect: Give a number to ritual points to the PRIEST equal to the unmodified chanting roll and do not reset the PRIEST ’s ritual points to 0. KEYWORDS PRAYER, UNLIMITED"
+ },
+ {
+  "page": "Quick Start Guide",
+  "category": "quick_start",
+  "section": "Movement Phase Abilities",
+  "text": "Your Movement Phase NORMAL MOVE : The warriors advance across the battlefield. Declare: Pick a friendly unit that is not in combat to use this ability. Effect: That unit can move a distance up to its Move characteristic. That unit cannot move into combat during any part of that move. KEYWORDS CORE, MOVE Your Movement Phase RUN : The unit rushes into position. Declare: Pick a friendly unit that is not in combat to use this ability. Effect: Make a run roll of D6. That unit can move a distance up to its Move characteristic added to the run roll . That unit cannot move into combat during any part of that move. KEYWORDS CORE, MOVE, RUN Your Movement Phase RETREAT : The fighters disengage from combat, though at the cost of lowering their defences. Declare: Pick a friendly unit that is in combat to use this ability. Effect: Inflict D3 mortal damage on that unit. That unit can move a distance up to its Move characteristic. That unit can move through the combat ranges of any enemy units but cannot end that move within an enemy unit’s combat range. KEYWORDS CORE, MOVE, RETREAT Enemy Movement Phase 1 REDEPLOY : Taking initiative, the warriors hastily reposition to respond to enemy movements. Declare: Pick a friendly unit that is not in combat to use this ability. Effect: Each model in that unit can move up to D6\". That move cannot pass through or end within the combat range of an enemy unit. KEYWORDS MOVE, RUN Reaction: You declared a RUN ability 1 AT THE DOUBLE : At a command from their general, the warriors sprint to a key position on the battlefield. Used By: The unit using that RUN ability. Effect: Do not make a run roll as part of that RUN ability."
+ },
+ {
+  "page": "Quick Start Guide",
+  "category": "quick_start",
+  "section": "Movement Phase Abilities",
+  "text": "Used By: The unit using that RUN ability. Effect: Do not make a run roll as part of that RUN ability. Instead, add 6\" to that unit’s Move characteristic to determine the distance each model in that unit can move as part of that RUN ability. Passive FLY : Soaring above the battlefield, this unit can reach destinations that are inaccessible to other troops. Effect: As this unit moves, it ignores other models, terrain features and the combat ranges of enemy units. It cannot end its move in combat unless specified in the ability that allowed it to move. Ignore any vertical distance moved for this unit."
+ },
+ {
+  "page": "Quick Start Guide",
+  "category": "quick_start",
+  "section": "Shooting Phase Abilities",
+  "text": "Your Shooting Phase SHOOT : The warriors take aim and unleash a deadly volley. Declare: Pick a friendly unit that has not used a RUN or RETREAT ability this turn to use this ability. Then, pick one or more enemy units as the target(s) of that unit’s attacks ( see 16.0 ). Effect: Resolve shooting attacks against the target unit(s). KEYWORDS CORE, ATTACK, SHOOT Enemy Shooting Phase 1 COVERING FIRE : The warriors unleash a quick volley at a nearby enemy unit before it charges into combat. Declare: Pick a friendly unit that did not use a RUN ability this turn and that is not in combat to use this ability, then pick the closest enemy unit (to that unit) that can be picked as the target of shooting attacks to be the target. You cannot pick MANIFESTATIONS or faction terrain features as the target of this ability. Effect: Resolve shooting attacks for the unit using this ability against the target. You must subtract 1 from the hit rolls for those attacks. KEYWORDS SHOOT, ATTACK"
+ },
+ {
+  "page": "Quick Start Guide",
+  "category": "quick_start",
+  "section": "Charge Phase Abilities",
+  "text": "Your Charge Phase CHARGE : With a mighty battle cry, the warriors charge into combat with the enemy. Declare: Pick a friendly unit that is not in combat and has not used a RUN or RETREAT ability this turn to use this ability. Then, make a charge roll of 2D6. Effect: That unit can move a distance up to the value of the charge roll . That unit can move through the combat ranges of any enemy units and must end that move within 1/2\" of a visible enemy unit. If it does so, the unit using this ability has charged . KEYWORDS CORE, MOVE, CHARGE Enemy Charge Phase 2 COUNTER-CHARGE : Seeing the need for decisive action, the warriors charge forth to stall the enemy’s advance or enact a bold interception. Declare: Pick a friendly unit that is not in combat to use this ability. Effect: That unit can use a CHARGE ability as if it were your charge phase. Reaction: You declared a CHARGE ability 1 FORWARD TO VICTORY : With their charge faltering, a rousing command gives the unit renewed energy to reach their foes. Used By: The unit using that CHARGE ability. Effect: You can re-roll the charge roll ."
+ },
+ {
+  "page": "Quick Start Guide",
+  "category": "quick_start",
+  "section": "Combat Phase Abilities",
+  "text": "Any Combat Phase FIGHT : Locked in a deadly melee, the fighters strike out at their foes. Declare: Pick a friendly unit that is in combat or that charged this turn to use this ability. That unit can make a pile-in move ( see 15.3 ). Then, if that unit is in combat , you must pick one or more enemy units as the target(s) of that unit’s attacks ( see 16.0 ). Effect: Resolve combat attacks against the target unit(s). KEYWORDS CORE, ATTACK, FIGHT Passive CHAMPION : A veteran fighter leads the charge. Effect: Add 1 to the Attacks characteristic of weapons used by champions in this unit. If this unit is a BEAST , this ability affects this unit’s Companion weapons."
+ },
+ {
+  "page": "Quick Start Guide",
+  "category": "quick_start",
+  "section": "End of Turn Abilities",
+  "text": "Passive STANDARD BEARER : The unit’s standard provides a rallying point in the chaos of battle. Effect: While this unit contains any standard bearers, add 1 to this unit’s control score . End of Any Turn 1 POWER THROUGH : The warriors use their sheer mass or resilience to drive through a group of weaker foes, leaving broken bodies in their wake. Declare: Pick a friendly unit that charged this turn to use this ability, then you must pick an enemy unit in combat with it to be the target. The target must have a lower Health characteristic than the unit using this ability. Effect: Inflict D3 mortal damage on the target. Then, the unit using this ability can move a distance up to its Move characteristic. It can pass through and end that move within the combat ranges of enemy units that were in combat with it at the start of the move, but not those of other enemy units. It does not have to end the move in combat. KEYWORDS MOVE"
+ },
+ {
+  "page": "Quick Start Guide",
+  "category": "quick_start",
+  "section": "Attacking Abilities",
+  "text": "Reaction: You declared an ATTACK ability 1 ALL-OUT ATTACK : The warriors fight with a frenzied vigour. Used By: The unit using that ATTACK ability. Effect: Add 1 to hit rolls for attacks made as part of that ATTACK ability. This also affects weapons that have the Companion weapon ability. For the rest of the turn, subtract 1 from save rolls for the unit using this ability."
+ },
+ {
+  "page": "Quick Start Guide",
+  "category": "quick_start",
+  "section": "Defensive Abilities",
+  "text": "Reaction: Opponent declared an ATTACK ability 1 ALL-OUT DEFENCE : The soldiers close ranks to hold off an incoming attack. Used By: A unit targeted by that ATTACK ability. Effect: Add 1 to save rolls for that unit until that ATTACK ability has been resolved. Passive WARD SAVE : Whether through their uncanny reflexes, unnatural toughness or a source of mystical protection, these warriors can avoid otherwise lethal attacks. Effect: In step 1 of the damage sequence ( see 18.0 ), make a ward roll of D6 for each damage point in this unit’s damage pool . If the roll equals or exceeds this unit’s ward value , remove that damage point from the damage pool. Passive GUARDED HERO : The leader is shielded by their warriors, who close ranks around them to protect them from harm. Effect: If this HERO (not MONSTER or WAR MACHINES ) is within the combat range of a friendly unit that is not a HERO : Subtract 1 from hit rolls for shooting attacks that target this HERO . If this HERO is INFANTRY , they cannot be picked as the target of shooting attacks made by models more than 12\" from them."
+ },
+ {
+  "page": "Quick Start Guide",
+  "category": "quick_start",
+  "section": "Defensive Abilities > Rules Reference",
+  "text": "START OF BATTLE ROUND Determine the Active Player: If it is the first battle round, the player who finished setting up their army first decides who will take the first turn (unless otherwise specified). If it is not the first battle round, the players make a roll-off called the priority roll and the winner decides who will take the first turn. If the roll-off is a tie , the player who took the first turn in the previous battle round decides who will take the first turn in the current battle round. When it is a player’s turn, regardless of whether they take the first or second turn, they are referred to as the active player . Determine the Underdog: Whichever player has the fewest victory points is the underdog for the battle round. If tied, there is no underdog, unless otherwise specified. Earn Command Points (see Commands 1.1 ): At the start of each battle round, after determining the underdog, each player gains 4 command points . If there is an underdog , they gain 1 extra command point . At the end of the battle round, the players’ command points are reset to 0 (any that have not been used are lost). Start of Battle Round Abilities: The active player can use any Start of Battle Round abilities, then their opponent can do the same. UNIVERSAL WEAPON ABILITIES Anti-X (+1 Rend): Add 1 to this weapon’s Rend characteristic if the target has the keyword after ‘ Anti- ’ or fulfils the condition after ‘ Anti- ’. Multiples of this ability are cumulative. For example, if a weapon has both Anti-charge (+1 Rend) and Anti- HERO (+1 Rend) , then add 2 to the Rend characteristic of the weapon for attacks that target a HERO that charged in the same turn. Charge (+1 Damage): Add 1 to this weapon’s Damage characteristic if the attacking unit charged this turn."
+ },
+ {
+  "page": "Quick Start Guide",
+  "category": "quick_start",
+  "section": "Defensive Abilities > Rules Reference",
+  "text": "Charge (+1 Damage): Add 1 to this weapon’s Damage characteristic if the attacking unit charged this turn. Companion: Unless otherwise specified, attacks made by this weapon are not affected by friendly abilities that modify hit rolls , wound rolls or weapon characteristics, except for those that apply negative modifiers (e.g. ‘ Covering Fire ’). Crit (2 Hits): If an attack made with this weapon scores a critical hit , that attack scores 2 hits on the target unit instead of 1. Make a wound roll for each hit. Crit (Auto-wound): If an attack made with this weapon scores a critical hit , that attack automatically wounds the target. Make a save roll as normal. Crit (Mortal): If an attack made with this weapon scores a critical hit , that attack inflicts mortal damage on the target unit equal to the Damage characteristic of that weapon and the attack sequence ends. Shoot in Combat: This weapon can be used to make shooting attacks even if the attacking unit is in combat. UNIVERSAL TERRAIN ABILITIES Cover: Subtract 1 from hit rolls for attacks that target a unit that is behind or wholly on this terrain feature, unless that unit charged this turn or has the FLY keyword. Impassable: Models cannot move across, be set up on or end moves on any part of this terrain feature. Obscuring: While every model in a non- MONSTER non‐ WAR MACHINE unit that does not have the FLY keyword is within 1\" of this terrain feature , the following apply: That unit is only visible to enemy units that are within its combat range . The Range characteristic of that unit’s ranged weapons is halved (rounding down to the nearest inch). Place of Power: HEROES within 3\" of this terrain feature can use the ‘ Activate Place of Power ’ ability."
+ },
+ {
+  "page": "Quick Start Guide",
+  "category": "quick_start",
+  "section": "Defensive Abilities > Rules Reference",
+  "text": "Place of Power: HEROES within 3\" of this terrain feature can use the ‘ Activate Place of Power ’ ability. Unstable: Models can move across but cannot be set up on or end any type of move on any part of this terrain feature that is more than 1\" tall."
+ },
+ {
+  "page": "Quick Start Guide",
+  "category": "quick_start",
+  "section": "Defensive Abilities > OBJECTIVE CONTROL",
+  "text": "An objective marker is a 40mm round marker. A model contests an objective if the objective marker is within its combat range . A player gains control of an objective if the sum of the Control characteristics of friendly models contesting that objective is higher than that of enemy models. Check if you gain control of objectives at the start of the first battle round and at the end of each turn. An objective remains in your control until your opponent gains control of it. Terrain features are controlled in the same way as objective markers but do not remain in your control if no friendly models are contesting them. noindex /noindex noindex"
+ }
+]

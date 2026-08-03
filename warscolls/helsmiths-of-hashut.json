@@ -1,0 +1,2105 @@
+[
+ {
+  "id": "Ashen-Elder",
+  "name": "Ashen Elder",
+  "faction": "Helsmiths of Hashut",
+  "faction_slug": "helsmiths-of-hashut",
+  "grand_alliance": "Chaos",
+  "move": "4\"",
+  "health": "6",
+  "save": "4+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Black Hammer of Hashut",
+    "range": "",
+    "attacks": "3",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "EXTRACT POWER ",
+    "timing": "End of Your Turn",
+    "declare": "",
+    "effect": "If this unit is contesting an objective , a Place of Power , or a terrain feature and that objective, Place of Power or terrain feature has a friendly desolation token, give this unit 1 ritual point ."
+   },
+   {
+    "name": "STOKED FANATICISM ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Ignore the first damage point allocated to each friendly non- HOBGROT HELSMITHS OF HASHUT unit each phase while it is wholly within 6\" of this unit. Add 6\" to the range of this ability for each daemonic power point this unit has."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "PRIEST ( 1 )",
+   "INFANTRY",
+   "CHAOS",
+   "HELSMITHS OF HASHUT",
+   "DUARDIN"
+  ],
+  "unit_size": 1,
+  "points": 120,
+  "base_size": "32mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Hashutite Commander , Any HELSMITHS OF HASHUT"
+ },
+ {
+  "id": "Daemonsmith",
+  "name": "Daemonsmith",
+  "faction": "Helsmiths of Hashut",
+  "faction_slug": "helsmiths-of-hashut",
+  "grand_alliance": "Chaos",
+  "move": "4\"",
+  "health": "6",
+  "save": "4+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Hurled Daemonfire",
+    "range": "18\"",
+    "attacks": "3",
+    "hit": "4+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": [
+     "Crit (2 Hits) , Shoot in Combat"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Darkiron Talon",
+    "range": "",
+    "attacks": "3",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "MOLTEN MENDING ",
+    "timing": "Once Per Turn (Army), Your Hero Phase",
+    "declare": "Pick a friendly HELSMITHS OF HASHUT WAR MACHINE wholly within 6\" of this unit to be the target. Add 6\" to the range of this ability for each daemonic power point this unit has.",
+    "effect": "Heal (D3+X) the target, where X is the number of daemonic power points this unit has."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "WIZARD ( 1 )",
+   "INFANTRY",
+   "CHAOS",
+   "HELSMITHS OF HASHUT",
+   "DUARDIN"
+  ],
+  "unit_size": 1,
+  "points": 80,
+  "base_size": "32mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Hashutite Commander , Any HELSMITHS OF HASHUT"
+ },
+ {
+  "id": "War-Despot",
+  "name": "War Despot",
+  "faction": "Helsmiths of Hashut",
+  "faction_slug": "helsmiths-of-hashut",
+  "grand_alliance": "Chaos",
+  "move": "4\"",
+  "health": "6",
+  "save": "3+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Daemonflame Glaive",
+    "range": "",
+    "attacks": "5",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Crit (Mortal)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "BLACK-HEARTED CONQUEROR ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Add 3 to the control scores of friendly HELSMITHS OF HASHUT INFANTRY units while they are wholly within 6\" of this unit. Add 6\" to the range of this ability for each daemonic power point this unit has."
+   },
+   {
+    "name": "’FIGHT, YOU SCUM!\" ",
+    "timing": "Reaction: You declared a FIGHT ability for this unit",
+    "declare": "",
+    "effect": "Pick a friendly non- HERO HELSMITHS OF HASHUT INFANTRY unit that has not used a FIGHT ability this turn and is within this unit’s combat range to be the target. The target can be picked to use a FIGHT ability immediately after the FIGHT ability used by this unit has been resolved. If it is picked to do so, add 1 to the Attacks characteristic of its melee weapons for the rest of the turn."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "INFANTRY",
+   "CHAOS",
+   "HELSMITHS OF HASHUT",
+   "DUARDIN"
+  ],
+  "unit_size": 1,
+  "points": 80,
+  "base_size": "32mm",
+  "can_be_reinforced": false,
+  "regiment_options": "Any HELSMITHS OF HASHUT Notes: This HERO can join an eligible regiment as a Hashutite Commander ."
+ },
+ {
+  "id": "Scourge-of-Ghyran-War-Despot",
+  "name": "Scourge of Ghyran War Despot",
+  "faction": "Helsmiths of Hashut",
+  "faction_slug": "helsmiths-of-hashut",
+  "grand_alliance": "Chaos",
+  "move": "4\"",
+  "health": "6",
+  "save": "3+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Daemonflame Glaive",
+    "range": "",
+    "attacks": "5",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Crit (Mortal)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "DAEMONFIRE PISTOL ",
+    "timing": "Once Per Turn (Army), Your Movement Phase",
+    "declare": "Pick a visible enemy unit within 12\" of this unit to be the enemy target. Then, you can pick a friendly HELSMITHS OF HASHUT INFANTRY unit in combat with the enemy target to be the friendly target.",
+    "effect": "Roll a D3. On a 2+, inflict an amount of mortal damage on the enemy target equal to the roll. If there is a friendly target, for the rest of the turn: It can use a RETREAT ability and still use SHOOT and/or CHARGE abilities later in the turn. Add 2\" to the distance it can move when using RETREAT abilities. No mortal damage is inflicted on it by RETREAT abilities."
+   },
+   {
+    "name": "TRIUMPH OR PERISH, YOU VERMIN! ",
+    "timing": "Reaction: Passive",
+    "declare": "",
+    "effect": "While this unit has any daemonic power points , friendly non- HOBGROT HELSMITHS OF HASHUT units, excluding War Despots , with 0 daemonic power points count as having 1 daemonic power point while they are wholly within 9\" of and visible to this unit. Add 3\" to the range of this ability while this unit has 2 daemonic power points . Add 6\" to the range of this ability instead while this unit has 3 daemonic power points . Designer’s Note: If a friendly unit with 0 daemonic power points is affected by this ability and subsequently gains 1 or more daemonic power points, this ability would stop affecting that unit. Also, Urak Taar’s ‘Master of Daemonic Power’ ability has no effect on units affected by this ability."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "INFANTRY",
+   "CHAOS",
+   "HELSMITHS OF HASHUT",
+   "DUARDIN"
+  ],
+  "unit_size": 1,
+  "points": 130,
+  "base_size": "32mm",
+  "can_be_reinforced": true,
+  "regiment_options": "Any HELSMITHS OF HASHUT Notes: This HERO can join an eligible regiment as a Hashutite Commander . This unit is legal for Matched Play for battles fought using the General’s Handbook 2025-26 battlepack."
+ },
+ {
+  "id": "Daemonsmith-on-Infernal-Taurus",
+  "name": "Daemonsmith on Infernal Taurus",
+  "faction": "Helsmiths of Hashut",
+  "faction_slug": "helsmiths-of-hashut",
+  "grand_alliance": "Chaos",
+  "move": "10\"",
+  "health": "15",
+  "save": "3+",
+  "control": "5",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Hurled Daemonfire",
+    "range": "18\"",
+    "attacks": "3",
+    "hit": "4+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": [
+     "Crit (2 Hits) , Shoot in Combat"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Infernal Staff",
+    "range": "",
+    "attacks": "3",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": []
+   },
+   {
+    "name": "Horns and Hooves",
+    "range": "",
+    "attacks": "6",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "3",
+    "abilities": [
+     "Charge (+1 Damage) , Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "BATTLE DAMAGED",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit has 10 or more damage points, the Attacks characteristic of its Horns and Hooves is 4."
+   },
+   {
+    "name": "UNHOLY STAMPEDE ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While a friendly HELSMITHS OF HASHUT CAVALRY unit is wholly within 12\" of this unit: That unit can use a RETREAT ability and still use CHARGE abilities later in the turn. No mortal damage is inflicted on that unit by RETREAT abilities."
+   },
+   {
+    "name": "DAEMONIC RESILIENCE ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Apply the effect below that corresponds with the number of daemonic power points (DPP) this unit has: DPP Effect 1 This unit has WARD ( 6+ ) . 2 This unit has WARD ( 5+ ) . 3 This unit has WARD ( 4+ ) against damage inflicted by SPELLS , PRAYERS and abilities used by MANIFESTATIONS . Otherwise, it has WARD ( 5+ ) ."
+   },
+   {
+    "name": "IMMOLATING PRESENCE ",
+    "timing": "Once Per Turn (Army), End of Any Turn",
+    "declare": "Pick an enemy unit in combat with this unit to be the target.",
+    "effect": "Roll a dice. If the roll exceeds the target’s Health characteristic, 1 model in the target unit is slain."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "MONSTER",
+   "WAR MACHINE",
+   "WIZARD ( 1 )",
+   "FLY",
+   "CHAOS",
+   "HELSMITHS OF HASHUT",
+   "DUARDIN"
+  ],
+  "unit_size": 1,
+  "points": 290,
+  "base_size": "130mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Hashutite Commander , Any HELSMITHS OF HASHUT"
+ },
+ {
+  "id": "Urak-Taar-the-First-Daemonsmith",
+  "name": "Urak Taar the First Daemonsmith",
+  "faction": "Helsmiths of Hashut",
+  "faction_slug": "helsmiths-of-hashut",
+  "grand_alliance": "Chaos",
+  "move": "10\"",
+  "health": "16",
+  "save": "3+",
+  "control": "5",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Ruinous Torrents",
+    "range": "18\"",
+    "attacks": "6",
+    "hit": "4+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": [
+     "Crit (2 Hits) , Shoot in Combat"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Dumakaz",
+    "range": "",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": []
+   },
+   {
+    "name": "Ghorrakos’s Horns and Hooves",
+    "range": "",
+    "attacks": "6",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "3",
+    "abilities": [
+     "Charge (+1 Damage) , Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "BATTLE DAMAGED",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit has 10 or more damage points, the Attacks characteristic of Ghorrakos’s Horns and Hooves is 4."
+   },
+   {
+    "name": "PEERLESS AMONG DAEMONSMITHS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Apply the effect below that corresponds with the number of daemonic power points (DPP) this unit has: DPP Effect 1 This unit has WARD ( 6+ ) . 2 Add 1 to casting rolls for this unit. In addition, this unit has WARD ( 5+ ) . 3 Add 2 to casting rolls for this unit. In addition, this unit has WARD ( 4+ ) against damage inflicted by SPELLS , PRAYERS and abilities used by MANIFESTATIONS . Otherwise, it has WARD ( 5+ ) ."
+   },
+   {
+    "name": "THE CURSE OF STONE ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick a point on the battlefield within 9\" of this unit, then pick a second point on the battlefield within 9\" of the first point. Draw a line between the caster and the first point, and between the first and second points. Each enemy unit the lines pass across is a target. Then, make a casting roll of 2D6.",
+    "effect": "Roll a D3 for each target. On a 2+, inflict an amount of mortal damage on the target equal to the roll."
+   },
+   {
+    "name": "PITILESS TRAMPLING ",
+    "timing": "Once Per Turn (Army), Any Charge Phase",
+    "declare": "If this unit charged this phase, pick an enemy unit within 1\" of it to be the target.",
+    "effect": "Inflict D3 mortal damage on the target. Then, roll 2D6. This unit can move a distance up to the value of the roll. During that move, this unit can pass through models in the target unit but must end that move in combat ."
+   },
+   {
+    "name": "MASTER OF DAEMONIC POWER ",
+    "timing": "Enemy Hero Phase",
+    "declare": "",
+    "effect": "Remove up to 3 daemonic power points in total from any combination of friendly units wholly within 18\" of this unit. Then, allocate them to a different friendly non- HOBGROT HELSMITHS OF HASHUT unit wholly within 18\" of this unit."
+   }
+  ],
+  "keywords": [
+   "WARMASTER",
+   "UNIQUE",
+   "HERO",
+   "MONSTER",
+   "WAR MACHINE",
+   "WIZARD ( 2 )",
+   "FLY",
+   "CHAOS",
+   "HELSMITHS OF HASHUT",
+   "DUARDIN"
+  ],
+  "unit_size": 1,
+  "points": 340,
+  "base_size": "130mm",
+  "can_be_reinforced": false,
+  "regiment_options": "Any Hashutite Commander , Any HELSMITHS OF HASHUT"
+ },
+ {
+  "id": "Scourge-of-Aqshy-Daemonsmith-on-Infernal-Taurus",
+  "name": "Scourge of Aqshy Daemonsmith on Infernal Taurus",
+  "faction": "Helsmiths of Hashut",
+  "faction_slug": "helsmiths-of-hashut",
+  "grand_alliance": "Chaos",
+  "move": "10\"",
+  "health": "15",
+  "save": "3+",
+  "control": "5",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Hurled Daemonfire",
+    "range": "18\"",
+    "attacks": "3",
+    "hit": "4+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": [
+     "Crit (2 Hits) , Shoot in Combat"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Infernal Staff",
+    "range": "",
+    "attacks": "3",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": []
+   },
+   {
+    "name": "Horns and Hooves",
+    "range": "",
+    "attacks": "6",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "3",
+    "abilities": [
+     "Charge (+1 Damage) , Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "BATTLE DAMAGED",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit has 10 or more damage points, the Attacks characteristic of its Horns and Hooves is 4."
+   },
+   {
+    "name": "LEECH REALM-MAGIC ",
+    "timing": "Once Per Turn (Army), Your Hero Phase",
+    "declare": "",
+    "effect": "Add 1 to casting rolls and unbinding rolls for this unit until the start of your next turn. You can pick an objective or terrain feature that has a friendly desolation token and that this unit is contesting . If you do so, add 1 to this unit’s power level for the rest of the battle, then remove that desolation token from the battlefield. This unit can be affected by this ability multiple times and the effects are cumulative."
+   },
+   {
+    "name": "DAEMONIC RESILIENCE ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Apply the effect below that corresponds with the number of daemonic power points (DPP) this unit has: DPP Effect 1 This unit has WARD ( 6+ ) . 2 This unit has WARD ( 5+ ) . 3 This unit has WARD ( 4+ ) against damage inflicted by SPELLS , PRAYERS and abilities used by MANIFESTATIONS . Otherwise, it has WARD ( 5+ ) ."
+   },
+   {
+    "name": "CALAMITOUS SHOCKWAVE ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "Pick up to 3 enemy units in combat with this unit to be the targets.",
+    "effect": "Roll a dice for each target. If the roll is lower than your fury level , for the rest of the turn: The target cannot use the ‘ Eruption of Fury ’ ability. When resolving the damage sequence for the target, your opponent cannot spend rage dice as part of the ‘ Fight Through the Pain ’ ability. Add 1 to the Rend characteristic of weapons used for attacks that target that enemy unit."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "MONSTER",
+   "WAR MACHINE",
+   "WIZARD ( 1 )",
+   "FLY",
+   "CHAOS",
+   "HELSMITHS OF HASHUT",
+   "DUARDIN"
+  ],
+  "unit_size": 1,
+  "points": 350,
+  "base_size": "130mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Hashutite Commander , Any HELSMITHS OF HASHUT Notes: his unit is legal for Matched Play for battles fought using the General’s Handbook 2026-27 battlepack."
+ },
+ {
+  "id": "Anointed-Sentinels",
+  "name": "Anointed Sentinels",
+  "faction": "Helsmiths of Hashut",
+  "faction_slug": "helsmiths-of-hashut",
+  "grand_alliance": "Chaos",
+  "move": "10\"",
+  "health": "4",
+  "save": "4+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Thrice-cursed Glaive",
+    "range": "",
+    "attacks": "3",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Anti- CAVALRY (+1 Rend) , Charge (+1 Damage)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "ZEALOUS COUNTER-ATTACK ",
+    "timing": "Reaction: You declared the ‘ Counter-charge ’ command for this unit",
+    "declare": "",
+    "effect": "This unit has STRIKE-FIRST for the rest of the turn."
+   },
+   {
+    "name": "CRUSH THE UNWORTHY ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Add 1 to charge rolls for this unit for each daemonic power point it has."
+   }
+  ],
+  "keywords": [
+   "CAVALRY",
+   "CHAMPION",
+   "CHAOS",
+   "HELSMITHS OF HASHUT",
+   "DUARDIN"
+  ],
+  "unit_size": 3,
+  "points": 130,
+  "base_size": "75 × 42mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Bull-Centaurs",
+  "name": "Bull Centaurs",
+  "faction": "Helsmiths of Hashut",
+  "faction_slug": "helsmiths-of-hashut",
+  "grand_alliance": "Chaos",
+  "move": "10\"",
+  "health": "4",
+  "save": "4+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Brazen Mauls",
+    "range": "",
+    "attacks": "4",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Charge (+1 Damage) , Crit (Mortal)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "BULL-CHARGE ",
+    "timing": "Any Charge Phase",
+    "declare": "If this unit charged this turn, pick a visible enemy unit within 1\" of it to be the target.",
+    "effect": "Roll a dice for each model in this unit. Add the number of daemonic power points this unit has to each roll. For each 6+, inflict 1 mortal damage on the target."
+   },
+   {
+    "name": "CRUSH THE UNWORTHY ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Add 1 to charge rolls for this unit for each daemonic power point it has."
+   }
+  ],
+  "keywords": [
+   "CAVALRY",
+   "CHAMPION",
+   "CHAOS",
+   "HELSMITHS OF HASHUT",
+   "DUARDIN"
+  ],
+  "unit_size": 3,
+  "points": 190,
+  "base_size": "75 × 42mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Scourge-of-Aqshy-Anointed-Sentinels",
+  "name": "Scourge of Aqshy Anointed Sentinels",
+  "faction": "Helsmiths of Hashut",
+  "faction_slug": "helsmiths-of-hashut",
+  "grand_alliance": "Chaos",
+  "move": "10\"",
+  "health": "4",
+  "save": "4+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Thrice-cursed Glaive",
+    "range": "",
+    "attacks": "3",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Anti- CAVALRY (+1 Rend) , Charge (+1 Damage)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "ZEALOUS ACOLYTES ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Add 1 to the Attacks characteristic of this unit’s melee weapons while it is contesting an objective you do not control . Add 10 to this unit’s control score while it is contesting an objective you control."
+   },
+   {
+    "name": "DAEMONIC RESILIENCE ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Apply the effect below that corresponds with the number of daemonic power points (DPP) this unit has: DPP Effect 1 This unit has WARD ( 6+ ) . 2 This unit has WARD ( 5+ ) . 3 This unit has WARD ( 4+ ) against damage inflicted by SPELLS , PRAYERS and abilities used by MANIFESTATIONS . Otherwise, it has WARD ( 5+ ) ."
+   }
+  ],
+  "keywords": [
+   "CAVALRY",
+   "CHAMPION",
+   "CHAOS",
+   "HELSMITHS OF HASHUT",
+   "DUARDIN"
+  ],
+  "unit_size": 3,
+  "points": 170,
+  "base_size": "75 × 42mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Hobgrotz-Vandalz",
+  "name": "Hobgrotz Vandalz",
+  "faction": "Helsmiths of Hashut",
+  "faction_slug": "helsmiths-of-hashut",
+  "grand_alliance": "Chaos",
+  "move": "5\"",
+  "health": "1",
+  "save": "5+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Scavenged Weapons",
+    "range": "",
+    "attacks": "2",
+    "hit": "4+",
+    "wound": "5+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "DISPOSABLE LACKEYS ",
+    "timing": "Deployment Phase",
+    "declare": "",
+    "effect": "This unit can immediately use the ‘ Normal Move ’ ability as if it were your movement phase."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "CHAMPION",
+   "MUSICIAN ( 1/10 )",
+   "STANDARD BEARER ( 1/10 )",
+   "CHAOS",
+   "HELSMITHS OF HASHUT",
+   "HOBGROT"
+  ],
+  "unit_size": 10,
+  "points": 70,
+  "base_size": "25mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Infernal-Cohort-with-Hashutite-Blades",
+  "name": "Infernal Cohort with Hashutite Blades",
+  "faction": "Helsmiths of Hashut",
+  "faction_slug": "helsmiths-of-hashut",
+  "grand_alliance": "Chaos",
+  "move": "4\"",
+  "health": "1",
+  "save": "3+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Hashutite Blade",
+    "range": "",
+    "attacks": "2",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": [
+     "Anti- INFANTRY (+1 Rend)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "SACRED GONGS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "This unit’s Gong Carriers are tokens. There is 1 Gong Carrier for every MUSICIAN in this unit. If this unit uses the ‘ Rally ’ command, as a reaction, you can remove a Gong Carrier to make an additional rally roll of D6."
+   },
+   {
+    "name": "DISCIPLINED MARCH ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "When making run rolls for this unit, if you roll a 1-3, you can use a value of 4 instead."
+   },
+   {
+    "name": "DAEMONIC RESILIENCE ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Apply the effect below that corresponds with the number of daemonic power points (DPP) this unit has: DPP Effect 1 This unit has WARD ( 6+ ) . 2 This unit has WARD ( 5+ ) . 3 This unit has WARD ( 4+ ) against damage inflicted by SPELLS , PRAYERS and abilities used by MANIFESTATIONS . Otherwise, it has WARD ( 5+ ) ."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "CHAMPION",
+   "MUSICIAN ( 1/10 )",
+   "STANDARD BEARER ( 1/10 )",
+   "CHAOS",
+   "HELSMITHS OF HASHUT",
+   "DUARDIN"
+  ],
+  "unit_size": 10,
+  "points": 90,
+  "base_size": "28.5mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Infernal-Cohort-with-Hashutite-Spears",
+  "name": "Infernal Cohort with Hashutite Spears",
+  "faction": "Helsmiths of Hashut",
+  "faction_slug": "helsmiths-of-hashut",
+  "grand_alliance": "Chaos",
+  "move": "4\"",
+  "health": "1",
+  "save": "3+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Hashutite Spear",
+    "range": "",
+    "attacks": "2",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": [
+     "Anti- CAVALRY (+1 Rend) , Anti-charge (+1 Rend)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "SACRED GONGS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "This unit’s Gong Carriers are tokens. There is 1 Gong Carrier for every MUSICIAN in this unit. If this unit uses the ‘ Rally ’ command, as a reaction, you can remove a Gong Carrier to make an additional rally roll of D6."
+   },
+   {
+    "name": "CONQUERED LANDS ",
+    "timing": "Your Hero Phase",
+    "declare": "If this unit is contesting an objective you control, pick a friendly non- HOBGROT HELSMITHS OF HASHUT unit wholly within 12\" of this unit to be the target.",
+    "effect": "Roll a dice. On a 3+, give the target 1 daemonic power point . Designer’s Note: You cannot make more than one roll for each objective in each turn regardless of how many friendly units with this ability are contesting that objective."
+   },
+   {
+    "name": "DAEMONIC RESILIENCE ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Apply the effect below that corresponds with the number of daemonic power points (DPP) this unit has: DPP Effect 1 This unit has WARD ( 6+ ) . 2 This unit has WARD ( 5+ ) . 3 This unit has WARD ( 4+ ) against damage inflicted by SPELLS , PRAYERS and abilities used by MANIFESTATIONS . Otherwise, it has WARD ( 5+ ) ."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "CHAMPION",
+   "MUSICIAN ( 1/10 )",
+   "STANDARD BEARER ( 1/10 )",
+   "CHAOS",
+   "HELSMITHS OF HASHUT",
+   "DUARDIN"
+  ],
+  "unit_size": 10,
+  "points": 90,
+  "base_size": "28.5mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Infernal-Razers-with-Blunderbusses",
+  "name": "Infernal Razers with Blunderbusses",
+  "faction": "Helsmiths of Hashut",
+  "faction_slug": "helsmiths-of-hashut",
+  "grand_alliance": "Chaos",
+  "move": "4\"",
+  "health": "1",
+  "save": "4+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Grizmalok Blunderbusses",
+    "range": "18\"",
+    "attacks": "1",
+    "hit": "3+",
+    "wound": "2+",
+    "rend": "-",
+    "damage": "2",
+    "abilities": []
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Weapon Butt",
+    "range": "",
+    "attacks": "1",
+    "hit": "4+",
+    "wound": "4+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "HATEFUL HAIL ",
+    "timing": "Once Per Turn (Army), Your Shooting Phase",
+    "declare": "If this unit used a SHOOT ability this turn and all of its attacks targeted the same enemy unit, that enemy unit is the target.",
+    "effect": "Roll a dice and add the number of enemy models in the target unit slain by attacks made by this unit this turn. If the result is 6+, the target has STRIKE-LAST for the rest of the turn."
+   },
+   {
+    "name": "MANGLERS OF METAL ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Add 1 to the Rend characteristic of this unit’s ranged weapons for each daemonic power point this unit has."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "CHAMPION",
+   "CHAOS",
+   "HELSMITHS OF HASHUT",
+   "DUARDIN"
+  ],
+  "unit_size": 5,
+  "points": 110,
+  "base_size": "28.5mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Infernal-Razers-with-Flamehurlers",
+  "name": "Infernal Razers with Flamehurlers",
+  "faction": "Helsmiths of Hashut",
+  "faction_slug": "helsmiths-of-hashut",
+  "grand_alliance": "Chaos",
+  "move": "4\"",
+  "health": "1",
+  "save": "4+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Karagthrun Flamehurlers",
+    "range": "12\"",
+    "attacks": "3",
+    "hit": "2+",
+    "wound": "4+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": [
+     "Shoot in Combat"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Weapon Butt",
+    "range": "",
+    "attacks": "1",
+    "hit": "4+",
+    "wound": "4+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "SCORCHED REMAINS ",
+    "timing": "Once Per Turn (Army), Your Shooting Phase",
+    "declare": "If this unit used a SHOOT ability this turn and all of its attacks targeted the same enemy INFANTRY unit, that enemy unit is the target.",
+    "effect": "Roll a dice. On a 3+, subtract an amount equal to the roll from the target’s control score until the start of your next turn."
+   },
+   {
+    "name": "MANGLERS OF METAL ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Add 1 to the Rend characteristic of this unit’s ranged weapons for each daemonic power point this unit has."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "CHAMPION",
+   "CHAOS",
+   "HELSMITHS OF HASHUT",
+   "DUARDIN"
+  ],
+  "unit_size": 5,
+  "points": 90,
+  "base_size": "28.5mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Scourge-of-Ghyran-Infernal-Cohort-with-Hashutite-Blades",
+  "name": "Scourge of Ghyran Infernal Cohort with Hashutite Blades",
+  "faction": "Helsmiths of Hashut",
+  "faction_slug": "helsmiths-of-hashut",
+  "grand_alliance": "Chaos",
+  "move": "4\"",
+  "health": "1",
+  "save": "3+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Hashutite Blade",
+    "range": "",
+    "attacks": "2",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": [
+     "Anti- INFANTRY (+1 Rend)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "SACRED GONGS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "This unit’s Gong Carriers are tokens. There is 1 Gong Carrier for every musician in this unit. If this unit uses the ‘ Rally ’ command, make 2 additional rally rolls of D6 for each Gong Carrier in this unit, but for each unmodified rally roll of 1, you must remove a Gong Carrier from this unit after the command has been resolved."
+   },
+   {
+    "name": "TAKE UP THEIR ARMS ",
+    "timing": "Once Per Turn (Army), End of Any Turn",
+    "declare": "Pick another visible friendly non- HOBGROT HELSMITHS OF HASHUT INFANTRY unit, Deathshrieker Rocket Battery or Tormentor Bombard within 12\" of this unit to be the target.",
+    "effect": "Remove up to 3 models from this unit. Then, if the target is an INFANTRY unit, return a number of slain models to the target equal to the number of models you removed from this unit. If the target is a WAR MACHINE , heal a number of damage points allocated to the target equal to the number of models you removed from this unit. Models removed from this unit by this ability cannot be returned to this unit"
+   },
+   {
+    "name": "DAEMONIC RESILIENCE ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Apply the effect below that corresponds with the number of daemonic power points (DPP) this unit has: DPP Effect 1 This unit has WARD ( 6+ ) . 2 This unit has WARD ( 5+ ) . 3 This unit has WARD ( 4+ ) against damage inflicted by SPELLS , PRAYERS and abilities used by MANIFESTATIONS . Otherwise, it has WARD ( 5+ ) ."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "CHAMPION",
+   "MUSICIAN ( 1/10 )",
+   "STANDARD BEARER ( 1/10 )",
+   "CHAOS",
+   "HELSMITHS OF HASHUT",
+   "DUARDIN"
+  ],
+  "unit_size": 10,
+  "points": 110,
+  "base_size": "28.5mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "The-Blood-of-the-Bull",
+  "name": "The Blood of the Bull",
+  "faction": "Helsmiths of Hashut",
+  "faction_slug": "helsmiths-of-hashut",
+  "grand_alliance": "Chaos",
+  "move": "4\"",
+  "health": "2",
+  "save": "4+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Master-crafted Flamehurler",
+    "range": "12\"",
+    "attacks": "4",
+    "hit": "2+",
+    "wound": "4+",
+    "rend": "2",
+    "damage": "1",
+    "abilities": [
+     "Shoot in Combat"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Daemonflame Weapons",
+    "range": "",
+    "attacks": "2",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": []
+   },
+   {
+    "name": "Blades and Fists",
+    "range": "",
+    "attacks": "2",
+    "hit": "4+",
+    "wound": "4+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "INFERNAL EMPOWERMENT ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Apply the effect(s) below that correspond with the number of daemonic power points (DPP) this unit has. These effects are cumulative. DPP Effect 1+ Add 1\" to this unit’s Move characteristic. 2+ Add 1 to wound rolls for this unit’s combat attacks . 3 Add 1 to the Rend characteristic of this unit’s melee weapons."
+   }
+  ],
+  "keywords": [
+   "UNIQUE",
+   "INFANTRY",
+   "CHAMPION",
+   "STANDARD BEARER ( 1/5 )",
+   "CHAOS",
+   "HELSMITHS OF HASHUT",
+   "DUARDIN"
+  ],
+  "unit_size": 5,
+  "points": 120,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Deathshrieker-Rocket-Battery",
+  "name": "Deathshrieker Rocket Battery",
+  "faction": "Helsmiths of Hashut",
+  "faction_slug": "helsmiths-of-hashut",
+  "grand_alliance": "Chaos",
+  "move": "4\"",
+  "health": "8",
+  "save": "3+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Hashu-Zharr Rockets",
+    "range": "24\"",
+    "attacks": "3",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "D3+2",
+    "abilities": [
+     "Anti- MONSTER (+1 Rend) , Anti- WAR MACHINE (+1 Rend)"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Artillerist Weapons",
+    "range": "",
+    "attacks": "3",
+    "hit": "4+",
+    "wound": "4+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "HUNGERING FLAMES ",
+    "timing": "Once Per Turn (Army), Your Shooting Phase",
+    "declare": "",
+    "effect": "For the rest of the turn, the Damage characteristic of this unit’s Hashu-Zharr Rockets is 5 if the target is a MONSTER or a WAR MACHINE ."
+   },
+   {
+    "name": "WATCH THEM BURN ",
+    "timing": "Reaction: You declared a SHOOT ability for this unit and all of its attacks targeted the same enemy unit",
+    "declare": "",
+    "effect": "Roll a number of dice equal to the number of daemonic power points this unit has for each other enemy unit within the combat range of the target of this unit’s shooting attacks . For each 3+, inflict 1 mortal damage on the enemy unit being rolled for."
+   }
+  ],
+  "keywords": [
+   "WAR MACHINE",
+   "CHAOS",
+   "HELSMITHS OF HASHUT"
+  ],
+  "unit_size": 1,
+  "points": 140,
+  "base_size": "100mm",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Dominator-Engine-with-Bane-Maces",
+  "name": "Dominator Engine with Bane Maces",
+  "faction": "Helsmiths of Hashut",
+  "faction_slug": "helsmiths-of-hashut",
+  "grand_alliance": "Chaos",
+  "move": "6\"",
+  "health": "10",
+  "save": "2+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Bane Maces",
+    "range": "",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "1",
+    "damage": "3",
+    "abilities": [
+     "Charge (+1 Damage)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "ENGINE OF DOMINATION ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "",
+    "effect": "If this unit is in combat with any enemy HEROES , it can use 2 FIGHT abilities this phase. After the first is used, however, this unit has STRIKE-LAST for the rest of the phase and can only be picked to use a second FIGHT ability if it is still in combat with any enemy HEROES ."
+   },
+   {
+    "name": "DAEMONIC STRENGTH ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "For each daemonic power point this unit has: Add 1\" to its Move characteristic. Add 1 to the Attacks characteristic of its weapons."
+   }
+  ],
+  "keywords": [
+   "WAR MACHINE",
+   "CHAOS",
+   "HELSMITHS OF HASHUT",
+   "AUTOMATON"
+  ],
+  "unit_size": 1,
+  "points": 150,
+  "base_size": "80mm",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Dominator-Engine-with-Immolation-Cannons",
+  "name": "Dominator Engine with Immolation Cannons",
+  "faction": "Helsmiths of Hashut",
+  "faction_slug": "helsmiths-of-hashut",
+  "grand_alliance": "Chaos",
+  "move": "6\"",
+  "health": "10",
+  "save": "2+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Immolation Cannons",
+    "range": "8\"",
+    "attacks": "5",
+    "hit": "2+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": [
+     "Anti- CAVALRY (+1 Rend) , Shoot in Combat"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Horns and Pummelling Strikes",
+    "range": "",
+    "attacks": "3",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": [
+     "Charge (+1 Damage)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "ALL MUST BURN! ",
+    "timing": "Once Per Turn (Army), Your Shooting Phase",
+    "declare": "Pick 2 or more visible enemy units within 8\" of this unit to be the targets.",
+    "effect": "For the rest of the turn, add 2 to the Attacks characteristic of this unit’s Immolation Cannons for each unit picked to be the target of this ability, but each time this unit uses a SHOOT ability, it must target each of those units with at least 3 of its attacks."
+   },
+   {
+    "name": "DAEMONIC STRENGTH ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "For each daemonic power point this unit has: Add 1\" to its Move characteristic. Add 1 to the Attacks characteristic of its weapons."
+   }
+  ],
+  "keywords": [
+   "WAR MACHINE",
+   "CHAOS",
+   "HELSMITHS OF HASHUT",
+   "AUTOMATON"
+  ],
+  "unit_size": 1,
+  "points": 160,
+  "base_size": "80mm",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Tormentor-Bombard",
+  "name": "Tormentor Bombard",
+  "faction": "Helsmiths of Hashut",
+  "faction_slug": "helsmiths-of-hashut",
+  "grand_alliance": "Chaos",
+  "move": "4\"",
+  "health": "8",
+  "save": "3+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Torrent of Ruinous Energy",
+    "range": "30\"",
+    "attacks": "4",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": [
+     "Anti- CAVALRY (+1 Rend) , Anti- INFANTRY (+1 Rend)"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Artillerist Weapons",
+    "range": "",
+    "attacks": "3",
+    "hit": "4+",
+    "wound": "4+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "CALCULATED TRAJECTORY ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Add 1 to hit rolls for this unit’s shooting attacks that target an enemy unit with 5 or more models that is more than 12\" from this unit."
+   },
+   {
+    "name": "RUINOUS BOMBARDMENT ",
+    "timing": "Once Per Turn (Army), Your Shooting Phase",
+    "declare": "If this unit used a SHOOT ability this turn and all of its attacks targeted the same enemy unit, that enemy unit is the target. Then, you can pick a number of enemy units within 6\" of the target equal to the number of daemonic power points this unit has to be additional targets.",
+    "effect": "Roll a dice for each target. On a 3+, that unit cannot use commands until the start of your next turn."
+   }
+  ],
+  "keywords": [
+   "WAR MACHINE",
+   "CHAOS",
+   "HELSMITHS OF HASHUT"
+  ],
+  "unit_size": 1,
+  "points": 130,
+  "base_size": "100mm",
+  "can_be_reinforced": false,
+  "regiment_options": "",
+  "points_prev": 140,
+  "points_updated": "2026-06"
+ },
+ {
+  "id": "Cogfort-Raiders",
+  "name": "Cogfort Raiders",
+  "faction": "Helsmiths of Hashut",
+  "faction_slug": "helsmiths-of-hashut",
+  "grand_alliance": "Chaos",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [],
+  "keywords": [],
+  "unit_size": null,
+  "points": 450,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Outlaw-Conqueror-Cogfort",
+  "name": "Outlaw Conqueror Cogfort",
+  "faction": "Helsmiths of Hashut",
+  "faction_slug": "helsmiths-of-hashut",
+  "grand_alliance": "Chaos",
+  "move": "6\"",
+  "health": "25",
+  "save": "3+",
+  "control": "10",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Realmscorcher Flame Cannon",
+    "range": "18\"",
+    "attacks": "6D6",
+    "hit": "2+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Anti- INFANTRY (+1 Rend)"
+    ]
+   },
+   {
+    "name": "Crew’s Leadshotters",
+    "range": "12\"",
+    "attacks": "6",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": [
+     "Shoot in Combat"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Crushing Iron Feet",
+    "range": "",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "4",
+    "abilities": [
+     "Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "BATTLE DAMAGED",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit has 10 or more damage points: The Attacks characteristic of its Crushing Iron Feet is 3. It has a Control characteristic of 5."
+   },
+   {
+    "name": "EVERYONE ABOARD! ",
+    "timing": "Deployment Phase",
+    "declare": "Pick up to 1 friendly INFANTRY HERO and up to 1 friendly non- reinforced , non- HERO INFANTR y unit that have not been deployed.",
+    "effect": "Set up those units in reserve as this unit’s passengers . They have now been deployed."
+   },
+   {
+    "name": "THIS IS YOUR STOP, MAGGOTS! ",
+    "timing": "Once Per Battle, Any Charge Phase",
+    "declare": "Pick this unit’s passengers to be the targets.",
+    "effect": "Set up each target wholly within 6\" of this unit and more than 9\" from all enemy units. In addition, the targets’ melee weapons have Charge (+1 Damage) for the rest of the turn."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "WAR MACHINE",
+   "ORDER"
+  ],
+  "unit_size": null,
+  "points": null,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Diseased-Revellers",
+  "name": "Diseased Revellers",
+  "faction": "Helsmiths of Hashut",
+  "faction_slug": "helsmiths-of-hashut",
+  "grand_alliance": "Chaos",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "THE PIPER’S INFECTIOUS MELODIES ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While a Beast of Nurgle in this Regiment of Renown is within 3\" of this Regiment of Renown’s Sloppity Bilepiper , it can use the 'Attention Seekers' ability even if the other Beast of Nurgle in this Regiment of Renown has already used it this turn."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 310,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Enforcers-of-the-Tithe",
+  "name": "Enforcers of the Tithe",
+  "faction": "Helsmiths of Hashut",
+  "faction_slug": "helsmiths-of-hashut",
+  "grand_alliance": "Chaos",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "COLLECT THE TITHE ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "Pick the GOTHIZZAR HARVESTER in this Regiment of Renown to use this ability, then pick a NON-HERO INFANTRY unit (friendly or enemy) within its combat range to be the target.",
+    "effect": "Roll a dice. If the roll equals or exceeds the target’s Health characteristic, 1 model in the target unit is slain, then give the unit using this ability 1 bone-tithe point ."
+   },
+   {
+    "name": "SOUL TAX ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick the Mortisan Ossifector in this Regiment of Renown to cast this spell, then: Pick a friendly unit, excluding units in this Regiment of Renown, to be the target. Pick a unit in this Regiment of Renown to be the recipient . The target and the recipient must be wholly within 12\" of and visible to the caster. Then, make a casting roll of 2D6.",
+    "effect": "Until the start of your next turn: The target has a maximum control score of 1. Add 1 to hit rolls and wound rolls for the recipient ’s combat attacks ."
+   },
+   {
+    "name": "REBUILD ON THE MARCH ",
+    "timing": "Your Movement Phase",
+    "declare": "Pick the Gothizzar Harvester in this Regiment of Renown to use this ability if it has 6 bone-tithe points . Then, pick another unit in this Regiment of Renown that has been destroyed to be the target.",
+    "effect": "Reset the Gothizzar Harvester ’s bone-tithe points to 0. Then, set up a replacement of the target unit with half the number of models (rounding up) wholly within 9\" of the Gothizzar Harvester and more than 9\" from all enemy units."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 470,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Lord-Skaldior-s-Chosen",
+  "name": "Lord Skaldior’s Chosen",
+  "faction": "Helsmiths of Hashut",
+  "faction_slug": "helsmiths-of-hashut",
+  "grand_alliance": "Chaos",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "IRONCLAD DESPOILERS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Add 1 to save rolls for units in this Regiment of Renown while they are contesting an objective you control. Add 1 to wound rolls for units in this Regiment of Renown while they are contesting an objective you do not control."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 530,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Mask-of-the-Deceiver",
+  "name": "Mask of the Deceiver",
+  "faction": "Helsmiths of Hashut",
+  "faction_slug": "helsmiths-of-hashut",
+  "grand_alliance": "Chaos",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [],
+  "keywords": [],
+  "unit_size": null,
+  "points": 170,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Mask-of-The-Deceiver-1",
+  "name": "Mask of The Deceiver",
+  "faction": "Helsmiths of Hashut",
+  "faction_slug": "helsmiths-of-hashut",
+  "grand_alliance": "Chaos",
+  "move": "5\"",
+  "health": "6",
+  "save": "5+",
+  "control": "2",
+  "ward": "5+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "The Trickster’s Staff",
+    "range": "",
+    "attacks": "3",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "MASKED IN PLAIN SIGHT ",
+    "timing": "Deployment Phase",
+    "declare": "This unit must be deployed using this ability.",
+    "effect": "Set up this unit in reserve incognito . It has now been deployed. Friendly incognito units are destroyed at the end of the fifth battle round and not at the start of the fourth battle round"
+   },
+   {
+    "name": "BAIT AND SWITCH ",
+    "timing": "Any Hero Phase",
+    "declare": "This unit can use this ability if it is incognito . Pick this unit and a friendly INFANTRY HERO to be the targets. One target must be incognito and the other must be on the battlefield.",
+    "effect": "Set up the incognito target wholly within 6\" of the other target and not in combat . Then, remove the other target from the battlefield and set it up in reserve incognito . If this unit is destroyed, before removing it from play, set up the friendly incognito unit wholly within 6\" of a battlefield edge and not in combat."
+   },
+   {
+    "name": "FORCEFUL COMMAND ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick a visible friendly unit wholly within 12\" of this unit to be the target, then make a casting roll of 2D6.",
+    "effect": "Until the start of your next turn: The target cannot use MOVE abilities. The target’s melee weapons have Anti-charge (+1 Rend) ."
+   }
+  ],
+  "keywords": [
+   "UNIQUE",
+   "HERO",
+   "WIZARD ( 2 )",
+   "INFANTRY",
+   "WARD ( 5+ )",
+   "CHAOS",
+   "DISCIPLES OF TZEENTCH",
+   "DAEMON"
+  ],
+  "unit_size": null,
+  "points": null,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Mist-Clad-Revellers",
+  "name": "Mist-Clad Revellers",
+  "faction": "Helsmiths of Hashut",
+  "faction_slug": "helsmiths-of-hashut",
+  "grand_alliance": "Chaos",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "LURKING THREAT ",
+    "timing": "Deployment Phase",
+    "declare": "Pick each unit in this Regiment of Renown if none of those units have been deployed.",
+    "effect": "Set up those units in reserve lurking in the mists . They have now been deployed."
+   },
+   {
+    "name": "THE MISTS PART ",
+    "timing": "Your Movement Phase",
+    "declare": "Pick each unit in this Regiment of Renown if they are lurking in the mists .",
+    "effect": "Set up the Shardspeaker of Slaanesh in this Regiment of Renown on the battlefield wholly within 9\" of a battlefield edge and more than 9\" from all enemy units. Then, set up the Blissbarb Archers unit in this Regiment of Renown on the battlefield wholly within 6\" of that Shardspeaker of Slaanesh , wholly within 9\" of a battlefield edge and more than 9\" from all enemy units."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 260,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "One-eyed-Grunnock",
+  "name": "One-eyed Grunnock",
+  "faction": "Helsmiths of Hashut",
+  "faction_slug": "helsmiths-of-hashut",
+  "grand_alliance": "Chaos",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "SHAKE THE EARTH ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "Pick an enemy unit in combat with this unit to be the target.",
+    "effect": "Roll a D3. On a 2+: Inflict an amount of mortal damage on the target equal to the roll. If the target is INFANTRY , double the amount of mortal damage inflicted. Subtract 1 from hit rolls for the target’s attacks for the rest of the turn."
+   },
+   {
+    "name": "TIMBERRRRR! ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "When the MEGA-GARGANT in this regiment of renown is slain, before removing it from play, the players must roll off . The winner picks a point on the battlefield within 3\" of that model. Inflict D3 mortal damage on each unit (friendly and enemy) within 3\" of that point that has a lower Health characteristic than that model."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 410,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Phulgoth-s-Shudderhood",
+  "name": "Phulgoth’s Shudderhood",
+  "faction": "Helsmiths of Hashut",
+  "faction_slug": "helsmiths-of-hashut",
+  "grand_alliance": "Chaos",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "FOG OF DESPAIR ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Subtract 1 from hit rolls for attacks that target units in this Regiment of Renown while they are wholly within 9\" of the Harbinger of Decay in this Regiment of Renown."
+   },
+   {
+    "name": "NAUSEATING CONVALESCENCE ",
+    "timing": "Once Per Turn (Army), Any Hero Phase",
+    "declare": "",
+    "effect": "Heal (1) each unit in this Regiment of Renown ."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 530,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Rogue-Engine",
+  "name": "Rogue Engine",
+  "faction": "Helsmiths of Hashut",
+  "faction_slug": "helsmiths-of-hashut",
+  "grand_alliance": "Chaos",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [],
+  "keywords": [],
+  "unit_size": null,
+  "points": 470,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Outlaw-Cannonade-Cogfort-1",
+  "name": "Outlaw Cannonade Cogfort",
+  "faction": "Helsmiths of Hashut",
+  "faction_slug": "helsmiths-of-hashut",
+  "grand_alliance": "Chaos",
+  "move": "6\"",
+  "health": "25",
+  "save": "3+",
+  "control": "10",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Godbreaker Cannon",
+    "range": "24\"",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "4",
+    "abilities": []
+   },
+   {
+    "name": "Breacher Cannon",
+    "range": "12\"",
+    "attacks": "6",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Anti- INFANTRY (+1 Rend)"
+    ]
+   },
+   {
+    "name": "Crew’s Leadshotters",
+    "range": "12\"",
+    "attacks": "6",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": [
+     "Shoot in Combat"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Crushing Iron Feet",
+    "range": "",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "4",
+    "abilities": [
+     "Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "BATTLE DAMAGED",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit has 10 or more damage points: The Attacks characteristic of its Crushing Iron Feet is 3. It has a Control characteristic of 5."
+   },
+   {
+    "name": "MERCENARY ATTITUDES ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick another friendly NON-UNIQUE unit wholly within 12\" of this unit to be the target.",
+    "effect": "Pick 1 of the following effects to apply until the start of your next turn and while the target is wholly within 12\" of this unit: You can re-roll run rolls for the target. Add 1 to charge rolls for the target. The target cannot be targeted by shooting attacks . Add 1 to wound rolls for the target’s combat attacks . Add 10 to the target’s control score ."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "WAR MACHINE",
+   "ORDER"
+  ],
+  "unit_size": null,
+  "points": null,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Seekers-of-Silver",
+  "name": "Seekers of Silver",
+  "faction": "Helsmiths of Hashut",
+  "faction_slug": "helsmiths-of-hashut",
+  "grand_alliance": "Chaos",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "SPLINTERS OF SORCERY ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick a friendly WIZARD in this Regiment of Renown to cast this spell, pick a visible terrain feature within 12\" of them that has not been picked to be the target of this spell this turn to be the target, then make a casting roll of 2D6.",
+    "effect": "If the target does not have the ‘ Place of Power ’ terrain ability, it gains that ability for the rest of the battle. If the target has the ‘Place of Power’ terrain ability, pick an enemy unit within 12\" of it and roll 9 dice. For each 5+, inflict 1 mortal damage on that enemy unit."
+   },
+   {
+    "name": "BUBBLES OF UNREALITY ",
+    "timing": "Once Per Turn (Army), Any Hero Phase",
+    "declare": "Pick a terrain feature with the ‘ Place of Power ’ terrain ability to be the target.",
+    "effect": "The next time a friendly WIZARD in this Regiment of Renown uses a SUMMON SPELL ability this phase, you can measure the range and visibility of that SPELL ability from the target instead of from the caster."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 380,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "The-Accursed-Reflection",
+  "name": "The Accursed Reflection",
+  "faction": "Helsmiths of Hashut",
+  "faction_slug": "helsmiths-of-hashut",
+  "grand_alliance": "Chaos",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "SPEW FORTH SIN ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick the Contorted Epitome in this Regiment of Renown to cast this spell, then make a casting roll of 2D6.",
+    "effect": "Pick a friendly HEDONITES OF SLAANESH MANIFESTATION that is not on the battlefield and that was not removed from play earlier in the same turn. If you picked a Dreadful Visage or Wheels of Excruciation , set it up wholly within 12\" of the caster, visible to them and more than 9\" from all enemy units. If you picked a Mesmerising Mirror , set it up wholly within 12\" of the caster and visible to them."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 150,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "The-Exiled-One",
+  "name": "The Exiled One",
+  "faction": "Helsmiths of Hashut",
+  "faction_slug": "helsmiths-of-hashut",
+  "grand_alliance": "Chaos",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "HATRED FOR ALL ",
+    "timing": "Any Combat Phase",
+    "declare": "You must use this ability if this unit is not in combat and there are any other visible friendly units within this unit’s combat range . You must pick 1 of those friendly units to be the target.",
+    "effect": "Resolve combat attacks for this unit against the target."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 390,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "The-Pustules",
+  "name": "The Pustules",
+  "faction": "Helsmiths of Hashut",
+  "faction_slug": "helsmiths-of-hashut",
+  "grand_alliance": "Chaos",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "BLIGHTED GROWTH ",
+    "timing": "Deployment Phase",
+    "declare": "",
+    "effect": "Set up this Regiment of Renown ’s Feculent Gnarlmaw wholly within friendly territory and more than 3\" from all objectives and other terrain features . After you have done so, it has been deployed."
+   },
+   {
+    "name": "MULTITUDINOUS DISEASES ",
+    "timing": "Once Per Turn (Army), End of Any Turn",
+    "declare": "If this Regiment of Renown’s Plaguebearer’s unit is wholly within 12\" of this Regiment of Renown’s Feculent Gnarlmaw , pick that Plaguebearers unit to be the target.",
+    "effect": "Heal (1) the target. If the target is contesting an objective , you can also return 1 slain model to the target unit."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 200,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "The-Red-Revelation",
+  "name": "The Red Revelation",
+  "faction": "Helsmiths of Hashut",
+  "faction_slug": "helsmiths-of-hashut",
+  "grand_alliance": "Chaos",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "FRENZIED VIOLENCE ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick the Slaughterpriest in this Regiment of Renown to chant this prayer, pick a visible unit in this Regiment of Renown wholly within 12\" of them to be the target, then make a chanting roll of D6.",
+    "effect": "Until the start of your next turn, the target unit has WARD ( 5+ ) while every model in that unit is wholly within the combat range of an enemy unit. If the chanting roll was 10+, you can pick another eligible unit to be a second target."
+   },
+   {
+    "name": "GLIMPSE THE GOD ",
+    "timing": "Once Per Turn (Army), End of Any Turn",
+    "declare": "Pick each unit in this Regiment of Renown that used a FIGHT ability this turn to be a target.",
+    "effect": "If any damage points were allocated to an enemy unit by the target’s combat attacks this turn, that enemy unit was destroyed this turn, and no damage points were allocated to that enemy unit this turn by combat attacks made by a friendly unit that is not in this Regiment of Renown, for the rest of the battle, add 2 to the Attacks characteristic of the target’s Blood-hungry weapons."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 380,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Brand-s-Oathbound",
+  "name": "Brand’s Oathbound",
+  "faction": "Helsmiths of Hashut",
+  "faction_slug": "helsmiths-of-hashut",
+  "grand_alliance": "Chaos",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "FAVOUR OF THE GODS ",
+    "timing": "Once Per Turn (Army), End of Any Turn",
+    "declare": "",
+    "effect": "If any enemy HEROES were slain this turn by the Gunnar Brand in this Regiment of Renown : Heal (5) each unit in this Regiment of Renown. Add 1 to the Attacks characteristic of melee weapons used by units in this Regiment of Renown for the rest of the battle."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 200,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Hargax-s-Pit-Beasts",
+  "name": "Hargax’s Pit-Beasts",
+  "faction": "Helsmiths of Hashut",
+  "faction_slug": "helsmiths-of-hashut",
+  "grand_alliance": "Chaos",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "BESTIAL DOMINATION ",
+    "timing": "Reaction: You declared a FIGHT ability for a unit in this Regiment of Renown",
+    "declare": "",
+    "effect": "Pick a unit in this Regiment of Renown that has not used a FIGHT ability this turn to be the target. The target can be picked to use a FIGHT ability immediately after the FIGHT ability used by this unit has been resolved."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 390,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Nurgle-s-Gift",
+  "name": "Nurgle’s Gift",
+  "faction": "Helsmiths of Hashut",
+  "faction_slug": "helsmiths-of-hashut",
+  "grand_alliance": "Chaos",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "INCUBATION PERIOD ",
+    "timing": "Deployment Phase",
+    "declare": "This ability must be used to deploy this Regiment of Renown .",
+    "effect": "Set up the units in this Regiment of Renown in reserve festering within . They have now been deployed."
+   },
+   {
+    "name": "BURSTING WITH LIFE ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "If a friendly non- NURGLE’S GIFT unit would be destroyed, before the last model is removed from play, roll a dice. Add 1 to the roll for each other friendly non- NURGLE’S GIFT unit that has been destroyed this battle. On a 5+, pick a friendly unit that is festering within and set it up wholly within 6\" of that model. It can be set up in combat ."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 180,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Stumblefoot-Gargant",
+  "name": "Stumblefoot Gargant",
+  "faction": "Helsmiths of Hashut",
+  "faction_slug": "helsmiths-of-hashut",
+  "grand_alliance": "Chaos",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "PROJECTILE VOMIT ",
+    "timing": "Once Per Turn (Army), Your Shooting Phase",
+    "declare": "Pick this unit to use this ability if it has not used a RAMPAGE ability this turn. Then, pick a point on the battlefield within 6\" of this unit and pick all other units (friendly and enemy) within 3\" of that point to be the targets.",
+    "effect": "Roll a D3 for each target. On a 2+, inflict an amount of mortal damage on that target equal to the roll."
+   },
+   {
+    "name": "BELLOWING MOCKERY ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "Pick this unit to use this ability if it has not used a RAMPAGE ability this turn, then pick an enemy unit within this unit’s combat range to be the target.",
+    "effect": "Roll a dice. On a 3+, subtract 1 from hit rolls for the target’s attacks for the rest of the turn."
+   },
+   {
+    "name": "WHAT’RE YOU LOOKIN’ AT? ",
+    "timing": "Once Per Turn (Army), Any Charge Phase",
+    "declare": "Pick this unit to use this ability if it charged this turn and has not used a RAMPAGE ability this turn. Then, pick an enemy unit within 9\" of this unit to be the target.",
+    "effect": "Roll 2D6. This unit can move a number of inches equal to the roll. It can pass through enemy models and must end that move in combat with the target."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 140,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ }
+]

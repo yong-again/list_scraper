@@ -1,0 +1,456 @@
+[
+ {
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "",
+  "text": "/noindex Hidden among the ruins of the Mortal Realms are the Flesh-eater Courts. Bound by the madness of their cursed monarchs, throngs of creatures known as mordants eke out a wretched existence, waging wars against kingdom after kingdom in order to feast on the flesh of their enemies. This page contains all of the rules you need to field your Flesh-eater Courts miniatures on the battlefields of the Mortal Realms, from a host of exciting faction rules to a range of warscrolls. The rules are split into the following sections:"
+ },
+ {
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Designers’ Commentary > Battletome: Flesh-eater Courts",
+  "text": "Q: When the target of ‘Glimpse of Delusion’ makes combat attacks as a result of the effect of that spell, can the ‘ All-out Attack ’ command or the ‘ All-out Defence ’ command be used as reactions to those attacks? A: No. Q: If a Maggotkin of Nurgle unit is picked as the target of Ushoran ’s ‘Glimpse of Delusion’ ability and resolving that ability results in a model in that unit being slain, would that trigger the ‘Vectors of Contagion’ ability on that Maggotkin of Nurgle unit? A: No. Q: Does the ‘Delusions and Madness’ ability of the Charnel Watch Spearhead army allow me to pick the Delusion regiment ability that I did not pick at the start of the battle? A: No. You can pick from the Delusion regiment ability that you picked at the start of the battle, ‘Delusion of the Great Feast’ or ‘Delusion of the Knightly Host."
+ },
+ {
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Traits",
+  "text": "Flesh-eater Courts armies can use the following abilities: Once Per Turn (Army), Start of Any Turn A KINGDOM DELUDED : The mass delusions suffered by these cannibals are volatile but intense. Declare: You must use this ability at the start of each turn. If it is the first turn of the battle, pick a DELUSION from these battle traits or, unless otherwise specified, from the warscroll of a friendly unit on the battlefield. If it is not the first turn, make a delusion roll of D6. Effect: On a delusion roll of 1-2, you must pick a different DELUSION to the one you picked last turn. On a 3-4, you must pick the same Delusion as the one you picked last turn, even if it is on the warscroll of a unit that has been destroyed. In such cases, the eect of that D applies as if the unit had not been destroyed. On a 5-6, you must pick a DELUSION like you did in the first turn. For the rest of the turn, you believe the DELUSION you picked. Passive A SPLENDID PAGEANT : Believing they follow some grand religious icon and its holy custodians, devoted ghouls surge across the field. Effect: While you believe this DELUSION : Each time a friendly FLESH-EATER COURTS unit wholly within 12\" of a friendly FLESH-EATER COURTS HERO uses a RUN ability, if you roll a 1-3 when determining the distance that unit can move, you can use a value of 4 instead. While a friendly FLESH-EATER COURTS INFANTRY HERO is within the combat range of a friendly FLESH-EATER COURTS INFANTRY unit that has 5 or more models, that HERO is not visible to enemy units more than 6\" away. KEYWORDS DELUSION Passive A GLORIOUS BANQUET : As the court closes on its prey, the nobility signal for the feast to begin."
+ },
+ {
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Traits",
+  "text": "KEYWORDS DELUSION Passive A GLORIOUS BANQUET : As the court closes on its prey, the nobility signal for the feast to begin. Effect: While you believe this DELUSION , add 1 to hit rolls for combat attacks made by friendly FLESH-EATER COURTS units that charged in the same turn while they are wholly within 12\" of any friendly FLESH-EATER COURTS HEROES . KEYWORDS DELUSION Once Per Turn (Army), Your Hero Phase ROYAL BLOOD : The blood coursing through an abhorrant’s veins has restorative properties. Declare: Pick any number of friendly ABHORRANTS to be the targets. Effect: Heal (D3) each target. Once Per Turn (Army), Your Movement Phase 1 SUMMON LOYAL SUBJECTS : To the ghouls, an abhorrant’s howl is a call to defend their lands. Declare: Pick a friendly ABHORRANT to use this ability, then pick a friendly SERFS or KNIGHTS unit that has been destroyed to be the target. Effect: Set up a replacement unit with half the number of models from the target unit (rounding up) wholly within 6\" of a battlefield edge and more than 9\" from all enemy units. Once Per Turn (Army), Your Movement Phase MUSTER GUARD : Cannibal nobles have the charisma to rally wavering troops. Declare: Pick any number of friendly NOBLES to be the targets. Effect: For each target, pick 1 of the following: Return up to 3 slain models to a friendly SERFS unit wholly within 12\" of it. Return 1 slain model to a friendly KNIGHTS unit wholly within 12\" of it. The same unit cannot have models returned to it by this ability more than once per turn. Once Per Battle (Army), Any Combat Phase FEEDING FRENZY : The presence of an abhorrant drives their followers into a furore Declare: Pick a friendly FLESH-EATER COURTS HERO in combat to be the target."
+ },
+ {
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Traits",
+  "text": ": The presence of an abhorrant drives their followers into a furore Declare: Pick a friendly FLESH-EATER COURTS HERO in combat to be the target. Effect: For the rest of the turn, add 1 to the Attacks characteristic of melee weapons, including Companion weapons, used by friendly FLESH-EATER COURTS units while they are wholly within 12\" of the target."
+ },
+ {
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations",
+  "text": "You can pick 1 of the following battle formations for a Flesh-eater Courts army. Each battle formation grants a different ability you can use in the battle. BATTLE PROFILE Name Points Knightly Echelon 0 The Royal Hunt 0 Lords of the Manor 0 Royal Menagerie 0 Impassioned Serfs 0 Questing Courtiers 0"
+ },
+ {
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Knightly Echelon",
+  "text": "Passive SOUND THE CHARGE : Those foolish enough to stand before the cannibal courts’ knights are inevitably trampled beneath claw and foot. Effect: Add 1 to the Rend characteristic of melee weapons used by friendly KNIGHTS that charged in the same turn while they are wholly within 12\" of any friendly FLESH-EATER COURTS HEROES ."
+ },
+ {
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > The Royal Hunt",
+  "text": "Once Per Turn (Army), End of Any Turn LIKE SNAPPING HOUNDS : When a noble commences a hunt, packs of serfs are sent ahead of the royal houses to savage prey out of hiding. Declare: Pick each friendly SERFS unit in combat to be the targets. Effect: For each target: Make a pile-in move . Then, pick an enemy unit in combat with the target and roll a D3. On a 2+, inflict an amount of mortal damage on that enemy unit equal to the roll."
+ },
+ {
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Lords of the Manor",
+  "text": "Passive RAISE THE BANNERS : When an abhorrant royal family and their courtiers mass, many loyal knights and serfs inevitably follow. Effect: Each time another ability returns at least 1 slain model to a friendly unit that is not in combat , after that ability has been resolved, if that unit is a SERFS unit, you can return 1 additional slain model to it, and if it is a KNIGHTS unit, roll a dice. On a 4+, you can return 1 additional slain model to it."
+ },
+ {
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Royal Menagerie",
+  "text": "Passive INDULGE, MY PRETTIES : Abhorrants often toss their pet monstrosities choice cuts of flesh, resulting in a burst of strength and ferocity. Effect: While a friendly non- HERO FLESH-EATER COURTS MONSTER or BEAST is wholly within 12\" of any friendly FLESH-EATER COURTS HEROES : That non- HERO unit can use a RAMPAGE ability on its warscroll even if that ability has already been used by another friendly MONSTER in the same turn. If that non-HERO unit charged in the same turn and the unmodified charge roll was 9+, it has STRIKE-FIRST for the rest of the turn."
+ },
+ {
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Impassioned Serfs",
+  "text": "Any Combat Phase 1 OVERWHELMING HORDES : As masses of crazed ghouls drag their foes to the ground, the horror and anger of the victims’ allies shifts into a disorienting delusion that leaves them paralysed by indecision. Declare: Pick a friendly SERFS unit that did not charge this turn and is in combat to use this ability, then pick an enemy unit in combat with that SERFS unit to be the target. Effect: The target cannot make pile-in moves for the rest of the turn."
+ },
+ {
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Questing Courtiers",
+  "text": "Passive THE BLESSING OF THE CHALICE : Eager to earn favour with their masters, the heroes compete to earn honourable trophies for their court. Effect: Friendly FLESH-EATER COURTS HEROES have WARD ( 5+ ) if they have destroyed a unit this battle."
+ },
+ {
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Heroic Traits > Regal Dispositions",
+  "text": "HERO only BATTLE PROFILE Name Points STRONGER IN MADNESS 10 SAVAGE BEYOND REASON 40 CRUEL TASKMASTER 0 Passive STRONGER IN MADNESS : The Boon of Ushoran has rendered this warrior’s physical form near indestructible. Effect: Ignore the first damage point that would be allocated to this unit each phase. In addition, other than the Companion weapon ability, weapon abilities for combat attacks that target this unit have no effect. Passive SAVAGE BEYOND REASON : The fury of battle drives this general into an intense rage. Effect: Add 1 to the Attacks characteristic of this unit’s melee weapons, including Companion weapons, if it did not use a FIGHT ability in the previous turn. Add 2 to the Attacks characteristic of those weapons instead while this unit has no used a FIGHT ability this battle. Your Charge Phase CRUEL TASKMASTER : The warriors under this courtier’s command instantly obey their summons. Declare: Pick a friendly non- HERO FLESH-EATER COURTS unit wholly within 12\" of this unit to be the target. Effect: For the rest of the turn, you can re-roll charge rolls for the target."
+ },
+ {
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Artefacts of Power > The Royal Treasury",
+  "text": "HERO only BATTLE PROFILE Name Points THE SPLINTERED FEMUR 0 CHARNEL VESTMENTS 20 THE GRISLY PENNANT 10 End of Your Turn THE SPLINTERED FEMUR : A venerated relic of the infamous Spell-eater Queen, this club can easily break not only limbs but also the arcane. Declare: Pick an enemy unit in combat with this unit to be the target. Effect: Roll a D3. On a 2+, pick 1 of the following: Inflict an amount of mortal damage on the target equal to the roll. Subtract 1 from the target’s power level , to a minimum of 0, until the start of your next turn. If the target is a MANIFESTATION , it is banished and removed from play. Passive CHARNEL VESTMENTS : Strips of flayed skin and crudely stitched sinew form a gruesome parody of priestly robes. Effect: If this unit is not a PRIEST , it has PRIEST ( 1 ) . If this unit is already a PRIEST , add 1 to chanting rolls for this unit. If this unit is a WIZARD , it cannot use SPELL abilities and PRAYER abilities in the same phase. Any Combat Phase THE GRISLY PENNANT : This raggedy flag of flesh, recently torn from an unfortunate victim, is an icon of purity and nobility to the cannibal army but a terrifying spectacle to their enemies. Declare: If this unit charged this turn, pick an enemy unit in combat with it to be the target. Effect: Roll a dice. If the roll is greater than the target’s Control characteristic or is a 6, the following effects apply for the rest of the turn: Subtract 1 from hit rolls for the target’s combat attacks . Add 1 to hit rolls for combat attacks made by friendly units that target that enemy unit."
+ },
+ {
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Artefacts of Power > The Royal Treasury",
+  "text": "HERO only BATTLE PROFILE Name Points FOOL’S CAP 0 FLAYED FLAGS 0 RING OF NIGHTMARISH VISIONS 0 Any Movement Phase FOOL’S CAP : This warrior has manipulated the bones of a Mancrusher Gargant’s skeletal hand into the shape of a jester’s hat. Prancing about with it on their head ensures they acquire an audience… Declare: Pick a visible enemy unit within 12\" of this unit to be the target. Effect: Spend 1 rage dice . If your opponent’s fury level is lower than yours, they must increase their fury level by 1, to a maximum of 7. Then, for the rest of the turn: Add 1 to charge rolls for the target. Each time the target uses a CHARGE ability, if possible, it must end the charge move within 1/2\" of this unit. While the target is in combat with this unit, subtract 1 from hit rolls for the target’s combat attacks that do not target this unit. Your Hero Phase FLAYED FLAGS : When these mighty banners are unfurled in the name of Ushoran, foes find themselves losing heart. Mostly because they are made of rotting skin. Declare: Pick an objective you do not control within 18\" of this unit to be the target. Effect: Until the start of your next turn, when resolving the damage sequence for enemy units contesting the target objective, your opponent cannot spend rage dice as part of the ‘ Fight Through the Pain ’ ability Any Combat Phase RING OF NIGHTMARISH VISIONS : This ring enhances the wearer’s delusion, twisting foes into even more hideous monsters that they attack in a rabid frenzy. Declare: Pick an enemy unit in combat with this unit to be the target. Effect: Roll a number of dice equal to your fury level . Add 1 to each roll if this unit charged this turn. For each 4+, inflict 1 mortal damage on the target."
+ },
+ {
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Monstrous Traits",
+  "text": "Monstrous Traits are enhancements that can only be given to MONSTERS . BATTLE PROFILE Name Points REVERED MONSTROSITY 10 SAVAGE ABOMINATION 0 HORRIBLY RESILIENT 0 Passive REVERED MONSTROSITY : This noble beast has long served the court and exerts a strange dominance Effect: Add 1 to hit rolls for combat attacks made with Companion weapons by other friendly non- NON‐UNIQUE FLESH-EATER COURTS MONSTERS while they are wholly within 12\" of this unit. Passive SAVAGE ABOMINATION : Any foe in reach of this beast’s snapping jaws and fearsome claws is unlikely to see another dawn. Effect: Add 1 to the Attacks characteristic of this unit’s Companion melee weapons. End of Any Turn HORRIBLY RESILIENT : Grown strong on great lakes of death magic that coalesced around the remains of a butchered empire, the desiccated form of this monstrosity is nearly impossible to destroy. Effect: Heal (D3) this unit. If this unit is not a HERO , Heal (2D3) this unit instead."
+ },
+ {
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Spell Lore",
+  "text": "BATTLE PROFILE Name Points Lore of Madness 0"
+ },
+ {
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Spell Lore > Lore of Madness",
+  "text": "Your Hero Phase 6 CHARNEL FEAST : The caster draws out the life essence of nearby foes and uses it to heal the injured warriors of the court. Declare: Pick a friendly FLESH-EATER COURTS WIZARD to cast this spell and pick a visible enemy unit within 18\" of them to be the target. You can also pick a friendly SERFS unit within 6\" of the target to be the raised ranks. Then, make a casting roll of 2D6. Effect: Inflict D3 mortal damage on the target. For each damage point allocated to the target by this ability, you can return 1 slain model to the raised ranks. KEYWORDS SPELL Your Hero Phase 6 DERANGED TRANSFORMATION : The spellcaster causes the limbs of a nearby pack to bulge and lengthen, allowing the creatures to charge forwards at a furious pace and imbuing them with greater strength. Declare: Pick a friendly FLESH-EATER COURTS WIZARD to cast this spell, pick a visible friendly FLESH-EATER COURTS INFANTRY or CAVALRY unit wholly within 12\" of them to be the target, then make a casting roll of 2D6. Effect: Until the start of your next turn: Add 2\" to the target’s Move characteristic. Add 1 to wound rolls for the target’s combat attacks . KEYWORDS SPELL, UNLIMITED Your Hero Phase 7 MIASMA OF MADNESS : The wizard calls forth a sanity-warping mist to engulf the foe. Declare: Pick a friendly FLESH-EATER COURTS WIZARD to cast this spell, pick a visible enemy unit within 18\" of them to be the target, then make a casting roll of 2D6. Effect: Until the start of your next turn, for each unmodified hit roll of 1 for a combat attack made by the target, inflict 1 mortal damage on the target after the FIGHT ability has been resolved. KEYWORDS SPELL"
+ },
+ {
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Prayer Lore",
+  "text": "BATTLE PROFILE Name Points Rites of Delusion 0"
+ },
+ {
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Prayer Lore > Rites of Delusion",
+  "text": "Your Hero Phase 4 EXCOMMUNICATION! : Having espied unworthy warriors exiled from the Summerking’s court, the priest extends a finger and vociferously denounces them. Declare: Pick a friendly FLESH-EATER COURTS PRIEST to chant this prayer, pick a visible enemy unit within 18\" of them to be the target, then make a chanting roll of D6. Effect: Until the start of your next turn, ignore positive modifiers to save rolls for the target. In addition, if the chanting roll was 10+, ward rolls cannot be made for the target until the start of your next turn. KEYWORDS PRAYER, UNLIMITED Your Hero Phase 4 CHARNEL CONVICTION : Anointed with libations by their priest, ghouls believe themselves to be invincible warriors of faith. Declare: Pick a friendly FLESH-EATER COURTS PRIEST to chant this prayer, pick a visible friendly FLESH-EATER COURTS unit wholly within 12\" of them to be the target, then make a chanting roll of D6. Effect: Until the start of your next turn, the target has WARD ( 5+ ) . If the chanting roll was 10+, you can pick another eligible unit to be a second target. KEYWORDS PRAYER Your Hero Phase 5 THE SUMMERKING’S FAVOUR : The priest delivers a blistering sermon lionising the deeds of a courtly champion, marking them out as an Ushorite saint in their followers’ eyes. Declare: Pick a friendly FLESH-EATER COURTS PRIEST to chant this prayer, pick a visible friendly FLESH-EATER COURTS HERO wholly within 12\" of them to be the target, then make a chanting roll of D6. You cannot pick Nagash to be the target of this prayer. Effect: Resolve the effect of ‘Renowned Might’ below. If the chanting roll was 10+, resolve the effect of either ‘Renowned Might’ or ‘Righteous Tenacity’ instead."
+ },
+ {
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Prayer Lore > Rites of Delusion",
+  "text": "If the chanting roll was 10+, resolve the effect of either ‘Renowned Might’ or ‘Righteous Tenacity’ instead. Renowned Might: Add 1 to the Damage characteristic of the target’s melee weapons for the rest of the turn. Righteous Tenacity: The target can use 2 FIGHT abilities this turn. After the first is used, however, the target has STRIKE-LAST for the rest of the turn. KEYWORDS PRAYER"
+ },
+ {
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Manifestation Lore",
+  "text": "BATTLE PROFILE Name Points Manifested Insanity 0"
+ },
+ {
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Manifestation Lore > Manifested Insanity",
+  "text": "Your Hero Phase 6 SUMMON CADAVEROUS BARRICADE : With a word of command, the corpses of those who once served Ushoran rise up from the grave, dragging with them the detritus of a forgotten civilisation and clawing at the living. Declare: If there is not a friendly Cadaverous Barricade on the battlefield, pick a friendly FLESH-EATER COURTS WIZARD to cast this spell, then make a casting roll of 2D6. Effect: Set up a Cadaverous Barricade wholly within 18\" of the caster and visible to them. KEYWORDS SPELL, SUMMON Your Hero Phase 6 SUMMON CORPSEMARE STAMPEDE : Imbued with grisly vigour, the undead beasts of a Corpsemare Stampede burst from the blood-soaked ground to trample across the battlefield. Declare: If there is not a friendly Corpsemare Stampede on the battlefield, pick a friendly FLESH-EATER COURTS WIZARD to cast this spell, then make a casting roll of 2D6. Effect: Set up a Corpsemare Stampede wholly within 12\" of the caster, visible to them and more than 9\" from all enemy units. KEYWORDS SPELL, SUMMON Your Hero Phase 6 SUMMON CHALICE OF USHORAN : The wizard conjures forth a manifestation of the sacred cup held by Ushoran. This bone-wrought goblet is filled with the blood of those slain in its presence. Declare: If there is not a friendly Chalice of Ushoran on the battlefield, pick a friendly FLESH-EATER COURTS WIZARD to cast this spell, then make a casting roll of 2D6. Effect: Set up a Chalice of Ushoran wholly within 12\" of the caster and visible to them. KEYWORDS SPELL, SUMMON"
+ },
+ {
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Noble Pursuits",
+  "text": "Noble Pursuits are unique enhancements that can be given to NON-HERO FLESH-EATER COURTS INFANTRY or CAVALRY units. A unit can only have 1 Noble Pursuit. BATTLE PROFILE Name Points HOMAGE AND FEALTY 10 DEFENDERS OF CHIVALRY 10 LOYAL SQUIRES 10 Deployment Phase HOMAGE AND FEALTY : Just as in the feudal days of yore, where lord and vassal made commitments to one another, so do these cannibals make similar reciprocal arrangements. Declare: If this unit is a KNIGHT , pick a friendly SERF unit wholly within 12\" of it to be the target. If this unit is a SERF , pick a friendly KNIGHT unit wholly within 12\" of it to be the target. Effect: For the rest of the battle, add 1 to save rolls for this unit and the target while they are within 3\" of and visible to each other. Passive DEFENDERS OF CHIVALRY : With righteous anger, these ghouls set upon those who flout the chivalric code with bone clubs and filthy talons. Effect: While your fury level is 7, add 1 to the Rend characteristic of this unit’s melee weapons. Any Charge Phase LOYAL SQUIRES : These ghouls follow their holy paladins into battle, seeking to aid them however they can. Declare: Pick an enemy unit in combat with a friendly Varghulf Courtier to be the target. Effect: For the rest of the phase: Add 2 to charge rolls for this unit. If this unit uses a CHARGE ability, it must end the charge move in combat with the target. Army of Renown"
+ },
+ {
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Equinox Feast",
+  "text": "When you pick the Flesh-eater Courts faction for your army, you can choose for it to be the Equinox Feast Army of Renown . If you do so, use the faction rules in this section instead of the Flesh-eater Courts faction rules. Every unit in your army must be drawn from the units listed in the roster options box below. All units in your army gain the EQUINOX FEAST keyword. ROSTER OPTIONS High Falconer Felgryn (must be included) Any NON-UNIQUE NON-MONSTER HEROES Any SERFS units You cannot include Regiments of Renown"
+ },
+ {
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Equinox Feast > Battle Traits",
+  "text": "Passive THE EQUINOX PARADE : Clad in tatterdemalion garments of flayed flesh and swaying to the sound of shrieks and bone flutes, the serfs of the ghoul kingdoms skitter as a mad, jubilant procession. Effect: In the first battle round: Add 1 to run rolls for friendly EQUINOX FEAST units for each other friendly EQUINOX FEAST unit that has used a RUN ability this phase. Add D6\" to the distance friendly EQUINOX FEAST units can move when they use a RETREAT ability. Once Per Turn (Army), Any Charge Phase A DISPLAY OF FALCONRY : As the ‘foreign revellers’ approach, the shrieking beasts that follow the ghouls swoop down to greet them. Declare: You can only use this ability in the second battle round. Pick each enemy unit that used a CHARGE ability this phase to be the targets. Effect: Roll a D3. On a 2+, inflict an amount of mortal damage on the target equal to the roll. Passive THE RITUAL DANCE : To properly welcome high summer and its magnificent king, the peasantfolk cavort and caper around grand maypoles and idols – even those that are carried by rival revellers. Effect: In the third battle round, while a friendly EQUINOX FEAST unit is in combat with an enemy unit that contains any champions , musicians or standard bearers , it can move 6\" instead of 3\" when it makes a pile-in move . Passive EAT YOUR FILL! : Now comes the most anticipated part of the celebrations: the great banquet. Effect: In the fourth battle round, each time a friendly EQUINOX FEAST unit uses a FIGHT ability , after that ability has been resolved: If that unit is damaged, Heal (D3) that unit. If that unit is not damaged, return up to 3 slain models to it."
+ },
+ {
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Equinox Feast > Battle Traits",
+  "text": "If that unit is not damaged, return up to 3 slain models to it. Passive MAKE MERRY ’TIL THE MORN : Sated, the revellers toast, staggering about in cackling mobs as they quaff the finest ‘red wines’… Effect: In the fifth battle round, friendly EQUINOX FEAST units have WARD ( 4+ ) while they are within 3\" of 2 or more other visible friendly EQUINOX FEAST units."
+ },
+ {
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Equinox Feast > Heroic Traits",
+  "text": "HERO only Passive LORD OF REVELRIES : This cackling creature is consumed by the feast’s joys and inured to pain. Effect: Ignore the first damage point that would be allocated to this unit in each phase."
+ },
+ {
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Equinox Feast > Artefacts of Power",
+  "text": "HERO only Once Per Battle, Your Movement Phase BROKEN SCEPTRE OF THE SOLSTICE : An image of the bone sunburst crown atop this staff burns in the ghouls’ minds, drawing more of them into the fray. Declare: Pick a friendly EQUINOX FEAST unit that has been destroyed to be the target. This unit can use this ability if it has been destroyed, but if it does, this unit must be the target. Effect: Set up a replacement unit identical to the target wholly within 6\" of a friendly EQUINOX FEAST unit and more than 9\" from all enemy units."
+ },
+ {
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Equinox Feast > Spell Lore",
+  "text": "Your Hero Phase 6 SOLARITE FLARES : The caster conjures blasts of blinding, red-stained radiance to dizzy and disorient. Declare: Pick a friendly EQUINOX FEAST WIZARD to cast this spell, pick a point on the battlefield that is visible to them, then pick each unit (friendly and enemy) within 3\" of that point to be the targets. Then, make a casting roll of 2D6. Effect: Roll a dice for each target. On a 3+, subtract 1 from hit rolls for the target’s attacks until the start of your next turn. KEYWORDS SPELL, UNLIMITED"
+ },
+ {
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Equinox Feast > Prayer Lore",
+  "text": "Your Hero Phase 4 A MIDSUMMER MANIA : The screeched canticles and gibberings of this Cardinal fill the ghouls with madness enough to shrug off fatal injury. Declare: Pick a friendly EQUINOX FEAST PRIEST to chant this prayer, pick a visible friendly unit wholly within 12\" of them that has not been picked to be the target of this prayer this turn to be the target, then make a chanting roll of D6. Effect: Return D3 slain models to the target unit. If the chanting roll was 8+, return D3+3 slain models to the target unit instead. KEYWORDS PRAYER, UNLIMITED"
+ },
+ {
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Equinox Feast > Manifestation Lore",
+  "text": "Your Hero Phase 6 SUMMON CHALICE OF USHORAN : The wizard conjures forth a manifestation of the sacred cup held by Ushoran. This bone-wrought goblet is filled with the blood of those slain in its presence. Declare: If there is not a friendly Chalice of Ushoran on the battlefield, pick a friendly EQUINOX FEAST WIZARD to cast this spell, then make a casting roll of 2D6. Effect: Set up a Chalice of Ushoran wholly within 12\" of the caster and visible to them. KEYWORDS SPELL, SUMMON Army of Renown"
+ },
+ {
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Knights of New Summercourt",
+  "text": "When you pick the Flesh-eater Courts faction for your army, you can choose for it to be the Knights of New Summercourt Army of Renown . If you do so, use the faction rules in this section instead of the Flesh-eater Courts faction rules. Every unit in your army must be drawn from the units listed in the roster options box below. All units in your army gain the NEW SUMMERCOURT keyword. ROSTER OPTIONS Ushoran, Mortarch of Delusion (must be included) Any NON-UNIQUE ABHORRANTS Any NOBLES Varghulf Courtiers Any KNIGHTS units You cannot include Regiments of Renown"
+ },
+ {
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Knights of New Summercourt > Battle Traits",
+  "text": "Once Per Battle (Army), Deployment Phase THE SUMMERKING’S COLOURS : Ushoran’s flayed-flesh battle standards inspire his followers to dizzying heights of greatness – but should the colours fall, the ghouls would be left utterly bereft. Declare: Pick a friendly NEW SUMMERCOURT unit that contains any standard bearers to be the target. Effect: For the rest of the battle: While the target unit contains any standard bearers, add 10 to the control scores of friendly NEW SUMMERCOURT units while they are wholly within 24\" of the target. Once all of the standard bearers in the target unit have been slain, subtract 5 from the control scores of friendly NEW SUMMERCOURT units. Once Per Turn (Army), Any Combat Phase A DUEL, GOOD SIR! : To refuse an honourable duel with Ushoran is always to one’s detriment. Declare: You must use this ability if the friendly Ushoran is in combat with the enemy general . Pick the enemy general to be the target. Effect: Your opponent must decide whether the target will accept or refuse Ushoran’s challenge. Accept: For the rest of the turn, when the friendly Ushoran and the target are picked to use a FIGHT ability , all of their attacks must target each other. Refuse: The target has STRIKE-LAST for the rest of the turn. Once Per Battle (Army), Any Charge Phase IN THEIR SIRE’S SHADOW : When Ushoran himself takes to the field, his knights are seized by an irrepressible mania to follow at his monstrous heels. Declare: If the friendly Ushoran is not in combat and has not used any RUN or RETREAT abilities this turn, pick him to use this ability. Then, pick up to 2 friendly NEW SUMMERCOURT KNIGHTS units within his combat range that are not in combat and have not used a RUN or RETREAT ability this turn to be his royal retinue . Then, make a charge roll of 2D6."
+ },
+ {
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Knights of New Summercourt > Battle Traits",
+  "text": "Then, make a charge roll of 2D6. Effect: The friendly Ushoran can move a distance up to the value of the charge roll. He can move through the combat ranges of enemy units and must end that move within ½\" of a visible enemy unit. If he does so, he has charged . If he charged, then after this ability has been resolved, each unit in his royal retinue can immediately use the ‘ Charge ’ ability even if it is not your charge phase and you can use the charge roll from this ability instead of making a charge roll when it does so, but it must end the charge move within 3\" of the friendly Ushoran . KEYWORDS CORE, MOVE, CHARGE Once Per Turn (Army), Any Combat Phase THE KNIGHT’S VOW : Ushoran’s chosen spawn are fanatical in defending what they deem to be his. Declare: Pick each friendly NEW SUMMERCOURT unit that did not charge this turn to be the targets. Effect: Start rolling dice, one at a time and one for each target, and stop when you roll a 6. The target you rolled a 6 for can use 2 FIGHT abilities this phase. After the first is used, however, the target has STRIKE-LAST for the rest of the turn. If you rolled for each target and did not roll a 6, this ability has no effect. Passive NIGHTMARISH CHARGE : The sight of hulking ghoul-breeds crashing into the fray can stun any foe. Effect: Subtract 1 from hit rolls for combat attacks that target friendly NEW SUMMERCOURT units that charged in the same turn. Once Per Turn (Army), Your Movement Phase RED ERRANTRY HOSTS : Many banners of ‘knights’ jostle for a chance to fight at Ushoran’s side. Declare: Pick a friendly KNIGHTS unit that has been destroyed to be the target."
+ },
+ {
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Knights of New Summercourt > Battle Traits",
+  "text": "Declare: Pick a friendly KNIGHTS unit that has been destroyed to be the target. Effect: Set up a replacement unit with half the number of models from the target unit (rounding up) wholly within friendly territory, wholly within 6\" of a battlefield edge and more than 9\" from all enemy units."
+ },
+ {
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Knights of New Summercourt > Heroic Traits",
+  "text": "HERO only Any Combat Phase TIP OF THE KING’S LANCE : This champion’s bulk sees them smash through defensive formations. Effect: If this unit charged this turn, it can move 2D6\". It can pass through models in enemy units, but it must end that move in combat ."
+ },
+ {
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Knights of New Summercourt > Artefacts of Power",
+  "text": "HERO only Passive FETED CORONET : This crown wards the wearer so long as all their warriors chant in adoration. Effect: This unit has WARD ( 4+ ) until a friendly NEW SUMMERCOURT unit is destroyed."
+ },
+ {
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Knights of New Summercourt > Spell Lore",
+  "text": "Your Hero Phase 6 DERANGED TRANSFORMATION : The spellcaster causes the limbs of nearby ghouls to bulge and lengthen, allowing them to charge forwards at a furious pace and imbuing them with greater strength. Declare: Pick a friendly NEW SUMMERCOURT WIZARD to cast this spell, pick a visible friendly NEW SUMMERCOURT INFANTRY or CAVALRY unit wholly within 12\" of them to be the target, then make a casting roll of 2D6. Effect: Until the start of your next turn: Add 2\" to the target’s Move characteristic. Add 1 to wound rolls for the target’s combat attacks . KEYWORDS SPELL, UNLIMITED Your Hero Phase 7 MIASMA OF MADNESS : The wizard calls forth a sanity-warping mist to engulf the foe. Declare: Pick a friendly NEW SUMMERCOURT WIZARD to cast this spell, pick a visible enemy unit within 18\" of them to be the target, then make a casting roll of 2D6. Effect: Until the start of your next turn, for each unmodified hit roll of 1 for a combat attack made by the target, inflict 1 mortal damage on the target after the FIGHT ability has been resolved. KEYWORDS SPELL"
+ },
+ {
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Knights of New Summercourt > Prayer Lore",
+  "text": "Your Hero Phase 4 EXCOMMUNICATION! : Having espied exiled warriors, the priest vociferously denounces them. Declare: Pick a friendly NEW SUMMERCOURT PRIEST to chant this prayer, pick a visible enemy unit within 18\" of them to be the target, then make a chanting roll of D6. Effect: Until the start of your next turn, ignore positive modifiers to save rolls for the target. In addition, if the chanting roll was 10+, ward rolls cannot be made for the target until the start of your next turn. KEYWORDS PRAYER, UNLIMITED"
+ },
+ {
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Knights of New Summercourt > Manifestation Lore",
+  "text": "Your Hero Phase 6 SUMMON CORPSEMARE STAMPEDE : Imbued with grisly vigour, the undead beasts of a Corpsemare Stampede burst from the blood-soaked ground to trample across the battlefield. Declare: If there is not a friendly Corpsemare Stampede on the battlefield, pick a friendly NEW SUMMERCOURT WIZARD to cast this spell, then make a casting roll of 2D6. Effect: Set up a Corpsemare Stampede wholly within 12\" of the caster, visible to them and more than 9\" from all enemy units. KEYWORDS SPELL, SUMMON"
+ },
+ {
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Carrion Retainers",
+  "text": "Hark! For when the noble liege of the lands wishes to survey their domain or embark upon a mighty quest, they will bring with them a royal entourage. After all, it would never do for a true monarch to be seen without their loyal bodyguard, courtly knights mounted upon winged steeds and the saintly paladins at their beck and call. Should they encounter villains or curs on their procession, why, such evil-doers must be struck down – and a grand feast held to mark the victory… Reality, alas, never matches these visions. For these bands of deluded knights are monsters themselves, ghouls and feral vampires hungry for flesh and blood. The lens of madness through which they perceive the world does not dilute their ravenous frenzy. Ghouls are little given to strategy or complex manoeuvres; they prefer to swarm in a rabid horde, trusting in ferocity to carry the day. However, the chivalric nature of the ghouls’ hallucinations renders them devoted to their lieges. Should an abhorrant vampire perform deeds of bloodthirsty ‘valour’, their entourage will strive all the more viciously to emulate them. This Spearhead army consists of the following units: General Abhorrant Archregent Units 10 Cryptguard 3 Morbheg Knights Varghulf Courtier",
+  "spearhead_name": "Carrion Retainers"
+ },
+ {
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Carrion Retainers > Battle Traits",
+  "text": "Passive NOBLE DEEDS : Each member of a ghoulish court is constantly seeking to prove their valour by performing worthy exploits on the battlefield. Effect: Each time a friendly HERO uses a FIGHT ability , after its attacks have been resolved, give that HERO a number of noble deeds points equal to the number of damage points allocated by that ability. Each HERO can have a maximum of 6 noble deeds points at any time. Passive FEEDING FRENZY : To witness an abhorrant at war spurs a mad hunger in the ghouls Effect: Add 1 to the Attacks characteristic of melee weapons used by friendly units while they are wholly within 12\" of any friendly HEROES that have 6 noble deeds points . Your Movement Phase SUMMON LOYAL SUBJECTS : Ghouls flock to their vampiric masters. Declare: Pick a friendly HERO with any noble deeds points to use this ability. Effect: Spend any number of that HERO ’s noble deeds points as follows: Pick a friendly Cryptguard unit within 9\" of this unit and spend 1 noble deeds point to return 1 model to that unit. Pick a friendly Morbheg Knights unit within 9\" of this unit and spend 2 noble deeds points to return 1 model to that unit.",
+  "spearhead_name": "Carrion Retainers"
+ },
+ {
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Carrion Retainers > Regiment Abilities",
+  "text": "Pick 1 of the following regiment abilities. Passive CRUSADING ARMY : The warriors of this court see themselves a crusading paladins venturing out into the realms with a holy cause. Effect: Add 1 to run rolls and charge rolls for friendly units. Passive DEFENDERS OF THE REALM : These deluded ghouls see themselves as noble defenders, selling their lives dearly to drive back the invader from beyond. Effect: Add 1 to save rolls for friendly units that are contesting an objective you control .",
+  "spearhead_name": "Carrion Retainers"
+ },
+ {
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Carrion Retainers > Enhancements",
+  "text": "Give your general 1 of the following enhancements. Passive ULGUAN CLOAK : This Archregent is shrouded by an aura of darkness – holiness, as they would see it – which makes them difficult to target. Effect: Your general is not visible to enemy models that are more than 12\" away from them. Your Hero Phase ROUSING ORATION : The Archregent looses a soul-chilling howl, which is perceived as an inspiring call to gallantry by their deranged followers. Effect: Roll a dice for each friendly unit wholly within 12\" of your general. Do not roll a dice for your general. For each 5+, give 1 noble deeds point to your general. Once Per Battle, Your Hero Phase BLOOD-RIVER CHALICE : The Archregent guzzles from a bloodstained chalice, roaring as their deathless form swells with restored vitality. Effect: Heal (2D3) your general . Your Hero Phase CRIMSON VICTUALS : Hissing an incantation, the Archregent saps the life essence of nearby foes. Declare: Pick a visible enemy unit within 18\" of your general to be the target, then make a casting roll of 2D6. Effect: On a 6+, inflict D3 mortal damage on the target. Then, if your Cryptguard unit is within 6\" of the target, you can return 1 slain model to your Cryptguard unit for each damage point allocated by this ability.",
+  "spearhead_name": "Carrion Retainers"
+ },
+ {
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Carrion Retainers > Warscrolls",
+  "text": "• SPEARHEAD WARSCROLL • Abhorrant Archregent 6\" 6 5+ 2 6+ The vampiric abhorrants known as Archregents are amongst the most powerful of all their degenerate brood. Through crazed bloodlust and the sheer force of their deluded will, they have bound vast cannibal empires to them, and they command the loyalty of innumerable gibbering ghouls. Though Archregents are more than capable of tearing foes apart in a flurry of fangs, they take a warped satisfaction in watching their minions carry the day. Many wield their dark magics to ‘bless’ those under their command, turning them into even more ferocious killing machines. • SPEARHEAD WARSCROLL • Abhorrant Archregent MELEE WEAPONS Atk Hit Wnd Rnd Dmg Gory Talons and Fangs Gory Talons and Fangs 5 3+ 3+ 1 2 Your Hero Phase DERANGED TRANSFORMATION : Wielding the power of their curse, the abhorrant causes the limbs of a nearby pack to bulge and lengthen, allowing the creatures to charge forwards at a furious pace. Declare: Pick a visible friendly unit wholly within 18\" of this unit to be the target, then make a casting roll of 2D6. Effect: On a 6+, until the start of your next turn, add 2\" to the target’s Move characteristic and add 1 to wound rolls for its attacks. KEYWORDS HERO , INFANTRY , WARD ( 6+ ) • SPEARHEAD WARSCROLL • Cryptguard 6\" 1 6+ 1 5+ Cryptguard are drawn from the cannibal ‘serfs’ of an abhorrant’s kingdom. Each has impressed their liege through some great feat of endurance – perhaps catching a blade intended for the vampire, deliberately or otherwise. As a reward, they are inducted into their monarch’s bodyguard, given better scraps from the feasting table and a pick of weapons from the royal armoury – relics that have long been steeped in a miasma of madness.",
+  "spearhead_name": "Carrion Retainers"
+ },
+ {
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Carrion Retainers > Warscrolls",
+  "text": "given better scraps from the feasting table and a pick of weapons from the royal armoury – relics that have long been steeped in a miasma of madness. Cryptguard take great pride in their tenacity, and their proximity to the abhorrants’ necromantic energies render them remarkably difficult to slay. • SPEARHEAD WARSCROLL • Cryptguard MELEE WEAPONS Atk Hit Wnd Rnd Dmg Cursed Weapon Cursed Weapon 3 4+ 4+ 1 1 Passive ROYAL BODYGUARD : In battle, it falls to the tenacious Cryptguard to form a half-living shield for their vampiric overlords. Effect: Add 1 to ward rolls for friendly HEROES that are wholly within this unit’s combat range . KEYWORDS INFANTRY , REINFORCEMENTS , WARD ( 5+ ) • SPEARHEAD WARSCROLL • Morbheg Knights 12\" 4 4+ 1 6+ The Morbheg Knights believe themselves to be proud and chivalric warriors mounted upon noble feathered steeds of the sky. This could not be further from the truth, for their mounts are in fact vile Nightshriekers, the latter-day spawn of Morbheg – ancient godbeast sire to all chiropteran beasts. Though Nightshriekers cannot fly in the conventional sense, they possess immensely powerful hind limbs with which to leap far through the air, allowing the Morbheg Knights to crash into unsuspecting foes and wreak havoc. • SPEARHEAD WARSCROLL • Morbheg Knights MELEE WEAPONS Atk Hit Wnd Rnd Dmg Grisly Lance [ Charge (+1 Damage) ] Grisly Lance Charge (+1 Damage) 2 3+ 4+ 1 1 Nightshrieker’s Claws and Teeth [ Companion ] Nightshrieker’s Claws and Teeth Companion 3 4+ 3+ 1 2 Passive PREDATOR'S POUNCE : Though they lack the power of true flight, Nightshriekers can leap clean over obstacles and the heads of the foe, allowing Morbheg Knights to strike and disengage at will.",
+  "spearhead_name": "Carrion Retainers"
+ },
+ {
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Carrion Retainers > Warscrolls",
+  "text": "of true flight, Nightshriekers can leap clean over obstacles and the heads of the foe, allowing Morbheg Knights to strike and disengage at will. Effect: This unit can use CHARGE abilities even if it used a RETREAT ability in the same turn. In addition, no mortal damage is inflicted on this unit when it uses RETREAT abilities. KEYWORDS CAVALRY , FLY , WARD ( 6+ ) • SPEARHEAD WARSCROLL • Varghulf Courtier 10\" 8 5+ 2 6+ In the eyes of the ghouls, Varghulfs are saintly warriors, aglow with divine power. Undeniably, they are amongst the most monstrous examples of the abhorrant bloodline, misbegotten horrors whose lust for blood and meat has overwhelmed whatever trace of self-control that remained. Only the most lordly of their kin can hope to command a Varghulf; any other who approaches will be torn apart in a shower of gore. Even then, one can do little more than goad these beasts into the fray before letting the Varghulf indulge its flesh-mangling hungers as it wishes, feasting on the fallen before darting away to strike elsewhere with preternatural swiftness. • SPEARHEAD WARSCROLL • Varghulf Courtier MELEE WEAPONS Atk Hit Wnd Rnd Dmg Immense Claws Immense Claws 7 4+ 3+ 1 2 Dagger-like Fangs Dagger-like Fangs 1 3+ 2+ 2 3 End of Any Turn VICTORY FEAST : A Varghulf rampages through the enemy’s ranks at will, its wounds sealing with unholy rapidity as it guzzles the flesh of the savaged foe. Effect: If any models were slain by this unit this turn, Heal (D6) this unit, and this unit can immediately use the ‘ Retreat ’ ability without any mortal damage being inflicted on it. KEYWORDS HERO , INFANTRY , WARD ( 6+ )",
+  "spearhead_name": "Carrion Retainers"
+ },
+ {
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Charnel Watch",
+  "text": "The sovereign domains of the Flesh‑eater Courts are accursed places, where death comes quickly even in the outermost reaches. Cannibal packs lope through dark forests with eyes gleaming; the scent of meat is enough to have their vampiric masters create all manner of deluded casus belli. The Charnel Watches that serve the abhorrants as border ‘guardians’ are, therefore, a menace to all neighbouring lands; these rabid packs of especially unstable ghouls seize any maddened impulse as an excuse to hunt fresh prey. An Abhorrant Gorewarden inevitably commands a Charnel Watch detachment, for theirs is the duty of overseeing the marches of their lord’s domain. They are joined by Crypt Horror ‘knights’ who take up residence in their keeps, plying their monstrous martial skills against trespassers. Winged Crypt Flayers patrol the skies alongside their vampire liege, while Beastflayer warbands harry the prey more directly – their familiarity with each hill and furrow of their hunting grounds ensures that there is no easy escape. This Spearhead army consists of the following units: General Abhorrant Gorewarden Units 10 Royal Beastflayers 3 Crypt Horrors 3 Crypt Flayers",
+  "spearhead_name": "Charnel Watch"
+ },
+ {
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Charnel Watch > Battle Traits",
+  "text": "Once Per Battle Round (Army), Start of Battle Round DELUSIONS AND MADNESS : The Flesh‑eaters’ delusions can change on a whim. Declare: You must use this ability at the start of each battle round. If it is the first battle round, pick a DELUSION . Otherwise, make a delusion roll by rolling a D6. Effect: On a 1-3, you must pick a different DELUSION to the one you picked last time. On a 4+, you must pick the same DELUSION as last time. For the rest of the battle round, you believe the DELUSION you picked. Once Per Turn (Army), End of Any Turn DELUSION OF THE GREAT FEAST : In victory’s wake, the ghouls gorge upon their ‘bounty’… Declare: If you believe this DELUSION , pick each friendly unit on the battlefield to be the targets. Effect: Heal (1) each target. If the target is a SERFS unit, return D3 slain models to it instead. KEYWORDS DELUSION Passive DELUSION OF THE KNIGHTLY HOST : The earth shakes and the sky screams as the ghouls charge. Effect: While you believe this DELUSION , if the unmodified charge roll for a friendly HERO or KNIGHTS unit is 8+, add 1 to hit rolls for that unit’s combat attacks for the rest of the turn. KEYWORDS DELUSION",
+  "spearhead_name": "Charnel Watch"
+ },
+ {
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Charnel Watch > Regiment Abilities",
+  "text": "Pick 1 of the following regiment abilities. Passive DELUSION OF THE SENTINEL : Convinced that they are the last line of defence, the ghouls fight on with a shrieking grit. Effect: While you believe this DELUSION , add 1 to ward rolls for friendly units while each model in the unit is contesting an objective . KEYWORDS DELUSION Passive DELUSION OF THE HUNTER : The ghouls opt to pounce on trespassers rather than hold ground. Effect: While you believe this DELUSION , add 1 to wound rolls for combat attacks made by friendly units while no models in the unit are contesting an objective . KEYWORDS DELUSION",
+  "spearhead_name": "Charnel Watch"
+ },
+ {
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Charnel Watch > Enhancements",
+  "text": "Give your general 1 of the following enhancements. Once Per Battle, Reaction: You declared the ‘ Delusions and Madness ’ ability ALMOST LUCID : This vampire has just enough sanity to faintly manipulate their madness. Effect: You can re-roll the delusion roll. Once Per Battle, Any Combat Phase A WORTHY CHALLENGE : The pinnacle of chivalry is a noble duel between virtuous warriors. Declare: Pick an enemy unit that started the battle with 3 or fewer models and is in combat with your general to be the target. Effect: Your opponent must decide whether the target will accept or refuse your general’s challenge. If they accept, for the rest of the phase, when your general and the target are picked to use a FIGHT ability , all of their attacks must target each other. If they refuse , the target has STRIKE-LAST for the rest of the phase. End of Any Turn COMPANION OF THE HUNT : This vampire has oft excelled in their monarch’s hunting parties. Effect: If your general is not in combat , they can move 3\". They cannot move into combat during any part of that move. Once Per Battle, Your Shooting Phase CHOIRMASTER : The shrieks of this Gorewarden further bolster the howls of their Crypt Flayers. Declare: Pick a visible enemy unit within 6\" of your general to be the target. Effect: For the rest of the turn, add 1 to the Damage characteristic of friendly units’ ranged weapons for attacks that target that enemy unit.",
+  "spearhead_name": "Charnel Watch"
+ },
+ {
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Charnel Watch > Warscrolls",
+  "text": "• SPEARHEAD WARSCROLL • Abhorrant Gorewarden 12\" 7 5+ 2 6+ A Gorewarden bears the keys to the kingdom and oversees the protection of their liege’s borderlands. They perch, gargoyle-like, atop toppled spires and battlements for days and nights on end, eyes blazing. Once they sight their prey, the vampire throws their head back, shrieking for the hunt. Clad in what they perceive to be great finery, the Gorewarden leads a flight of bloodthirsty predators to savage the unwary intruders. • SPEARHEAD WARSCROLL • Abhorrant Gorewarden MELEE WEAPONS Atk Hit Wnd Rnd Dmg Gory Talons and Fangs Gory Talons and Fangs 5 3+ 3+ 1 2 Your Hero Phase SOUND THE PURSUIT! : With a howl that echoes like a winding horn, the Gorewarden infuses their minions with a feverish desire to hunt and feast. Declare: Pick a friendly unit wholly within 12\" of this unit to be the target, then make a casting roll of 2D6. Effect: On a 6+, until the start of your next turn, when making charge rolls for the target, add 1 to the number of dice rolled, to a maximum of 3, then remove 1 dice of your choice and use the remaining dice as the charge roll. KEYWORDS HERO , WIZARD , INFANTRY , FLY , WARD ( 6+ ) • SPEARHEAD WARSCROLL • Crypt Horrors 7\" 4 5+ 1 6+ Crypt Horrors have been granted a heady boon – the chance to sip from the veins of an abhorrant and be empowered by their unholy vitae. The transformation that seizes these ghouls is harrowing; their bodies distend as muscles swell in grotesque fashion and their spines crack and burst from their backs. Despite their beastly appearance, as knights charged with defending the kingdom and punishing its enemies, they enjoy a place of honour amongst the cannibal courts.",
+  "spearhead_name": "Charnel Watch"
+ },
+ {
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Charnel Watch > Warscrolls",
+  "text": "appearance, as knights charged with defending the kingdom and punishing its enemies, they enjoy a place of honour amongst the cannibal courts. • SPEARHEAD WARSCROLL • Crypt Horrors MELEE WEAPONS Atk Hit Wnd Rnd Dmg Club and Septic Talons Club and Septic Talons 4 4+ 3+ 1 2 Any Combat Phase HOLY BLADES OF BONE : Crypt Horrors wield huge, monstrous femurs – as well as other grisly relics – as if they were blessed weapons. Declare: Pick an enemy unit in combat with this unit and that charged this turn to be the target. Effect: Roll a dice for each model in the target unit. For each 5+, inflict 1 mortal damage on the target unit. KEYWORDS INFANTRY , REINFORCEMENTS , WARD ( 6+ ) • SPEARHEAD WARSCROLL • Royal Beastflayers 6\" 1 6+ 1 6+ The noble hunt is a hallowed thing to the Flesh‑eater Courts, and the Royal Beastflayers play a key role in this joyous celebration. Led by a vampiric Flaymaster, these ghouls plunge into the tangled wilds of their domains, beating out both prey and trespassers so they might be pursued and ripped apart. Some wear the skins of totem beasts. Others have been seized by mutation themselves, degenerating further into the creatures known as Offal Hounds. All are foul things, forever salivating and wild. • SPEARHEAD WARSCROLL • Royal Beastflayers MELEE WEAPONS Atk Hit Wnd Rnd Dmg Beastflayer Weapons Beastflayer Weapons 3 4+ 4+ - 1 Your Movement Phase LIE OF THE LAND : The Beastflayers’ familiarity with their hunting grounds allows them to easily outflank their prey.",
+  "spearhead_name": "Charnel Watch"
+ },
+ {
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Charnel Watch > Warscrolls",
+  "text": "3 4+ 4+ - 1 Your Movement Phase LIE OF THE LAND : The Beastflayers’ familiarity with their hunting grounds allows them to easily outflank their prey. Effect: If this unit is not in combat and is wholly within 6\" of a battlefield edge, remove this unit from the battlefield and set it up again wholly within 6\" of a battlefield edge and more than 6\" from all enemy units KEYWORDS INFANTRY , WARD ( 6+ ) • SPEARHEAD WARSCROLL • Crypt Flayers 12\" 4 5+ 1 6+ Winged and bloated, Crypt Flayers are perceived as angelic beings by the cannibal masses – a far cry from their monstrous true nature. Taking flight upon ragged, leathery pinions, bones driven through their flesh and fangs caked in gore, they seek out prey to descend upon. While they are viciously capable of tearing apart foes with talon and fang, the Crypt Flayers’ true threat is the soul-shredding shrieks they can let loose. What the ghouls hear as soft, divine choruses are instead blood-curdling cacophonies that can rip the mind in twain. • SPEARHEAD WARSCROLL • Crypt Flayers RANGED WEAPONS Rng Atk Hit Wnd Rnd Dmg Death Scream [ Shoot in Combat ] Death Scream Shoot in Combat 10\" 4 4+ 3+ 2 1 MELEE WEAPONS Atk Hit Wnd Rnd Dmg Piercing Talons Piercing Talons 4 4+ 3+ 1 1 Your Shooting Phase UNHOLY CHORUS : The shrieks of a Crypt Flayer pack leave their enemies disoriented and harrowed. Declare: Pick a visible enemy unit within 10\" of this unit to be the target. Effect: For the rest of the turn, subtract an amount from the target’s control score equal to the number of damage points allocated to the target this phase by this unit’s shooting attacks . KEYWORDS INFANTRY , FLY , WARD ( 6+ ) noindex /noindex noindex",
+  "spearhead_name": "Charnel Watch"
+ }
+]

@@ -1,0 +1,17 @@
+# 파이썬 / 가상환경
+.venv/
+__pycache__/
+*.pyc
+
+# 산출물 (스크랩 결과)
+army_list/
+logs/
+update_state.json
+*.csv
+*.xlsx
+
+# 원본 PDF (GW 저작물)
+battleprofiles/
+
+# macOS
+.DS_Store

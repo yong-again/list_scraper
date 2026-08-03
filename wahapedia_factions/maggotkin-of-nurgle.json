@@ -1,0 +1,400 @@
+[
+ {
+  "faction": "Maggotkin of Nurgle",
+  "faction_slug": "maggotkin-of-nurgle",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "",
+  "text": "/noindex Nurgle is the Chaos God of plagues, whose power waxes strong when disease and despair ravage the Mortal Realms. Though he is a source of fear and revulsion to his enemies, Nurgle is a perversely paternal god, generous with his foul gifts and proud of his worshippers’ every disgusting achievement. This page contains all of the rules you need to field your Maggotkin of Nurgle miniatures on the battlefields of the Mortal Realms, from a host of exciting faction rules to a range of warscrolls. The rules are split into the following sections:"
+ },
+ {
+  "faction": "Maggotkin of Nurgle",
+  "faction_slug": "maggotkin-of-nurgle",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Designers’ Commentary > Battletome: Maggotkin of Nurgle",
+  "text": "Q: If a unit within 3\" of a plague progenitor picked as the target of the ‘Spread’ effect of the ‘ Blessed by the Plaguefather ’ ability has the DISEASE keyword, would D3 mortal damage still be inflicted upon it from that ‘Plague Progenitor’ effect? A: Yes. Q: If plague progenitor would heal in the first battle round, can it remove disease instead? A: No. Q: Does the ‘ Desperate Remedies ’ ability remove the DISEASED keyword from an undamaged unit? A: Yes. Q: When using the ‘ Contagious Catarrh ’ ability, can you pick 0 Mire Kelpies? A: Yes. Q: If you have picked 1 or more Mire Kelpies when using the ‘ Contagious Catarrh ’ ability and roll a 1, are those Mire Kelpies removed from the unit? A: No. Q: When resolving the ‘ Wracked with Disease ’ ability and a diseased enemy unit would be destroyed by the mortal damage inflicted by that ability, triggering the effect of the ‘ Burst Pustules ’ ability, do I finish resolving the effects of ‘Wracked with Disease’ before resolving the effects of ‘Burst Pustules’? A: Yes, as model removal occurs after an ability has been resolved. Q: Can DISEASED units that are in reserve (for example if they have been placed in reserve from the battlefield by the Disciples of Tzeentch ‘ Smoke and Mirrors ’ ability) be picked as a target of the ‘ Wracked with Disease ’ ability? A: No."
+ },
+ {
+  "faction": "Maggotkin of Nurgle",
+  "faction_slug": "maggotkin-of-nurgle",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Traits",
+  "text": "Maggotkin of Nurgle armies can use the following abilities: Your Hero Phase BLIGHTED REGROWTH : Feculent Gnarlmaws burst forth from contaminated lands like pus from a rotting wound. Declare: You can use this ability if there are no friendly Feculent Gnarlmaws on the battlefield. Effect: Set up a Feculent Gnarlmaw on the battlefield wholly within 12\" of an objective you control and more than 3\" from all enemy units, objectives and other terrain features . Once Per Turn (Army), End of Any Turn BLESSED BY THE PLAGUEFATHER : Every Maggotkin is a walking vector of disease, a willing incubator for maladies that ravage the body and spirit with horrific virulence. Effect: Pick 1 of the following effects: Infect: Pick an enemy unit within 7\" of any friendly MAGGOTKIN OF NURGLE units to be the target. You cannot pick a MANIFESTATION or terrain feature . If the target is in combat with any friendly MAGGOTKIN OF NURGLE units, it has the DISEASED keyword. If the target is not in combat with any friendly MAGGOTKIN OF NURGLE units, roll a dice. On a 4+, the target has the DISEASED keyword. Spread: Pick a DISEASED enemy unit to be the target. Each other enemy unit within the target’s combat range , excluding MANIFESTATIONS and terrain features, has the DISEASED keyword. Mutate: If all enemy units on the battlefield, excluding MANIFESTATIONS and terrain features, have the DISEASED keyword, inflict 1 mortal damage on each of them. Once Per Turn (Army), End of Any Turn WRACKED WITH DISEASE : The Maggotkin wage war with weeping wounds and pustulant boils as well as with rusted weapons. Declare: Pick each DISEASED enemy unit to be the targets. Effect: Inflict D3 mortal damage on each target."
+ },
+ {
+  "faction": "Maggotkin of Nurgle",
+  "faction_slug": "maggotkin-of-nurgle",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Traits",
+  "text": "Declare: Pick each DISEASED enemy unit to be the targets. Effect: Inflict D3 mortal damage on each target. Once Per Turn (Army), End of Any Turn CEASELESS INFECTORS : Upon their deaths, Rotbringers’ bodies will purge their ‘gifts’, infecting those nearby and ensuring the continued propagation of Nurgle’s diseases. Declare: Pick an enemy unit that was in combat with a friendly ROTBRINGERS unit that was destroyed this turn to be the target. You cannot pick a MANIFESTATION or terrain feature . Effect: Roll a dice. On a 3+, the target has the DISEASED keyword. Passive BURST PUSTULES : As blighted flesh is pierced and hewn, quivering boils erupt, showering all with Nurgle’s glistening gifts. Effect: Each time a DISEASED enemy unit is destroyed, before the last model in the unit is removed from play, roll a dice. On a 3+, pick another enemy unit within 9\" of that model to be the target. You cannot pick a MANIFESTATION or terrain feature . The target has the DISEASED keyword. Passive DESPERATE REMEDIES : When fighters are afflicted with the plagues of Nurgle, all efforts must be made to stem the spread of those diseases. Effect: If an ability would heal or return slain models to a DISEASED enemy unit, that ability does not heal or return any slain models to it. Instead, it no longer has the DISEASED keyword."
+ },
+ {
+  "faction": "Maggotkin of Nurgle",
+  "faction_slug": "maggotkin-of-nurgle",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations",
+  "text": "You can pick 1 of the following battle formations for a Maggotkin of Nurgle army. Each battle formation grants a different ability you can use in the battle. BATTLE PROFILE Name Points Tallyband of Nurgle 0 Plague Cyst 0 Nurgle’s Menagerie 0 Affliction Cyst 0"
+ },
+ {
+  "faction": "Maggotkin of Nurgle",
+  "faction_slug": "maggotkin-of-nurgle",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Tallyband of Nurgle",
+  "text": "Once Per Battle (Army), Deployment Phase PLAGUE PROGENITOR : Simply to be in the presence of this unwitting pathogen incubator is to see one’s body ravaged by disease. Declare: Pick an enemy unit on the battlefield to be the plague progenitor for the rest of the battle. You cannot pick a MANIFESTATION or terrain feature . Effect: Roll 2D3. On a 6, or if the roll equals or exceeds the plague progenitor’s Health characteristic, it has the DISEASED keyword. In the first battle round, if an ability would heal or return any slain models to a DISEASED plague progenitor , that ability does not heal any damage points or return any slain models to it. Each time the plague progenitor is picked to be the target of the ’Spread’ effect of the ‘ Blessed by the Plaguefather ’ ability, inflict D3 mortal damage on each other enemy unit within its combat range , excluding MANIFESTATIONS and terrain features, in addition to the effect of that ability."
+ },
+ {
+  "faction": "Maggotkin of Nurgle",
+  "faction_slug": "maggotkin-of-nurgle",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Plague Cyst",
+  "text": "Passive VECTORS OF CONTAGION : These Nurglites are empowered by the presence of plague daemons. Effect: Add 5 to the control scores of friendly non- HERO ROTBRINGERS units while they are wholly within 12\" of any friendly MAGGOTKIN OF NURGLE DAEMON units."
+ },
+ {
+  "faction": "Maggotkin of Nurgle",
+  "faction_slug": "maggotkin-of-nurgle",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Nurgle’s Menagerie",
+  "text": "Passive DENIZENS OF THE GARDEN : The beasts that dwell deep in Nurgle’s Garden carry the most virulent diseases. Effect: Companion weapons used by friendly MAGGOTKIN OF NURGLE units have Crit (2 Hits) ."
+ },
+ {
+  "faction": "Maggotkin of Nurgle",
+  "faction_slug": "maggotkin-of-nurgle",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Affliction Cyst",
+  "text": "Passive FILTH-LADEN DAEMONIC BLOOMS : Nurgle’s influence has spread far and wide, invigorating his daemonic followers. Effect: Each time you make a run roll for a friendly non- MONSTER MAGGOTKIN OF NURGLE DAEMON unit, you can change that roll to a 4."
+ },
+ {
+  "faction": "Maggotkin of Nurgle",
+  "faction_slug": "maggotkin-of-nurgle",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Heroic Traits > Avatars of Corruption",
+  "text": "HERO only BATTLE PROFILE Name Points GRANDFATHER’S BLESSING 0 GIFT OF FEBRILE FRENZY 0 OVERPOWERING STENCH 0 End of Any Turn GRANDFATHER’S BLESSING : This mighty Nurglite is so diseased that they are rejuvenated by decay and plague. Effect: If this unit is in combat with a DISEASED enemy unit, Heal (D3) this unit. Any Combat Phase GIFT OF FEBRILE FRENZY : This general can invigorate their usually sluggish minions by releasing a fever upon them that drives them into a wild delirium. Declare: Pick a visible friendly non- HERO MAGGOTKIN OF NURGLE unit that is wholly within 12\" of this unit to be the target. Effect: Roll a dice. On a 3+, add 1 to the Attacks characteristic of the target’s melee weapons for the rest of the turn. Any Combat Phase OVERPOWERING STENCH : This general exudes an odour so wretched that even Nurgle’s daemons cannot adequately describe it. Enemies recoil, choking on their own vomit at the slightest whiff, rendered speechless as their senses are overwhelmed. Declare: Pick an enemy unit in combat with this unit to be the target. Effect: You and your opponent must roll off . If your roll is higher, pick 1 of the following effects to apply for the rest of the turn: Ignore positive modifiers to save rolls for the target. Subtract 1 from ward rolls for the target."
+ },
+ {
+  "faction": "Maggotkin of Nurgle",
+  "faction_slug": "maggotkin-of-nurgle",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Heroic Traits > Grandfather’s Gifts",
+  "text": "HERO only BATTLE PROFILE Name Points LIVING PLAGUE 0 UNCTUOUS PREACHER 0 CORPULENT AVALANCHE 0 Once Per Battle, Any Combat Phase LIVING PLAGUE : As this hero slams into the foe, they spread Nurgle’s potent gifts of contagion. Declare: If this unit charged this turn, pick an enemy unit in combat with it to be the target. Effect: The target has the DISEASED keyword. Passive UNCTUOUS PREACHER : Even this hero’s brethren consider them to be far too enthusiastic in their preachings of Grandfather Nurgle’s blessings. Effect: If this unit is not a PRIEST , it has PRIEST ( 1 ) . If this unit is already a PRIEST , add 1 to chanting rolls for this unit. Any Charge Phase CORPULENT AVALANCHE : As this hulk’s momentum builds, its bulk becomes nothing less than a blubbery, pus-filled battering ram. Declare: If this unit charged this turn, pick a visible enemy unit within 1\" of it to be the target. Effect: Roll a number of dice equal to this unit’s Move characteristic. For each 3+, inflict 1 mortal damage on the target. If any damage points were allocated to the target by this ability, this unit can move 2D3\". It can move through the combat ranges of enemy units but must end that move in combat with the units it was already in combat with at the start of the move."
+ },
+ {
+  "faction": "Maggotkin of Nurgle",
+  "faction_slug": "maggotkin-of-nurgle",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Artefacts of Power > Boons of Nurgle",
+  "text": "HERO only BATTLE PROFILE Name Points THE WITHERSTAVE 0 THE CARRION DIRGE 0 RUSTFANG 0 Any Combat Phase THE WITHERSTAVE : Carved from the heartwood of a tormented Treelord, the Witherstave thrums with a soured mockery of the Sylvaneth spirit-song. Those that hear it feel a terrible weakness shiver their limbs as a jarring dirge of despair clouds their minds. Declare: Pick an enemy unit that charged this turn and is in combat with this unit to be the target. Effect: Roll a dice. On a 3+, subtract 1 from the Damage characteristic of the target’s melee weapons for the rest of the turn. Once Per Battle, Any Hero Phase THE CARRION DIRGE : When blown, this filth-encrusted horn shrieks with the tongues of seven hundred and seventy-seven carrion crows. Those outside Nurgle’s favour who hear it are struck with a deep despondency. Why stand defiant? Why seek victory? Why do anything at all? Declare: Pick up to 3 enemy units within 18\" of this unit to be the targets. Effect: Subtract 5 from each target’s control score for the rest of the turn. Any Combat Phase RUSTFANG : Rustfang is a cursed battleaxe whose blade crawls with a thick layer of sentient corrosion. The slightest touch of this blade spreads its blight, chewing away the foe’s defences in moments. Declare: Pick an enemy HERO or MONSTER in combat with this unit to be the target. Effect: Subtract 1 from save rolls for the target for the rest of the turn."
+ },
+ {
+  "faction": "Maggotkin of Nurgle",
+  "faction_slug": "maggotkin-of-nurgle",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Spell Lore",
+  "text": "BATTLE PROFILE Name Points Lore of Malignance 0"
+ },
+ {
+  "faction": "Maggotkin of Nurgle",
+  "faction_slug": "maggotkin-of-nurgle",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Spell Lore > Lore of Malignance",
+  "text": "Your Hero Phase 6 FLESHY ABUNDANCE : The sorcerer generously bestows a growth spurt of the most repulsive kind upon their allies, causing their bodies to bloat with great wobbling mounds of grey-green fat. Declare: Pick a friendly MAGGOTKIN OF NURGLE WIZARD to cast this spell, pick a visible friendly MAGGOTKIN OF NURGLE unit wholly within 12\" of them to be the target, then make a casting roll of 2D6. Effect: Pick 1 of the following effects: Heal (D3) the target. Subtract 1 from wound rolls for attacks that target that friendly unit until the start of your next turn. KEYWORDS SPELL, UNLIMITED Your Hero Phase 6 CRIPPLING DESPAIR : With a sweep of their hand, the sorcerer imbues upon their victim with an overwhelming sense of hopelessness that renders them oblivious to their surroundings. Declare: Pick a friendly MAGGOTKIN OF NURGLE WIZARD to cast this spell, pick a visible enemy unit within 18\" of them to be the target, then make a casting roll of 2D6. Effect: The target cannot use commands for the rest of the turn. KEYWORDS SPELL Your Hero Phase 7 CLOYING QUAGMIRE : The sorcerer thrusts their hands into the soil, causing the ground beneath their enemies to putrefy into a sucking, grasping quagmire. Declare: Pick a friendly MAGGOTKIN OF NURGLE WIZARD to cast this spell, pick a visible enemy unit within 18\" of them to be the target, then make a casting roll of 2D6. Effect: Until the start of your next turn: Halve the target’s Move characteristic. If the target’s Save characteristic is 3+ or better, subtract 1 from run rolls and charge rolls for the target. KEYWORDS SPELL"
+ },
+ {
+  "faction": "Maggotkin of Nurgle",
+  "faction_slug": "maggotkin-of-nurgle",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Plaguefather’s Poxes",
+  "text": "Plaguefather’s Poxes are unique enhancements that can be given to non- HERO MAGGOTKIN OF NURGLE units. A unit can only have 1 Plaguefather’s Pox. BATTLE PROFILE Name Points SNUGGLING SICKNESS 10 CHUCKLING MURRAIN 10 THE WEEPING FLUX 10 Any Hero Phase SNUGGLING SICKNESS : Pathologically affectionate, these Nurglites envelop their foes in near-immobilising hugs. Declare: Pick an enemy unit in combat with this unit to be the target. Effect: For the rest of the turn: Each time the target uses a RETREAT ability, if it is in combat with this unit, roll 2D6 as a reaction and add the target’s Control characteristic to the roll. On an 8+, that RETREAT ability has no effect. The target cannot be removed from the battlefield by an ability that would allow it to be set up elsewhere on the battlefield or in reserve . Passive CHUCKLING MURRAIN : These cheerful Nurglites are afflicted with a minor variant of the Chortling Murrain; to be near them is to see one’s anger dissipate into snorting giggles. Effect: Your opponent must spend 1 additional rage dice for a unit to use the ‘ Eruption of Fury ’ ability while it is in combat with this unit. When resolving the damage sequence for enemy units in combat with this unit, each time your opponent would spend rage dice as part of the ‘ Fight Through the Pain ’ ability, they must spend 1 additional rage dice . In both cases, that additional dice does not count towards the number of rage dice spent for the purposes of the ability. Passive THE WEEPING FLUX : These Nurglites constantly secrete liberal amounts of noxious ooze from their pores. The ‘splashback’ from landing a telling blow against them is highly injurious to health."
+ },
+ {
+  "faction": "Maggotkin of Nurgle",
+  "faction_slug": "maggotkin-of-nurgle",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Plaguefather’s Poxes",
+  "text": "The ‘splashback’ from landing a telling blow against them is highly injurious to health. Effect: Each time a model in this unit is slain by a combat attack, roll a number of dice equal to this unit’s Health characteristic. For each 6, inflict 1 mortal damage on the attacking unit."
+ },
+ {
+  "faction": "Maggotkin of Nurgle",
+  "faction_slug": "maggotkin-of-nurgle",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Prayer Lore",
+  "text": "BATTLE PROFILE Name Points Bendictions of Sickness 0 Lore of Virulence 0 Benedictions of Sickness 0"
+ },
+ {
+  "faction": "Maggotkin of Nurgle",
+  "faction_slug": "maggotkin-of-nurgle",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Prayer Lore > Lore of Virulence",
+  "text": "Your Hero Phase 3 GIFT OF DISEASE : The priest licks an oozing sore, savouring the tangy flavour of a ripe contagion, before coughing a phlegmy litany that wreathes them and their allies in a pain-inuring ague. Declare: Pick a friendly MAGGOTKIN OF NURGLE PRIEST to chant this prayer, then make a chanting roll of D6. Effect: Until the start of your next turn, subtract 1 from wound rolls for attacks made by enemy units while they are in combat with the chanter. In addition, if the chanting roll was 10+, each enemy unit in combat with the chanter, excluding MANIFESTATIONS and terrain features , has the DISEASED keyword. KEYWORDS PRAYER, UNLIMITED Your Hero Phase 4 FAVOURED POXES : With an overwide grin, the priest generously anoints some unwilling victims with a slew of debilitating contagions. Declare: Pick a friendly MAGGOTKIN OF NURGLE PRIEST to chant this prayer, pick a visible enemy unit within 18\" of the chanter to be the target, then make a chanting roll of D6. Effect: Until the start of your next turn, subtract 2 from charge rolls for the target. If the chanting roll was 10+, until the start of your next turn, subtract 1 from the number of dice rolled when making charge rolls for the target, to a minimum of 1, instead. KEYWORDS PRAYER Your Hero Phase 4 BLOATED WITH SICKNESS : The priest hawks a glob of green-black mucus into their palm, leaving fat, writhing parasites in their grasp. With a swift clench of their fist, they grant their followers a putrefying resilience. Declare: Pick a friendly MAGGOTKIN OF NURGLE PRIEST to chant this prayer, pick a visible friendly non- MONSTER MAGGOTKIN OF NURGLE unit wholly within 12\" of the chanter to be the target, then make a chanting roll of D6."
+ },
+ {
+  "faction": "Maggotkin of Nurgle",
+  "faction_slug": "maggotkin-of-nurgle",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Prayer Lore > Lore of Virulence",
+  "text": "pick a visible friendly non- MONSTER MAGGOTKIN OF NURGLE unit wholly within 12\" of the chanter to be the target, then make a chanting roll of D6. Effect: Until the start of your next turn, ignore the first damage point that would be allocated to the target in each phase. If the chanting roll was 10+, you can pick another eligible unit to be a second target. KEYWORDS PRAYER"
+ },
+ {
+  "faction": "Maggotkin of Nurgle",
+  "faction_slug": "maggotkin-of-nurgle",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Prayer Lore > Bendictions of Sickness",
+  "text": "Your Hero Phase 3 INFECTIOUS SURGE : As the power of Nurgle waxes, his followers gain the momentum of a spreading pandemic. Declare: Pick a friendly MAGGOTKIN OF NURGLE PRIEST to chant this prayer, pick a visible friendly MAGGOTKIN OF NURGLE unit wholly within 12\" of them to be the target, then make a chanting roll of D6. Effect: Add 2\" to the target’s Move characteristic for the rest of the turn. In addition, if the chanting roll was 6+, for the rest of the turn, the target can use CHARGE abilities even if it used a RETREAT ability in the same turn. KEYWORDS PRAYER, UNLIMITED Your Hero Phase 3 AGONISING VOMITING : Presaged by a deep rumble within their distended guts, the priest belches forth a deluge of thick, corrosive vomit. Declare: Pick a friendly MAGGOTKIN OF NURGLE PRIEST to chant this prayer, pick a visible enemy unit within 18\" of them to be the target, then make a chanting roll of D6. Effect: Roll 7 dice. If the chanting roll was 6+, add 2 to each roll. For each 5+, inflict 1 mortal damage on the target. KEYWORDS PRAYER Your Hero Phase 3 FROTHING MUCUS : The priest blesses their kin with a rancid layer of protective slime. Declare: Pick a friendly MAGGOTKIN OF NURGLE PRIEST to chant this prayer, pick a visible friendly MAGGOTKIN OF NURGLE unit wholly within 12\" of them to be the target, then make a chanting roll of D6. Effect: Until the start of your next turn, the Charge (+1 Damage) weapon ability has no effect on combat attacks that target the target. If the chanting roll was 6+, weapon abilities other than the Companion weapon ability have no effect instead. KEYWORDS PRAYER"
+ },
+ {
+  "faction": "Maggotkin of Nurgle",
+  "faction_slug": "maggotkin-of-nurgle",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Prayer Lore > Benedictions of Sickness",
+  "text": "Your Hero Phase 3 FEBRILE ADVANCE : Burning up with fever, the priest’s kin dive headlong into the fray in a twitching rush. Declare: Pick a friendly MAGGOTKIN OF NURGLE PRIEST to chant this prayer, pick a visible friendly MAGGOTKIN OF NURGLE unit wholly within 12\" of them to be the target, then make a chanting roll of D6. Effect: If the chanting roll was 6+, you can pick another eligible unit to be a second target. Until the start of your next turn, add 3\" to the distance each target can move when making pile-in moves . KEYWORDS PRAYER, UNLIMITED Your Hero Phase 5 BLUNTING BLIGHT : The priest ‘improves’ their foe’s weapons, corroding their nasty sharp edges and dulling their horridly glinting points. Declare: Pick a friendly MAGGOTKIN OF NURGLE PRIEST to chant this prayer, pick a visible enemy unit within 18\" of them to be the target, then make a chanting roll of D6. Effect: If the chanting roll was 10+, you can pick another eligible unit to be a second target. Until the start of your next turn, the targets’ attacks cannot score critical hits (treat them as regular hits instead). KEYWORDS PRAYER Your Hero Phase 4 AGONISING VOMITING : Presaged by a deep rumble within their distended guts, the priest belches forth a deluge of thick, corrosive vomit. Declare: Pick a friendly MAGGOTKIN OF NURGLE PRIEST to chant this prayer, pick a visible enemy unit within 18\" of them to be the target, then make a chanting roll of D6. Effect: Roll 7 dice. If the target is DISEASED , add 1 to each roll. If the chanting roll was 7+, add 1 to each roll. For each 5+, inflict 1 mortal damage on the target. KEYWORDS PRAYER Army of Renown"
+ },
+ {
+  "faction": "Maggotkin of Nurgle",
+  "faction_slug": "maggotkin-of-nurgle",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Cycle of Corruption",
+  "text": "When you pick the Maggotkin of Nurgle faction for your army, you can choose for it to be a Cycle of Corruption Army of Renown . If you do so, use the faction rules on these pages instead of the Maggotkin of Nurgle faction rules. Every unit in your army must be drawn from the units listed in the roster options below. All units in your army gain the CYCLE OF CORRUPTION keyword ROSTER OPTIONS Any ROTBRINGERS units You cannot include Regiments of Renown"
+ },
+ {
+  "faction": "Maggotkin of Nurgle",
+  "faction_slug": "maggotkin-of-nurgle",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Cycle of Corruption > Battle Traits",
+  "text": "Once Per Battle Round (Army), Start of Battle Round REVOLUTION AND REVULSION : Nurgle’s power and blessings follow a never-ending cycle of fecundity and decay. Declare: You must use this ability at the start of each battle round. Effect: If it is the first battle round, roll a dice to determine which CYCLE ability is ripe for the rest of the battle round. 1 ‘Unnatural Vitality’ 2 ‘Fecund Vigour’ 3 ‘Burgeoning Filth’ 4 ‘Plague of Misery’ 5 ‘Nauseous Revulsion’ 6 ‘Rampant Disease’ 7 ‘Corrupted Regrowth’ If it is not the first battle round, the next CYCLE ability in the sequence is ripe for the rest of the battle round. If the 'Corrupted Regrowth' ability was ripe last battle round, the 'Unnatural Vitality' ability is ripe this battle round. You can only use a CYCLE ability if it is ripe. Only 1 CYCLE ability is ripe each battle round. Passive UNNATURAL VITALITY Effect: Friendly non- MONSTER CYCLE OF CORRUPTION HEROES have WARD ( 4+ ) . KEYWORDS CYCLE Once Per Turn (Army), Your Hero Phase FECUND VIGOUR Effect: Heal (D3) each friendly CYCLE OF CORRUPTION unit. KEYWORDS CYCLE Passive BURGEONING FILTH Effect: Subtract 3 from the control scores of enemy units while they are in combat with any friendly CYCLE OF CORRUPTION units. KEYWORDS CYCLE Passive PLAGUE OF MISERY Effect: While enemy units are within 12\" of any friendly CYCLE OF CORRUPTION units, they cannot use abilities that heal or return slain models to a unit. KEYWORDS CYCLE Passive NAUSEOUS REVULSION Effect: Subtract 1 from charge rolls for enemy units. KEYWORDS CYCLE Passive RAMPANT DISEASE Effect: Melee weapons used by friendly non- HERO CYCLE OF CORRUPTION units have Crit (2 Hits) . KEYWORDS CYCLE Once Per Turn (Army), Your Hero Phase CORRUPTED REGROWTH Effect: Heal (7) each friendly Feculent Gnarlmaw ."
+ },
+ {
+  "faction": "Maggotkin of Nurgle",
+  "faction_slug": "maggotkin-of-nurgle",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Cycle of Corruption > Battle Traits",
+  "text": "KEYWORDS CYCLE Once Per Turn (Army), Your Hero Phase CORRUPTED REGROWTH Effect: Heal (7) each friendly Feculent Gnarlmaw . If there are no friendly Feculent Gnarlmaws on the battlefield, you can set up a Feculent Gnarlmaw on the battlefield more than 9\" from all enemy units and more than 3\" from all objectives and other terrain features . KEYWORDS CYCLE"
+ },
+ {
+  "faction": "Maggotkin of Nurgle",
+  "faction_slug": "maggotkin-of-nurgle",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Cycle of Corruption > Heroic Traits",
+  "text": "( HERO only) Passive UTTERLY DISGUSTING : The sight of this hero’s hideously mutated body is truly nauseating. Effect: Subtract 1 from hit rolls for attacks that target this unit."
+ },
+ {
+  "faction": "Maggotkin of Nurgle",
+  "faction_slug": "maggotkin-of-nurgle",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Cycle of Corruption > Artefacts of Power",
+  "text": "( HERO only) Passive CANKEROUS NAIL : This nail has been dipped in Nurgle’s cauldron and seethes with corruption. Effect: Add 1 to the Rend characteristic of this unit’s melee weapons."
+ },
+ {
+  "faction": "Maggotkin of Nurgle",
+  "faction_slug": "maggotkin-of-nurgle",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Cycle of Corruption > Spell Lore",
+  "text": "Your Hero Phase 7 EPIDERMAL CRUSTITIS : The caster grins widely as their skin hardens into a crusty layer. Declare: Pick a friendly CYCLE OF CORRUPTION WIZARD to cast this spell, then make a casting roll of 2D6. Effect: Until the start of your next turn, subtract 1 from the Damage characteristic of melee weapons used for attacks that target the caster. KEYWORDS SPELL, UNLIMITED Your Hero Phase 6 RANK AND VILE : Slain foes are festooned with disease only to rise again amidst the Nurglite ranks. Declare: Pick a friendly CYCLE OF CORRUPTION WIZARD to cast this spell, pick a visible enemy INFANTRY unit within 18\" of them to be the target, then make a casting roll of 2D6. Effect: Until the start of your next turn, each time a model in the target unit is slain, after removing it from the battlefield, roll a dice. On a 4+, return 1 slain model to a friendly non- HERO CYCLE OF CORRUPTION INFANTRY unit within 6\" of the target. KEYWORDS SPELL Your Hero Phase 6 SPITTLEDRAIN : The wizard coughs up a expanding wad of corrosive phlegm to spit at the foe. Declare: Pick a friendly CYCLE OF CORRUPTION WIZARD to cast this spell, pick a visible enemy unit within 12\" of them to be the target, then make a casting roll of 2D6. Effect: Subtract 1 from the target’s Move characteristic until the start of your next turn. Then, roll a number of dice equal to the number of models in the target unit. For each 6, inflict 1 mortal damage on the target, to a maximum of 7. KEYWORDS SPELL"
+ },
+ {
+  "faction": "Maggotkin of Nurgle",
+  "faction_slug": "maggotkin-of-nurgle",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Cycle of Corruption > Prayer Lore",
+  "text": "Your Hero Phase 4 BACTERIAL BLESSING : The priest blesses their comrades’ weapons with colonies of bacteria. Declare: Pick a friendly CYCLE OF CORRUPTION PRIEST to chant this prayer, pick a visible friendly CYCLE OF CORRUPTION unit wholly within 12\" of them to be the target, then make a chanting roll of D6. Effect: Until the start of your next turn, add 1 to wound rolls for the target’s combat attacks . If the chanting roll was 7+, you can pick another eligible unit to be a second target. KEYWORDS PRAYER, UNLIMITED Your Hero Phase 5 EVER TURNING : The priest beseeches Nurgle to bestow his gifts upon his Rotbringer followers. Declare: Pick a friendly CYCLE OF CORRUPTION PRIEST to chant this prayer, then make a chanting roll of D6. Effect: The next CYCLE ability in the sequence is ripe for the rest of the battle round instead of the current CYCLE ability. If the chanting roll was 12+, you can pick which CYCLE ability is ripe. KEYWORDS PRAYER Your Hero Phase 4 VIRULENT AGONIES : The priest calls forth a painful, nerve-burning malady to blight their foes. Declare: Pick a friendly CYCLE OF CORRUPTION PRIEST to chant this prayer, pick a visible enemy unit within 18\" of them to be the target, then make a chanting roll of D6. Effect: Inflict 1 mortal damage on the target. Then, inflict 1 mortal damage on each other enemy unit within the target’s combat range . If the chanting roll was 7+, inflict D3 mortal damage on the target instead of 1. KEYWORDS PRAYER Army of Renown"
+ },
+ {
+  "faction": "Maggotkin of Nurgle",
+  "faction_slug": "maggotkin-of-nurgle",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Gardeners of Nurgle",
+  "text": "When you pick the Maggotkin of Nurgle faction for your army, you can choose for it to be the Gardeners of Nurgle Army of Renown . If you do so, use the faction rules on these pages instead of the Maggotkin of Nurgle faction rules. Every unit in your army must be drawn from the units listed in the roster options below. All units in your army gain the GARDENERS OF NURGLE keyword. ROSTER OPTIONS Horticulous Slimux (must be included) Any MAGGOTKIN OF NURGLE DAEMON units You cannot include Regiments of Renown"
+ },
+ {
+  "faction": "Maggotkin of Nurgle",
+  "faction_slug": "maggotkin-of-nurgle",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Gardeners of Nurgle > Battle Traits",
+  "text": "Once Per Turn (Army), Your Hero Phase THE GARDEN GROWS : The tendrils of decay reach ever outwards to find fresh places of purity to contaminate. Effect: Set up a Feculent Gnarlmaw on the battlefield more than 3\" from all enemy units, objectives and other terrain features . Once Per Turn (Army), Your Movement Phase TRANSPLANTING : The most proficient of Nurgle’s gardeners can coax a Feculent Gnarlmaw to their side. Declare: Pick a friendly Feculent Gnarlmaw to be the target. Effect: Remove the target from the battlefield and set it up again within 3\" of a friendly GARDENERS OF NURGLE HERO and more than 3\" from all enemy units, objectives and other terrain features . Once Per Battle (Army), Your Movement Phase HEAD GARDENER : The daemon responsible for tending the Garden has no equal in the propagation of its blighted orchards. Effect: The friendly Horticulous Slimux can use his ‘Cultivating the Garden of Nurgle’ ability this phase even if there are 1 or more friendly Feculent Gnarlmaws on the battlefield. Once Per Turn (Army), Your Combat Phase PUTRESCENT SAP : Vile black fluid oozes from bark-sores and withered tree limbs. Declare: Pick each enemy unit within 3\" of any friendly Feculent Gnarlmaws to be the targets. Effect: Roll a D3 for each target. On a 2+, inflict an amount of mortal damage on the target equal to the roll. Passive FOUL FAUNA : The creatures that inhabit the Garden of Nurgle are ebullient monstrosities… Effect: Add 2\" to the Move characteristic of friendly GARDENERS OF NURGLE Beasts of Nurgle and Plague Drones units while they are wholly within 6\" of any friendly Feculent Gnarlmaw . Passive SICKLY SORES : The blighted seeds released by the Feculent Gnarlmaws invigorate those who tend the Garden."
+ },
+ {
+  "faction": "Maggotkin of Nurgle",
+  "faction_slug": "maggotkin-of-nurgle",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Gardeners of Nurgle > Battle Traits",
+  "text": "Passive SICKLY SORES : The blighted seeds released by the Feculent Gnarlmaws invigorate those who tend the Garden. Effect: While a friendly GARDENERS OF NURGLE INFANTRY unit is wholly within 12\" of a friendly Feculent Gnarlmaw , ignore the first damage point that would be allocated to it in each phase."
+ },
+ {
+  "faction": "Maggotkin of Nurgle",
+  "faction_slug": "maggotkin-of-nurgle",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Gardeners of Nurgle > Heroic Traits",
+  "text": "( HERO only) Passive FOETID ORCHARDIST : Those who tend the copses of Feculent Gnarlmaws will fight vigorously to protect their arboreal charges. Effect: Add 1 to hit rolls for this unit’s combat attacks while it is wholly within 7\" of any friendly Feculent Gnarlmaws ."
+ },
+ {
+  "faction": "Maggotkin of Nurgle",
+  "faction_slug": "maggotkin-of-nurgle",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Gardeners of Nurgle > Artefacts of Power",
+  "text": "( HERO only) Once Per Battle, Your Movement Phase STINKING SPORESEED : Chewed by blackened teeth, this seed is ripe with putrescence. Once planted, it germinates into a pestilential bloom of magnificent proportions. Effect: Set up a Feculent Gnarlmaw within 3\" of this unit and more than 3\" from all enemy units, objectives and other terrain features ."
+ },
+ {
+  "faction": "Maggotkin of Nurgle",
+  "faction_slug": "maggotkin-of-nurgle",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Gardeners of Nurgle > Spell Lore",
+  "text": "Your Hero Phase 7 MUNIFICENT BLIGHTS : This pestilential rite makes the Garden even more generous with gifts for its guests. Declare: Pick a friendly GARDENERS OF NURGLE WIZARD to cast this spell, pick a visible enemy unit within 18\" of them to be the target, then make a casting roll of 2D6. Effect: Until the start of your next turn, add 1 to the amount of mortal damage inflicted on the target by the ‘ Putrescent Sap ’ ability. KEYWORDS SPELL, UNLIMITED Your Hero Phase 7 SCUMFALL : With murmured incantation, the caster coaxes forth a scummy dust from Nurgle’s orchards to blanket his followers in an obfuscating cloud. Declare: Pick a friendly GARDENERS OF NURGLE WIZARD to cast this spell, then make a casting roll of 2D6. Effect: Until the start of your next turn, friendly GARDENERS OF NURGLE units that are wholly within 12\" of a friendly Feculent Gnarlmaw are not visible to units more than 9\" away. KEYWORDS SPELL Your Hero Phase 7 CANOPY OF VIRULENCE : Those who labour in the shadow of Nurgle’s orchards are empowered by this arcane rite. Declare: Pick a friendly GARDENERS OF NURGLE WIZARD to cast this spell, pick a visible friendly GARDENERS OF NURGLE unit wholly within 12\" of them to be the target, then make a casting roll of 2D6. Effect: Until the start of your next turn, while the target is wholly within 12\" of any friendly Feculent Gnarlmaws , ward rolls cannot be made for enemy units in combat with the target. KEYWORDS SPELL"
+ },
+ {
+  "faction": "Maggotkin of Nurgle",
+  "faction_slug": "maggotkin-of-nurgle",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Bleak Host",
+  "text": "The Plague God’s Bleak Hosts travel the length and breadth of the realms, ensuring his servants are spreading his virulent blessings. Under the strict command of their daemonic leader, known as a Spoilpox Scrivener, they shamble into battle to overwhelm their foes, couched in clouds of flies and the stench of decay. The tang of despair drives the swing of their weapons and widens their rictus grins ever further. Though the Spoilpox Scrivener is a harsh taskmaster, the tactics they employ are wickedly effective. Pusgoyle Blightlords are sent ahead to break enemy lines, scything through formations of foot soldiers as their Rot Flies drive diseased stingers and fangs into any that dare approach. By the time these bloated behemoths are forced back, it is too late to stymie the shuffling waves of Plaguebearers. Each daemon is nightmare vision of what awaits the victims of Nurgle’s Rot, surrounded by swarms of insects and brandishing a sword ridden with supernaturally virulent diseases. Alongside them march the Blightkings, mortals swollen with the Grandfather’s blessings. Each can withstand tremendous punishment to their corpulent forms whilst swinging weapons with enough strength to crush their foes utterly. The Spoilpox Scrivener hangs back to direct the heaving masses, but woe betide those who draw near, for they are struck down by the tallymaster’s distended maw. This Spearhead army consists of the following units: General Spoilpox Scrivener Units 1 Pusgoyle Blightlord 1 Pusgoyle Blightlord 5 Putrid Blightkings 5 Plaguebearers 5 Plaguebearers",
+  "spearhead_name": "Bleak Host"
+ },
+ {
+  "faction": "Maggotkin of Nurgle",
+  "faction_slug": "maggotkin-of-nurgle",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Bleak Host > Battle Traits",
+  "text": "THE INFECTIOUS HOSTS The Maggotkin’s advance across the realms is akin to the creeping spread of a disease across the body of its host. One of your Pusgoyle Blightlords and one of your Plaguebearers units are not set up during the deployment phase. Instead, from the third battle round onwards, they can use the Daemonic Summoning ability. Your Movement Phase DAEMONIC SUMMONING : The scions of Nurgle enter the battlefield through rifts torn in reality. Effect: Set up this unit anywhere on the battlefield more than 6\" from all enemy units. KEYWORDS CORE Passive DISEASED : Each of the Maggotkin is a walking vector of diseases that ravage both body and spirit. Effect: Each time an attack made by a friendly model scores a critical hit , you receive 1 disease point , to a maximum of 7. End of Any Turn NURGLE'S EMBRACE : The Grandfather’s generosity proves overwhelming for many… Effect: Spend any number of your disease points . For each disease point you spend, pick an enemy unit that is in combat with any of your units and roll a dice. On a 5+, inflict 1 mortal damage on that unit (you can pick the same unit more than once).",
+  "spearhead_name": "Bleak Host"
+ },
+ {
+  "faction": "Maggotkin of Nurgle",
+  "faction_slug": "maggotkin-of-nurgle",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Bleak Host > Regiment Abilities",
+  "text": "Pick 1 of the following regiment abilities. Once Per Phase, Your Hero Phase LOCUS OF FECUNDITY : Nurgle bestows a blessing of bountiful regrowth upon his children. Declare: Pick a friendly unit. Effect: Heal (D3) that unit. Passive INFESTED WITH WONDERS : These foul warriors invite the most horrific and repulsive diseases into their flesh, and they cannot wait to share them. Effect: Each time a friendly model is slain, before it is removed from play, you can pick an enemy unit within 1\" of it and roll a dice. On a 4+, inflict 1 mortal damage on that unit.",
+  "spearhead_name": "Bleak Host"
+ },
+ {
+  "faction": "Maggotkin of Nurgle",
+  "faction_slug": "maggotkin-of-nurgle",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Bleak Host > Enhancements",
+  "text": "Give your general 1 of the following enhancements. End of Any Turn SUMMONER OF PLAGUEBEARERS : Channelling a link to the Realm of Chaos, the Spoilpox Scrivener brings forth more minions. Declare: Pick a friendly Plaguebearers unit wholly within 14\" of your general. Effect: Return 1 slain model to that unit. Your Shooting Phase PESTILENT BREATH : This Spoilpox Scrivener has breath so foul that it can stun a full-grown rhinox. Declare: Pick an enemy unit within 7\" of your general and roll a dice for each model in that unit. Effect: For each 5+, inflict 1 mortal damage on that unit. Your Movement Phase GARDENER OF NURGLE : This daemon seeks to expand the borders of Nurgle’s Garden. Declare: If your general is contesting an objective not contested by any enemy models, roll a dice. Effect: On a 3+, that objective is considered by you to be desecrated . Friendly units have WARD ( 4+ ) while they are contesting a desecrated objective. If your opponent gains control of a desecrated objective, it is no longer desecrated. Once Per Battle, Any Combat Phase GIFT OF FEBRILE FRENZY : A reeking miasma rises around the daemon Herald that drives nearby followers into a wild delirium. Effect: Until the end of the phase, add 1 to the Attacks characteristic of melee weapons used by friendly units while they are wholly within 7\" of your general.",
+  "spearhead_name": "Bleak Host"
+ },
+ {
+  "faction": "Maggotkin of Nurgle",
+  "faction_slug": "maggotkin-of-nurgle",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Bleak Host > Warscrolls",
+  "text": "• SPEARHEAD WARSCROLL • Spoilpox Scrivener 4\" 5 5+ 2 5+ Spoilpox Scriveners keep a strict watch over the tallying of the Plaguebearers. Under their shrewd tri-eyed gaze, no daemon dares neglect their plague-counting duties. Though the Scriveners prefer to command from a distance, enemies that stray too close will find their heads and limbs bitten off by the Scrivener’s trunklike maw. The Scriveners are woefully allergic to the stuff of reality, which fouls their mood constantly. Fortunately for Nurgle’s followers, however, the daemons’ sneezes can blanket foes in layers of rancid, highly corrosive mucus. • SPEARHEAD WARSCROLL • Spoilpox Scrivener RANGED WEAPONS Rng Atk Hit Wnd Rnd Dmg Disgusting Sneezes [ Shoot in Combat ] Disgusting Sneezes Shoot in Combat 7\" D6 2+ 4+ - 1 MELEE WEAPONS Atk Hit Wnd Rnd Dmg Distended Maw Distended Maw 3 4+ 3+ 1 2 Your Hero Phase KEEP COUNTING, I'M WATCHING YOU : Spoilpox Scriveners are responsible for making sure that the Plaguebearers of the tallybands do not shirk their duties Declare: Pick a friendly Plaguebearers unit wholly within 14\" of this unit to be the target. Effect: Pick 1 of the following. The effect lasts until the start of your next turn. Tally of Blows: Add 1 to the Attacks characteristic of the target unit’s melee weapons. Recorded Stamina: Add 1 to save rolls for the target unit. KEYWORDS HERO , INFANTRY , WARD ( 5+ ) • SPEARHEAD WARSCROLL • Plaguebearers 4\" 2 6+ 1 5+ Plaguebearers trudge to battle amidst the drone of flies’ wings and endless counting. These daemons tally the diseases unleashed upon the realms, all the while stabbing and hacking at their enemies with filthy plagueswords.",
+  "spearhead_name": "Bleak Host"
+ },
+ {
+  "faction": "Maggotkin of Nurgle",
+  "faction_slug": "maggotkin-of-nurgle",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Bleak Host > Warscrolls",
+  "text": "These daemons tally the diseases unleashed upon the realms, all the while stabbing and hacking at their enemies with filthy plagueswords. Each one is born of the soul of a mortal killed by Nurgle’s Rot, a debilitating disease that decays both the spirit and body until the sufferer dies an agonisingly slow death. After feeding on their despair in life, the Plague God accepts their souls into his Garden in death, remaking them as pus-ridden daemons swathed in clouds of fat-bodied flies. • SPEARHEAD WARSCROLL • Plaguebearers MELEE WEAPONS Atk Hit Wnd Rnd Dmg Plaguesword [ Crit (Mortal) ] Plaguesword Crit (Mortal) 1 4+ 3+ - 1 Passive CLOUD OF FLIES : Plaguebearer tallybands are surrounded at all times by blinding swarms of daemon-flies. Effect: Subtract 1 from hit rolls for shooting attacks that target this unit. KEYWORDS INFANTRY , WARD ( 5+ ) • SPEARHEAD WARSCROLL • Putrid Blightkings 4\" 3 3+ 1 5+ Putrid Blightkings carve their way forwards with slime-encrusted blades, hammers and axes. Their bloated, rotting bodies can absorb tremendous punishment, allowing them to drive relentlessly through the foe’s battleline as they sow lethal disease and crippling despair alike. They are paragons of despair, having their origins as not only warriors but also apothecaries and philosophers who became obsessed with the futility of existence. Their all-consuming need to spread disease and despondency has earned them Nurgle’s favour, and in return, their swollen, plague-ridden frames have become all but immune to pain.",
+  "spearhead_name": "Bleak Host"
+ },
+ {
+  "faction": "Maggotkin of Nurgle",
+  "faction_slug": "maggotkin-of-nurgle",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Bleak Host > Warscrolls",
+  "text": "disease and despondency has earned them Nurgle’s favour, and in return, their swollen, plague-ridden frames have become all but immune to pain. • SPEARHEAD WARSCROLL • Putrid Blightkings MELEE WEAPONS Atk Hit Wnd Rnd Dmg Blighted Weapon Blighted Weapon 4 3+ 3+ 1 1 End of Any Turn RELENTLESS ATTACKERS : Blightkings grind through the battlelines of lesser foes, shattering their morale and hacking down the stunned survivors with contemptuous ease. Declare: Pick an enemy INFANTRY unit in combat with this unit to be the target and roll a dice for each model in this unit that is within the target unit’s combat range . Effect: For each roll that exceeds the target’s Health characteristic, inflict 1 mortal damage on it. KEYWORDS INFANTRY , WARD ( 5+ ) • SPEARHEAD WARSCROLL • Pusgoyle Blightlord 8\" 8 4+ 2 5+ Elite Rotbringers mounted atop horrific daemon-beasts, Pusgoyle Blightlords thrum ahead of their kindred to sow panic and death as the linebreakers of the diseased host. Their crushing tocsins and whistling scythes make short work of any who would slow the spread of decay. Should enemies survive such a diseased onslaught, they will find themselves impaled upon the stingers of horrifying Rot Flies. The pact made between Pusgoyle and Rot Fly strengthens the daemon’s connection to the mortal plane, allowing them to exist indefinitely beyond the boundary of Nurgle’s Garden while the accord stands. • SPEARHEAD WARSCROLL • Pusgoyle Blightlord MELEE WEAPONS Atk Hit Wnd Rnd Dmg Blighted Scythe Blighted Scythe 3 3+ 3+ 2 1 Rot Fly’s Mouthparts and Sting [ Companion ] Rot Fly’s Mouthparts and Sting Companion 6 4+ 2+ - 1 Any Charge Phase WRACK AND RUIN : Mortal Maggotkin who ride Rot Flies act as brutal linebreakers, using their sheer bulk to smash enemy formations asunder.",
+  "spearhead_name": "Bleak Host"
+ },
+ {
+  "faction": "Maggotkin of Nurgle",
+  "faction_slug": "maggotkin-of-nurgle",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Bleak Host > Warscrolls",
+  "text": "Phase WRACK AND RUIN : Mortal Maggotkin who ride Rot Flies act as brutal linebreakers, using their sheer bulk to smash enemy formations asunder. Declare: If this unit charged this phase, pick an enemy unit within 1\" of it to be the target and roll a dice. Effect: On a 2+, inflict D3 mortal damage on the target. KEYWORDS CAVALRY , FLY , WARD ( 5+ )",
+  "spearhead_name": "Bleak Host"
+ },
+ {
+  "faction": "Maggotkin of Nurgle",
+  "faction_slug": "maggotkin-of-nurgle",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Bubonic Cell",
+  "text": "In exchange for his bountiful gifts, Papa Nurgle asks very little of his followers. He wishes only that they venture out into the realms and propagate his virulent Garden. All Maggotkin readily take up this task, but few do so with as much gusto and abandon as the Bubonic Cells. Led by a Rotbringer Sorcerer, a Bubonic Cell will travel far and wide to bring contagion and decay to lands untouched by disease. Particularly ebullient and mischievous daemons are included in this foul assemblage, wrenched from the depths of the Grandfather’s domain through defiling rituals. These unnatural creatures are bound to the sorcerer who summons them and will gleefully infest any territory, no matter how remote. Mortal cultists are often drawn to these diseased hordes, warriors of the Rotmire Creed hoping to glean some pestilential knowledge to enhance the potency of their poisons. Inhospitable swamps are especially favoured; the daemons do so relish splashing around and spreading their innate filth, whilst the cultists see these mires as places soon to become their natural habitat. This Spearhead army consists of the following units: General Rotbringer Sorcerer Units 3 Nurglings 3 Nurglings 1 Beast of Nurgle 10 Rotmire Creed",
+  "spearhead_name": "Bubonic Cell"
+ },
+ {
+  "faction": "Maggotkin of Nurgle",
+  "faction_slug": "maggotkin-of-nurgle",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Bubonic Cell > Battle Traits",
+  "text": "CYCLE OF CORRUPTION If it is the first battle round, roll a dice to determine which CYCLE ability can be used this battle round. If you roll a 5 or 6, roll again. If it is not the first battle round, the next CYCLE ability in the sequence is used this battle round instead of any previous CYCLE abilities. Passive NUMBERLESS PESTS : The Nurglites are obscured by flies. Effect: Subtract 1 from hit rolls for attacks that target friendly units. KEYWORDS CYCLE Passive NAUSEOUS REVULSION : These revolting warriors are too hideous to gaze upon for too long. Effect: Subtract 1 from charge rolls for enemy units. KEYWORDS CYCLE Passive PLAGUE OF MISERY : A pall of despair covers the battlefield. Effect: While enemy units are within 6\" of any friendly units, they cannot use abilities that heal or return slain models to a unit. KEYWORDS CYCLE Passive BURGEONING FILTH : Nurgle’s followers grow bolder as their infestations multiply. Effect: Subtract 3 from the control scores of enemy units while they are in combat with any friendly units. KEYWORDS CYCLE",
+  "spearhead_name": "Bubonic Cell"
+ },
+ {
+  "faction": "Maggotkin of Nurgle",
+  "faction_slug": "maggotkin-of-nurgle",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Bubonic Cell > Regiment Abilities",
+  "text": "Pick 1 of the following regiment abilities. Once Per Turn (Army), End of Your Turn CORRUPTION OF THE LAND : The mere presence of Nurgle’s followers sees the land defiled. Declare: Pick a terrain feature , then roll a dice for each enemy unit within 3\" of that terrain feature. Effect: On a 4+, inflict D3 mortal damage on that enemy unit. Once Per Battle, Enemy Hero Phase PUTREFIED GROUND : The earth bubbles and liquefies beneath the enemy’s feet. Effect: For the rest of the turn: Subtract 1 from the Move characteristic of enemy units. Subtract 1 from run rolls for enemy units.",
+  "spearhead_name": "Bubonic Cell"
+ },
+ {
+  "faction": "Maggotkin of Nurgle",
+  "faction_slug": "maggotkin-of-nurgle",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Bubonic Cell > Enhancements",
+  "text": "Give your general 1 of the following enhancements. Passive UNNATURAL VITALITY : Disease may have ravaged this mage’s form, but somehow they never seem to succumb to it. Effect: Your general has WARD ( 4+ ) . Once Per Battle, Any Combat Phase GASEOUS EMANATION : The sorcerer releases a vile cloud of gas that chokes their enemies. Declare: Pick an enemy unit within your general’s combat range to be the target. Effect: The target has STRIKE-LAST for the rest of the turn. Passive SUBCUTANEOUS SUPPURATION : The sheer abundance of pus beneath the sorcerer’s skin acts as another layer of armour. Effect: Subtract 1 from wound rolls for attacks that target your general. Your Shooting Phase OVERRIPE DEATH'S HEADS : After carefully weighing a death’s head in their palm, the bearer hurls it at a nearby foe. Declare: If your general is not in combat , pick a visible enemy unit within 7\" of them to be the target. Effect: Roll a dice. On a 4+, inflict 1 mortal damage on the target.",
+  "spearhead_name": "Bubonic Cell"
+ },
+ {
+  "faction": "Maggotkin of Nurgle",
+  "faction_slug": "maggotkin-of-nurgle",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Bubonic Cell > Warscrolls",
+  "text": "• SPEARHEAD WARSCROLL • Rotbringer Sorcerer 4\" 6 5+ 2 6+ Rotbringer Sorcerers are masters of unclean magics, mortal devotees of Grandfather Nurgle and capable of imbuing their allies with pestilential resilience. They revel in acts of corruption and are utterly dedicated to this task. • SPEARHEAD WARSCROLL • Rotbringer Sorcerer MELEE WEAPONS Atk Hit Wnd Rnd Dmg Rotwood Staff Rotwood Staff 3 4+ 3+ 1 D3 Your Hero Phase FLESHY ABUNDANCE : The sorcerer generously bestows a growth spurt of the most repulsive kind upon their allies, causing their bodies to bloat with great wobbling mounds of grey-green fat. Declare: Pick a friendly unit wholly within 12\" of this unit to be the target, then make a casting roll of 2D6. Effect: On a 6+, subtract 1 from wound rolls for attacks that target that friendly unit until the start of your next turn KEYWORDS HERO , WIZARD ( 1 ) , INFANTRY , WARD ( 6+ ) • SPEARHEAD WARSCROLL • Nurglings 4\" 4 6+ 1 5+ Nurglings are daemonic mites that tumble from the innards of larger daemons or spill up from sewers and fissures in reality. They pour across the battlefield in a stinking tide, burying the foe beneath waves of infectious foulness. • SPEARHEAD WARSCROLL • Nurglings MELEE WEAPONS Atk Hit Wnd Rnd Dmg Tiny Razor-sharp Teeth [ Crit (Auto-wound) ] Tiny Razor-sharp Teeth Crit (Auto-wound) 5 5+ 5+ - 1 End of Any Turn ENDLESS SWARM : The presence of Nurglings in the realms continuously draws more of their number from the Grandfather’s Garden, making their swarms extremely hard to eradicate. Effect: Heal (D3) this unit. KEYWORDS BEAST , WARD ( 5+ ) • SPEARHEAD WARSCROLL • Beast of Nurgle 7\" 8 5+ 1 5+ As stupid as they are enthusiastic, Beasts of Nurgle bound forth with burbles of joy.",
+  "spearhead_name": "Bubonic Cell"
+ },
+ {
+  "faction": "Maggotkin of Nurgle",
+  "faction_slug": "maggotkin-of-nurgle",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Bubonic Cell > Warscrolls",
+  "text": "( 5+ ) • SPEARHEAD WARSCROLL • Beast of Nurgle 7\" 8 5+ 1 5+ As stupid as they are enthusiastic, Beasts of Nurgle bound forth with burbles of joy. Huge, slug-like abominations, they gleefully assail their luckless playmates until their joy proves lethal and then bounce off after new victims. • SPEARHEAD WARSCROLL • Beast of Nurgle MELEE WEAPONS Atk Hit Wnd Rnd Dmg Filthy Claws and Slobbering Maw [ Companion ] Filthy Claws and Slobbering Maw Companion 5 4+ 3+ 1 D3 Any Charge Phase ATTENTION SEEKERS : Beasts of Nurgle seek out playmates with an enthusiasm that is rarely reciprocated by the horrified source of their fascination. Declare: If this unit charged this phase, pick an enemy unit in combat with it to be the target. Effect: Roll a D3. On a 2+, inflict an amount of mortal damage on the target equal to the roll. KEYWORDS BEAST , WARD ( 5+ ) • SPEARHEAD WARSCROLL • Rotmire Creed 5\" 1 6+ 1 6+ The Rotmire Creed are mortal swamp-dwellers who fanatically spread their deity’s vile gifts. Brewers of disease-ridden toxins, they wield blowpipes armed with poisoned darts that can inflict crippling agony on their foes. Lurching into battle on bilewood stilts, they are surprisingly swift, retreating from the melee to find a fresh vantage point from which to launch another volley of tainted missiles. • SPEARHEAD WARSCROLL • Rotmire Creed RANGED WEAPONS Rng Atk Hit Wnd Rnd Dmg Contagion Blowpipes [ Crit (Auto-wound) ] Contagion Blowpipes Crit (Auto-wound) 12\" 2 4+ 3+ - 1 MELEE WEAPONS Atk Hit Wnd Rnd Dmg Bilewood Weapons Bilewood Weapons 2 4+ 4+ - 1 Passive BILEWOOD STILTS : Rotmire Creed use their stilts to cover ground more quickly. Effect: No mortal damage is inflicted on this unit when it uses RETREAT abilities. KEYWORDS INFANTRY , WARD ( 6+ ) noindex /noindex noindex",
+  "spearhead_name": "Bubonic Cell"
+ }
+]

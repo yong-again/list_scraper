@@ -1,0 +1,326 @@
+[
+ {
+  "page": "General's Handbook 2025-26",
+  "category": "generals_handbook",
+  "section": "FAQ",
+  "text": "Q: Can I complete the same battle tactic multiple times in a battle? A: No, unless specified otherwise. Q: Can I complete the same battle tactic multiple times in a battle? A: No, unless specified otherwise."
+ },
+ {
+  "page": "General's Handbook 2025-26",
+  "category": "generals_handbook",
+  "section": "FAQ > 1.0 BATTLE TACTICS OVERVIEW",
+  "text": "Q: If I have met the conditions to complete a battle tactic can I choose not to complete that tactic at the end of my turn? A: No. If the conditions are fulfilled and you have not already scored a battle tactic from that card this turn, you must score that battle tactic. Q: If I have met the conditions to complete a battle tactic can I choose not to complete that tactic at the end of my turn? A: No. If the conditions are fulfilled and you have not already scored a battle tactic from that card this turn, you must score that battle tactic. Q: If I have met the conditions to complete a battle tactic can I choose not to complete that tactic at the end of my turn? A: No. If the conditions are fulfilled and you have not already scored a battle tactic from that card this turn, you must score that battle tactic."
+ },
+ {
+  "page": "General's Handbook 2025-26",
+  "category": "generals_handbook",
+  "section": "FAQ > 6.0 ATTACKING (SHOOTING AND COMBAT) COMMANDS",
+  "text": "Q: If a unit uses ‘ All-out Attack ’ in the shooting phase and the combat phase, do I subtract 2 from save rolls for that unit? A: No. Persisting effects ( see 28.1 ) count as the effects of passive abilities for their duration, so units cannot be affected by the same persisting effect more than once. Q: If a unit uses ‘ All-out Attack ’ in the shooting phase and the combat phase, do I subtract 2 from save rolls for that unit? A: No. Persisting effects ( see 28.1 ) count as the effects of passive abilities for their duration, so units cannot be affected by the same persisting effect more than once."
+ },
+ {
+  "page": "General's Handbook 2025-26",
+  "category": "generals_handbook",
+  "section": "FAQ > 1.2 UNIVERSAL TERRAIN ABILITIES",
+  "text": "Q: While every model in a friendly non- MONSTER unit is within 1\" of an Obscuring terrain feature, are they visible to friendly units? A: Yes. They are just not visible to enemy units outside of their combat range . Q: While every model in a friendly non- MONSTER unit is within 1\" of an Obscuring terrain feature, are they visible to friendly units? A: Yes. They are just not visible to enemy units outside of their combat range . Q: When a Hero uses ‘ Activate Place of Power ’ and picks Tap the Ley Lines, can they use both the ‘ Unbind ’ ability and the ‘ Banish Manifestation ’ ability in the same phase? A: No. Q: When a Hero uses ‘ Activate Place of Power ’ and picks Tap the Ley Lines, can they use both the ‘ Unbind ’ ability and the ‘ Banish Manifestation ’ ability in the same phase? A: No."
+ },
+ {
+  "page": "General's Handbook 2025-26",
+  "category": "generals_handbook",
+  "section": "FAQ > 1.5 FACTION TERRAIN",
+  "text": "Q: If a hero is garrisoning a faction terrain feature , can it still be picked as the target of abilities other than attacks? A: Yes. Q: If a hero is garrisoning a faction terrain feature , can it still be picked as the target of abilities other than attacks? A: Yes."
+ },
+ {
+  "page": "General's Handbook 2025-26",
+  "category": "generals_handbook",
+  "section": "FAQ > BATTLEPLAN: CREEPING CORRUPTION",
+  "text": "Q: How does damage inflicted by ‘ Pulsing Life Energies ’ interact with The Shadow Queen’s ‘Iron Heart of Khaine’ ability? A: Since the damage is inflicted in the Start of Battle Round timing window, before either player’s turn has started, ‘Iron Heart of Khaine’ would have no effect on those damage points. In addition, those damage points would not count towards the limit on damage allocation from ‘Iron Heart of Khaine’ in the next turn. Q: How does damage inflicted by ‘ Pulsing Life Energies ’ interact with The Shadow Queen’s ‘Iron Heart of Khaine’ ability? A: Since the damage is inflicted in the Start of Battle Round timing window, before either player’s turn has started, ‘Iron Heart of Khaine’ would have no effect on those damage points. In addition, those damage points would not count towards the limit on damage allocation from ‘Iron Heart of Khaine’ in the next turn. Q: Can I use Scourge of Ghyran enhancements , lores and battle formations in an Army of Renown ? A: No. Q: Can I use Scourge of Ghyran enhancements , lores and battle formations in an Army of Renown ? A: No. Matched Play Battlepack"
+ },
+ {
+  "page": "General's Handbook 2025-26",
+  "category": "generals_handbook",
+  "section": "1. Pick Your Armies",
+  "text": "Each player picks an army using the rules in Army Composition 2025-26 (Advanced Rules)."
+ },
+ {
+  "page": "General's Handbook 2025-26",
+  "category": "generals_handbook",
+  "section": "Advanced Rules",
+  "text": "In addition to the Core Rules and the Season Rules 2025- 26, this battlepack uses the following Advanced Rules: Battle Tactics 2025-26 Commands 2025-26 Terrain 2025-26 Magic 2025-26 Army Composition 2025-26 Command Models"
+ },
+ {
+  "page": "General's Handbook 2025-26",
+  "category": "generals_handbook",
+  "section": "2. Determine the Battleplan",
+  "text": "One player rolls a dice to determine which battleplan table to use. On a 1-3, use battleplan table 1. On a 4-6, use battleplan table 2. The other player then rolls a dice to determine the battleplan. Alternatively, feel free to pick the battleplan you wish to play. BATTLEPLAN TABLE 1 BATTLEPLAN TABLE 2 D6 BATTLEPLAN D6 BATTLEPLAN 1 Passing Seasons 1 Noxious Nexus 2 Paths of the Fey 2 The Liferoots 3 Roiling Roots 3 Bountiful Equinox 4 Cyclic Shifts 4 Lifecycle 5 Surge of Slaughter 5 Creeping Corruption 6 Linked Ley Lines 6 Grasp of Thorns"
+ },
+ {
+  "page": "General's Handbook 2025-26",
+  "category": "generals_handbook",
+  "section": "Attacker and Defender",
+  "text": "The players roll off . The winner chooses which player is the attacker and which is the defender ."
+ },
+ {
+  "page": "General's Handbook 2025-26",
+  "category": "generals_handbook",
+  "section": "Objectives and Terrain",
+  "text": "This battlepack contains 6 special objectives called Ghyranite objectives : 2 Oakenbrow objectives, 2 Gnarlroot objectives, 1 Winterleaf objective and 1 Heartwood objective. The objective itself is the 40mm-diameter circle located in the centre, while the surrounding area extending 3\" from the objective is the control zone . To contest a Ghyranite objective, a unit must be within the control zone of that Ghyranite objective. The defender sets up Ghyranite objectives in the locations indicated on the battlefield map . The objectives must be those indicated on the battlefield map; for example, if the map shows an Oakenbrow objective, the Oakenbrow objective must be set up in that location. Then, the defender sets up terrain features . We recommend 4 small and 4 medium terrain features. Each terrain feature must be set up more than 3\" from the battlefield edge, more than 3\" from all Ghyranite objectives and more than 6\" from all other terrain features. Alternatively, the battlefield can be set up as shown on the corresponding battlefield terrain layout map while maintaining the distance restrictions between the battlefield edge, objectives and other terrain features as detailed above."
+ },
+ {
+  "page": "General's Handbook 2025-26",
+  "category": "generals_handbook",
+  "section": "Territory",
+  "text": "After Ghyranite objectives and terrain have been set up , the attacker picks which territory is their territory. The other territory is the defender’s territory. The players then resolve the deployment phase. The attacker begins deployment ( Core Rules, 10.0 )."
+ },
+ {
+  "page": "General's Handbook 2025-26",
+  "category": "generals_handbook",
+  "section": "Battle Length",
+  "text": "Battles that use this battlepack last for 5 battle rounds."
+ },
+ {
+  "page": "General's Handbook 2025-26",
+  "category": "generals_handbook",
+  "section": "Glorious Victory",
+  "text": "Each battleplan will describe how to score victory points. At the end of the battle, if one player has at least 5 victory points more than their opponent, they win a major victory. If one player has fewer than 5 more victory points than their opponent, they win a minor victory. If the players are tied on victory points, the player who completed the most battle tactics wins a minor victory. If the players are tied on victory points and completed the same number of battle tactics, the battle is a draw."
+ },
+ {
+  "page": "General's Handbook 2025-26",
+  "category": "generals_handbook",
+  "section": "Battle Tactics",
+  "text": "If you are using this battlepack, you must pick battle tactics cards from this battlepack to add to your army roster during army composition . At the start of the battle, you must reveal your choice of battle tactics cards to your opponent. If the battle tactics card instructs you to pick something, you must tell your opponent what you pick and vice versa."
+ },
+ {
+  "page": "General's Handbook 2025-26",
+  "category": "generals_handbook",
+  "section": "Battlefield Size",
+  "text": "The battleplans in this battlepack have been designed for 1000- or 2000-point battles and we recommend a 44\" × 60\" battlefield with 8 terrain features. However, some players prefer to use a 30\" × 44\" battlefield with 4 terrain features for 1000-point battles. If you have agreed on a points limit outside these bounds, feel free to adjust the battlefield size and number of terrain features appropriately."
+ },
+ {
+  "page": "General's Handbook 2025-26",
+  "category": "generals_handbook",
+  "section": "Battlefield Size > Matched Play Publications 2025-26",
+  "text": "As Warhammer Age of Sigmar continues to grow, naturally, we will continue to write rules for the game. However, when you are playing competitively, sometimes it’s hard to know which of these rules are ‘legal’ – in other words, which rules you can use in Matched Play battles. On this page, we’ve provided a handy at-a-glance list that shows you all the publications whose rules you are allowed to use in Matched Play battles. CORE Warhammer Age of Sigmar Core Book General’s Handbook 2025-26 Warhammer Age of Sigmar Faction Packs Battle Profiles & Rules Updates Battletome publocations, excluding Warhammer Legends rules BATTLETOMES Throughout this edition of Warhammer Age of Sigmar, we will be releasing battletomes for each faction. Battletomes contain additional and/or updated faction rules, which include battle traits, battle formations and enhancements. When a battletome is released, it will supersede the rules set out in the Faction Pack for that faction."
+ },
+ {
+  "page": "General's Handbook 2025-26",
+  "category": "generals_handbook",
+  "section": "Battlefield Size > Digital Updates",
+  "text": "We sometimes release digital updates on warhammer-community.com. When we do, we will say whether that rules set is legal for use and, if so, in which types of battlepacks it can be used."
+ },
+ {
+  "page": "General's Handbook 2025-26",
+  "category": "generals_handbook",
+  "section": "Battlefield Size > Battlescrolls",
+  "text": "Battlescrolls are rules updates that focus on balancing the game meta more actively. Sometimes they are simply useful summaries of corrections that also appear in the relevant errata documents. At other times, they appear as sets of entirely new rules that, while not compulsory, are highly recommended for use in Matched Play battles. The rules in battlescrolls will always be used at o’cial Warhammer Age of Sigmar events."
+ },
+ {
+  "page": "General's Handbook 2025-26",
+  "category": "generals_handbook",
+  "section": "Battlefield Size > Errata",
+  "text": "Periodically, we release errata documents for our publications that correct any errors. These include things like outright mistakes, rules that didn’t quite work the way we intended them to, and rules that have had an unforeseen and undesirable impact on the game meta. The errata documents are considered to be part of the publications that they are correcting, so we don’t list them separately here."
+ },
+ {
+  "page": "General's Handbook 2025-26",
+  "category": "generals_handbook",
+  "section": "Battlefield Size > Gyranite Objectives",
+  "text": "The battleplans in the General’s Handbook 2025-26 battlepack use the following Ghyranite objective markers : Each Ghyranite objective marker comprises a 40mm-diameter round objective that is wholly within and surrounded by a control zone ."
+ },
+ {
+  "page": "General's Handbook 2025-26",
+  "category": "generals_handbook",
+  "section": "Battlefield Size > Contesting Ghyranite Objectives",
+  "text": "While a Ghyranite objective is within a model’s combat range, that model is contesting that objective. While any models in a unit are contesting a Ghyranite objective, that unit is contesting that Ghyranite objective."
+ },
+ {
+  "page": "General's Handbook 2025-26",
+  "category": "generals_handbook",
+  "section": "Battlefield Size > Paired Objectives",
+  "text": "Some battleplans will use more than one of the same type of Ghyranite objective . For example, they could include two Oakenbrow objectives and/or two Gnarlroot objectives. In these battleplans, the rules refer to two of the same type of Ghyranite objective as a pair or paired . When a rule requires a player to control a pair of objectives, the player has to control both objectives in that pair. When a player has to pick ‘a pair of objectives’, they can only pick a single pair of Ghyranite objectives of the same type. For example, that player could pick either both Oakenbrow objectives or both Gnarlroot objectives. They could not pick an Oakenbrow objective and a Gnarlroot objective, or both Oakenbrow objectives and both Gnarlroot objectives."
+ },
+ {
+  "page": "General's Handbook 2025-26",
+  "category": "generals_handbook",
+  "section": "Battlefield Size > Obscured Ghyranite Objectives",
+  "text": "Some abilities can confer the ‘ Obscuring ’ terrain ability on a Ghyranite objective , even though it is not a terrain feature . In these cases, replace the words ‘within 1\" of this terrain feature’ in the ability with ‘wholly within this Ghyranite objective’s control zone’."
+ },
+ {
+  "page": "General's Handbook 2025-26",
+  "category": "generals_handbook",
+  "section": "Battlefield Size > Regimented Forces",
+  "text": "If a player has more regiments than their opponent at the start of the battle, then once per battle, that player can re-roll their priority roll after seeing the result of both players’ rolls but before determining priority for that battle round."
+ },
+ {
+  "page": "General's Handbook 2025-26",
+  "category": "generals_handbook",
+  "section": "Battlefield Size > Using The Scourge of Ghyran Rules",
+  "text": "The Scourge of Ghyran rules are a set of seasonal rules that include additional faction rules and alternative warscrolls for every faction. These rules are for use in battles that use the General’s Handbook 2025-26 battlepack. SCOURGE OF GHYRAN WARSCROLLS If you wish to use a Scourge of Ghyran warscroll, every instance of that unit in your army must use that warscroll. You cannot use the printed (i.e. battletome or faction pack) version of the warscroll for one unit and the Scourge of Ghyran warscroll for another. If you decide to use the Scourge of Ghyran version of a warscroll, you do not have to use all other Scourge of Ghyran warscrolls for your faction. In addition, other rules that interact with the printed version of that unit interact with the Scourge of Ghyran version too. For example, a rule (including regiment options) that calls out a unit type by the name on its warscroll interacts with both the printed version of that unit and the Scourge of Ghyran version; they are synonymous in this regard. SCOURGE OF GHYRAN FACTION RULES The additional faction rules consist of a variety of battle formations , artefacts of power tables, heroic traits tables, special enhancement tables (such as monstrous traits), spell lores and prayer lores . When picking your army’s battle formation, you can pick 1 of the Scourge of Ghyran battle formations available to your faction instead of any others available to it. In other words, you can still only pick 1 battle formation for your army. If you pick from a Scourge of Ghyran artefacts of power or heroic traits table, you pick from that table instead of other such tables available to your faction, not in addition to. This is stated in the rules that accompany the relevant table."
+ },
+ {
+  "page": "General's Handbook 2025-26",
+  "category": "generals_handbook",
+  "section": "Battlefield Size > Using The Scourge of Ghyran Rules",
+  "text": "This is stated in the rules that accompany the relevant table. Some of the Scourge of Ghyran enhancement tables are special enhancements unique to that faction, for example monstrous traits. This is an enhancement table available to your faction like any other; therefore, you can pick 1 enhancement from it for your army, as per the Army Composition rules, 4.1 . We hope that you enjoy using the Scourge of Ghyran rules and that they add a fun new dimension to your faction!"
+ },
+ {
+  "page": "General's Handbook 2025-26",
+  "category": "generals_handbook",
+  "section": "Battlefield Size > Battle Tactics 2025-26",
+  "text": "Q: Can I complete the same battle tactic multiple times in a battle? A: No, unless specified otherwise."
+ },
+ {
+  "page": "General's Handbook 2025-26",
+  "category": "generals_handbook",
+  "section": "1.0 Battle Tactics Overview",
+  "text": "During a battle, each player can score extra victory points by completing battle tactics from a battle tactics card. You can pick up to 2 battle tactics cards for your army during army composition , and the battle tactics cards you pick must be marked on your army roster . Before deployment, you must tell your opponent which battle tactics cards you have picked for your army. Each battle tactics card has 3 battle tactics: 1 Affray battle tactic, 1 Strike battle tactic and 1 Domination battle tactic. You must complete the Affray battle tactic on that card before you can complete the Strike battle tactic on that card. Similarly, you must complete the Strike battle tactic on that card before you can complete the Domination battle tactic on that card. You can complete 1 battle tactic on each of your battle tactics cards at the end of each of your turns unless specified otherwise on that battle tactics card."
+ },
+ {
+  "page": "General's Handbook 2025-26",
+  "category": "generals_handbook",
+  "section": "2.0 Seizing The Initiative",
+  "text": "If the player who went second in the previous battle round wins the priority roll and chooses to go first, unless their opponent is leading by 11 or more victory points, it is called seizing the initiative . When a player seizes the initiative, their opponent always counts as the underdog until that opponent seizes the initiative. A player who seizes the initiative cannot complete any battle tactics in that turn."
+ },
+ {
+  "page": "General's Handbook 2025-26",
+  "category": "generals_handbook",
+  "section": "3.0 Completing Battle Tactics",
+  "text": "If, at the end of your turn, you have completed a battle tactic as described above, you score the number of victory points shown for that battle tactic. Battle tactics cards are picked during Army Composition and are written on your army roster . Each battle tactics card has 3 battle tactics: 1 Affray , 1 Strike and 1 Domination . Battle tactics are completed during your turn. Unless otherwise stated, you can complete 1 battle tactic on each of your battle tactics cards in each of your turns (i.e. up to 2 battle tactics in each of your turns). You must complete the Affray battle tactic on a card before you can complete the Strike, and you must complete the Strike before you can complete the Domination. Unless your opponent is in the lead by 11 or more victory points, you ‘seize the initiative’ if you win priority and choose to go first in the next battle round (resulting in you having two turns in a row). If you seize the initiative, you cannot complete any battle tactics that turn and your opponent counts as the underdog until they seize the initiative. BATTLE TACTICS CARD 1"
+ },
+ {
+  "page": "General's Handbook 2025-26",
+  "category": "generals_handbook",
+  "section": "3.0 Completing Battle Tactics > Master the Paths",
+  "text": "The verdant of Neos resist the stamp of armies and conquerors. To slip along those paths takes woodsmen of great skill. AFFRAY: CUT OFF THE HEAD Fall upon the leaders of the foe without warning. You complete this battle tactic at the end of your turn if an enemy HERO has been destroyed this battle. 5 VICTORY POINTS STRIKE: SEIZE THE PATHS Open tunnels through the foliage are a vital boon. Force the enemy from them. You complete this battle tactic at the end of your turn if there are more friendly units in neutral territory than enemy units. If there is no neutral territory in the battleplan you are playing, you complete this tactic at the end of your turn if there are no enemy units within friendly territory. 5 VICTORY POINTS DOMINATION: ENVELOP AND STRANGLE Ensure no corner of the Neosian undergrowth is beyond your reach. You complete this battle tactic at the end of your turn if at least 3 different friendly units are each wholly within 9\" of a different corner of the battlefield and only 1 of those corners is wholly within friendly territory. No more than 1 of those units can have been set up this turn. 5 VICTORY POINTS BATTLE TACTICS CARD 2"
+ },
+ {
+  "page": "General's Handbook 2025-26",
+  "category": "generals_handbook",
+  "section": "3.0 Completing Battle Tactics > Restless Energy",
+  "text": "Do not rest upon your laurels. Expand. Grow. Conquer. AFFRAY: WATER WITH BLOOD Sometimes, red must help the green to flourish. You complete this battle tactic at the end of your turn if you control an objective that was controlled by your opponent at the start of your turn. 5 VICTORY POINTS STRIKE: INVASIVE SPECIES Reach your vines and tendrils deep into the territory of the opposition. You complete this battle tactic at the end of your turn if you control every objective within enemy territory. If there are no objectives within enemy territory, you complete this battle tactic at the end of your turn if you control every objective that was controlled by your opponent at the start of your turn. 5 VICTORY POINTS DOMINATION: ALL ROOTS ENTWINED The cycle will only achieve its true potential when it is brought under your rule. You complete this battle tactic at the end of your turn if you control every objective that can be controlled 5 VICTORY POINTS BATTLE TACTICS CARD 3"
+ },
+ {
+  "page": "General's Handbook 2025-26",
+  "category": "generals_handbook",
+  "section": "3.0 Completing Battle Tactics > Intercept and Recover",
+  "text": "There are many who would thieve Neos’s life-giving relics. Recover them - either for noble purposes or in furtherance of darker goals... At the start of the battle, your opponent must pick 3 of their units on the battlefield to be carrying a Ghyranite Treasure. They cannot pick faction terrain feature s or MANIFESTATIONS . A unit can only carry 1 Ghyranite Treasure. If your opponent has fewer than 3 units on the battlefield, you automatically complete a number of these battle tactics, starting with the Domination battle tactic (followed by the Strike and then the Affray ) until the number of remaining uncompleted battle tactics equals the number of enemy units on the battlefield. If you went second in the previous battle round and choose to go first in the current battle round, your opponent can remove 1 Ghyranite Treasure from one of their units at the start of the battle round. If an ability would remove a unit that was carrying treasure from the battlefield and that unit is not set up again as part of the same ability (e.g. ‘ Dark Apotheosis ’ or ‘Red Ruin’), before removing that unit from the battlefield, your opponent must give the treasure it was carrying to another one of their units that does not have a Ghyranite treasure within 3\" of that unit. If this is not possible, that unit counts as having been destroyed for the purpose of this battle tactics card. AFFRAY: STOLEN SEEDPOD Plucked from the branches of one of the towering trees of Neos, this seed contains a core of raw potential. You complete this battle tactic at the end of your turn if at least 1 enemy unit carrying a Ghyranite Treasure has been destroyed this battle."
+ },
+ {
+  "page": "General's Handbook 2025-26",
+  "category": "generals_handbook",
+  "section": "3.0 Completing Battle Tactics > Intercept and Recover",
+  "text": "You complete this battle tactic at the end of your turn if at least 1 enemy unit carrying a Ghyranite Treasure has been destroyed this battle. 5 VICTORY POINTS STRIKE: CONTRABAND AQUA GHYRANIS The Oakenbrow zealously guard Neos's many springs of Aqua Ghyranis, but their gaze cannot be everywhere ... You complete this battle tactic at the end of your turn if at least 2 enemy units carrying a Ghyranite Treasure have been destroyed this battle. 5 VICTORY POINTS DOMINATION: LEY LINE TAPROOT Pulsing with the power of the ley lines, this root glows with the power to work wonders - or horrors. You complete this battle tactic at the end of your turn if at least 3 enemy units carrying a Ghyranite Treasure have been destroyed this battle. 5 VICTORY POINTS Q: If your opponent has picked the Intercept and Recover battle tactic card and they destroy 2 or 3 of your units that are carrying Ghyranite Treasure in the same turn, and then they choose to go first after going second in the previous battle round, can you remove a Ghyranite Treasure that has not been scored yet from a destroyed unit? A: Yes. Q: If both players have the Intercept and Recover battle tactic card, what is the order in which players pick units to be carrying Ghyranite Treasures? A: The attacker picks all their units first, then the defender picks all their units. BATTLE TACTICS CARD 4"
+ },
+ {
+  "page": "General's Handbook 2025-26",
+  "category": "generals_handbook",
+  "section": "3.0 Completing Battle Tactics > Wrathful Cycles",
+  "text": "Even in joyous Neos, nature can change without warning. Embody its mercilessness as you turn the tide AFFRAY: DEFIANT SURGE Use the invigoration that floods you to overwhelm the enemy. You complete this battle tactic at the end of your turn if you control more objectives than your opponent. 5 VICTORY POINTS STRIKE: DARING RESURGENCE Life always fights to endure. Draw upon that vitality now. You complete this battle tactic at the end of your turn if you are the underdog this battle round, there is at least 1 friendly unit on the battlefield and at least half of the friendly units on the battlefield (rounding up) used a FIGHT ability this turn. 5 VICTORY POINTS DOMINATION: MASTER OF STRATEGY Victory blooms from victory, growing greater by the moment. You complete this battle tactic at the end of your turn if there is a different friendly unit wholly within each large quarter of the battlefield, you control more objectives than your opponent, and there are no enemy units contesting any objectives that you control. 5 VICTORY POINTS BATTLE TACTICS CARD 5"
+ },
+ {
+  "page": "General's Handbook 2025-26",
+  "category": "generals_handbook",
+  "section": "3.0 Completing Battle Tactics > Scouting Force",
+  "text": "Focused tactics and small formations are key to triumph under the dense canopies of Neos. At the start of the battle, pick each friendly non- HERO INFANTRY and non- HERO CAVALRY unit that was not set up in reserve using a Deploy ability to become a scout unit. You cannot complete these battle tactics with scout units that are in combat . Replacement units that replace scout units are also scout units. AFFRAY: RAIDING PARTY Ensure the foe knows you will brave their domains. You complete this battle tactic at the end of your turn if there are 3 or more friendly scout units wholly outside friendly territory. 5 VICTORY POINTS STRIKE: BOLD EXPLORERS Only the brave will plunge deep into the ever-seething heart of Neos. You complete this battle tactic at the end of your turn if 3 or more objectives or or non- FACTION TERRAIN terrain features that you control , in any combination, are being contest ed by any friendly scout units. Those objectives and terrain features must be within enemy territory. 5 VICTORY POINTS DOMINATION: COURAGEOUS ADVENTURERS The depths of the forest hold many secrets. Make sure they are yours. You complete this battle tactic at the end of your turn if a friendly scout unit that was not set up this turn is contesting a non- FACTION TERRAIN terrain feature that you control , that is wholly within enemy territory, and that is more than 6\" from friendly territory. 5 VICTORY POINTS BATTLE TACTICS CARD 6"
+ },
+ {
+  "page": "General's Handbook 2025-26",
+  "category": "generals_handbook",
+  "section": "3.0 Completing Battle Tactics > Attuned to Ghyran",
+  "text": "The air of Neos is strangely febrile, as if the will of the realm crackles there. One could heed it, perhaps... AFFRAY: SACRED CENTRALITY Assemble at the heart of the field, as the druids once did around their holy henges. You complete this battle tactic at the end of your turn if there are at least 2 friendly units within 3\" of the centre of the battlefield that are not in combat . 5 VICTORY POINTS STRIKE: FEY STRIKES Slip in and out of the melee like the cackling spites of the deep woods. You complete this battle tactic at the end of your turn if all the following are true: At least 2 friendly units moved as part of a RETREAT ability this turn. Those units are lure units. At least 2 other friendly units charged this turn and at least 1 of those units ended the charge move in combat with an enemy unit from which any lure units retreated. 5 VICTORY POINTS DOMINATION: PURIFICATION RITES New birth sometimes demands a matching price in death ... You complete this battle tactic at the end of your turn if there are no enemy units within friendly territory and no enemy units within neutral territory. 5 VICTORY POINTS"
+ },
+ {
+  "page": "General's Handbook 2025-26",
+  "category": "generals_handbook",
+  "section": "3.0 Completing Battle Tactics > Overview",
+  "text": "The battleplan maps show the player territories and the locations where terrain and objectives should be placed on the battlefield."
+ },
+ {
+  "page": "General's Handbook 2025-26",
+  "category": "generals_handbook",
+  "section": "3.0 Completing Battle Tactics > Player Territories",
+  "text": "Each battleplan map shows two territories : one red (Attacker’s Territory) and one blue (Defender’s Territory)."
+ },
+ {
+  "page": "General's Handbook 2025-26",
+  "category": "generals_handbook",
+  "section": "3.0 Completing Battle Tactics > Objectives Locations",
+  "text": "The locations of Ghyranite objectives are indicated on the battleplan maps by the following icons. Each icon represents the Ghyranite objective including its control zone . Where an objective icon is shown on the map, you must place the corresponding objective marker on the battlefield centred on the location of the objective icon shown on the map. For example, where the map shows an Oakenbrow objective icon, place an Oakenbrow objective on the battlefield in that location."
+ },
+ {
+  "page": "General's Handbook 2025-26",
+  "category": "generals_handbook",
+  "section": "3.0 Completing Battle Tactics > Terrain Locations",
+  "text": "The terrain location icons show where terrain features should be set up and what type of terrain should be placed in each terrain location. The following key shows which terrain features correspond to which icons: AREA TERRAIN OR OBSTACLE MEDIUM SMALL OBSCURING TERRAIN MEDIUM SMALL PLACE OF POWER MEDIUM SMALL"
+ },
+ {
+  "page": "General's Handbook 2025-26",
+  "category": "generals_handbook",
+  "section": "Scoring Sheet 2025-26",
+  "text": "At the conclusion of a Matched Play battle, the player who has scored the most victory points is declared the winner. Victory points can be scored in a variety of different ways, so it is vital to be able to track the methods by which victory points are scored and the number of victory points that have been scored by each player. We have provided a scoring sheet template opposite so that you can track the progress of your battles. You can find a scoring sheet printable copy below: On the scoring sheet, there’s space at the top to record the battleplan being played and the points limit for the battle. Beneath that are two sections: one for the attacker’s information and one for the defender’s information. After determining who will be the attacker and who will be the defender, write each player’s name and their army’s faction in the appropriate sections. There are spaces in both the attacker and the defender sections to record the victory points scored in each battle round. In addition, there are tick boxes to track which battle tactics have been completed and which player had priority in each battle round. The abbreviations ’A’, ’S’ and ’D’ stand for Affray , Strike and Domination respectively. At the end of the battle, both players can mark the result of the battle in the section at the bottom of the sheet. Battleplan 1 (Table 1)"
+ },
+ {
+  "page": "General's Handbook 2025-26",
+  "category": "generals_handbook",
+  "section": "Scoring Sheet 2025-26 > Passing Seasons",
+  "text": "TWIST: In battle rounds 2 and 4, if you are the underdog , you can use the ‘Burgeoning Rejuvenation’ ability. In battle rounds 3 and 5, while you are the underdog , your army has the ‘Powerful Resurgence’ ability. Once Per Battle Round, Start of Battle Round BURGEONING REJUVENATION Effect: Pick 1 of the following: Heal (D3) every friendly unit contesting an Oakenbrow objective . For the rest of the battle round, while a friendly unit is contesting a Gnarlroot - If it has a ward save , add 1 to ward rolls for that unit. - If it does not have a ward save, it has WARD ( 6+ ) . Passive POWERFUL RESURGENCE Effect: Add 1 to wound rolls for combat attacks made by friendly units while they are contesting a Gnarlroot objective . Each player scores victory points at the end of each of their turns as follows: In battle rounds 1, 3 and 5, score 5 victory points for each Gnarlroot objective that you control. In battle rounds 2 and 4, score 5 victory points for each Oakenbrow objective that you control. Obscuring Terrain Place of Power Area Terrain or Obstacle Battleplan 2 (Table 1)"
+ },
+ {
+  "page": "General's Handbook 2025-26",
+  "category": "generals_handbook",
+  "section": "Scoring Sheet 2025-26 > Paths of the Fey",
+  "text": "TWIST: If you are the underdog , you must use the ‘The Spirit Paths Open’ ability. Both players can use the ‘Stumbling Forth’ ability. Once Per Battle Round, Start of Battle Round THE SPIRIT PATHS OPEN Declare: Pick 2 objectives to be the targets. Effect: All units, excluding faction terrain and MANIFESTATIONS , within 6\" of any target objectives must be removed from the battlefield by their commander. Those units are vanished . Then, starting with you, players must take it in turns to set up each friendly vanished unit wholly within 3\" of either target objective and more than 3\" from all enemy units. Those units cannot use MOVE abilities in the first movement phase of the battle round. If it is impossible for a unit to be set up in this way, it is set up in reserve as a lost unit. Your Movement Phase STUMBLING FORTH Declare: Pick a friendly lost unit (see above) to be the target. Effect: Set up the target on the battlefield, more than 9\" from all enemy units and wholly within 7\" of a battlefield edge. Each player scores victory points at the end of each of their turns as follows: Score 5 victory points if you control at least 1 objective . Score 3 victory points if you control 2 or more objectives. Score 2 victory points if you control more objectives than your opponent. Obscuring Terrain Place of Power Area Terrain or Obstacle Battleplan 3 (Table 1)"
+ },
+ {
+  "page": "General's Handbook 2025-26",
+  "category": "generals_handbook",
+  "section": "Scoring Sheet 2025-26 > Roiling Roots",
+  "text": "TWIST: If you are the underdog , you must use the ‘Tangling Tendrils’ ability: Once Per Battle Round, Start of Battle Round TANGLING TENDRILS Declare: Pick a pair of objectives to be the targets. Effect: For the rest of the battle round, units (friendly and enemy) have STRIKE-LAST while they are contesting either target objective. Each player scores victory points at the end of each of their turns as follows: Score 5 victory points if you control at least 1 objective . Score 3 victory points if you control any pairs of objectives . Score 2 victory points if you control more objectives than your opponent. Obscuring Terrain Place of Power Area Terrain or Obstacle Q: In the Roiling Roots battleplan, if a unit that has STRIKE-LAST because it is contesting an objective that has been picked as the target of the ' Tangling Tendrils ' ability, what happens if the models in that unit that are contesting that objective are slain? A: The unit only has STRIKE-LAST while any models in that unit are contesting that objective . It loses the STRIKE-LAST effect immediately after all of the models that were contesting that objective have been slain and removed from the battlefield. Battleplan 4 (Table 1)"
+ },
+ {
+  "page": "General's Handbook 2025-26",
+  "category": "generals_handbook",
+  "section": "Scoring Sheet 2025-26 > Cyclic Shifts",
+  "text": "TWIST: If you are the underdog , you can use the ‘Unpredictable Evolution’ ability: Once Per Battle Round, Start of Battle Round UNPREDICTABLE EVOLUTION Declare: Pick a pair of objectives to be the targets. Effect: The target objectives are no longer controlled by either player (if they were) and they cannot be controlled this battle round. Each player scores victory points at the end of each of their turns as follows: Score 5 victory points if you control at least 1 objective . Score 3 victory points if you control 2 or more objectives. Score 2 victory points if you control more objectives than your opponent. Obscuring Terrain Place of Power Area Terrain or Obstacle Battleplan 5 (Table 1)"
+ },
+ {
+  "page": "General's Handbook 2025-26",
+  "category": "generals_handbook",
+  "section": "Scoring Sheet 2025-26 > Surge of Slaughter",
+  "text": "TWIST: If you are the underdog , you can use the ‘Defence of the Realm’ ability: Once Per Battle Round, Start of Battle Round DEFENCE OF THE REALM Declare: Pick a pair of objectives to be the targets. Effect: For the rest of the battle round, add 1 to the Rend characteristic of friendly units’ melee weapons while they are contesting either of the target objectives. Each player scores victory points at the end of each of their turns as follows: Score 5 victory points if you control at least 1 objective . Score 3 victory points if you control any pairs of objectives . Score 2 victory points if you control more objectives than your opponent. Obscuring Terrain Place of Power Area Terrain or Obstacle Battleplan 6 (Table 1)"
+ },
+ {
+  "page": "General's Handbook 2025-26",
+  "category": "generals_handbook",
+  "section": "Scoring Sheet 2025-26 > Linked Ley Lines",
+  "text": "TWIST: While you are the underdog , your army has the ‘Rooted in the Realm’ and ‘Full of Life’ abilities: Passive ROOTED IN THE REALM Effect : Friendly units’ weapons have Anti- MANIFESTATION (+1 Rend) while those units are a contesting an objective that is both controlled by you and on a linked ley line (see below). Passive FULL OF LIFE Effect: Friendly MANIFESTATIONS have STRIKE-FIRST . A linked ley line is formed from the middle of one edge of the battlefield to the middle of the opposite edge while one player controls all the objectives on that line. Each player scores victory points at the end of each of their turns as follows: Score 3 victory points if you control at least 1 objective. Score 3 victory points if you control 2 or more objectives. Score 2 victory points if you control any pairs of objectives . Score 2 victory points if you control all of the objectives on a linked ley line. Obscuring Terrain Place of Power Area Terrain or Obstacle Battleplan 1 (Table 2)"
+ },
+ {
+  "page": "General's Handbook 2025-26",
+  "category": "generals_handbook",
+  "section": "Scoring Sheet 2025-26 > Noxious Nexus",
+  "text": "TWIST: If you are the underdog , you can use the ‘Caustic Sap’ ability: Once Per Battle Round, Start of Battle Round CAUSTIC SAP Declare: Pick an objective . Each unit contesting that objective is a target. Effect: Roll a D3 for each target. On a 2+, inflict an amount of mortal damage on the target equal to the roll. If you picked the Heartwood objective, roll a D6 for each target instead. Objectives cannot be controlled in the first battle round. Each player scores victory points at the end of each of their turns as follows: Score 5 victory points if you control the Oakenbrow objective. Score 3 victory points if you control the Gnarlroot objective. Score 2 victory points if you control the Heartwood objective. In addition, at the end of the battle, a player scores 10 victory points if they control the Heartwood objective. Obscuring Terrain Place of Power Area Terrain or Obstacle Battleplan 2 (Table 2)"
+ },
+ {
+  "page": "General's Handbook 2025-26",
+  "category": "generals_handbook",
+  "section": "Scoring Sheet 2025-26 > The Liferoots",
+  "text": "TWIST: If you are the underdog , you can use the ‘Life Begets Life’ ability: Once Per Battle Round, Start of Battle Round LIFE BEGETS LIFE Declare: Pick a friendly unit that has all of its models within 1\" of a terrain feature to be the target. Effect: Return 1 slain model to the target unit. Each player scores 1 liferoot point at the end of each of their turns for each terrain feature they control . Each player scores victory points at the end of each of their turns as follows: Score 5 victory points if you control at least 1 objective . Score 3 victory points if you control both objectives. Score 2 victory points if you have more liferoot points than your opponent. Obscuring Terrain Place of Power Area Terrain or Obstacle Battleplan 3 (Table 2)"
+ },
+ {
+  "page": "General's Handbook 2025-26",
+  "category": "generals_handbook",
+  "section": "Scoring Sheet 2025-26 > Bountiful Equinox",
+  "text": "TWIST: If you are the underdog , you can use the ‘Rejuvenating Bloom’ ability: Once Per Battle Round, Start of Battle Round REJUVENATING BLOOM Declare: Pick an objective to be the target. Effect: Heal (3) each unit (friendly and enemy) contesting the target objective. Each player scores victory points at the end of each of their turns as follows: Score 5 victory points if you control at least 1 objective . Score 3 victory points if you control 2 or more objectives. Score 2 victory points if you control at least 1 Oakenbrow , 1 Gnarlroot and 1 Heartwood objective. Obscuring Terrain Place of Power Area Terrain or Obstacle Battleplan 4 (Table 2)"
+ },
+ {
+  "page": "General's Handbook 2025-26",
+  "category": "generals_handbook",
+  "section": "Scoring Sheet 2025-26 > Lifecycle",
+  "text": "TWIST: At the start of the second battle round, the underdog must use the ‘Lifecycle’ ability. If there is no underdog , the players roll off and the winner must use the ‘Lifecycle’ ability: Once Per Battle, Start of Second Battle Round LIFECYCLE Effect: Pick either the Oakenbrow or the Gnarlroot objective to be the primary objective. At the start of each subsequent battle round, the next objective in the cycle becomes the primary objective. The objectives before and after the primary objective in the cycle order (see below) are the secondary objectives. CYCLE ORDER Each player scores victory points at the end of each of their turns as follows: Score 4 victory points if you control at least 1 objective . Score 2 victory points if you control more objectives than your opponent. Score 4 victory points if you control both the Oakenbrow and Gnarlroot objectives (first battle round only). Score 2 victory points if you control the primary objective. Score 1 victory point for each secondary objective that you control. Obscuring Terrain Place of Power Area Terrain or Obstacle Battleplan 5 (Table 2)"
+ },
+ {
+  "page": "General's Handbook 2025-26",
+  "category": "generals_handbook",
+  "section": "Scoring Sheet 2025-26 > Creeping Corruption",
+  "text": "TWIST: If you are the underdog , you can use the ‘Pulsing Life Energies’ ability: Once Per Battle Round, Start of Battle Round PULSING LIFE ENERGIES Declare: Pick an objective you control and 1 other objective (whether you control it or not). Draw a line between the centres of those objectives. Then, choose propagation or corruption . Effect: Apply the appropriate effect: Propagation: Add 1 to casting rolls , chanting rolls and banishment rolls for each unit crossed by the line for the rest of the battle round Corruption: Inflict D3 mortal damage on each unit crossed by the line. Each player scores victory points at the end of each of their turns as follows: Score 5 victory points if you control at least 1 objective . Score 3 victory points if you control 2 or more objectives. Score 2 victory points if you control more objectives than your opponent. Obscuring Terrain Place of Power Area Terrain or Obstacle Q: How does damage inflicted by ' Pulsing Life Energies ' interact with The Shadow Queen’s 'Iron Heart of Khaine' ability? A: Since the damage is inflicted in the Start of Battle Round timing window, before either player’s turn has started, 'Iron Heart of Khaine' would have no effect on those damage points. In addition, those damage points would not count towards the limit on damage allocation from 'Iron Heart of Khaine' in the next turn."
+ }
+]

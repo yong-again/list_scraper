@@ -1,0 +1,6110 @@
+[
+ {
+  "id": "Erasmus-Zonn-the-Enlightened One",
+  "name": "Erasmus Zonn the Enlightened One",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "12\"",
+  "health": "9",
+  "save": "4+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Rod of Radiance",
+    "range": "10\"",
+    "attacks": "2",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "2",
+    "damage": "D3",
+    "abilities": [
+     "Crit (2 Hits)"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Glyphwing’s Heads",
+    "range": "",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "D3+1",
+    "abilities": [
+     "Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "LANTERN OF ALL-KNOWLEDGE ",
+    "timing": "Your Hero Phase",
+    "declare": "",
+    "effect": "If this unit is wholly within 9\" of a corner of the battlefield, pick 1 of the following effects to apply until the start of your next turn: Searing Brilliance: Friendly SIGMARITE units are not visible to enemy units more than 6\" from them while those friendly units are wholly within 6\" of and visible to this unit. Lambent Aura: Add 1 to this unit’s power level . Luminous Authority: Add 2 to arcane manipulation rolls for this unit. Prismatic Diffusion: Add 3 to the Attacks characteristic of this unit’s Rod of Radiance and set its Damage characteristic to 3."
+   },
+   {
+    "name": "REALMSPHERE MASTERY ",
+    "timing": "Any Hero Phase",
+    "declare": "Pick a visible enemy MANIFESTATION within 12\" of this unit and that was not set up this turn to be the target.",
+    "effect": "Make an arcane manipulation roll of 2D6. If the roll equals or exceeds the target’s banishment value, set up an ENDLESS SPELL that can be summoned using a SUMMON spell that this unit can cast within 1\" of the target and more than 3\" from all enemy units and other enemy MANIFESTATIONS . If that ENDLESS SPELL has multiple parts, both parts must be set up within 1\" of the target. This unit has summoned that ENDLESS SPELL . If there is already a friendly ENDLESS SPELL of the same type on the battlefield, it is immediately banished and removed from play before being set up as described above. Then, the target is banished and removed from play."
+   },
+   {
+    "name": "THE FOUR CORNERS OF THE REALMS ",
+    "timing": "Your Hero Phase",
+    "declare": "Make a casting roll of 2D6.",
+    "effect": "Remove this unit from the battlefield and set it up again wholly within 9\" of a corner of the battlefield and more than 3\" from all enemy units."
+   }
+  ],
+  "keywords": [
+   "UNIQUE",
+   "HERO",
+   "WIZARD ( 1 )",
+   "CAVALRY",
+   "FLY",
+   "ORDER",
+   "CITIES OF SIGMAR",
+   "SIGMARITE"
+  ],
+  "unit_size": 1,
+  "points": 170,
+  "base_size": "75 × 42mm",
+  "can_be_reinforced": false,
+  "regiment_options": "Any SIGMARITE"
+ },
+ {
+  "id": "Freeguild-Cavalier-Marshal",
+  "name": "Freeguild Cavalier-Marshal",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "10\"",
+  "health": "7",
+  "save": "3+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Dragoon Pistol",
+    "range": "10\"",
+    "attacks": "4",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Shoot in Combat"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Master-forged Cavalier Sword",
+    "range": "",
+    "attacks": "5",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Charge (+1 Damage)"
+    ]
+   },
+   {
+    "name": "Warhorse’s Steel‑shod Hooves",
+    "range": "",
+    "attacks": "2",
+    "hit": "5+",
+    "wound": "3+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": [
+     "Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "’FOR SIGMAR! FOR GLORY!’ ",
+    "timing": "Reaction: You declared the ' Counter-charge ' command for this unit",
+    "declare": "",
+    "effect": "Pick a visible friendly non- HERO SIGMARITE CAVALRY unit that is wholly within 12\" of this unit, is not in combat and has not used a RUN ability this turn to be the target. After the ‘ Counter-charge ’ command for this unit has been resolved, if this unit is in combat, the target can immediately use the ‘ Charge ’ ability as if it were your charge phase . In addition, you can re-roll charge rolls for the target for the rest of the phase."
+   },
+   {
+    "name": "RUN DOWN THE FOE ",
+    "timing": "Once Per Turn (Army), Any Charge Phase",
+    "declare": "If this unit charged this turn, pick this unit and up to 2 visible friendly non- HERO SIGMARITE CAVALRY units that charged this turn and are wholly within 12\" of this unit to be the targets.",
+    "effect": "For each target: Make a pile-in move . Then, pick an enemy unit in combat with the target and roll a D3. On a 2+, inflict an amount of mortal damage on that enemy unit equal to the roll."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "CAVALRY",
+   "ORDER",
+   "CITIES OF SIGMAR",
+   "SIGMARITE"
+  ],
+  "unit_size": 1,
+  "points": 120,
+  "base_size": "75 × 42mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Freeguild Veteran , Any SIGMARITE , Any ALLIES OF THE FREE CITIES Notes: This Hero can join an eligible regiment as a Freeguild Veteran ."
+ },
+ {
+  "id": "Alchemite-Warforger",
+  "name": "Alchemite Warforger",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "5\"",
+  "health": "5",
+  "save": "5+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Tongstaff",
+    "range": "",
+    "attacks": "3",
+    "hit": "4+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "RUNIC CRUCIBLE ",
+    "timing": "Once Per Turn (Army), Your Hero Phase",
+    "declare": "Pick a visible friendly SIGMARITE unit wholly within 12\" of this unit to be the target.",
+    "effect": "Make an arcane manipulation roll of D6. On a 3+, the target’s melee weapons have Crit (Mortal) until the start of your next turn."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "WIZARD ( 1 )",
+   "INFANTRY",
+   "ORDER",
+   "CITIES OF SIGMAR",
+   "SIGMARITE"
+  ],
+  "unit_size": 1,
+  "points": 130,
+  "base_size": "32mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 SIGMARITE WAR MACHINE , Any SIGMARITE INFANTRY"
+ },
+ {
+  "id": "Amethyst-Knellmage",
+  "name": "Amethyst Knellmage",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "5\"",
+  "health": "5",
+  "save": "6+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Amethyst Scythe",
+    "range": "",
+    "attacks": "3",
+    "hit": "4+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "DEATHLY CANDLELIGHT ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick a visible enemy unit within 12\" of this unit to be the target, then make a casting roll of 2D6.",
+    "effect": "The target cannot use commands for the rest of the turn."
+   },
+   {
+    "name": "OMINOUS PRESENCE ",
+    "timing": "Once Per Turn (Army), Your Hero Phase",
+    "declare": "",
+    "effect": "Make an arcane manipulation roll of D6. On a 3+, for the rest of the turn, when picking a target for the ‘Deathly Candlelight’ ability, you can pick a visible enemy unit within 18\" of this unit instead of within 12\"."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "WIZARD ( 1 )",
+   "INFANTRY",
+   "ORDER",
+   "CITIES OF SIGMAR",
+   "SIGMARITE"
+  ],
+  "unit_size": 1,
+  "points": 110,
+  "base_size": "32mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 SIGMARITE WAR MACHINE , Any SIGMARITE INFANTRY"
+ },
+ {
+  "id": "Aqshian-Pyrocaster",
+  "name": "Aqshian Pyrocaster",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "5\"",
+  "health": "5",
+  "save": "6+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Burning Fists",
+    "range": "",
+    "attacks": "3",
+    "hit": "4+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "INCANDESCENT INCINERATION ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick a visible enemy unit within 12\" of this unit to be the target, then make a casting roll of 2D6.",
+    "effect": "If the target was not incandescent when they were picked to be the target of this spell: Inflict D3 mortal damage on the target. The target is incandescent for the rest of the battle. If the target was incandescent when they were picked to be the target of this spell: Allocate 3 damage points to the target ( ward rolls cannot be made for those damage points). The target is no longer incandescent ."
+   },
+   {
+    "name": "THE FLAMES OF AQSHY ",
+    "timing": "Once Per Turn (Army), Your Hero Phase",
+    "declare": "",
+    "effect": "Make an arcane manipulation roll of D6. On a 3+, for the rest of the turn, when picking a target for the ‘Incandescent Incineration’ ability, you can pick a visible enemy unit within 18\" of this unit instead of within 12\"."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "WIZARD ( 1 )",
+   "INFANTRY",
+   "ORDER",
+   "CITIES OF SIGMAR",
+   "SIGMARITE"
+  ],
+  "unit_size": 1,
+  "points": 100,
+  "base_size": "32mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 SIGMARITE WAR MACHINE , Any SIGMARITE INFANTRY"
+ },
+ {
+  "id": "Callis-and-Toll",
+  "name": "Callis and Toll",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "5\"",
+  "health": "5",
+  "save": "4+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Flintlock Pistols",
+    "range": "10\"",
+    "attacks": "4",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Anti- WIZARD (+1 Rend) , Shoot in Combat"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Azyrite Blades",
+    "range": "",
+    "attacks": "4",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Anti- WIZARD (+1 Rend)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "RELENTLESS HUNTERS ",
+    "timing": "Start of Battle Round",
+    "declare": "This unit can use this ability even if it is in the shadows . If there is no enemy mark , pick an enemy HERO on the battlefield to be the target. If there are no enemy HEROES on the battlefield, pick an enemy non- HERO unit on the battlefield to be the target instead.",
+    "effect": "The target is the mark for the rest of the battle."
+   },
+   {
+    "name": "RIGHT TOOLS FOR THE JOB ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Double the Damage characteristic of this unit’s melee weapons for attacks that target the enemy mark ."
+   }
+  ],
+  "keywords": [
+   "UNIQUE",
+   "HERO",
+   "INFANTRY",
+   "ORDER",
+   "CITIES OF SIGMAR",
+   "SIGMARITE"
+  ],
+  "unit_size": 2,
+  "points": 240,
+  "base_size": "32mm",
+  "can_be_reinforced": false,
+  "regiment_options": "1 Toll’s Companions , Any SIGMARITE INFANTRY"
+ },
+ {
+  "id": "Freeguild-Marshal-and-Relic-Envoy",
+  "name": "Freeguild Marshal and Relic Envoy",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "5\"",
+  "health": "5",
+  "save": "3+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Duelling Pistols",
+    "range": "10\"",
+    "attacks": "4",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Shoot in Combat"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Master-forged Weapon",
+    "range": "",
+    "attacks": "5",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "ATTENDANT RELIC ENVOY ",
+    "timing": "Once Per Turn (Army), Your Hero Phase",
+    "declare": "This unit’s Relic Envoy is a token. Pick a visible friendly SIGMARITE unit wholly within 18\" of this unit and not under orders to be the target.",
+    "effect": "Place this unit’s Relic Envoy next to the target. While this unit is under orders and on the battlefield and this unit’s Relic Envoy is next to the target, the target is under orders ."
+   },
+   {
+    "name": "FRONT-LINE COMMANDER ",
+    "timing": "Once Per Battle (Army), Reaction: You declared a FIGHT ability for this unit",
+    "declare": "",
+    "effect": "If this unit is under orders , pick a friendly SIGMARITE INFANTRY or MONSTER unit that is wholly within 12\" of this unit or has this unit’s Relic Envoy next to it and that has not used a FIGHT ability this turn to be the target. The target can be picked to use a FIGHT ability immediately after the FIGHT ability used by this unit has been resolved. If it is picked to do so, the target can use 2 FIGHT abilities this phase. After the first is used, however, the target has STRIKE-LAST for the rest of the turn."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "INFANTRY",
+   "ORDER",
+   "CITIES OF SIGMAR",
+   "SIGMARITE"
+  ],
+  "unit_size": 1,
+  "points": 110,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Freeguild Veteran , Any SIGMARITE , Any ALLIES OF THE FREE CITIES Notes: This Hero can join an eligible regiment as a Freeguild Veteran."
+ },
+ {
+  "id": "Fusil-Major-on-Ogor-Warhulk",
+  "name": "Fusil-Major on Ogor Warhulk",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "8",
+  "save": "3+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Long Fusil",
+    "range": "24\"",
+    "attacks": "2",
+    "hit": "3+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "2",
+    "abilities": [
+     "Anti- HERO (+1 Rend) , Crit (Auto-wound)"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Warhulk’s Mace",
+    "range": "",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "2",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "COORDINATE ATTACKS ",
+    "timing": "Once Per Turn (Army), Your Shooting Phase",
+    "declare": "Pick a visible enemy unit within 24\" of this unit to be the target.",
+    "effect": "For the rest of the turn, add 1 to hit rolls for attacks made by friendly SIGMARITE units that are under orders that target that enemy unit."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "INFANTRY",
+   "ORDER",
+   "CITIES OF SIGMAR",
+   "SIGMARITE"
+  ],
+  "unit_size": 1,
+  "points": 160,
+  "base_size": "50mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Freeguild Veteran , Any SIGMARITE , Any ALLIES OF THE FREE CITIES Notes: This Hero can join an eligible regiment as a Freeguild Veteran ."
+ },
+ {
+  "id": "Galen-and-Doralia-ven-Denst",
+  "name": "Galen and Doralia ven Denst",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "5\"",
+  "health": "5",
+  "save": "4+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Anti-thaumic Crossbow",
+    "range": "18\"",
+    "attacks": "3",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Anti- MANIFESTATION (+1 Rend) , Anti- WIZARD (+1 Rend)"
+    ]
+   },
+   {
+    "name": "Spell-banishing Pistol",
+    "range": "10\"",
+    "attacks": "4",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Shoot in Combat"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Consecrated Blade",
+    "range": "",
+    "attacks": "4",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Anti- WIZARD (+1 Rend)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "GUARDIAN AND MENTOR ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit contains 2 models, it has WARD ( 5+ ) ."
+   },
+   {
+    "name": "WEAPONS OF BANISHMENT ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick a visible friendly SIGMARITE unit wholly within 12\" of this unit and under orders to be the target.",
+    "effect": "Until the start of your next turn, while the target is wholly within 12\" of this unit and under orders , add 1 to the Damage characteristic of the target’s weapons for combat attacks that target enemy WIZARDS , PRIESTS and MANIFESTATIONS ."
+   }
+  ],
+  "keywords": [
+   "UNIQUE",
+   "HERO",
+   "INFANTRY",
+   "ORDER",
+   "CITIES OF SIGMAR",
+   "SIGMARITE"
+  ],
+  "unit_size": 2,
+  "points": 140,
+  "base_size": "28.5mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Ironweld Great Cannon , Any SIGMARITE INFANTRY"
+ },
+ {
+  "id": "Jorvan-Kreel-Heir-of-the-Kraken-1",
+  "name": "Jorvan Kreel Heir of the Kraken",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "5",
+  "save": "4+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Ranger Blades",
+    "range": "",
+    "attacks": "6",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "PROWLING ASH PANTHER ",
+    "timing": "Any Combat Phase",
+    "declare": "This unit’s Thexa is a token. If this unit’s Thexa is not on the battlefield, pick an enemy unit in combat with this unit to be the target.",
+    "effect": "Place this unit’s Thexa next to the target, then roll a D3. On a 2+, inflict an amount of mortal damage on the target equal to the roll. If the target is destroyed while this unit’s Thexa is next to it, remove this unit’s Thexa from the battlefield."
+   },
+   {
+    "name": "HARRYING ATTACKS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit’s Thexa is next to an enemy unit, that enemy unit’s attacks cannot score critical hits (treat them as regular hits instead)."
+   },
+   {
+    "name": "FLUID COMBAT STYLE ",
+    "timing": "Reaction: You declared a FIGHT ability for this unit or a non- HERO SIGMARITE INFANTRY unit wholly within 12\" of this unit",
+    "declare": "",
+    "effect": "Immediately after the FIGHT ability used by that unit has been resolved, pick a point on the battlefield within 6\" of this unit and more than 3\" from all units (friendly and enemy) and terrain features . Remove the unit that used the FIGHT ability from the battlefield and set it up again wholly within 6\" of that point and not in combat ."
+   }
+  ],
+  "keywords": [
+   "UNIQUE",
+   "HERO",
+   "INFANTRY",
+   "ORDER",
+   "CITIES OF SIGMAR",
+   "SIGMARITE"
+  ],
+  "unit_size": 1,
+  "points": 120,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Freeguild Veteran , Any SIGMARITE"
+ },
+ {
+  "id": "Mallus-Forgepriest-1",
+  "name": "Mallus Forgepriest",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "5\"",
+  "health": "5",
+  "save": "4+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Meteoric Warhammer",
+    "range": "",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": [
+     "Crit (Auto-wound)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "CONSECRATE THE LAND ",
+    "timing": "Once Per Turn (Army), Your Movement Phase",
+    "declare": "Pick an objective you control that this unit is contesting to be the target.",
+    "effect": "If there are no enemy units contesting the target objective, it is considered by you to be consecrated . Otherwise, roll a dice. On a 3+, the target objective is considered by you to be consecrated . While they are wholly within 6\" of a consecrated objective and under orders : Friendly non- WAR MACHINE SIGMARITE units have WARD ( 5+ ) . Friendly SIGMARITE WAR MACHINES have WARD ( 6+ ) . If your opponent gains control of a consecrated objective, it is no longer consecrated ."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "PRIEST ( 1 )",
+   "INFANTRY",
+   "ORDER",
+   "CITIES OF SIGMAR",
+   "SIGMARITE"
+  ],
+  "unit_size": 1,
+  "points": 130,
+  "base_size": "28.5mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 SIGMARITE WAR MACHINE , Any SIGMARITE INFANTRY"
+ },
+ {
+  "id": "Pontifex-Zenestra-Matriarch-of-the-Great-Wheel",
+  "name": "Pontifex Zenestra Matriarch of the Great Wheel",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "5\"",
+  "health": "9",
+  "save": "5+",
+  "control": "2",
+  "ward": "4+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Sceptre of the Wheel",
+    "range": "",
+    "attacks": "3",
+    "hit": "4+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": []
+   },
+   {
+    "name": "Acolytes’ Club and Axe",
+    "range": "",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "4+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "THE GREAT WHEEL TURNS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Each time a model in a visible friendly SIGMARITE unit wholly within 12\" of this unit is slain by a combat attack and that model was in combat with the attacking unit, make a number of zealotry rolls of D6 equal to that model’s Health characteristic. For each 6+, inflict 1 mortal damage on the attacking unit after the FIGHT ability has been resolved."
+   },
+   {
+    "name": "VESSEL OF SIGMAR ",
+    "timing": "Your Hero Phase",
+    "declare": "Make a chanting roll of D6. If the roll is an unmodified 1, you can re-roll the dice.",
+    "effect": "Pick 1 of the following effects. Pick up to 2 different effects instead if the chanting roll was 10+. Sanctified Ground: Until the start of your next turn, visible enemy units that use a CHARGE ability while they are within 9\" of this unit have STRIKE-LAST for the rest of the turn. Ardent Prayers: Add 1 to zealotry rolls for friendly SIGMARITE units until the start of your next turn. Cast Out Evil: Roll a D3 for each visible enemy WIZARD and PRIEST on the battlefield. On a 2+, inflict an amount of mortal damage on that unit equal to the roll."
+   }
+  ],
+  "keywords": [
+   "UNIQUE",
+   "HERO",
+   "PRIEST ( 2 )",
+   "INFANTRY",
+   "WARD ( 4+ )",
+   "ORDER",
+   "CITIES OF SIGMAR",
+   "SIGMARITE"
+  ],
+  "unit_size": 1,
+  "points": 190,
+  "base_size": "90 × 52mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Freeguild Veteran , Any SIGMARITE"
+ },
+ {
+  "id": "Grombrindal-The-White-Dwarf",
+  "name": "Grombrindal, The White Dwarf",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "4\"",
+  "health": "8",
+  "save": "4+",
+  "control": "2",
+  "ward": "3+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Rune Axe of Grimnir",
+    "range": "",
+    "attacks": "5",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "2",
+    "damage": "3",
+    "abilities": [
+     "Crit (2 Hits)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "ARMOUR OF GLIMRIL SCALES ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "If this unit would be automatically destroyed, it is not automatically destroyed. Instead, allocate D3 damage points to it ( ward rolls cannot be made for those damage points)."
+   },
+   {
+    "name": "RUNE AXE OF GRIMNIR ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "The Attacks characteristic of this unit’s Rune Axe of Grimnir is 7 if this unit charged this turn."
+   },
+   {
+    "name": "AS STERN AS STONE ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Friendly DUARDIN INFANTRY units have WARD ( 5+ ) while they are wholly within 12\" of this unit."
+   },
+   {
+    "name": "LIVING LEGEND ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Add 2 to the control scores of friendly DUARDIN INFANTRY units while they are wholly within 12\" of this unit."
+   }
+  ],
+  "keywords": [
+   "UNIQUE",
+   "HERO",
+   "INFANTRY",
+   "WARD ( 3+ )",
+   "ORDER",
+   "DUARDIN"
+  ],
+  "unit_size": 1,
+  "points": 360,
+  "base_size": "40mm",
+  "can_be_reinforced": false,
+  "regiment_options": "Any ORDER DUARDIN units Notes: Legends Warscroll"
+ },
+ {
+  "id": "Assassin",
+  "name": "Assassin",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "5",
+  "save": "5+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Poison-coated Blades",
+    "range": "",
+    "attacks": "6",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Anti- HERO (+1 Rend) , Crit (Mortal)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "IN FOR THE KILL ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "",
+    "effect": "This unit has STRIKE-FIRST if it charged in the same turn."
+   },
+   {
+    "name": "HIDDEN MURDERER ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit is within the combat range of a friendly INFANTRY unit that has 5 or more models and there are no enemy units within this unit’s combat range, this unit is not visible to enemy units."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "INFANTRY",
+   "ORDER",
+   "CITIES OF SIGMAR",
+   "AELF"
+  ],
+  "unit_size": 1,
+  "points": 150,
+  "base_size": "25mm",
+  "can_be_reinforced": false,
+  "regiment_options": "Any AELF INFANTRY Notes: This unit will move to Warhammer Legends on 1 June 2027."
+ },
+ {
+  "id": "Battlemage",
+  "name": "Battlemage",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "5\"",
+  "health": "5",
+  "save": "6+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Wizard’s Staff",
+    "range": "",
+    "attacks": "3",
+    "hit": "4+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "PROTECTIVE FOCUS ",
+    "timing": "Once Per Battle (Army), Deployment Phase",
+    "declare": "",
+    "effect": "Pick a SPELL ability that this unit can use. For the rest of the battle, no mortal damage is inflicted on this unit if it miscasts that spell."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "WIZARD ( 1 )",
+   "INFANTRY",
+   "ORDER",
+   "CITIES OF SIGMAR",
+   "SIGMARITE"
+  ],
+  "unit_size": 1,
+  "points": 100,
+  "base_size": "25mm",
+  "can_be_reinforced": false,
+  "regiment_options": "Any SIGMARITE INFANTRY Notes: This unit will move to Warhammer Legends on 1 June 2027."
+ },
+ {
+  "id": "Black-Ark-Fleetmaster",
+  "name": "Black Ark Fleetmaster",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "5",
+  "save": "4+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Wicked Cutlass and Murder Hook",
+    "range": "",
+    "attacks": "5",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Crit (Mortal)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "’AT THEM, YOU CURS!’ ",
+    "timing": "Reaction: You declared a FIGHT ability for this unit",
+    "declare": "",
+    "effect": "Pick a friendly Black Ark Corsairs unit that has not used a FIGHT ability this turn and is within this unit’s combat range to be the target. The target can be picked to use a FIGHT ability immediately after the FIGHT ability used by this unit has been resolved. If it is picked to do so, add 1 to the Attacks characteristic of the target’s melee weapons for the rest of the turn."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "INFANTRY",
+   "ORDER",
+   "CITIES OF SIGMAR",
+   "AELF"
+  ],
+  "unit_size": 1,
+  "points": 90,
+  "base_size": "25mm",
+  "can_be_reinforced": false,
+  "regiment_options": "Any AELF Notes: This Hero can join a Dreadlord on Black Dragon ’s, Sorceress ’ or Sorceress on Black Dragon ’s regiment . This unit will move to Warhammer Legends on 1 June 2027."
+ },
+ {
+  "id": "Bren-Tylis-the-Renegade-Saint",
+  "name": "Bren Tylis The Renegade Saint",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "5\"",
+  "health": "5",
+  "save": "3+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Hand-and-a-half Sword",
+    "range": "",
+    "attacks": "5",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "2",
+    "damage": "2",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "YONDARA’S GUIDANCE ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "The first time this unit would be destroyed, before removing it from the battlefield, roll a dice. On a 3+, this unit is not destroyed and any remaining damage points inflicted on it have no effect. Then, Heal (5) this unit."
+   },
+   {
+    "name": "WELL TRAVELLED ",
+    "timing": "Once Per Battle, Deployment Phase",
+    "declare": "",
+    "effect": "Remove this unit from the battlefield and set it up again on the battlefield more than 3\" from all enemy units."
+   }
+  ],
+  "keywords": [
+   "UNIQUE",
+   "HERO",
+   "INFANTRY",
+   "ORDER",
+   "CITIES OF SIGMAR",
+   "SIGMARITE"
+  ],
+  "unit_size": null,
+  "points": null,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Cogsmith",
+  "name": "Cogsmith",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "4\"",
+  "health": "5",
+  "save": "3+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Cogsmith’s Firearms",
+    "range": "15\"",
+    "attacks": "4",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": []
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Gun Butt and Cog Axe",
+    "range": "",
+    "attacks": "3",
+    "hit": "4+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "DIRECT THE GYROCORPS ",
+    "timing": "Once Per Turn (Army), Your Hero Phase",
+    "declare": "Pick up to 3 visible friendly Gyrocopter or Gyrobomber units wholly within 18\" of this unit to be the targets.",
+    "effect": "Roll a dice for each target. On a 3+, until the start of your next turn: Add 1 to hit rolls for the target’s attacks. Add 2\" to the target’s Move characteristic."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "INFANTRY",
+   "ORDER",
+   "CITIES OF SIGMAR",
+   "DUARDIN"
+  ],
+  "unit_size": 1,
+  "points": 110,
+  "base_size": "25mm",
+  "can_be_reinforced": false,
+  "regiment_options": "Any DUARDIN Notes: This Hero can join a Warden King ’s regiment . This unit will move to Warhammer Legends on 1 June 2027."
+ },
+ {
+  "id": "Drasher-Vorn-the-Rampaging-Beast",
+  "name": "Drasher Vorn The Rampaging Beast",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "6",
+  "save": "5+",
+  "control": "2",
+  "ward": "6+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Feral Claws",
+    "range": "",
+    "attacks": "6",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "2",
+    "abilities": [
+     "Crit (2 Hits)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "EBON CLAW ",
+    "timing": "Any Hero Phase",
+    "declare": "",
+    "effect": "Allocate D3 damage points to this unit ( ward rolls cannot be made for those damage points). Then, add the number of damage points allocated to this unit by this ability this turn to the Attacks characteristic of this unit’s melee weapons for the rest of the turn."
+   },
+   {
+    "name": "FURY OF THE WILDLANDS ",
+    "timing": "End of Any Turn",
+    "declare": "You must use this ability.",
+    "effect": "If any enemy models have been slain by this unit’s combat attacks this turn, until the end of the next turn: This unit cannot use RETREAT abilities. Add 1 to hit rolls for this unit’s combat attacks."
+   }
+  ],
+  "keywords": [
+   "UNIQUE",
+   "HERO",
+   "INFANTRY",
+   "WARD ( 6+ )",
+   "ORDER",
+   "CITIES OF SIGMAR",
+   "SIGMARITE"
+  ],
+  "unit_size": null,
+  "points": null,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Drolf-Ironhead-the-Grizzled-Explorer",
+  "name": "Drolf Ironhead The Grizzled Explorer",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "4\"",
+  "health": "5",
+  "save": "4+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Snaplock Crossbow",
+    "range": "10\"",
+    "attacks": "3",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": []
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Runic Axes",
+    "range": "",
+    "attacks": "5",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "RUNIC AXES ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit is in combat with 2 or more enemy units, this unit’s Runic Axes have Crit (2 Hits) ."
+   },
+   {
+    "name": "EXPERT RANGER ",
+    "timing": "Your Movement Phase",
+    "declare": "If this unit is not in combat , pick a non- FACTION TERRAIN terrain feature within 3\" of this unit to be the target.",
+    "effect": "Remove this unit from the battlefield and set it up again within 3\" of the target and not in combat."
+   }
+  ],
+  "keywords": [
+   "UNIQUE",
+   "HERO",
+   "INFANTRY",
+   "ORDER",
+   "CITIES OF SIGMAR",
+   "DUARDIN"
+  ],
+  "unit_size": null,
+  "points": null,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Edmark-Valoran-the-Manticore-Knight",
+  "name": "Edmark Valoran The Manticore Knight",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "5\"",
+  "health": "5",
+  "save": "3+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Knightly Battleaxe",
+    "range": "",
+    "attacks": "5",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "SHIELD OF THE MANTICORE ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Subtract 1 from the Rend characteristic of weapons used for attacks that target friendly INFANTRY HEROES while those friendly units are within 3\" of this unit."
+   },
+   {
+    "name": "EMBERSTONE-RIDDLED FLESH ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Each time you make an unmodified save roll of 1 for a combat attack that targets this unit, inflict 1 mortal damage on the attacking unit after that FIGHT ability has been resolved."
+   }
+  ],
+  "keywords": [
+   "UNIQUE",
+   "HERO",
+   "INFANTRY",
+   "ORDER",
+   "CITIES OF SIGMAR",
+   "SIGMARITE"
+  ],
+  "unit_size": null,
+  "points": null,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Inara-Sion-the-Cleansing-Blade",
+  "name": "Inara Sion The Cleansing Blade",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "5",
+  "save": "5+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Purified Water Blast",
+    "range": "10\"",
+    "attacks": "3",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": [
+     "Crit (Auto-wound)"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Blade of Flowing Waters",
+    "range": "",
+    "attacks": "3",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": [
+     "Crit (Auto-wound)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "BARRIER OF WATER ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick a visible enemy unit within 12\" of this unit to be the target. Then, make a casting roll of 2D6.",
+    "effect": "Until the start of your next turn, each time the target is picked to use a MOVE ability, roll a dice as a reaction. On a 3+, the target cannot end that move closer to this unit."
+   },
+   {
+    "name": "SACRED AMPHORA ",
+    "timing": "Once Per Battle, Any Hero Phase",
+    "declare": "Pick a visible friendly unit within 3\" of this unit to be the target.",
+    "effect": "Heal (2D3) the target."
+   }
+  ],
+  "keywords": [
+   "UNIQUE",
+   "HERO",
+   "WIZARD ( 1 )",
+   "INFANTRY",
+   "ORDER",
+   "CITIES OF SIGMAR",
+   "SIGMARITE"
+  ],
+  "unit_size": null,
+  "points": null,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Jacobus-Vyne-the-Jade-Wizard",
+  "name": "Jacobus Vyne The Jade Wizard",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "5\"",
+  "health": "5",
+  "save": "6+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Vineroot Staff",
+    "range": "9\"",
+    "attacks": "2",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "2",
+    "damage": "3",
+    "abilities": [
+     "Anti- FACTION TERRAIN (+1 Rend)"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Enchanted Sickle",
+    "range": "",
+    "attacks": "3",
+    "hit": "4+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "VERDANT GROWTH ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick an objective or visible non- FACTION TERRAIN terrain feature within 12\" of this unit to be the target. Then, make a casting roll of 2D6.",
+    "effect": "For the rest of the battle, subtract 1 from hit rolls for shooting attacks that target friendly INFANTRY or CAVALRY units while they are wholly within 3\" of the target."
+   },
+   {
+    "name": "SUMMON WISPER ",
+    "timing": "Your Movement Phase",
+    "declare": "",
+    "effect": "If there is not a friendly Wisper on the battlefield, set up a friendly Wisper wholly within 12\" of this unit, visible to it and more than 9\" from all enemy units. This unit has summoned that MANIFESTATION ."
+   }
+  ],
+  "keywords": [
+   "UNIQUE",
+   "HERO",
+   "WIZARD ( 1 )",
+   "INFANTRY",
+   "ORDER",
+   "CITIES OF SIGMAR",
+   "SIGMARITE"
+  ],
+  "unit_size": null,
+  "points": null,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Runelord",
+  "name": "Runelord",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "4\"",
+  "health": "5",
+  "save": "3+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Rune Staff and Forgehammer",
+    "range": "",
+    "attacks": "3",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "RUNES OF SPELLBREAKING ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "This unit can use the ‘ Unbind ’ ability as if it had WIZARD ( 1 ) ."
+   },
+   {
+    "name": "FORGEFIRE ",
+    "timing": "Once Per Turn (Army), Your Hero Phase",
+    "declare": "Pick a friendly CITIES OF SIGMAR DUARDIN unit wholly within 12\" of this unit to be the target, then make a chanting roll of D6.",
+    "effect": "If the chanting roll was 10+, you can pick another eligible unit to be a second target. Until the start of your next turn, add 1 to the Rend characteristic of each target’s melee weapons."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "PRIEST ( 1 )",
+   "INFANTRY",
+   "ORDER",
+   "CITIES OF SIGMAR",
+   "DUARDIN"
+  ],
+  "unit_size": 1,
+  "points": 130,
+  "base_size": "25mm",
+  "can_be_reinforced": false,
+  "regiment_options": "Any DUARDIN Notes: This unit will move to Warhammer Legends on 1 June 2027."
+ },
+ {
+  "id": "Scourge-of-Aqshy-Alchemite-Warforger",
+  "name": "Scourge of Aqshy Alchemite Warforger",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "5\"",
+  "health": "5",
+  "save": "5+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Tongstaff",
+    "range": "",
+    "attacks": "3",
+    "hit": "4+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "CRUCIBLE OF RAGE ",
+    "timing": "Once Per Turn (Army), Your Hero Phase",
+    "declare": "",
+    "effect": "You can spend 1 rage dice . If you do: Apply the effect below. If your opponent’s fury level is lower than yours, they must increase their fury level by 1, to a maximum of 7. Otherwise, roll a dice. On a 3+, apply the effect below. Until the start of your next turn, add 1 to casting rolls for friendly CITIES OF SIGMAR units while they are wholly within 6\" of this unit."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "WIZARD ( 1 )",
+   "INFANTRY",
+   "ORDER",
+   "CITIES OF SIGMAR",
+   "SIGMARITE"
+  ],
+  "unit_size": 1,
+  "points": 100,
+  "base_size": "32mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 SIGMARITE WAR MACHINE , Any SIGMARITE INFANTRY Notes: This unit is legal for Matched Play for battles fought using the General’s Handbook 2026-27 battlepack."
+ },
+ {
+  "id": "Scourge-of-Aqshy-Pontifex-Zenestra-Matriarch-of-the-Great-Wheel",
+  "name": "Scourge of Aqshy Pontifex Zenestra Matriarch of the Great Wheel",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "5\"",
+  "health": "9",
+  "save": "5+",
+  "control": "2",
+  "ward": "4+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Sceptre of the Wheel",
+    "range": "",
+    "attacks": "3",
+    "hit": "4+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": []
+   },
+   {
+    "name": "Acolytes’ Club and Axe",
+    "range": "",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "4+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "UNQUENCHABLE FAITH ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "If this unit would be destroyed, before removing it from play, this unit can immediately use the ‘Sigmar’s Blessing’ ability below as if it were your hero phase. If it does so: That prayer does not count towards the number of PRAYER abilities this unit can use this phase. Instead of making a chanting roll for that prayer, you must use a value of 10 for the roll that cannot be modified. The effect of that prayer applies for the rest of the battle instead of until the start of your next turn."
+   },
+   {
+    "name": "SIGMAR’S BLESSING ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick a visible friendly SIGMARITE unit wholly within 12\" of this unit to be the target, then make a chanting roll of D6.",
+    "effect": "Until the start of your next turn: The target’s melee weapons have Charge (+1 Damage) . If the chanting roll was 10+, the target has WARD ( 5+ ) if it charged in the same turn."
+   }
+  ],
+  "keywords": [
+   "UNIQUE",
+   "HERO",
+   "PRIEST ( 2 )",
+   "INFANTRY",
+   "WARD ( 4+ )",
+   "ORDER",
+   "CITIES OF SIGMAR",
+   "SIGMARITE"
+  ],
+  "unit_size": 1,
+  "points": 160,
+  "base_size": "90 × 52mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Freeguild Veteran , Any SIGMARITE Notes: This unit is legal for Matched Play for battles fought using the General’s Handbook 2026-27 battlepack."
+ },
+ {
+  "id": "Scourge-of-Ghyran-Pontifex-Zenestra",
+  "name": "Scourge of Ghyran Pontifex Zenestra Matriarch of the Great Wheel",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "5\"",
+  "health": "9",
+  "save": "5+",
+  "control": "2",
+  "ward": "4+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Sceptre of the Wheel and Acolytes’ Weapons",
+    "range": "",
+    "attacks": "5",
+    "hit": "4+",
+    "wound": "4+",
+    "rend": "-",
+    "damage": "D3",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "WORD OF THE GOD-KING ",
+    "timing": "Once Per Turn (Army), Your Hero Phase",
+    "declare": "Pick a visible enemy WIZARD , PRIEST or MANIFESTATION within 18\" of this unit to be the target.",
+    "effect": "Roll a dice. On a 3+: If the target is a MANIFESTATION , it is banished and removed from the battlefield. If the target is a WIZARD or PRIEST , inflict an amount of mortal damage on it equal to the roll."
+   },
+   {
+    "name": "SIGMAR’S WILL ",
+    "timing": "Your Hero Phase",
+    "declare": "Make a chanting roll of D6. If the roll is an unmodified 1, you can re-roll the dice.",
+    "effect": "Pick 1 of the following effects. Pick up to 2 different effects instead if the chanting roll was 10+. Hallowed Ground: Until the start of your next turn, enemy units using the ‘ Normal Move ’ ability cannot end that move within 5\" of a friendly CITIES OF SIGMAR HUMAN unit while it is wholly within 12\" of this unit. Fervent Prayers: Until the start of your next turn, each time a friendly CITIES OF SIGMAR HUMAN model is slain by a combat attack while it is wholly within 12\" of this unit and that model was in combat with the attacking unit, roll a dice. On a 6, inict 1 mortal damage on the attacking unit aer the FIGHT ability has been resolved. Salvation: Pick 1 friendly CITIES OF SIGMAR HUMAN unit that is more than 12\" from this unit and not in combat to be the target. Remove the target from the battleeld and set it up again wholly within 12\" of this unit and more than 9\" from all enemy units. at unit cannot use CHARGE abilities for the rest of the turn."
+   }
+  ],
+  "keywords": [
+   "UNIQUE",
+   "HERO",
+   "PRIEST ( 2 )",
+   "INFANTRY",
+   "WARD ( 4+ )",
+   "ORDER",
+   "CITIES OF SIGMAR",
+   "HUMAN"
+  ],
+  "unit_size": 1,
+  "points": 260,
+  "base_size": "90 × 52mm",
+  "can_be_reinforced": false,
+  "regiment_options": "Any HUMAN , 0-1 Freeguild Veteran Notes: This unit is legal for Matched Play for battles fought using the General’s Handbook 2025-26 battlepack."
+ },
+ {
+  "id": "Sorceress",
+  "name": "Sorceress",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "5",
+  "save": "6+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Witchstaff",
+    "range": "",
+    "attacks": "1",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "CRUEL SACRIFICE ",
+    "timing": "Once Per Turn (Army), Your Hero Phase",
+    "declare": "Pick a friendly CITIES OF SIGMAR AELF unit wholly within 6\" of this unit to be the target.",
+    "effect": "Add 1 to casting rolls for this unit for the rest of the turn. Then, roll a dice. On a 4+, 1 model in the target unit is slain."
+   },
+   {
+    "name": "WORD OF PAIN ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "Pick an enemy unit in combat with this unit to be the target.",
+    "effect": "Roll a dice. On a 3+, subtract 1 from hit rolls and wound rolls for the target’s attacks until the start of your next turn."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "WIZARD ( 1 )",
+   "INFANTRY",
+   "ORDER",
+   "CITIES OF SIGMAR",
+   "AELF"
+  ],
+  "unit_size": 1,
+  "points": 130,
+  "base_size": "25mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Black Ark Fleetmaster , Any AELF Notes: This unit will move to Warhammer Legends on 1 June 2027."
+ },
+ {
+  "id": "Warden-King",
+  "name": "Warden King",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "4\"",
+  "health": "5",
+  "save": "3+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Runic Hammer",
+    "range": "",
+    "attacks": "5",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "2",
+    "damage": "2",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "ANCESTRAL GRUDGEBEARER ",
+    "timing": "Once Per Battle (Army), Deployment Phase",
+    "declare": "Pick an enemy unit in your opponent’s army to bear a grudge against. You can pick an enemy unit that is in reserve .",
+    "effect": "For the rest of the battle, add 1 to wound rolls for combat attacks made by friendly CITIES OF SIGMAR DUARDIN units that target that unit."
+   },
+   {
+    "name": "FEARLESS LEADER ",
+    "timing": "Reaction: You declared a FIGHT ability for this unit",
+    "declare": "",
+    "effect": "Pick a friendly non- HERO CITIES OF SIGMAR DUARDIN unit that has not used a FIGHT ability this turn and is within this unit’s combat range to be the target. The target can be picked to use a FIGHT ability immediately after the FIGHT ability used by this unit has been resolved."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "INFANTRY",
+   "ORDER",
+   "CITIES OF SIGMAR",
+   "DUARDIN"
+  ],
+  "unit_size": 1,
+  "points": 120,
+  "base_size": "25mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Cogsmith , Any DUARDIN Notes: This unit will move to Warhammer Legends on 1 June 2027."
+ },
+ {
+  "id": "Tahlia-Vedra-Lioness-of-the-Parch",
+  "name": "Tahlia Vedra Lioness of the Parch",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "12\"",
+  "health": "15",
+  "save": "3+",
+  "control": "5",
+  "ward": "6+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Weapon of Office",
+    "range": "",
+    "attacks": "6",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": []
+   },
+   {
+    "name": "Infernadine’s Leonine Jaws",
+    "range": "",
+    "attacks": "3",
+    "hit": "3+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "3",
+    "abilities": [
+     "Anti- MONSTER (+1 Rend) , Companion"
+    ]
+   },
+   {
+    "name": "Infernadine’s Scorpid Stinger",
+    "range": "",
+    "attacks": "2",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "D3+3",
+    "abilities": [
+     "Crit (Mortal) , Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "BATTLE DAMAGED",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit has 10 or more damage points, the Attacks characteristic of Infernadine’s Leonine Jaws is 2."
+   },
+   {
+    "name": "LEAD FROM THE FRONT ",
+    "timing": "Once Per Battle, Any Combat Phase",
+    "declare": "If this unit is in combat , pick each visible friendly SIGMARITE unit wholly within 12\" of it to be the targets.",
+    "effect": "Add 1 to hit rolls and wound rolls for the targets’ combat attacks for the rest of the turn."
+   },
+   {
+    "name": "PARALYSING VENOM ",
+    "timing": "Any Combat Phase",
+    "declare": "Pick an enemy unit in combat with this unit to be the target.",
+    "effect": "Roll a dice. If the roll is equal to or less than the target’s Health characteristic, subtract 1 from wound rolls for the target’s attacks for the rest of the turn."
+   },
+   {
+    "name": "COMBAT TACTICIAN ",
+    "timing": "Enemy Hero Phase",
+    "declare": "If this unit is not in combat , pick a visible friendly SIGMARITE INFANTRY unit wholly within 18\" of it and that is not in combat to be the target.",
+    "effect": "The target can immediately use the ‘ Normal Move ’ ability as if it were your movement phase. In addition, the target is under orders for the rest of the battle round."
+   }
+  ],
+  "keywords": [
+   "WARMASTER",
+   "UNIQUE",
+   "HERO",
+   "MONSTER",
+   "FLY",
+   "WARD ( 6+ )",
+   "ORDER",
+   "CITIES OF SIGMAR",
+   "SIGMARITE"
+  ],
+  "unit_size": 1,
+  "points": 340,
+  "base_size": "100mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Freeguild Veteran , Any SIGMARITE"
+ },
+ {
+  "id": "Battlemage-on-Griffon",
+  "name": "Battlemage on Griffon",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "12\"",
+  "health": "15",
+  "save": "4+",
+  "control": "5",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Amber Spear",
+    "range": "12\"",
+    "attacks": "3",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": [
+     "Anti- MONSTER (+1 Rend)"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Beaststaff",
+    "range": "",
+    "attacks": "3",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": []
+   },
+   {
+    "name": "Griffon’s Razor Claws and Twin Beaks",
+    "range": "",
+    "attacks": "6",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "3",
+    "abilities": [
+     "Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "BATTLE DAMAGED",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit has 10 or more damage points, the Attacks characteristic of its Griffon’s Razor Claws and Twin Beaks is 4."
+   },
+   {
+    "name": "GHURISH FEROCITY ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "",
+    "effect": "Roll a dice. On a 2+, add 1 to the Damage characteristic of this unit’s Griffon’s Razor Claws and Twin Beaks for attacks that target enemy MONSTERS for the rest of the turn."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "MONSTER",
+   "WIZARD ( 1 )",
+   "FLY",
+   "ORDER",
+   "CITIES OF SIGMAR",
+   "SIGMARITE"
+  ],
+  "unit_size": 1,
+  "points": 260,
+  "base_size": "120 × 92mm",
+  "can_be_reinforced": false,
+  "regiment_options": "Any SIGMARITE INFANTRY , Any SIGMARITE CAVALRY Notes: This unit will move to Warhammer Legends on 1 June 2027. 120 x 92mm"
+ },
+ {
+  "id": "Dreadlord-on-Black-Dragon",
+  "name": "Dreadlord on Black Dragon",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "12\"",
+  "health": "14",
+  "save": "4+",
+  "control": "5",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Black Dragon’s Noxious Breath",
+    "range": "10\"",
+    "attacks": "2D6",
+    "hit": "2+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Shoot in Combat , Companion"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Dreadlord’s Weapons",
+    "range": "",
+    "attacks": "5",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Charge (+1 Damage)"
+    ]
+   },
+   {
+    "name": "Black Dragon’s Claws",
+    "range": "",
+    "attacks": "7",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Companion"
+    ]
+   },
+   {
+    "name": "Black Dragon’s Jaws",
+    "range": "",
+    "attacks": "3",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "3",
+    "abilities": [
+     "Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "BATTLE DAMAGED",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit has 10 or more damage points, the Attacks characteristic of its Black Dragon’s Jaws Claws is 4."
+   },
+   {
+    "name": "UNDER THE SHADOW OF BLACK WINGS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Add 1 to charge rolls for friendly CITIES OF SIGMAR AELF CAVALRY units while they are wholly within 12\" of this unit."
+   },
+   {
+    "name": "INDISCRIMINATE SLAUGHTER ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "Pick each other unit (friendly and enemy) within this unit’s combat range to be the targets.",
+    "effect": "Roll a D3 for each target. On a 2+, inflict an amount of mortal damage on the target equal to the roll."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "MONSTER",
+   "FLY",
+   "ORDER",
+   "CITIES OF SIGMAR",
+   "AELF"
+  ],
+  "unit_size": 1,
+  "points": 260,
+  "base_size": "105 × 70mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Black Ark Fleetmaster , Any AELF Notes: This unit will move to Warhammer Legends on 1 June 2027. 105 x 70mm"
+ },
+ {
+  "id": "Freeguild-Marshal-on-Griffon",
+  "name": "Freeguild Marshal on Griffon",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "12\"",
+  "health": "15",
+  "save": "4+",
+  "control": "5",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Marshal’s Armaments",
+    "range": "",
+    "attacks": "5",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Charge (+1 Damage)"
+    ]
+   },
+   {
+    "name": "Griffon’s Razor Claws and Deadly Beak",
+    "range": "",
+    "attacks": "6",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "3",
+    "abilities": [
+     "Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "BATTLE DAMAGED",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit has 10 or more damage points, the Attacks characteristic of its Griffon’s Razor Claws and Deadly Beak is 4."
+   },
+   {
+    "name": "PIERCING BLOODROAR ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "Pick up to 3 enemy units in combat with this unit to be the targets.",
+    "effect": "Roll a dice for each target. On a 4+, the target cannot use commands for the rest of the turn."
+   },
+   {
+    "name": "TACTICAL ACUMEN ",
+    "timing": "Reaction: You declared the ‘ Redeploy ’ command for a friendly CITIES OF SIGMAR unit wholly within 12\" of this unit",
+    "declare": "",
+    "effect": "If you roll a 1-3 when determining the distance that unit can move, you can use a value of 4 instead."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "MONSTER",
+   "FLY",
+   "ORDER",
+   "CITIES OF SIGMAR",
+   "SIGMARITE"
+  ],
+  "unit_size": 1,
+  "points": 230,
+  "base_size": "120 × 92mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Freeguild Veteran , Any SIGMARITE Notes: This unit will move to Warhammer Legends on 1 June 2027. 120 x 92mm"
+ },
+ {
+  "id": "Sorceress-on-Black-Dragon",
+  "name": "Sorceress on Black Dragon",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "12\"",
+  "health": "14",
+  "save": "4+",
+  "control": "5",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Black Dragon’s Noxious Breath",
+    "range": "10\"",
+    "attacks": "2D6",
+    "hit": "2+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Shoot in Combat , Companion"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Cruel Weapons",
+    "range": "",
+    "attacks": "3",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": []
+   },
+   {
+    "name": "Black Dragon’s Claws",
+    "range": "",
+    "attacks": "7",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Companion"
+    ]
+   },
+   {
+    "name": "Black Dragon’s Jaws",
+    "range": "",
+    "attacks": "3",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "3",
+    "abilities": [
+     "Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "BATTLE DAMAGED",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit has 10 or more damage points, the Attacks characteristic of its Black Dragon’s Claws is 4."
+   },
+   {
+    "name": "DARK SORCERY ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Add 1 to casting rolls for this unit for each dark sorcery token it has."
+   },
+   {
+    "name": "FEED ON LIFE FORCE ",
+    "timing": "Once Per Turn (Army), End of Any Turn",
+    "declare": "Pick an enemy unit in combat with this unit to be the target.",
+    "effect": "Roll a D3. On a 2+, inflict an amount of mortal damage on the target equal to the roll. If any enemy models are slain by this ability, place a dark sorcery token next to this unit for the rest of the battle, to a maximum of 3 tokens ."
+   },
+   {
+    "name": "COMMAND UNDERLINGS ",
+    "timing": "Once Per Turn (Army), Your Hero Phase",
+    "declare": "Pick up to 3 friendly CITIES OF SIGMAR AELF INFANTRY units wholly within 12\" of this unit to be targets.",
+    "effect": "Add 3\" to the Move characteristic of each target for the rest of the turn."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "MONSTER",
+   "WIZARD ( 1 )",
+   "FLY",
+   "ORDER",
+   "CITIES OF SIGMAR",
+   "AELF"
+  ],
+  "unit_size": 1,
+  "points": 280,
+  "base_size": "105 × 70mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Black Ark Fleetmaster , Any AELF Notes: This unit will move to Warhammer Legends on 1 June 2027."
+ },
+ {
+  "id": "Cannonade-Cogfort",
+  "name": "Cannonade Cogfort",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "25",
+  "save": "3+",
+  "control": "10",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Godbreaker Cannon",
+    "range": "24\"",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "4",
+    "abilities": []
+   },
+   {
+    "name": "Breacher Cannon",
+    "range": "12\"",
+    "attacks": "6",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Anti- INFANTRY (+1 Rend)"
+    ]
+   },
+   {
+    "name": "Crew’s Leadshotters",
+    "range": "12\"",
+    "attacks": "6",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": [
+     "Shoot in Combat"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Crushing Iron Feet",
+    "range": "",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "4",
+    "abilities": [
+     "Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "BATTLE DAMAGED",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit has 10 or more damage points: The Attacks characteristic of its Crushing Iron Feet is 3. It has a Control characteristic of 5."
+   },
+   {
+    "name": "FULL POWER! ",
+    "timing": "Once Per Turn (Army), Any Hero Phase",
+    "declare": "",
+    "effect": "Pick 1 or more of the following effects. For each effect you pick, give this unit a number of heat tokens equal to the number beside it. 1 Launch Countermeasures!: Until the start of your next turn, subtract 1 from hit rolls for shooting attacks that target other friendly SIGMARITE units while they are wholly within 12\" of this unit and are under orders. 2 Full Throttle!: For the rest of the turn, this unit’s Move characteristic is 10\". 3 Calculate Firing Solution!: For the rest of the turn, each time this unit uses a SHOOT ability, you can re-roll 1 hit roll and 1 wound roll for shooting attacks made with this unit’s Godbreaker Cannon . 6 Get Us Out of Here! : For the rest of the turn, this unit can use SHOOT abilities even if it used a RETREAT ability in the same turn."
+   },
+   {
+    "name": "OVERHEATING ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Immediately after resolving this unit’s ‘Full Power!’ ability, you must roll a number of dice equal to the number of heat tokens this unit has. For each 5+, allocate 1 damage point to this unit ( ward rolls cannot be made for those damage points), then remove 1 of this unit’s heat tokens ."
+   },
+   {
+    "name": "SPECIAL AMMUNITION ",
+    "timing": "Once Per Turn (Army), Reaction: You declared a SHOOT ability for this unit",
+    "declare": "",
+    "effect": "If this unit is under orders , roll a dice. On a 3+, pick 1 of the following effects. Nullshot: Subtract 1 from ward rolls for damage points inflicted by attacks made with this unit’s Godbreaker Cannon this phase. Heavy Shot: Add 1 to the Rend characteristic of this unit’s Godbreaker Cannon this phase. Grapeshot: After that SHOOT ability has been resolved, if all of the attacks made with this unit’s Godbreaker Cannon targeted the same enemy unit, inflict D3 mortal damage on each other enemy unit within that enemy unit’s combat range ."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "WAR MACHINE",
+   "ORDER",
+   "CITIES OF SIGMAR",
+   "SIGMARITE"
+  ],
+  "unit_size": 1,
+  "points": 530,
+  "base_size": "160mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Freeguild Veteran , Any SIGMARITE , Any ALLIES OF THE FREE CITIES"
+ },
+ {
+  "id": "Conqueror-Cogfort",
+  "name": "Conqueror Cogfort",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "25",
+  "save": "3+",
+  "control": "10",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Realmscorcher Flame Cannon",
+    "range": "18\"",
+    "attacks": "6D6",
+    "hit": "2+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Anti- INFANTRY (+1 Rend)"
+    ]
+   },
+   {
+    "name": "Crew’s Leadshotters",
+    "range": "12\"",
+    "attacks": "6",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": [
+     "Shoot in Combat"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Crushing Iron Feet",
+    "range": "",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "4",
+    "abilities": [
+     "Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "BATTLE DAMAGED",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit has 10 or more damage points: The Attacks characteristic of its Crushing Iron Feet is 3. It has a Control characteristic of 5."
+   },
+   {
+    "name": "ALL ABOARD! ",
+    "timing": "Deployment Phase",
+    "declare": "Pick up to 1 friendly SIGMARITE INFANTRY HERO and up to 1 friendly non- HERO SIGMARITE INFANTRY unit that have not been deployed.",
+    "effect": "Set up those units in reserve as this unit’s passengers . They have now been deployed."
+   },
+   {
+    "name": "OVERHEATING ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Immediately after resolving this unit’s ‘Full Charge!’ ability, you must roll a number of dice equal to the number of heat tokens this unit has. For each 5+, allocate 1 damage point to this unit ( ward rolls cannot be made for those damage points), then remove 1 of this unit’s heat tokens ."
+   },
+   {
+    "name": "FULL CHARGE! ",
+    "timing": "Once Per Turn (Army), Any Hero Phase",
+    "declare": "",
+    "effect": "Pick 1 or more of the following effects. For each effect you pick, give this unit a number of heat tokens equal to the number beside it. 1 Breaching Assist!: If this unit uses the ‘Sally Forth’ ability this turn, melee weapons used by the targets of that ability have Charge (+1 Damage) for the rest of the turn. 2 Full Throttle!: For the rest of the turn, this unit’s Move characteristic is 10\". 3 Repel Boarders!: For the rest of the turn, add 2 to the Attacks characteristic of this unit’s Crew’s Leadshotters and Crushing Iron Feet . 4 Disengage Safeties!: For the rest of the turn, the Attacks characteristic of this unit’s Realmscorcher Flame Cannon is 22. 6 Get Us Out of Here!: For the rest of the turn, this unit can use SHOOT abilities even if it used a RETREAT ability in the same turn."
+   },
+   {
+    "name": "SALLY FORTH ",
+    "timing": "Once Per Battle, Any Charge Phase",
+    "declare": "If this unit has not used a RUN ability this turn, pick this unit’s passengers to be the targets.",
+    "effect": "Set up each target wholly within 6\" of this unit and either not in combat or within ½\" of an enemy unit. If a target is set up in combat, it has charged . Then, if this unit is not under orders , this unit and the targets are under orders for the rest of the battle round."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "WAR MACHINE",
+   "ORDER",
+   "CITIES OF SIGMAR",
+   "SIGMARITE"
+  ],
+  "unit_size": 1,
+  "points": 440,
+  "base_size": "160mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Freeguild Veteran , Any SIGMARITE , Any ALLIES OF THE FREE CITIES"
+ },
+ {
+  "id": "Immolator-Cogfort",
+  "name": "Immolator Cogfort The Iron March",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "25",
+  "save": "3+",
+  "control": "10",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Realmscorcher Flame Cannon",
+    "range": "18\"",
+    "attacks": "6D6",
+    "hit": "2+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Anti- INFANTRY (+1 Rend)"
+    ]
+   },
+   {
+    "name": "Breacher Cannon",
+    "range": "12\"",
+    "attacks": "6",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Anti- INFANTRY (+1 Rend)"
+    ]
+   },
+   {
+    "name": "Crew’s Leadshotters",
+    "range": "12\"",
+    "attacks": "6",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": [
+     "Shoot in Combat"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Crushing Iron Feet",
+    "range": "",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "4",
+    "abilities": [
+     "Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "BATTLE DAMAGED",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit has 10 or more damage points: The Attacks characteristic of its Crushing Iron Feet is 3. It has a Control characteristic of 5."
+   },
+   {
+    "name": "POWER TO MAXIMUM! ",
+    "timing": "Once Per Turn (Army), Any Hero Phase",
+    "declare": "",
+    "effect": "Pick 1 or more of the following effects to apply for the rest of the turn. For each effect you pick, give this unit a number of heat tokens equal to the number beside it. 1 - Load Triple Shot! : This unit’s Breacher Cannon has Crit (2 Hits) . 1 - Go, Go, Go!: When making charge rolls for this unit, add 1 to the number of dice rolled, to a maximum of 3, then remove 1 dice of your choice and use the remaining dice as the charge roll. 2 - Get Us In There!: This unit’s Crushing Iron Feet have Charge (+1 Damage) . 3 - Load Chain Shot! Each time this unit uses a Shoot ability, after that ability has been resolved, if any enemy models were slain by attacks made with this unit’s Breacher Cannon , for each model slain by those attacks, inflict 1 mortal damage on that model’s unit. 4 - Disengage Safeties! The Attacks characteristic of this unit’s Realmscorcher Flame Cannon is 22."
+   },
+   {
+    "name": "OVERHEATING ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Immediately after resolving this unit’s 'Power to Maximum!' ability, you must roll a number of dice equal to the number of heat tokens this unit has. For each 5+, allocate 1 damage point to this unit ( ward rolls cannot be made for those damage points), then remove 1 of this unit’s heat tokens ."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "WAR MACHINE",
+   "IRON MARCH",
+   "ORDER",
+   "CITIES OF SIGMAR",
+   "SIGMARITE"
+  ],
+  "unit_size": 1,
+  "points": 510,
+  "base_size": "160mm",
+  "can_be_reinforced": false,
+  "regiment_options": "Any Freeguild Gallants Notes: This unit can only be taken in an Iron March Army of Renown"
+ },
+ {
+  "id": "Linebreaker-Cogfort",
+  "name": "Linebreaker Cogfort The Iron March",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "25",
+  "save": "3+",
+  "control": "10",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Godbreaker Cannon",
+    "range": "24\"",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "4",
+    "abilities": []
+   },
+   {
+    "name": "Crew’s Leadshotters",
+    "range": "12\"",
+    "attacks": "6",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": [
+     "Shoot in Combat"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Crushing Iron Feet",
+    "range": "",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "4",
+    "abilities": [
+     "Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "BATTLE DAMAGED",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit has 10 or more damage points: The Attacks characteristic of its Crushing Iron Feet is 3. It has a Control characteristic of 5."
+   },
+   {
+    "name": "RIDE TO GLORY ",
+    "timing": "Deployment Phase",
+    "declare": "Pick up to 1 friendly IRON MARCH INFANTRY HERO and up to 1 friendly non- HERO IRON MARCH INFANTRY unit that have not been deployed.",
+    "effect": "Set up those units in reserve as this unit’s passengers . They have now been deployed."
+   },
+   {
+    "name": "VENTURE FORTH ",
+    "timing": "Once Per Battle, Any Charge Phase",
+    "declare": "If this unit has not used a RUN ability this turn, pick this unit’s passengers to be the targets.",
+    "effect": "Set up each target wholly within 6\" of this unit and either not in combat or within ½\" of an enemy unit. If a target is set up in combat, it has charged . Then, if this unit is not under orders , this unit and the targets are under orders for the rest of the battle round."
+   },
+   {
+    "name": "OUTPUT TO MAXIMUM! ",
+    "timing": "Once Per Turn (Army), Any Hero Phase",
+    "declare": "",
+    "effect": "Pick 1 or more of the following effects to apply for the rest of the turn. For each effect you pick, give this unit a number of heat tokens equal to the number beside it. 1 - Trample Them to Dust!: This unit’s Crushing Iron Feet have Anti- MONSTER (+1 Rend) . 1 - Go, Go, Go!: When making charge rolls for this unit, add 1 to the number of dice rolled, to a maximum of 3, then remove 1 dice of your choice and use the remaining dice as the charge roll. 2 - Get Us In There!: This unit’s Crushing Iron Feet have Charge (+1 Damage) . 2 - Load Heavy Shot! : Add 1 to the Rend characteristic of this unit’s Godbreaker Cannon , but all of this unit’s attacks made with that weapon this turn must target the same enemy unit. 2 - Full Throttle! : This unit’s Move characteristic is 10"
+   },
+   {
+    "name": "OVERHEATING ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Immediately after resolving this unit’s 'Output to Maximum!' ability, you must roll a number of dice equal to the number of heat tokens this unit has. For each 5+, allocate 1 damage point to this unit ( ward rolls cannot be made for those damage points), then remove 1 of this unit’s heat tokens ."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "WAR MACHINE",
+   "IRON MARCH",
+   "ORDER",
+   "CITIES OF SIGMAR",
+   "SIGMARITE"
+  ],
+  "unit_size": 1,
+  "points": 450,
+  "base_size": "160mm",
+  "can_be_reinforced": false,
+  "regiment_options": "Any Freeguild Gallants Notes: This unit can only be taken in an Iron March Army of Renown"
+ },
+ {
+  "id": "Battlemage-on-Celestial-Hurricanum",
+  "name": "Battlemage on Celestial Hurricanum",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "8\"",
+  "health": "12",
+  "save": "4+",
+  "control": "5",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Wizard’s Staff",
+    "range": "",
+    "attacks": "3",
+    "hit": "4+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": []
+   },
+   {
+    "name": "Warhorses’ Steel‑shod Hooves",
+    "range": "",
+    "attacks": "4",
+    "hit": "5+",
+    "wound": "3+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": [
+     "Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "PORTENTS OF BATTLE ",
+    "timing": "Once Per Turn (Army), Your Hero Phase",
+    "declare": "Pick a visible friendly CITIES OF SIGMAR unit wholly within 12\" of this unit to be the target.",
+    "effect": "Roll a dice. On a 3+, add 1 to hit rolls for the target’s combat attacks until the start of your next turn."
+   },
+   {
+    "name": "STORM OF SHEMTEK ",
+    "timing": "Once Per Turn (Army), Your Shooting Phase",
+    "declare": "Pick a visible enemy unit within 12\" of this unit to be the target.",
+    "effect": "Make a number of D3 rolls equal to the current battle round number. For each 2+, inflict an amount of mortal damage on the target equal to the roll."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "WAR MACHINE",
+   "WIZARD ( 1 )",
+   "ORDER",
+   "CITIES OF SIGMAR",
+   "SIGMARITE"
+  ],
+  "unit_size": 1,
+  "points": 230,
+  "base_size": "120 × 92mm",
+  "can_be_reinforced": false,
+  "regiment_options": "Any SIGMARITE INFANTRY , Any SIGMARITE CAVALRY Notes: This unit will move to Warhammer Legends on 1 June 2027. 120 x 92mm"
+ },
+ {
+  "id": "Battlemage-on-Luminark-of-Hysh",
+  "name": "Battlemage on Luminark of Hysh",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "8\"",
+  "health": "12",
+  "save": "4+",
+  "control": "5",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Searing Beam of Light",
+    "range": "24\"",
+    "attacks": "1",
+    "hit": "2+",
+    "wound": "3#",
+    "rend": "",
+    "damage": "",
+    "abilities": []
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Wizard’s Staff",
+    "range": "",
+    "attacks": "3",
+    "hit": "4+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": []
+   },
+   {
+    "name": "Warhorses’ Steel‑shod Hooves",
+    "range": "",
+    "attacks": "4",
+    "hit": "5+",
+    "wound": "3+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": [
+     "Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "AURA OF PROTECTION ",
+    "timing": "Once Per Turn (Army), Your Hero Phase",
+    "declare": "Pick a visible friendly CITIES OF SIGMAR unit wholly within 12\" of this unit to be the target.",
+    "effect": "Roll a dice. On a 3+, until the start of your next turn, the target has WARD ( 6+ ) while it is wholly within 12\" of and visible to this unit."
+   },
+   {
+    "name": "SEARING BEAM OF LIGHT ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Each time this unit attacks with its Searing Beam of Light , pick a point on the battlefield within range to be the target. If the attack scores a hit, draw a straight line between that point and the closest point on this unit’s base. Inflict D3 mortal damage on each visible unit (friendly and enemy) that the line passes across."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "WAR MACHINE",
+   "WIZARD ( 1 )",
+   "ORDER",
+   "CITIES OF SIGMAR",
+   "SIGMARITE"
+  ],
+  "unit_size": 1,
+  "points": 280,
+  "base_size": "120 × 92mm",
+  "can_be_reinforced": false,
+  "regiment_options": "Any SIGMARITE INFANTRY , Any SIGMARITE CAVALRY Notes: This unit will move to Warhammer Legends on 1 June 2027. 120 x 92mm"
+ },
+ {
+  "id": "Steam-Tank-Commander",
+  "name": "Steam Tank Commander",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "8\"",
+  "health": "12",
+  "save": "2+",
+  "control": "5",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Steam Cannon",
+    "range": "18\"",
+    "attacks": "1",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "1",
+    "damage": "D3+2",
+    "abilities": []
+   },
+   {
+    "name": "Steam Gun",
+    "range": "12\"",
+    "attacks": "2D6",
+    "hit": "2+",
+    "wound": "4+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": []
+   },
+   {
+    "name": "Commander’s Rifle",
+    "range": "18\"",
+    "attacks": "3",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": []
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Commander’s Sword",
+    "range": "",
+    "attacks": "3",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": []
+   },
+   {
+    "name": "Crushing Wheels",
+    "range": "",
+    "attacks": "6",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "DIVISION COMMANDER ",
+    "timing": "Once Per Battle, Your Shooting Phase",
+    "declare": "Pick up to 2 friendly Steam Tank units to be the targets.",
+    "effect": "For the rest of the turn, add 1 to hit rolls for shooting attacks made by this unit and by each target."
+   },
+   {
+    "name": "MORE PRESSURE! ",
+    "timing": "Once Per Turn (Army), Your Hero Phase",
+    "declare": "",
+    "effect": "Roll 2D6. If the roll is less than the number of damage points this unit has, inflict D3 mortal damage on this unit. Otherwise, pick 1 of the following effects to apply to this unit until the start of your next turn: Power the Wheels: This unit can use a RUN ability and still use SHOOT and/or CHARGE abilities later in the turn. Power the Guns: Add 3 to the Attacks characteristic of this unit’s Steam Gun ."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "WAR MACHINE",
+   "ORDER",
+   "CITIES OF SIGMAR",
+   "SIGMARITE"
+  ],
+  "unit_size": 1,
+  "points": 250,
+  "base_size": "120 × 92mm",
+  "can_be_reinforced": false,
+  "regiment_options": "Any Steam Tank Notes: This unit will move to Warhammer Legends on 1 June 2027."
+ },
+ {
+  "id": "Freeguild-Cavaliers",
+  "name": "Freeguild Cavaliers",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "10\"",
+  "health": "3",
+  "save": "3+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Cavalier Weapon",
+    "range": "",
+    "attacks": "3",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Charge (+1 Damage)"
+    ]
+   },
+   {
+    "name": "Warhorse’s Steel‑shod Hooves",
+    "range": "",
+    "attacks": "2",
+    "hit": "5+",
+    "wound": "3+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": [
+     "Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "STORM OF STEEL ",
+    "timing": "Any Charge Phase",
+    "declare": "If this unit is in combat and has not charged this turn, pick an enemy unit that it is in combat with and up to 1 friendly Freeguild Cavalier-Marshal within this unit’s combat range to be the targets.",
+    "effect": "If this unit is under orders , apply the effect below. Otherwise, roll a dice. On a 3+, apply the effect below. This unit and the friendly target can use the ' Charge ' ability even if it is not your charge phase and even if those units are in combat. Both friendly units must end that move in combat with the enemy target."
+   }
+  ],
+  "keywords": [
+   "CAVALRY",
+   "CHAMPION",
+   "STANDARD BEARER ( 1/5 )",
+   "ORDER",
+   "CITIES OF SIGMAR",
+   "SIGMARITE"
+  ],
+  "unit_size": 5,
+  "points": 150,
+  "base_size": "60 × 35mm",
+  "can_be_reinforced": true,
+  "regiment_options": "",
+  "points_prev": 140,
+  "points_updated": "2026-06"
+ },
+ {
+  "id": "Dark-Riders",
+  "name": "Dark Riders",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "12\"",
+  "health": "3",
+  "save": "4+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Repeater Crossbow",
+    "range": "12\"",
+    "attacks": "2",
+    "hit": "4+",
+    "wound": "4+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": [
+     "Crit (2 Hits)"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Barbed Spear",
+    "range": "",
+    "attacks": "2",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Anti- INFANTRY (+1 Rend)"
+    ]
+   },
+   {
+    "name": "Dark Steed’s Vicious Bite",
+    "range": "",
+    "attacks": "2",
+    "hit": "5+",
+    "wound": "3+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": [
+     "Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "SOW HAVOC ",
+    "timing": "Once Per Turn (Army), End of Any Turn",
+    "declare": "Pick an enemy unit in combat with this unit to be the target.",
+    "effect": "Roll a dice. On a 3+: Inflict D3 mortal damage on the target. This unit can immediately use the ‘ Retreat ’ ability as if it were your movement phase without any mortal damage being inflicted on it."
+   }
+  ],
+  "keywords": [
+   "CAVALRY",
+   "CHAMPION",
+   "MUSICIAN ( 1/5 )",
+   "STANDARD BEARER ( 1/5 )",
+   "ORDER",
+   "CITIES OF SIGMAR",
+   "AELF"
+  ],
+  "unit_size": 5,
+  "points": 170,
+  "base_size": "60 × 35mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Drakespawn-Knights",
+  "name": "Drakespawn Knights",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "10\"",
+  "health": "3",
+  "save": "3+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Barbed Lance",
+    "range": "",
+    "attacks": "2",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Charge (+1 Damage)"
+    ]
+   },
+   {
+    "name": "Drakespawn’s Ferocious Jaws",
+    "range": "",
+    "attacks": "3",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "BESTIAL INSTINCTS ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "",
+    "effect": "For the rest of the phase, add 1 to the Attacks characteristic of this unit’s Drakespawn’s Ferocious Jaws while it is in combat with any enemy units that had any damage points allocated to them this phase or that had any models slain this phase."
+   }
+  ],
+  "keywords": [
+   "CAVALRY",
+   "CHAMPION",
+   "MUSICIAN ( 1/5 )",
+   "STANDARD BEARER ( 1/5 )",
+   "ORDER",
+   "CITIES OF SIGMAR",
+   "AELF"
+  ],
+  "unit_size": 5,
+  "points": 190,
+  "base_size": "60 × 35mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Scourge-of-Ghyran-Freeguild-Cavaliers",
+  "name": "Scourge of Ghyran Freeguild Cavaliers",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "10\"",
+  "health": "3",
+  "save": "3+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Cavalier Weapon",
+    "range": "",
+    "attacks": "2",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Charge (+1 Damage)"
+    ]
+   },
+   {
+    "name": "Warhorse’s Steel‑shod Hooves",
+    "range": "",
+    "attacks": "2",
+    "hit": "5+",
+    "wound": "3+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": [
+     "Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "THE RED WORK ",
+    "timing": "Any Charge Phase",
+    "declare": "If this unit is in combat and has not charged this turn, pick this unit and up to 1 friendly Freeguild Cavalier-Marshal or Freeguild Marshal on Griffon within this unit’s combat range to be the targets.",
+    "effect": "Roll a dice. Add 1 to the roll if there are fewer models in this unit than the total number of enemy models in units that are in combat with this unit. On a 4+, for the rest of the turn, the targets count as having charged."
+   }
+  ],
+  "keywords": [
+   "CAVALRY",
+   "CHAMPION",
+   "STANDARD BEARER ( 1/5 )",
+   "ORDER",
+   "CITIES OF SIGMAR",
+   "HUMAN"
+  ],
+  "unit_size": 5,
+  "points": 150,
+  "base_size": "60 × 35mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Allies-of-the-Free-Cities-Auric-Hearthguard",
+  "name": "Auric Hearthguard Allies of the Free Cities",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "4\"",
+  "health": "2",
+  "save": "6+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Magmapike",
+    "range": "12\"",
+    "attacks": "2",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Crit (2 Hits) , Shoot in Combat"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Magmapike",
+    "range": "",
+    "attacks": "1",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Crit (2 Hits)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "LAVA-ENCRUSTED ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit is under orders , each time a shooting attack made by this unit scores a critical hit , subtract 1\" from the target unit’s Move characteristic until the start of your next turn (this effect is cumulative). This ability cannot reduce the target unit’s Move characteristic below half its starting value."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "CHAMPION",
+   "WARD ( 6+ )",
+   "ALLIES OF THE FREE CITIES",
+   "ORDER",
+   "CITIES OF SIGMAR",
+   "DUARDIN"
+  ],
+  "unit_size": 5,
+  "points": 130,
+  "base_size": "32mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Allies-of-the-Free-Cities-Vanari-Auralan-Sentinels",
+  "name": "Vanari Auralan Sentinels Allies of the Free Cities",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "1",
+  "save": "5+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Vulkyn Weapons",
+    "range": "18\"",
+    "attacks": "2",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Crit (Auto-wound)"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Kyndledroth's Fangs",
+    "range": "",
+    "attacks": "1",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "FIRE LOFTED SHOTS! ",
+    "timing": "Your Shooting Phase",
+    "declare": "",
+    "effect": "If this unit is under orders , for the rest of the turn: Add 6\" to the Range characteristic of this unit’s Auralan Bows . Subtract 1 from hit rolls for this unit’s shooting attacks ."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "CHAMPION",
+   "ALLIES OF THE FREE CITIES",
+   "ORDER",
+   "CITIES OF SIGMAR",
+   "AELF"
+  ],
+  "unit_size": 10,
+  "points": 140,
+  "base_size": "32mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Allies-of-the-Free-Cities-Vanari-Auralan-Wardens",
+  "name": "Vanari Auralan Sentinels Allies of the Free Cities",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "1",
+  "save": "4+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Warden Pike and Blade",
+    "range": "",
+    "attacks": "2",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": [
+     "Anti-charge (+1 Rend) , Crit (Mortal)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "PROTECTIVE PIKE-WALL ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "If this unit is under orders and has not charged this turn, ignore the effect of the Charge (+1 Damage) ability for combat attacks made by enemy units that target this unit."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "CHAMPION",
+   "ALLIES OF THE FREE CITIES",
+   "CITIES OF SIGMAR",
+   "AELF"
+  ],
+  "unit_size": 10,
+  "points": 120,
+  "base_size": "32mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Allies-of-the-Free-Cities-Vulkyn-Flameseekers",
+  "name": "Vulkyn Flameseekers Allies of the Free Cities",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "4\"",
+  "health": "2",
+  "save": "5+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Vulkyn Weapons",
+    "range": "",
+    "attacks": "3",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Anti- MONSTER (+1 Rend)"
+    ]
+   },
+   {
+    "name": "Kyndledroth's Fangs",
+    "range": "",
+    "attacks": "1",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "-",
+    "damage": "2",
+    "abilities": [
+     "Crit (Mortal) , Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "ALLIED DROTHMASTERS ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "Pick an enemy MONSTER in combat with this unit to be the target.",
+    "effect": "If this unit is under orders , apply the effect below. Otherwise, roll a dice. On a 3+, apply the effect below. Subtract 2 from the Damage characteristic of the target’s Companion melee weapons for the rest of the turn."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "CHAMPION ( 1/9 )",
+   "WARD ( 6+ )",
+   "ALLIES OF THE FREE CITIES",
+   "ORDER",
+   "CITIES OF SIGMAR",
+   "DUARDIN"
+  ],
+  "unit_size": 9,
+  "points": 160,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Freeguild-Command-Corps-Adjutants",
+  "name": "Adjutants Freeguild Command Corps",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "5\"",
+  "health": "3",
+  "save": "4+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Adjutant Weapons",
+    "range": "",
+    "attacks": "3",
+    "hit": "4+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "FREEGUILD ADJUTANTS ",
+    "timing": "Once Per Turn (Army), Your Hero Phase",
+    "declare": "Pick a friendly SIGMARITE unit wholly within 12\" of this unit and under orders to be the target.",
+    "effect": "If this unit is in combat , apply the effect below. Otherwise, roll a dice. On a 3+, apply the effect below. Add 5 to the target’s control score until the start of your next turn."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "ORDER",
+   "CITIES OF SIGMAR",
+   "SIGMARITE"
+  ],
+  "unit_size": 3,
+  "points": 200,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Freeguild-Command-Corps-Auxiliaries",
+  "name": "Auxiliaries Freeguild Command Corps",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "5\"",
+  "health": "3",
+  "save": "6+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Assortment of Weapons",
+    "range": "",
+    "attacks": "2",
+    "hit": "4+",
+    "wound": "4+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "SEIZE THE SOULS ",
+    "timing": "Once Per Turn (Army), Your Hero Phase",
+    "declare": "If this unit contains a Soul Shepherd , pick a visible enemy unit within 18\" of this unit to be the target.",
+    "effect": "Roll a dice. On a 3+, the target cannot be healed or have slain models returned to it until the start of your next turn."
+   },
+   {
+    "name": "FIELD SURGERY ",
+    "timing": "Once Per Turn (Army), End of Any Turn",
+    "declare": "If this unit is not in combat and contains a War Surgeon , pick a visible friendly non- WAR MACHINE SIGMARITE unit wholly within 12\" of this unit to be the target.",
+    "effect": "Roll a dice. On a 3+: If the target is a NON-HERO INFANTRY unit, return D3 slain models to it. If the target is a NON-HERO CAVALRY unit, return 1 slain model to it. If the target is a HERO or MONSTER , Heal (D3) the target."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "MUSICIAN ( 1/2 )",
+   "ORDER",
+   "CITIES OF SIGMAR",
+   "SIGMARITE"
+  ],
+  "unit_size": 2,
+  "points": 0,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Freeguild-Command-Corps-Whisperblade-1",
+  "name": "Whisperblade Freeguild Command Corps",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "5\"",
+  "health": "3",
+  "save": "6+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Enchanted Rapier",
+    "range": "",
+    "attacks": "4",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "2",
+    "damage": "2",
+    "abilities": [
+     "Crit (Mortal)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "LURKING SPYMASTER ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "This unit cannot use or be picked to be the target of the ‘ Form Up! ’ ability. While this unit is within the combat range of a friendly SIGMARITE INFANTRY unit that has 3 or more models and there are no other friendly Whisperblades within that unit’s combat range, this unit cannot be picked to be the target of shooting attacks or combat attacks ."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "ORDER",
+   "CITIES OF SIGMAR",
+   "SIGMARITE"
+  ],
+  "unit_size": 1,
+  "points": 0,
+  "base_size": "28.5mm",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Freeguild-Fusiliers",
+  "name": "Freeguild Fusiliers",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "5\"",
+  "health": "1",
+  "save": "4+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Fusil-cannon",
+    "range": "18\"",
+    "attacks": "1",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "1",
+    "abilities": []
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Bayonet",
+    "range": "",
+    "attacks": "1",
+    "hit": "4+",
+    "wound": "4+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "FORTIFIED POSITION ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit is under orders : This unit’s ranged weapons have Shoot in Combat . Subtract 1 from the Rend characteristic of weapons used for attacks that target this unit."
+   },
+   {
+    "name": "BLACKPOWDER SQUIRE ",
+    "timing": "Once Per Battle, Reaction: You declared a SHOOT ability for this unit and this unit is in combat",
+    "declare": "",
+    "effect": "This unit’s Blackpowder Squire is a token . Remove this unit’s Blackpowder Squire from the battlefield, then add 1 to the Rend characteristic of this unit’s ranged weapons for the rest of the turn."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "CHAMPION",
+   "STANDARD BEARER ( 1/10 )",
+   "ORDER",
+   "CITIES OF SIGMAR",
+   "SIGMARITE"
+  ],
+  "unit_size": 10,
+  "points": 120,
+  "base_size": "28.5mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Freeguild-Gallants-1",
+  "name": "Freeguild Gallants",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "5\"",
+  "health": "2",
+  "save": "3+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Weapons of Gallantry",
+    "range": "",
+    "attacks": "2",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "NOT ONE STEP BACK ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "If this unit has not charged this turn, add 1 to the Attacks characteristic and Damage characteristic of this unit’s melee weapons."
+   },
+   {
+    "name": "BREAK THEM UPON THE WALLS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit is under orders , the melee weapons of other visible friendly SIGMARITE units, excluding Freeguild Gallants units, have Anti-charge (+1 Rend) while they are wholly within 12\" of this unit."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "CHAMPION",
+   "STANDARD BEARER ( 1/5 )",
+   "ORDER",
+   "CITIES OF SIGMAR",
+   "SIGMARITE"
+  ],
+  "unit_size": 5,
+  "points": 130,
+  "base_size": "28.5mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Freeguild-Grenadiers-1",
+  "name": "Freeguild Grenadiers",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "5\"",
+  "health": "1",
+  "save": "4+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Ruin-sweeper Arsenal",
+    "range": "10\"",
+    "attacks": "1",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "1",
+    "abilities": []
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Grenadier Bardiche",
+    "range": "",
+    "attacks": "2",
+    "hit": "4+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "CINDERS AND ASHES ",
+    "timing": "Once Per Turn (Army), End of Any Turn",
+    "declare": "If this unit contains a Cindergout , pick a terrain feature or objective contested by this unit, then pick any enemy units contesting that terrain feature or objective to be the targets.",
+    "effect": "Roll a D3 for each target. On a 2+, inflict an amount of mortal damage on the target equal to the roll."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "CHAMPION ( 1/10 )",
+   "ORDER",
+   "CITIES OF SIGMAR",
+   "SIGMARITE"
+  ],
+  "unit_size": 10,
+  "points": 140,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Freeguild-Steelhelms",
+  "name": "Freeguild Steelhelms",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "5\"",
+  "health": "1",
+  "save": "4+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Freeguild Weapons",
+    "range": "",
+    "attacks": "2",
+    "hit": "4+",
+    "wound": "4+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "STEEL OF HELM AND HEART ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "If this unit has 5 or more models, pick an enemy unit in combat with this unit to be the target.",
+    "effect": "If this unit is under orders , apply the effect below. Otherwise, roll a dice. Subtract 1 from the roll if the target is a MONSTER . On a 4+, apply the effect below. For the rest of the turn, if this unit is in combat with the target when the target is picked to use a FIGHT ability : This unit must be picked to be the target of pile-in moves made by the target. All attacks made by models in the target unit within this unit’s combat range must target this unit."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "CHAMPION",
+   "MUSICIAN ( 1/10 )",
+   "STANDARD BEARER ( 1/10 )",
+   "ORDER",
+   "CITIES OF SIGMAR",
+   "SIGMARITE"
+  ],
+  "unit_size": 10,
+  "points": 90,
+  "base_size": "25mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Toll-s-Companions",
+  "name": "Toll’s Companions",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "5\"",
+  "health": "3",
+  "save": "4+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Exotic Assortment of Weapons",
+    "range": "",
+    "attacks": "4",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Anti- WIZARD (+1 Rend)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "HIDDEN AGENTS ",
+    "timing": "Deployment Phase",
+    "declare": "Pick this unit and a friendly Callis and Toll unit if those units have not been deployed.",
+    "effect": "Set up those units in reserve in the shadows . They have now been deployed."
+   },
+   {
+    "name": "EMERGE FROM THE SHADOWS ",
+    "timing": "Your Movement Phase",
+    "declare": "Pick this unit if it is in the shadows .",
+    "effect": "Set up this unit on the battlefield more than 6\" from the enemy mark and more than 9\" from all other enemy units. Then, set up the friendly Callis and Toll unit in the shadows wholly within 6\" of this unit, more than 6\" from the enemy mark and more than 9\" from all other enemy units."
+   },
+   {
+    "name": "SAVIOURS OF CINDERFALL ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While a friendly Callis and Toll unit is within this unit’s combat range , both this unit and that friendly unit have WARD ( 5+ ) ."
+   }
+  ],
+  "keywords": [
+   "UNIQUE",
+   "INFANTRY",
+   "ORDER",
+   "CITIES OF SIGMAR",
+   "SIGMARITE"
+  ],
+  "unit_size": 4,
+  "points": 0,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Wildercorps-Hunters",
+  "name": "Wildercorps Hunters",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "5\"",
+  "health": "1",
+  "save": "5+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Hunting Crossbow",
+    "range": "15\"",
+    "attacks": "2",
+    "hit": "4+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": []
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Wildercorps Hunting Weapons",
+    "range": "",
+    "attacks": "2",
+    "hit": "4+",
+    "wound": "4+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": []
+   },
+   {
+    "name": "Trailhound’s Ferocious Bite",
+    "range": "",
+    "attacks": "2",
+    "hit": "4+",
+    "wound": "4+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": [
+     "Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "EXPERT PATHFINDERS ",
+    "timing": "Once Per Turn (Army), Deployment Phase",
+    "declare": "Pick this unit and up to 2 friendly NON-MONSTER NON-WAR MACHINE SIGMARITE units if none of them have been deployed.",
+    "effect": "Set up those units in reserve scouting ahead . They have now been deployed."
+   },
+   {
+    "name": "PREPARED ARRIVAL ",
+    "timing": "Once Per Turn (Army), Your Movement Phase",
+    "declare": "Pick this unit if it is scouting ahead .",
+    "effect": "Set up this unit on the battlefield wholly within 9\" of a battlefield edge and more than 9\" from all enemy units. Then, set up each other friendly unit scouting ahead wholly within 12\" of this unit and more than 9\" from all enemy units."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "CHAMPION ( 1/11 )",
+   "ORDER",
+   "CITIES OF SIGMAR",
+   "SIGMARITE"
+  ],
+  "unit_size": 11,
+  "points": 120,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Black-Ark-Corsairs",
+  "name": "Black Ark Corsairs",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "1",
+  "save": "5+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Repeater Handbow",
+    "range": "10\"",
+    "attacks": "2",
+    "hit": "4+",
+    "wound": "4+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": [
+     "Shoot in Combat"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Vicious Blades",
+    "range": "",
+    "attacks": "2",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "SWIFT SHOTS ",
+    "timing": "Once Per Turn (Army), Any Charge Phase",
+    "declare": "",
+    "effect": "If this unit is in combat , it can immediately use the ‘ Shoot ’ ability as if it were your shooting phase. All attacks must target the same enemy unit, and the enemy unit picked to be the target of the attacks must be in combat with this unit and have charged this phase."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "CHAMPION",
+   "MUSICIAN ( 1/10 )",
+   "STANDARD BEARER ( 1/10 )",
+   "ORDER",
+   "CITIES OF SIGMAR",
+   "AELF"
+  ],
+  "unit_size": 10,
+  "points": 120,
+  "base_size": "25mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Black-Guard",
+  "name": "Black Guard",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "1",
+  "save": "4+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Ebon Halberd",
+    "range": "",
+    "attacks": "2",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "STEEL AND SORCERY ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While any friendly CITIES OF SIGMAR AELF INFANTRY HEROES are wholly within this unit’s combat range , both this unit and those friendly units have WARD ( 5+ ) ."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "CHAMPION",
+   "MUSICIAN ( 1/10 )",
+   "STANDARD BEARER ( 1/10 )",
+   "ORDER",
+   "CITIES OF SIGMAR",
+   "AELF"
+  ],
+  "unit_size": 10,
+  "points": 130,
+  "base_size": "25mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Bleakswords",
+  "name": "Bleakswords",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "1",
+  "save": "4+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Darkling Sword",
+    "range": "",
+    "attacks": "2",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": [
+     "Crit (2 Hits)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "MERCILESS CONQUERORS ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "",
+    "effect": "For the rest of the turn, add 1 to the Attacks characteristic of this unit’s melee weapons while it is contesting an objective you do not control ."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "CHAMPION",
+   "MUSICIAN ( 1/10 )",
+   "STANDARD BEARER ( 1/10 )",
+   "ORDER",
+   "CITIES OF SIGMAR",
+   "AELF"
+  ],
+  "unit_size": 10,
+  "points": 100,
+  "base_size": "25mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Darkshards",
+  "name": "Darkshards",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "1",
+  "save": "5+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Master-crafted Repeater Crossbow",
+    "range": "15\"",
+    "attacks": "2",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": [
+     "Anti- INFANTRY (+1 Rend)"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Cruel Dagger",
+    "range": "",
+    "attacks": "1",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "STORM OF IRON-TIPPED BOLTS ",
+    "timing": "Once Per Turn (Army), Your Shooting Phase",
+    "declare": "",
+    "effect": "If this unit has not used a MOVE ability this turn and was not set up this turn, add 1 to the Attacks characteristic of this unit’s Master-crafted Repeater Crossbows for the rest of the turn."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "CHAMPION",
+   "MUSICIAN ( 1/10 )",
+   "STANDARD BEARER ( 1/10 )",
+   "ORDER",
+   "CITIES OF SIGMAR",
+   "AELF"
+  ],
+  "unit_size": 10,
+  "points": 150,
+  "base_size": "25mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Dreadspears",
+  "name": "Dreadspears",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "1",
+  "save": "4+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Darkling Spear",
+    "range": "",
+    "attacks": "2",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": [
+     "Anti-charge (+1 Rend)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "COVEN GUARD ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "",
+    "effect": "If this unit did not charge this turn, add 1 to wound rolls for this unit’s attacks for the rest of the turn."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "CHAMPION",
+   "MUSICIAN ( 1/10 )",
+   "STANDARD BEARER ( 1/10 )",
+   "ORDER",
+   "CITIES OF SIGMAR",
+   "AELF"
+  ],
+  "unit_size": 10,
+  "points": 110,
+  "base_size": "25mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Executioners",
+  "name": "Executioners",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "1",
+  "save": "4+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Executioner’s Draich",
+    "range": "",
+    "attacks": "2",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "SEVERING STRIKE ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "",
+    "effect": "If this unit charged this turn, this unit’s melee weapons have Crit (Mortal) ."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "CHAMPION",
+   "MUSICIAN ( 1/10 )",
+   "STANDARD BEARER ( 1/10 )",
+   "ORDER",
+   "CITIES OF SIGMAR",
+   "AELF"
+  ],
+  "unit_size": 10,
+  "points": 150,
+  "base_size": "25mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Flagellants",
+  "name": "Flagellants",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "1",
+  "save": "6+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Castigating Flails and Clubs",
+    "range": "",
+    "attacks": "2",
+    "hit": "4+",
+    "wound": "4+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "GLORIOUS MARTYRS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While a friendly SIGMARITE PRIEST is wholly within this unit’s combat range , add 1 to wound rolls for this unit’s combat attacks ."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "CHAMPION",
+   "ORDER",
+   "CITIES OF SIGMAR",
+   "SIGMARITE"
+  ],
+  "unit_size": 10,
+  "points": 80,
+  "base_size": "25mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Hammerers",
+  "name": "Hammerers",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "4\"",
+  "health": "1",
+  "save": "3+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Gromril Great Hammer",
+    "range": "",
+    "attacks": "2",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Charge (+1 Damage)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "OATHSWORN ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While any friendly Warden Kings are wholly within this unit’s combat range , both this unit and those friendly Warden Kings have WARD ( 5+ ) ."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "CHAMPION",
+   "MUSICIAN ( 1/10 )",
+   "STANDARD BEARER ( 1/10 )",
+   "ORDER",
+   "CITIES OF SIGMAR",
+   "DUARDIN"
+  ],
+  "unit_size": 10,
+  "points": 170,
+  "base_size": "25mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Ironbreakers",
+  "name": "Ironbreakers",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "4\"",
+  "health": "1",
+  "save": "3+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Ironbreaker Weapon",
+    "range": "",
+    "attacks": "2",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "GROMRIL SHIELDWALL ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "If this unit has not used a MOVE ability this turn and was not set up this turn, attacks that target this unit cannot score critical hits (treat them as regular hits instead)."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "CHAMPION",
+   "MUSICIAN ( 1/10 )",
+   "STANDARD BEARER ( 1/10 )",
+   "ORDER",
+   "CITIES OF SIGMAR",
+   "DUARDIN"
+  ],
+  "unit_size": 10,
+  "points": 120,
+  "base_size": "25mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Irondrakes",
+  "name": "Irondrakes",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "4\"",
+  "health": "1",
+  "save": "3+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Drakegun",
+    "range": "18\"",
+    "attacks": "1",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Anti- INFANTRY (+1 Rend)"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Plated Fists",
+    "range": "",
+    "attacks": "1",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "CINDERBLAST BOMB ",
+    "timing": "Once Per Turn (Army), Your Shooting Phase",
+    "declare": "If this unit is not in combat , pick a visible enemy unit within 6\" of it to be the target.",
+    "effect": "Roll a dice. On a 3+, inflict an amount of mortal damage on the target equal to the roll."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "CHAMPION",
+   "MUSICIAN ( 1/10 )",
+   "STANDARD BEARER ( 1/10 )",
+   "ORDER",
+   "CITIES OF SIGMAR",
+   "DUARDIN"
+  ],
+  "unit_size": 10,
+  "points": 140,
+  "base_size": "25mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Longbeards",
+  "name": "Longbeards",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "4\"",
+  "health": "1",
+  "save": "3+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Venerable Weapons",
+    "range": "",
+    "attacks": "2",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "’I THOUGHT DUARDIN WERE MADE OF STERNER STUFF!’ ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "Pick another friendly CITIES OF SIGMAR DUARDIN unit wholly within 12\" of this unit to be the target. You cannot pick a Longbeards unit.",
+    "effect": "Roll a dice. On a 3+, add 1 to wound rolls for the target’s combat attacks for the rest of the turn"
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "CHAMPION",
+   "MUSICIAN ( 1/10 )",
+   "STANDARD BEARER ( 1/10 )",
+   "ORDER",
+   "CITIES OF SIGMAR",
+   "DUARDIN"
+  ],
+  "unit_size": 10,
+  "points": 130,
+  "base_size": "25mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Brethren-of-the-Bolt",
+  "name": "Brethren of the Bolt",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "5\"",
+  "health": "2",
+  "save": "6+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Brethren Weapons",
+    "range": "",
+    "attacks": "3",
+    "hit": "4+",
+    "wound": "4+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": [
+     "Crit (Mortal)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "CRACKLING WITH FAITH ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Each time a combat attack made by this unit scores a critical hit , you can pick an enemy unit within 6\" of this unit that was not the target of that combat attack. Inflict 1 mortal damage on that enemy unit after the FIGHT ability has been resolved."
+   },
+   {
+    "name": "PATER FILIUS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit’s Pater Filius is on the battlefield, it has PRIEST ( 1 ) ."
+   },
+   {
+    "name": "BOLT FROM THE BLUE ",
+    "timing": "Your Hero Phase",
+    "declare": "You can pick a visible enemy unit within 12\" of this unit to be the target. Then, make a chanting roll of D6.",
+    "effect": "This unit has WARD ( 5+ ) for the rest of the turn. If a target was picked, inflict D3 mortal damage on the target. If the chanting roll was 10+, inflict 3 mortal damage on the target instead."
+   }
+  ],
+  "keywords": [
+   "UNIQUE",
+   "INFANTRY",
+   "CHAMPION",
+   "ORDER",
+   "CITIES OF SIGMAR",
+   "SIGMARITE"
+  ],
+  "unit_size": 5,
+  "points": 100,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Hexbane-s-Hunters",
+  "name": "Hexbane’s Hunters",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "5\"",
+  "health": "2",
+  "save": "5+",
+  "control": "1",
+  "ward": "5+",
+  "ranged_weapons": [
+   {
+    "name": "Blackpowder Pistols",
+    "range": "8\"",
+    "attacks": "3",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": [
+     "Anti- WIZARD (+1 Rend) , Shoot in Combat"
+    ]
+   },
+   {
+    "name": "Crossbow Launcher",
+    "range": "15\"",
+    "attacks": "2",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": [
+     "Anti- WIZARD (+1 Rend)"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Witch Hunter Weapons",
+    "range": "",
+    "attacks": "2",
+    "hit": "4+",
+    "wound": "4+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": [
+     "Anti- WIZARD (+1 Rend)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "HUNT WITH CONVICTION ",
+    "timing": "Start of First Battle Round",
+    "declare": "Pick an enemy HERO or WIZARD to be hunted by the Order . You must pick a WIZARD HERO if there is one in your opponent’s army.",
+    "effect": "Add 1 to the damage inflicted by this unit’s attacks that target the unit picked to be hunted by the Order . Designer’s Note: You can pick an enemy unit that is in reserve ."
+   },
+   {
+    "name": "FLAMEWOOD STAKES ",
+    "timing": "End of Any Turn",
+    "declare": "Pick an enemy unit in combat with this unit to be the target.",
+    "effect": "Roll a D3. On a 2+, inflict an amount of mortal damage on the target equal to the roll. Add 1 to the damage inflicted (if any) on the target if it has the DEATH , DAEMON or WIZARD keyword."
+   }
+  ],
+  "keywords": [
+   "UNIQUE",
+   "INFANTRY",
+   "CHAMPION",
+   "WARD ( 5+ )",
+   "ORDER",
+   "CITIES OF SIGMAR",
+   "SIGMARITE"
+  ],
+  "unit_size": 6,
+  "points": 120,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Gate-Gargants",
+  "name": "Gate Gargants",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "8\"",
+  "health": "10",
+  "save": "3+",
+  "control": "5",
+  "ward": "6+",
+  "ranged_weapons": [
+   {
+    "name": "Scattershot Cannon",
+    "range": "10\"",
+    "attacks": "5",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": []
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Massive Warmaul",
+    "range": "",
+    "attacks": "5",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "3",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "AGGRESSIVE DEFENDERS ",
+    "timing": "Once Per Turn (Army), Your Movement Phase",
+    "declare": "Pick up to 3 other visible friendly SIGMARITE units in combat with any enemy units that are in combat with this unit to be the targets.",
+    "effect": "Each target can use SHOOT and/or CHARGE abilities even if it used a RETREAT ability in the same turn. In addition, no mortal damage is inflicted on the targets by RETREAT abilities for the rest of the turn."
+   },
+   {
+    "name": "OPEN THE GATES ",
+    "timing": "Once Per Turn (Army), Any Charge Phase",
+    "declare": "Pick a visible friendly non- WAR MACHINE CITIES OF SIGMAR unit wholly within 12\" of this unit to be the target.",
+    "effect": "Add 2 to charge rolls for the target for the rest of the turn."
+   }
+  ],
+  "keywords": [
+   "MONSTER",
+   "WARD ( 6+ )",
+   "ORDER",
+   "CITIES OF SIGMAR",
+   "SIGMARITE"
+  ],
+  "unit_size": 2,
+  "points": 320,
+  "base_size": "80mm",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Kharibdyss",
+  "name": "Kharibdyss",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "8\"",
+  "health": "12",
+  "save": "5+",
+  "control": "5",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Fanged Tentacles and Spiked Tail",
+    "range": "",
+    "attacks": "5",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "GOADED AND WHIPPED ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "",
+    "effect": "Double the Attacks characteristic of this unit’s Companion melee weapons for the rest of the turn."
+   },
+   {
+    "name": "ABYSSAL HOWL ",
+    "timing": "Once Per Turn (Army), End of Any Turn",
+    "declare": "Pick an enemy unit in combat with this unit to be the target.",
+    "effect": "Roll a dice. On a 3+, the target has a maximum control score of 1 for the rest of the turn."
+   }
+  ],
+  "keywords": [
+   "MONSTER",
+   "ORDER",
+   "CITIES OF SIGMAR",
+   "AELF"
+  ],
+  "unit_size": 1,
+  "points": 150,
+  "base_size": "120 × 92mm",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "War-Hydra",
+  "name": "War Hydra",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "8\"",
+  "health": "12",
+  "save": "5+",
+  "control": "5",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Fiery Breath",
+    "range": "10\"",
+    "attacks": "6",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "-",
+    "damage": "D3",
+    "abilities": [
+     "Shoot in Combat , Companion"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Razor-sharp Fangs",
+    "range": "",
+    "attacks": "6",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Anti- INFANTRY (+1 Rend) , Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "IMPOSSIBLE TO DESTROY ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "If this unit would be destroyed, before removing it from play, roll 6 dice. Subtract 1 from the number of dice rolled for each destroyed head token this unit has. If any of the rolls are a 5+, this unit is not destroyed and any remaining damage points inflicted on it have no effect. Then, Heal (1) this unit for each 5+. Finally, give this unit 1 destroyed head token ."
+   },
+   {
+    "name": "SIX-HEADED STRIKE ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "Pick an enemy unit in combat with this unit to be the target.",
+    "effect": "Roll 6 dice. For each 3+, inflict 1 mortal damage on the target."
+   }
+  ],
+  "keywords": [
+   "MONSTER",
+   "ORDER",
+   "CITIES OF SIGMAR",
+   "AELF"
+  ],
+  "unit_size": 1,
+  "points": 170,
+  "base_size": "120 × 92mm",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Ironweld-Great-Cannon",
+  "name": "Ironweld Great Cannon",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "3\"",
+  "health": "6",
+  "save": "4+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Great Cannon",
+    "range": "24\"",
+    "attacks": "3",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "D3+2",
+    "abilities": []
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Crew’s Tools and Sidearms",
+    "range": "",
+    "attacks": "2",
+    "hit": "4+",
+    "wound": "4+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "RELENTLESS BOMBARDMENT ",
+    "timing": "Once Per Turn (Army), Any Shooting Phase",
+    "declare": "Pick an enemy unit that was targeted by this unit’s shooting attacks this phase to be the target.",
+    "effect": "Roll a dice. Add 1 to the roll if this unit is under orders . On a 3+, subtract 2 from charge rolls and run rolls for the target until the start of your next turn."
+   }
+  ],
+  "keywords": [
+   "WAR MACHINE",
+   "ORDER",
+   "CITIES OF SIGMAR",
+   "SIGMARITE"
+  ],
+  "unit_size": 1,
+  "points": 140,
+  "base_size": "90mm",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Celestial-Hurricanum",
+  "name": "Celestial Hurricanum",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "8\"",
+  "health": "10",
+  "save": "4+",
+  "control": "5",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Warhorses’ Steel‑shod Hooves",
+    "range": "",
+    "attacks": "4",
+    "hit": "5+",
+    "wound": "3+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": [
+     "Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "PORTENTS OF BATTLE ",
+    "timing": "Once Per Turn (Army), Your Hero Phase",
+    "declare": "Pick a visible friendly CITIES OF SIGMAR unit wholly within 12\" of this unit to be the target.",
+    "effect": "Roll a dice. On a 3+, add 1 to hit rolls for the target’s combat attacks until the start of your next turn."
+   },
+   {
+    "name": "STORM OF SHEMTEK ",
+    "timing": "Once Per Turn (Army), Your Shooting Phase",
+    "declare": "Pick a visible enemy unit within 12\" of this unit to be the target.",
+    "effect": "Make a number of D3 rolls equal to the current battle round number. For each 2+, inflict an amount of mortal damage on the target equal to the roll."
+   }
+  ],
+  "keywords": [
+   "WAR MACHINE",
+   "ORDER",
+   "CITIES OF SIGMAR",
+   "SIGMARITE"
+  ],
+  "unit_size": 1,
+  "points": 170,
+  "base_size": "120 × 92mm",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Drakespawn-Chariot",
+  "name": "Drakespawn Chariot",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "10\"",
+  "health": "8",
+  "save": "4+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Barbed Spear",
+    "range": "",
+    "attacks": "2",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Charge (+1 Damage)"
+    ]
+   },
+   {
+    "name": "Drakespawn’s Ferocious Jaws",
+    "range": "",
+    "attacks": "6",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "SCYTHED RUNNERS ",
+    "timing": "Once Per Turn (Army), Any Charge Phase",
+    "declare": "If this unit charged this phase, pick an enemy unit within 1\" of it to be the target.",
+    "effect": "Roll a D3. On a 2+, inflict an amount of mortal damage on the target equal to the roll."
+   }
+  ],
+  "keywords": [
+   "WAR MACHINE",
+   "ORDER",
+   "CITIES OF SIGMAR",
+   "AELF"
+  ],
+  "unit_size": 1,
+  "points": 110,
+  "base_size": "120 × 92mm",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Gyrobomber-1",
+  "name": "Gyrobomber",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "12\"",
+  "health": "6",
+  "save": "3+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Clattergun",
+    "range": "12\"",
+    "attacks": "3",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": []
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Rotor Blades",
+    "range": "",
+    "attacks": "3",
+    "hit": "4+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "GRUDGEBUSTER BOMBS ",
+    "timing": "Once Per Turn (Army), Your Movement Phase",
+    "declare": "If this unit used a MOVE ability this phase, pick an enemy unit that does not have FLY and that this unit passed across this turn to be the target.",
+    "effect": "Pick 1 of the following effects: Tactical Bombing: Roll a D3. On a 2+, inflict an amount of mortal damage on the target equal to the roll. Drop It All!: Make 2 rolls of D3. For each 2+, inflict an amount of mortal damage on the target equal to the roll. Then, roll a D3 for each unit (friendly and enemy) within the target’s combat range that does not have FLY . On a 2+, inflict an amount of mortal damage on that unit equal to the roll. Once the ‘Drop It All!’ effect of this ability has been resolved, this unit cannot use this ability again for the rest of the battle."
+   }
+  ],
+  "keywords": [
+   "WAR MACHINE",
+   "FLY",
+   "ORDER",
+   "CITIES OF SIGMAR",
+   "DUARDIN"
+  ],
+  "unit_size": 1,
+  "points": 120,
+  "base_size": "50mm",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Gyrocopter",
+  "name": "Gyrocopter",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "12\"",
+  "health": "5",
+  "save": "3+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Gyrocopter Guns",
+    "range": "12\"",
+    "attacks": "5",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": []
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Rotor Blades",
+    "range": "",
+    "attacks": "3",
+    "hit": "4+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "GUILD BOMBS ",
+    "timing": "Once Per Battle (Army), Your Movement Phase",
+    "declare": "If this unit used a MOVE ability this phase, pick an enemy unit that does not have FLY and that this unit passed across this turn to be the target.",
+    "effect": "Roll a D3. On a 2+, inflict an amount of mortal damage on the target equal to the roll."
+   }
+  ],
+  "keywords": [
+   "WAR MACHINE",
+   "FLY",
+   "ORDER",
+   "CITIES OF SIGMAR",
+   "DUARDIN"
+  ],
+  "unit_size": 1,
+  "points": 120,
+  "base_size": "50mm",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Luminark-of-Hysh",
+  "name": "Luminark of Hysh",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "8\"",
+  "health": "10",
+  "save": "4+",
+  "control": "5",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Searing Beam of Light",
+    "range": "24\"",
+    "attacks": "1",
+    "hit": "2+",
+    "wound": "3#",
+    "rend": "",
+    "damage": "",
+    "abilities": []
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Warhorses’ Steel‑shod Hooves",
+    "range": "",
+    "attacks": "4",
+    "hit": "5+",
+    "wound": "3+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": [
+     "Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "AURA OF PROTECTION ",
+    "timing": "Once Per Turn (Army), Your Hero Phase",
+    "declare": "Pick a visible friendly CITIES OF SIGMAR unit wholly within 12\" of this unit to be the target.",
+    "effect": "Roll a dice. On a 3+, until the start of your next turn, the target has WARD ( 6+ ) while it is wholly within 12\" of and visible to this unit."
+   },
+   {
+    "name": "SEARING BEAM OF LIGHT ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Each time this unit attacks with its Searing Beam of Light , pick a point on the battlefield within range to be the target. If the attack scores a hit, draw a straight line between that point and the closest point on this unit’s base. Inflict D3 mortal damage on each visible unit (friendly and enemy) that the line passes across."
+   }
+  ],
+  "keywords": [
+   "WAR MACHINE",
+   "ORDER",
+   "CITIES OF SIGMAR",
+   "SIGMARITE"
+  ],
+  "unit_size": 1,
+  "points": 230,
+  "base_size": "120 × 92mm",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Scourgerunner-Chariot",
+  "name": "Scourgerunner Chariot",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "10\"",
+  "health": "8",
+  "save": "5+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Ravager Harpoon",
+    "range": "16\"",
+    "attacks": "2",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": [
+     "Anti- MONSTER (+1 Rend)"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Hook Spear",
+    "range": "",
+    "attacks": "2",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "2",
+    "damage": "1",
+    "abilities": [
+     "Anti- MONSTER (+1 Rend)"
+    ]
+   },
+   {
+    "name": "Dark Steeds’ Vicious Bites",
+    "range": "",
+    "attacks": "4",
+    "hit": "5+",
+    "wound": "3+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": [
+     "Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "PRIZE SPECIMENS ",
+    "timing": "Once Per Turn (Army), Your Shooting Phase",
+    "declare": "",
+    "effect": "For the rest of the turn, add 1 to hit rolls and wound rolls for this unit’s shooting attacks that target enemy MONSTERS ."
+   }
+  ],
+  "keywords": [
+   "WAR MACHINE",
+   "ORDER",
+   "CITIES OF SIGMAR",
+   "AELF"
+  ],
+  "unit_size": 1,
+  "points": 110,
+  "base_size": "120 × 92mm",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Steam-Tank",
+  "name": "Steam Tank",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "8\"",
+  "health": "12",
+  "save": "2+",
+  "control": "5",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Steam Cannon",
+    "range": "18\"",
+    "attacks": "1",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "1",
+    "damage": "D3+2",
+    "abilities": []
+   },
+   {
+    "name": "Steam Gun",
+    "range": "12\"",
+    "attacks": "2D6",
+    "hit": "2+",
+    "wound": "4+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": []
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Crushing Wheels",
+    "range": "",
+    "attacks": "6",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "MORE PRESSURE! ",
+    "timing": "Once Per Turn (Army), Your Hero Phase",
+    "declare": "",
+    "effect": "Roll 2D6. If the roll is less than the number of damage points this unit has, inflict D3 mortal damage on this unit. Otherwise, pick 1 of the following effects to apply to this unit until the start of your next turn: Power the Wheels: This unit can use a RUN ability and still use SHOOT and/or CHARGE abilities later in the turn. Power the Guns: Add 3 to the Attacks characteristic of this unit’s Steam Gun."
+   }
+  ],
+  "keywords": [
+   "WAR MACHINE",
+   "ORDER",
+   "CITIES OF SIGMAR",
+   "SIGMARITE"
+  ],
+  "unit_size": 1,
+  "points": 240,
+  "base_size": "120 × 92mm",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Dawners-Triumph",
+  "name": "Dawners Triumph",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "-",
+  "health": "8",
+  "save": "4+",
+  "control": "-",
+  "ward": "6+",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "HAULED TO WAR ",
+    "timing": "Once Per Turn (Army), Reaction: You declared the ‘ Normal Move ’ ability for a CITIES OF SIGMAR INFANTRY unit within 3\" of this terrain feature",
+    "declare": "",
+    "effect": "After that ‘ Normal Move ’ ability has been resolved, pick a point on the battlefield within 1\" of the unit that used that ability and within 6\" of this terrain feature . Remove this terrain feature from the battlefield and set it up again within 1\" of that point and more than 3\" from all enemy units."
+   },
+   {
+    "name": "FURY OF THE FAITHFUL ",
+    "timing": "Any Combat Phase",
+    "declare": "Pick a visible enemy unit within 6\" of this terrain feature to be the target.",
+    "effect": "If this terrain feature is in combat , apply the effect below. Otherwise, roll a dice. On a 3+, apply the effect below. For the rest of the turn, melee weapons used by friendly CITIES OF SIGMAR INFANTRY and CAVALRY units have Crit (Auto-wound) for attacks that target that enemy unit."
+   }
+  ],
+  "keywords": [
+   "FACTION TERRAIN",
+   "WARD ( 6+ )",
+   "ORDER",
+   "CITIES OF SIGMAR"
+  ],
+  "unit_size": 1,
+  "points": 0,
+  "base_size": "100mm",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Wisper",
+  "name": "Wisper",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Vulpine Fangs",
+    "range": "",
+    "attacks": "2",
+    "hit": "4+",
+    "wound": "5+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "SPIRITUAL LOCUS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Each time a friendly Jacobus Vyne uses a SPELL or SHOOT ability, you can measure range and visibility from this MANIFESTATION instead of from that friendly unit."
+   }
+  ],
+  "keywords": [
+   "MANIFESTATION",
+   "ENDLESS SPELL",
+   "WARD ( 6+ )",
+   "ORDER",
+   "CITIES OF SIGMAR"
+  ],
+  "unit_size": null,
+  "points": null,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Heroes-of-The-Jade-Abbey",
+  "name": "Heroes of The Jade Abbey",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "STRONGER TOGETHER ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While each unit in this Regiment of Renown is wholly within 6\" of each other unit in this Regiment of Renown, add 1 to the Attacks characteristic of melee weapons used by units in this Regiment of Renown."
+   },
+   {
+    "name": "WATERS OF THE EVERSPRING ",
+    "timing": "End of Any Turn",
+    "declare": "",
+    "effect": "Heal (1) each unit in this Regiment of Renown."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": null,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Bloodthirsty-Shiver",
+  "name": "Bloodthirsty Shiver",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "HUNT OF THE BLOODTHIRSTY SHIVER ",
+    "timing": "Your Hero Phase",
+    "declare": "",
+    "effect": "If both units in this Regiment of Renown are within each other’s combat range , pick 1 of the following effects to apply until the start of your next turn: Evasive Approach: While both units in this Regiment of Renown are within each other’s combat range, subtract 1 from hit rolls for attacks that target them. Ferocious Attack: While both units in this Regiment of Renown are within each other’s combat range, their Allopex’s Ferocious Bites have Crit (2 Hits) ."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 300,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Bundo-Whalebiter",
+  "name": "Bundo Whalebiter",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "DEAD CUNNING, FOR A GARGANT ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "",
+    "effect": "For the rest of the turn, add 1 to the Attacks characteristic of this unit’s weapons. Then, roll a dice. On a 4+, this unit has STRIKE-LAST for the rest of the turn."
+   },
+   {
+    "name": "TIMBERRRRR! ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "When the MEGA-GARGANT in this regiment of renown is slain, before removing it from play, the players must roll off . The winner picks a point on the battlefield within 3\" of that model. Inflict D3 mortal damage on each unit (friendly and enemy) within 3\" of that point that has a lower Health characteristic than that model."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 450,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Dawnrider-Lance",
+  "name": "Dawnrider Lance",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "BLINDING CHARGE ",
+    "timing": "Once Per Turn (Army), Any Charge Phase",
+    "declare": "Pick a unit in this Regiment of Renown that charged this turn. Then, pick an enemy INFANTRY unit within 1\" of that unit to be the target.",
+    "effect": "For the rest of the turn, ignore positive modifiers to save rolls for the target."
+   },
+   {
+    "name": "MASTERS OF ALL TERRAIN ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Ignore negative modifiers to run rolls and charge rolls for units in this Regiment of Renown and to their Move characteristic."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 260,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Drekki-s-Privateers",
+  "name": "Drekki’s Privateers",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "CRUISING INTO POSITION ",
+    "timing": "Deployment Phase",
+    "declare": "Pick all units in this Regiment of Renown that have not been deployed.",
+    "effect": "Set up all of those units in reserve plying the winds. They have now been deployed."
+   },
+   {
+    "name": "YOU CALL IT YOURS, I CALL IT MINE ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Add 1 to hit rolls and wound rolls for shooting attacks made by units in this Regiment of Renown that target an enemy unit that is within 6\" of an enemy unit that has an enhancement."
+   },
+   {
+    "name": "DAREDEVIL DEPLOYMENT ",
+    "timing": "Your Movement Phase",
+    "declare": "Pick the Arkanaut Frigate in this Regiment of Renown to use this ability if it is plying the winds.",
+    "effect": "Set up the Arkanaut Frigate anywhere on the battlefield more than 9\" from all enemy units. Then, set up all other units in this Regiment of Renown wholly within 6\" of the Arkanaut Frigate and more than 9\" from all enemy units."
+   },
+   {
+    "name": "THE GOOD SHIP AELSLING ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "The Aelsling in this Regiment of Renown has a Health characteristic of 17 instead of 14."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 500,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Drycha-s-Talons",
+  "name": "Drycha’s Talons",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "BITTER ROOTS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "If they do not otherwise have one, terrain features have a friendly overgrown token while they are contested by a Spite-Revenants unit in this Regiment of Renown ."
+   },
+   {
+    "name": "CONCEALED IN THE SHADOWS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While they are wholly within 3\" of a terrain feature , the Spite-Revenants units in this Regiment of Renown are not visible to enemy units more than 12\" away from them."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 360,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Elthwin-s-Thorns",
+  "name": "Elthwin’s Thorns",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "GOSSAMID CHAMPION ",
+    "timing": "Your Shooting Phase",
+    "declare": "Pick the Arch-Revenant in this Regiment of Renown to use this ability, the pick a visible enemy unit within 12\" of them to be the target.",
+    "effect": "Until the start of your next turn, subtract X from charge rolls for the target, where X is the number of damage points allocated to the target this phase by shooting attacks made by the Gossamid Archers unit in the Regiment of Renown, to a maximum of 6."
+   },
+   {
+    "name": "FLIGHT OF THE ZEPHYRSPITES ",
+    "timing": "Once Per Turn (Army), Your Shooting Phase",
+    "declare": "",
+    "effect": "If both units in this Regiment of Renown are within each other’s combat range and neither unit is in combat , roll a dice. On a 3+, remove both units from the battlefield, then set them up again within each other’s combat range, wholly within 3\" of a terrain feature and more than 9\" from all enemy units."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 220,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Enforcers-of-the-Tithe",
+  "name": "Enforcers of the Tithe",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "COLLECT THE TITHE ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "Pick the GOTHIZZAR HARVESTER in this Regiment of Renown to use this ability, then pick a NON-HERO INFANTRY unit (friendly or enemy) within its combat range to be the target.",
+    "effect": "Roll a dice. If the roll equals or exceeds the target’s Health characteristic, 1 model in the target unit is slain, then give the unit using this ability 1 bone-tithe point ."
+   },
+   {
+    "name": "SOUL TAX ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick the Mortisan Ossifector in this Regiment of Renown to cast this spell, then: Pick a friendly unit, excluding units in this Regiment of Renown, to be the target. Pick a unit in this Regiment of Renown to be the recipient . The target and the recipient must be wholly within 12\" of and visible to the caster. Then, make a casting roll of 2D6.",
+    "effect": "Until the start of your next turn: The target has a maximum control score of 1. Add 1 to hit rolls and wound rolls for the recipient ’s combat attacks ."
+   },
+   {
+    "name": "REBUILD ON THE MARCH ",
+    "timing": "Your Movement Phase",
+    "declare": "Pick the Gothizzar Harvester in this Regiment of Renown to use this ability if it has 6 bone-tithe points . Then, pick another unit in this Regiment of Renown that has been destroyed to be the target.",
+    "effect": "Reset the Gothizzar Harvester ’s bone-tithe points to 0. Then, set up a replacement of the target unit with half the number of models (rounding up) wholly within 9\" of the Gothizzar Harvester and more than 9\" from all enemy units."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 470,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Exile-Scavengers",
+  "name": "Exile Scavengers",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "AN EYE FOR LOOT ",
+    "timing": "Deployment Phase",
+    "declare": "This ability must be used to deploy this Regiment of Renown .",
+    "effect": "Set up the units in this Regiment of Renown in reserve studying the battlefield . They have now been deployed."
+   },
+   {
+    "name": "SWOOP IN ",
+    "timing": "Your Movement Phase",
+    "declare": "Pick the Grundstok Gunhauler in this Regiment of Renown to use this ability if it is studying the battlefield .",
+    "effect": "Set up the Grundstok Gunhauler on the battlefield more than 6\" from all enemy units that have an artefact of power and more than 9\" from all other enemy units. Then, set up all other units in this Regiment of Renown wholly within 3\" of the Grundstok Gunhauler and more than 6\" from all enemy units."
+   },
+   {
+    "name": "WHAT’S YOURS IS MINE ",
+    "timing": "Once Per Turn (Army), Your Combat Phase",
+    "declare": "Pick an enemy unit in combat with a unit in this Regiment of Renown to be the target. Then, pick an artefact of power the target has.",
+    "effect": "Roll a dice. Add 1 to the roll for each unit in this Regiment of Renown that is in combat with the target. On a 6+, the target no longer has that artefact of power."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 410,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Khinerai-Death-Flight",
+  "name": "Khinerai Death Flight",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "FIERCE COMPETITION ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Each time a unit in this Regiment of Renown uses an ability and any enemy models were slain by that ability, after that ability has been resolved, the unit that used that ability is pre-eminent and the other unit in this Regiment of Renown is overlooked . Weapons used by an overlooked unit in this Regiment of Renown have Crit (Auto-wound) ."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 240,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Mask-of-the-Deceiver",
+  "name": "Mask of the Deceiver",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [],
+  "keywords": [],
+  "unit_size": null,
+  "points": 170,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Mask-of-The-Deceiver-1",
+  "name": "Mask of The Deceiver",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "5\"",
+  "health": "6",
+  "save": "5+",
+  "control": "2",
+  "ward": "5+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "The Trickster’s Staff",
+    "range": "",
+    "attacks": "3",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "MASKED IN PLAIN SIGHT ",
+    "timing": "Deployment Phase",
+    "declare": "This unit must be deployed using this ability.",
+    "effect": "Set up this unit in reserve incognito . It has now been deployed. Friendly incognito units are destroyed at the end of the fifth battle round and not at the start of the fourth battle round"
+   },
+   {
+    "name": "BAIT AND SWITCH ",
+    "timing": "Any Hero Phase",
+    "declare": "This unit can use this ability if it is incognito . Pick this unit and a friendly INFANTRY HERO to be the targets. One target must be incognito and the other must be on the battlefield.",
+    "effect": "Set up the incognito target wholly within 6\" of the other target and not in combat . Then, remove the other target from the battlefield and set it up in reserve incognito . If this unit is destroyed, before removing it from play, set up the friendly incognito unit wholly within 6\" of a battlefield edge and not in combat."
+   },
+   {
+    "name": "FORCEFUL COMMAND ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick a visible friendly unit wholly within 12\" of this unit to be the target, then make a casting roll of 2D6.",
+    "effect": "Until the start of your next turn: The target cannot use MOVE abilities. The target’s melee weapons have Anti-charge (+1 Rend) ."
+   }
+  ],
+  "keywords": [
+   "UNIQUE",
+   "HERO",
+   "WIZARD ( 2 )",
+   "INFANTRY",
+   "WARD ( 5+ )",
+   "CHAOS",
+   "DISCIPLES OF TZEENTCH",
+   "DAEMON"
+  ],
+  "unit_size": null,
+  "points": null,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Namarti-Shore-Raid",
+  "name": "Namarti Shore Raid",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "IN THE SHADOW OF THE ETHERSEA ",
+    "timing": "Deployment Phase",
+    "declare": "This ability must be used to deploy this Regiment of Renown .",
+    "effect": "Set up the units in this Regiment of Renown in reserve in the ethersea . They have now been deployed."
+   },
+   {
+    "name": "LAUNCH THE ATTACK ",
+    "timing": "Your Movement Phase",
+    "declare": "Pick each unit in this Regiment of Renown that is in the ethersea .",
+    "effect": "Set up each unit on the battlefield wholly within 7\" of a battlefield edge, more than 9\" from all enemy units and within the combat range of another unit in this Regiment of Renown. Then, each unit can immediately move D3\". The units cannot move into combat during any part of that move."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 270,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Sigil-Convocation",
+  "name": "Sigil Convocation",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "CYCLE MANIFESTATION ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick the Scinari Calligrave in this Regiment of Renown to cast this spell, pick 1 of the friendly MANIFESTATIONS below that is not on the battlefield, then make a casting roll of 2D6. Sanctum of Amyntok Hyshian Twinstones Rune of Petrification",
+    "effect": "If there is already a friendly MANIFESTATION from the list above on the battlefield, it is immediately banished and removed from play. Then, set up the MANIFESTATION you picked within 1\" of the caster and visible to them. If that MANIFESTATION is a Sanctum of Amyntok , it must instead be set up wholly within 12\" of the caster, more than 3\" from all enemy units, and with its 3 parts touching each other so that they form a ring."
+   },
+   {
+    "name": "SWIFT ERASURE ",
+    "timing": "Reaction: Opponent declared a SPELL ability",
+    "declare": "",
+    "effect": "Roll a dice for each friendly unit that was picked to be a target of that SPELL ability and that is wholly within 12\" of the Scinari Calligrave in this Regiment of Renown . On a 4+, that SPELL ability has no effect on that unit."
+   },
+   {
+    "name": "ARCANE TAXONOMY ",
+    "timing": "Once Per Turn, Your Movement Phase",
+    "declare": "",
+    "effect": "Remove the Scinari Calligrave in this Regiment of Renown from the battlefield and set it up again on the battlefield wholly within 3\" of a friendly MANIFESTATION and more than 7\" from all enemy units."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 130,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Sky-Port-Profiteers",
+  "name": "Sky-Port Profiteers",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "SUPPLIES DONT COME CHEAP ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick a visible terrain feature within 18\" of the Codewright in this Regiment of Renown . Each friendly unit wholly within 3\" of that terrain feature is a target.",
+    "effect": "Roll a D3 for each target. On a 2+, Heal (X) the target, where X is an amount equal to the roll."
+   },
+   {
+    "name": "NO ONE RIDES FOR FREE ",
+    "timing": "Your Movement Phase",
+    "declare": "Pick a friendly INFANTRY unit with up to 10 models that is wholly within 9\" of the Codewright in this Regiment of Renown and not in combat to be the target.",
+    "effect": "Remove the target from the battlefield, then set it up again on the battlefield more than 9\" from all enemy units."
+   },
+   {
+    "name": "LONG-RANGE SUPPORT ",
+    "timing": "Your Shooting Phase",
+    "declare": "Pick an objective within 15\" of the Codewright in this Regiment of Renown and that no friendly units are contesting . Each unit contesting that objective is a target.",
+    "effect": "Roll a dice for each target. If the roll exceeds the target’s Health characteristic, inflict an amount of mortal damage on the target equal to the roll."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 350,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "The-Crimson-Lash",
+  "name": "The Crimson Lash",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "SITE OF SLAUGHTER ",
+    "timing": "Once Per Battle (Army), Deployment Phase",
+    "declare": "",
+    "effect": "Pick an objective wholly outside friendly territory. That objective is considered by you to be the amphitheatre ."
+   },
+   {
+    "name": "FINISHING MOVES ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While each model in a unit in this Regiment of Renown is contesting the amphitheatre : That unit’s melee weapons have Crit (Mortal) . If you control the amphitheatre , if the unmodified hit roll or wound roll for an attack that targets that unit is a 1-4, the attack fails and the attack sequence ends."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 220,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "The-Horizon-Seekers",
+  "name": "The Horizon Seekers",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "HUNTER’S COHESION ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Each time this Regiment of Renown’s Lord-Aquilor uses its ’Ride the Winds Aetheric’ ability, you can pick all units in this Regiment of Renown that are not in combat to be the targets. In addition, add 1 to hit rolls for attacks made by this Regiment of Renown’s Lord-Aquilor and VANGUARD-PALLADORS units that target a HUNTED enemy unit. Designer’s Note: See the ’Astral Compass’ ability on the Vanguard-Hunters warscroll to see how an enemy unit can become Hunted."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 500,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "The-Scarlet-Jury",
+  "name": "The Scarlet Jury",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "PUNISHMENT FITS THE CRIME ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "You believe the ‘Accusations of Regicide’ DELUSION (see Grand Justice Gormayne ’s warscroll)."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 300,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "The-Twisted-Branch",
+  "name": "The Twisted Branch",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "SEARCHING FOR REMEDIES ",
+    "timing": "Deployment Phase",
+    "declare": "",
+    "effect": "Remove each unit in this Regiment of Renown from the battlefield and set them up again wholly within 6\" of a terrain feature and more than 9\" from all enemy units."
+   },
+   {
+    "name": "SOOTHING PULSE ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick the Branchwych in this Regiment of Renown to cast this spell, pick a visible friendly unit wholly within 12\" of them to be the target, then make a casting roll of 2D6.",
+    "effect": "Heal (3) the target."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 210,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Valnir-s-Stormwing",
+  "name": "Valnir’s Stormwing",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "HOUR OF RETRIBUTION ",
+    "timing": "Once Per Battle (Army), Your Hero Phase",
+    "declare": "",
+    "effect": "For the rest of the turn: Add 1 to wound rolls for attacks made by units in this Regiment of Renown . Add 1 to save rolls for units in this Regiment of Renown."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 350,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Fjori-s-Flamebearers",
+  "name": "Fjori’s Flamebearers",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "TOE TO TOE ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Subtract 10 from the control scores of enemy MONSTERS while they are in combat with any units in this Regiment of Renown ."
+   },
+   {
+    "name": "GRIMNIR’S DEFIANCE ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Units in this Regiment of Renown cannot be picked to be the target of RAMPAGE abilities used by enemy units."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 420,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Gotrek-Gurnisson",
+  "name": "Gotrek Gurnisson",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [],
+  "keywords": [],
+  "unit_size": null,
+  "points": 320,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Gotrek-Gurnisson",
+  "name": "Gotrek Gurnisson",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "4\"",
+  "health": "8",
+  "save": "5+",
+  "control": "2",
+  "ward": "3+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Zangrom-az",
+    "range": "",
+    "attacks": "8",
+    "hit": "2+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "3",
+    "abilities": [
+     "Crit (Mortal)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "UNSTOPPABLE BATTLE FURY ",
+    "timing": "Any Combat Phase",
+    "declare": "",
+    "effect": "is unit can use 2 FIGHT abilities this phase. After the first is used, however, this unit has STRIKE-LAST for the rest of the turn."
+   },
+   {
+    "name": "‘I’LL GET THERE MYSELF!’ ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "This unit cannot be set up in reserve and cannot be targeted by abilities that would remove it from the battleeld."
+   }
+  ],
+  "keywords": [
+   "UNIQUE",
+   "INFANTRY",
+   "HERO",
+   "WARD ( 3+ )",
+   "ORDER",
+   "DUARDIN"
+  ],
+  "unit_size": null,
+  "points": null,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Nurgle-s-Gift",
+  "name": "Nurgle’s Gift",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "INCUBATION PERIOD ",
+    "timing": "Deployment Phase",
+    "declare": "This ability must be used to deploy this Regiment of Renown .",
+    "effect": "Set up the units in this Regiment of Renown in reserve festering within . They have now been deployed."
+   },
+   {
+    "name": "BURSTING WITH LIFE ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "If a friendly non- NURGLE’S GIFT unit would be destroyed, before the last model is removed from play, roll a dice. Add 1 to the roll for each other friendly non- NURGLE’S GIFT unit that has been destroyed this battle. On a 5+, pick a friendly unit that is festering within and set it up wholly within 6\" of that model. It can be set up in combat ."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 180,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Snerk-s-Trogg-Fer-Hire",
+  "name": "Snerk’s Trogg-Fer-Hire",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "GO DAT WAY! ",
+    "timing": "Your Charge Phase",
+    "declare": "Pick the Dankhold Troggoth in this Regiment of Renown to be the target if it is within 12\" of the Loonboss in this Regiment of Renown.",
+    "effect": "For the rest of the turn, the target can still use CHARGE abilities even if it used a RETREAT ability in the same turn."
+   },
+   {
+    "name": "TAKTIKAL COWERING ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While the Loonboss in this Regiment of Renown is within the combat range of the Dankhold Troggoth in this Regiment of Renown: That Loonboss has WARD ( 4+ ) . Each time you make a successful ward roll for that Loonboss , allocate 1 damage point to that Dankhold Troggoth after the damage sequence for that Loonboss has been resolved (ward rolls cannot be made for those damage points)."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 220,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Stumblefoot-Gargant",
+  "name": "Stumblefoot Gargant",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "PROJECTILE VOMIT ",
+    "timing": "Once Per Turn (Army), Your Shooting Phase",
+    "declare": "Pick this unit to use this ability if it has not used a RAMPAGE ability this turn. Then, pick a point on the battlefield within 6\" of this unit and pick all other units (friendly and enemy) within 3\" of that point to be the targets.",
+    "effect": "Roll a D3 for each target. On a 2+, inflict an amount of mortal damage on that target equal to the roll."
+   },
+   {
+    "name": "BELLOWING MOCKERY ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "Pick this unit to use this ability if it has not used a RAMPAGE ability this turn, then pick an enemy unit within this unit’s combat range to be the target.",
+    "effect": "Roll a dice. On a 3+, subtract 1 from hit rolls for the target’s attacks for the rest of the turn."
+   },
+   {
+    "name": "WHAT’RE YOU LOOKIN’ AT? ",
+    "timing": "Once Per Turn (Army), Any Charge Phase",
+    "declare": "Pick this unit to use this ability if it charged this turn and has not used a RAMPAGE ability this turn. Then, pick an enemy unit within 9\" of this unit to be the target.",
+    "effect": "Roll 2D6. This unit can move a number of inches equal to the roll. It can pass through enemy models and must end that move in combat with the target."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 140,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "The-Blacktalons",
+  "name": "The Blacktalons",
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "JUSTICE WILL BE SERVED ",
+    "timing": "Once Per Battle (Army), Any Combat Phase",
+    "declare": "Pick the Neave Blacktalon in this Regiment of Renown to be the target if it is in combat with an enemy HERO .",
+    "effect": "The target can use 2 FIGHT abilities this phase. Each time it does so, if it is in combat with an enemy HERO , all of its attacks must target an enemy HERO . In addition, after the first FIGHT ability is used, the target has STRIKE-LAST for the rest of the turn."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 320,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ }
+]

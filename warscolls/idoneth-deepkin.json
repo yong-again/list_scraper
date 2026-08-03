@@ -1,0 +1,2766 @@
+[
+ {
+  "id": "Akhelian-King",
+  "name": "Akhelian King",
+  "faction": "Idoneth Deepkin",
+  "faction_slug": "idoneth-deepkin",
+  "grand_alliance": "Order",
+  "move": "12\"",
+  "health": "7",
+  "save": "3+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Akhelian Royal Weapons",
+    "range": "",
+    "attacks": "5",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Charge (+1 Damage)"
+    ]
+   },
+   {
+    "name": "Deepmare’s Fangs, Talons and Lashing Tails",
+    "range": "",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "WAVE RIDER ",
+    "timing": "Any Charge Phase",
+    "declare": "If this unit charged this phase, pick an enemy unit within 1\" of it to be the target.",
+    "effect": "Roll a D3. On a 2+: Inflict an amount of mortal damage on the target equal to the roll. Add 1 to the Rend characteristic of this unit’s Akhelian Royal Weapons for attacks that target that enemy unit for the rest of the turn."
+   },
+   {
+    "name": "CREST OF THE WAVE ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "",
+    "effect": "If this unit charged this turn, add 1 to the Rend characteristic of melee weapons used by other friendly IDONETH DEEPKIN units for attacks that target enemy units in combat with this unit."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "CAVALRY",
+   "FLY",
+   "ORDER",
+   "IDONETH DEEPKIN",
+   "AELF",
+   "AKHELIAN"
+  ],
+  "unit_size": 1,
+  "points": 140,
+  "base_size": "60mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Akhelian Raidmaster or Isharann Emissary , Any IDONETH DEEPKIN"
+ },
+ {
+  "id": "Volturnos-High-King-of-the-Deep",
+  "name": "Volturnos High King of the Deep",
+  "faction": "Idoneth Deepkin",
+  "faction_slug": "idoneth-deepkin",
+  "grand_alliance": "Order",
+  "move": "12\"",
+  "health": "8",
+  "save": "3+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Uasall’s Fangs, Talons and Lashing Tails",
+    "range": "",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Companion"
+    ]
+   },
+   {
+    "name": "The Astra Solus",
+    "range": "",
+    "attacks": "6",
+    "hit": "2+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Charge (+1 Damage)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "CEALITH, THE HIGH KING’S SHIELD ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "This unit has WARD ( 3+ ) against mortal damage inflicted by SPELL abilities, PRAYER abilities or abilities used by MANIFESTATIONS ."
+   },
+   {
+    "name": "FIRST AMONG AKHELIANS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Add 1 to hit rolls for combat attacks made by other friendly AKHELIAN units while they are wholly within 12\" of this unit."
+   },
+   {
+    "name": "SUPREME LORD OF TIDES ",
+    "timing": "Once Per Battle, Any Combat Phase",
+    "declare": "Pick up to 3 other friendly IDONETH DEEPKIN units wholly within 12\" of this unit to be the targets.",
+    "effect": "Add 1 to the Attacks characteristic of the targets’ melee weapons for the rest of the turn."
+   }
+  ],
+  "keywords": [
+   "WARMASTER",
+   "UNIQUE",
+   "HERO",
+   "CAVALRY",
+   "FLY",
+   "ORDER",
+   "IDONETH DEEPKIN",
+   "AELF",
+   "AKHELIAN"
+  ],
+  "unit_size": 1,
+  "points": 190,
+  "base_size": "60mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Akhelian Raidmaster or Isharann Emissary , Any IDONETH DEEPKIN"
+ },
+ {
+  "id": "Akhelian-Thrallmaster",
+  "name": "Akhelian Thrallmaster",
+  "faction": "Idoneth Deepkin",
+  "faction_slug": "idoneth-deepkin",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "5",
+  "save": "5+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Esoteric Weapons",
+    "range": "",
+    "attacks": "6",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "AKHELIAN INSIGHTS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Melee weapons used by friendly NAMARTI units have Crit (2 Hits) while they are wholly within 12\" of this unit."
+   },
+   {
+    "name": "THRALLMASTER ",
+    "timing": "Reaction: You declared a FIGHT ability for this unit",
+    "declare": "",
+    "effect": "Pick a friendly Namarti Thralls unit that has not used a FIGHT ability this turn and is within this unit’s combat range to be the target. The target can be picked to use a FIGHT ability immediately after the FIGHT ability used by this unit has been resolved."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "INFANTRY",
+   "ORDER",
+   "IDONETH DEEPKIN",
+   "AELF",
+   "AKHELIAN"
+  ],
+  "unit_size": 1,
+  "points": 90,
+  "base_size": "32mm",
+  "can_be_reinforced": false,
+  "regiment_options": "Any IDONETH DEEPKIN Notes: This HERO can join an eligible regiment as an Akhelian Raidmaster ."
+ },
+ {
+  "id": "Ikon-of-the-Sea",
+  "name": "Ikon of the Sea",
+  "faction": "Idoneth Deepkin",
+  "faction_slug": "idoneth-deepkin",
+  "grand_alliance": "Order",
+  "move": "7\"",
+  "health": "6",
+  "save": "4+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Tidal Glaive",
+    "range": "",
+    "attacks": "5",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Charge (+1 Damage)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "RAPID APPROACH ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "This unit can use a RUN ability and still use CHARGE abilities later in the turn."
+   },
+   {
+    "name": "THE SURGING SEA ",
+    "timing": "Once Per Turn (Army), Your Charge Phase",
+    "declare": "Pick this unit and up to 1 friendly IDONETH DEEPKIN unit within this unit’s combat range to be the targets.",
+    "effect": "For the rest of the turn, add 1 to the number of dice rolled when making charge rolls for the targets, to a maximum of 3."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "INFANTRY",
+   "ORDER",
+   "IDONETH DEEPKIN",
+   "AELF",
+   "AKHELIAN"
+  ],
+  "unit_size": 1,
+  "points": 120,
+  "base_size": "40mm",
+  "can_be_reinforced": false,
+  "regiment_options": "Any IDONETH DEEPKIN Notes: This HERO can join an eligible regiment as an Akhelian Raidmaster .",
+  "points_prev": 130,
+  "points_updated": "2026-06"
+ },
+ {
+  "id": "Ikon-of-the-Storm",
+  "name": "Ikon of the Storm",
+  "faction": "Idoneth Deepkin",
+  "faction_slug": "idoneth-deepkin",
+  "grand_alliance": "Order",
+  "move": "7\"",
+  "health": "6",
+  "save": "4+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Maelstrom Blades",
+    "range": "",
+    "attacks": "7",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "WHIRLPOOL’S FURY ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Enemy units cannot use RETREAT abilities while they are in combat with this unit. Friendly units that use a RETREAT ability while they are wholly within 12\" of this unit can still use SHOOT and/or CHARGE abilities later in the turn. No mortal damage is inicted on friendly IDONETH DEEPKIN units by RETREAT abilities while they are wholly within 12\" of this unit."
+   },
+   {
+    "name": "STORM OF BLADES ",
+    "timing": "Once Per Battle, Any Combat Phase",
+    "declare": "",
+    "effect": "This unit can use 2 FIGHT abilities this phase. After the first is used, however, this unit has STRIKE-LAST for the rest of the turn."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "INFANTRY",
+   "ORDER",
+   "IDONETH DEEPKIN",
+   "AELF",
+   "AKHELIAN"
+  ],
+  "unit_size": 1,
+  "points": 130,
+  "base_size": "40mm",
+  "can_be_reinforced": false,
+  "regiment_options": "Any IDONETH DEEPKIN Notes: This HERO can join an eligible regiment as an Akhelian Raidmaster ."
+ },
+ {
+  "id": "Isharann-Soulrender",
+  "name": "Isharann Soulrender",
+  "faction": "Idoneth Deepkin",
+  "faction_slug": "idoneth-deepkin",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "5",
+  "save": "3+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Talúnhook",
+    "range": "",
+    "attacks": "4",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": []
+   },
+   {
+    "name": "Rakerdart’s Serrated Bill",
+    "range": "",
+    "attacks": "3",
+    "hit": "4+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "HANGMAN’S KNOT ",
+    "timing": "Any Combat Phase",
+    "declare": "Pick an enemy HERO in combat with this unit to be the target.",
+    "effect": "Roll 2D6. If the roll exceeds the target’s Health characteristic, it is automatically destroyed."
+   },
+   {
+    "name": "LURELIGHT ",
+    "timing": "End of Any Turn",
+    "declare": "Pick up to 3 different friendly NAMARTI units wholly within 12\" of this unit to be the targets. You cannot pick the same unit to be the target of this ability more than once per turn.",
+    "effect": "Make a lurelight roll of D3 for each target unit. On a 2+, return a number of slain models to the target unit equal to the roll."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "INFANTRY",
+   "ORDER",
+   "IDONETH DEEPKIN",
+   "AELF",
+   "ISHARANN"
+  ],
+  "unit_size": 1,
+  "points": 90,
+  "base_size": "40mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Isharann Emissary , Any NAMARTI Notes: This HERO can join an eligible regiment as an Isharann Emissary ."
+ },
+ {
+  "id": "Isharann-Soulscryer",
+  "name": "Isharann Soulscryer",
+  "faction": "Idoneth Deepkin",
+  "faction_slug": "idoneth-deepkin",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "5",
+  "save": "5+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Abyssal Touch",
+    "range": "",
+    "attacks": "4",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "-",
+    "damage": "D3",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "FINDER OF WAYS ",
+    "timing": "Reaction: You declared the ‘ Unpredictable Tide ’ ability or the ‘ Steed of Tides ’ ability",
+    "declare": "",
+    "effect": "Instead of setting up the targets as described in the ability used, set them up on the battlefield wholly within 12\" of this unit and more than 7\" from all enemy units."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "WIZARD ( 1 )",
+   "INFANTRY",
+   "ORDER",
+   "IDONETH DEEPKIN",
+   "AELF",
+   "ISHARANN"
+  ],
+  "unit_size": 1,
+  "points": 100,
+  "base_size": "32mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Isharann Emissary , Any NAMARTI Notes: This HERO can join an eligible regiment as an Isharann Emissary ."
+ },
+ {
+  "id": "Isharann-Tidecaster",
+  "name": "Isharann Tidecaster",
+  "faction": "Idoneth Deepkin",
+  "faction_slug": "idoneth-deepkin",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "5",
+  "save": "5+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Pelagic Staff",
+    "range": "",
+    "attacks": "4",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "MASTER OF THE ETHERSEA ",
+    "timing": "Once Per Turn (Army), Your Hero Phase",
+    "declare": "Make an Isharann ritual roll of D6.",
+    "effect": "On a 3+, pick 1 of the following effects to apply until the start of your next turn: Creeping Mist: Friendly IDONETH DEEPKIN units cannot be targeted by shooting attacks unless the attacking model is within 12\" of them. Surging Stream: Add 1 to run rolls and charge rolls for friendly IDONETH DEEPKIN units. Spiteful Riptide: Each time an enemy unit uses a RETREAT ability, after the effect of that ability has been resolved, inflict D3 mortal damage on that unit."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "WIZARD ( 1 )",
+   "INFANTRY",
+   "ORDER",
+   "IDONETH DEEPKIN",
+   "AELF",
+   "ISHARANN"
+  ],
+  "unit_size": 1,
+  "points": 100,
+  "base_size": "32mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Isharann Emissary , Any NAMARTI"
+ },
+ {
+  "id": "Lotann-Warden-of-the-Soul-Ledgers",
+  "name": "Lotann Warden of the Soul Ledgers",
+  "faction": "Idoneth Deepkin",
+  "faction_slug": "idoneth-deepkin",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "5",
+  "save": "5+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Meloch’s Tentacles and Weapons",
+    "range": "",
+    "attacks": "8",
+    "hit": "4+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "CATALOGUE OF SOULS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Each time an enemy unit is destroyed, give this unit a soul-quota token ."
+   },
+   {
+    "name": "FOUNT OF WILLPOWER ",
+    "timing": "Once Per Turn, Reaction: You declared a SPELL ability for a friendly ISHARANN unit wholly within 12\" of this unit",
+    "declare": "",
+    "effect": "Remove 1 of this unit’s soul-quota tokens . Then, you can re-roll the casting roll ."
+   },
+   {
+    "name": "EMPOWERED BY MEMORY ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick a visible friendly IDONETH DEEPKIN unit wholly within 18\" of this unit to be the target, then make a casting roll of 2D6.",
+    "effect": "The target’s melee weapons have Crit (Auto-wound) for the rest of the turn."
+   }
+  ],
+  "keywords": [
+   "UNIQUE",
+   "HERO",
+   "WIZARD ( 1 )",
+   "INFANTRY",
+   "ORDER",
+   "IDONETH DEEPKIN",
+   "AELF",
+   "ISHARANN"
+  ],
+  "unit_size": 1,
+  "points": 100,
+  "base_size": "40mm",
+  "can_be_reinforced": false,
+  "regiment_options": "Any IDONETH DEEPKIN"
+ },
+ {
+  "id": "Mathaela-Oracle-of-the-Abyss",
+  "name": "Mathaela Oracle of the Abyss",
+  "faction": "Idoneth Deepkin",
+  "faction_slug": "idoneth-deepkin",
+  "grand_alliance": "Order",
+  "move": "10\"",
+  "health": "6",
+  "save": "5+",
+  "control": "2",
+  "ward": "6+",
+  "ranged_weapons": [
+   {
+    "name": "Riptide Blast",
+    "range": "18\"",
+    "attacks": "3",
+    "hit": "2+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": [
+     "Shoot in Combat"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Staff of the Abyss",
+    "range": "",
+    "attacks": "3",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": []
+   },
+   {
+    "name": "Dark Shoal’s Ferocious Bites",
+    "range": "",
+    "attacks": "5",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "CRUSHING PRESSURE ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick a visible enemy unit within 18\" of this unit to be the target, then make a casting roll of 2D6.",
+    "effect": "Roll a number of dice equal to the target’s Health characteristic, to a maximum of 10. For each 4+, inflict 1 mortal damage on the target."
+   },
+   {
+    "name": "SIREN SONG OF THE ABYSS ",
+    "timing": "Any Combat Phase",
+    "declare": "Pick up to 3 friendly IDONETH DEEPKIN units wholly within 12\" of this unit to be the targets.",
+    "effect": "For the rest of the turn, add 1 to the Attacks characteristic of the targets’ Companion weapons."
+   }
+  ],
+  "keywords": [
+   "UNIQUE",
+   "HERO",
+   "WIZARD ( 1 )",
+   "INFANTRY",
+   "FLY",
+   "WARD ( 6+ )",
+   "ORDER",
+   "IDONETH DEEPKIN",
+   "AELF",
+   "ISHARANN"
+  ],
+  "unit_size": 1,
+  "points": 150,
+  "base_size": "40mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Isharann Emissary , Any IDONETH DEEPKIN"
+ },
+ {
+  "id": "Scourge-of-Aqshy-Isharann-Tidecaster",
+  "name": "Scourge of Aqshy Isharann Tidecaster",
+  "faction": "Idoneth Deepkin",
+  "faction_slug": "idoneth-deepkin",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "5",
+  "save": "5+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Pelagic Staff",
+    "range": "",
+    "attacks": "4",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "MASTER OF THE ETHERSEA ",
+    "timing": "Once Per Turn (Army), Your Hero Phase",
+    "declare": "Pick a visible friendly IDONETH DEEPKIN unit wholly within 12\" of this unit to be the target.",
+    "effect": "If the target is NAMARTI , pick 1 of the following effects to apply until the start of your next turn. Otherwise, make an Isharann ritual roll of D6. On a 3+, pick 1 of the following effects to apply until the start of your next turn. Torrent of Blows: Pick 1 of the target’s melee weapons. That weapon has Crit (2 Hits) . Protection of the Waves: While this unit is within 3\" of and visible to the target, both units have WARD ( 5+ ) . Frenzy of the Ethersea: For each unmodified hit roll of 1 for a combat attack that targets that friendly unit, inflict 1 mortal damage on the attacking unit after the FIGHT ability has been resolved."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "WIZARD ( 1 )",
+   "INFANTRY",
+   "ORDER",
+   "IDONETH DEEPKIN",
+   "AELF",
+   "ISHARANN"
+  ],
+  "unit_size": 1,
+  "points": 120,
+  "base_size": "32mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Isharann Emissary , Any IDONETH DEEPKIN Notes: This unit is legal for Matched Play for battles fought using the General’s Handbook 2026-27 battlepack."
+ },
+ {
+  "id": "Scourge-of-Ghyran-Akhelian-Thrallmaster",
+  "name": "Scourge of Ghyran Akhelian Thrallmaster",
+  "faction": "Idoneth Deepkin",
+  "faction_slug": "idoneth-deepkin",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "5",
+  "save": "5+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Esoteric Weapons",
+    "range": "",
+    "attacks": "6",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "WAY OF THE VORTEX ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Subtract 1 from the Rend characteristic of weapons used for attacks that target this unit and friendly NAMARTI units while they are wholly within 12\" of this unit."
+   },
+   {
+    "name": "RAIDER CAPTAIN ",
+    "timing": "Once Per Battle (Army), Deployment Phase",
+    "declare": "Pick this unit and up to 3 friendly Namarti Thralls units wholly within 12\" of this unit to be the targets.",
+    "effect": "Each target can use the ‘ Normal Move ’ ability as if it were your movement phase."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "INFANTRY",
+   "ORDER",
+   "IDONETH DEEPKIN",
+   "AELF",
+   "AKHELIAN"
+  ],
+  "unit_size": 1,
+  "points": 90,
+  "base_size": "32mm",
+  "can_be_reinforced": false,
+  "regiment_options": "Any NAMARTI Notes: This HERO can join an eligible regiment as an Akhelian Raidmaster . This unit is legal for Matched Play for battles fought using the General’s Handbook 2025-26 battlepack."
+ },
+ {
+  "id": "Eidolon-of-Mathlann-Aspect-of-the-Sea",
+  "name": "Eidolon of Mathlann Aspect of the Sea",
+  "faction": "Idoneth Deepkin",
+  "faction_slug": "idoneth-deepkin",
+  "grand_alliance": "Order",
+  "move": "10\"",
+  "health": "12",
+  "save": "3+",
+  "control": "5",
+  "ward": "5+",
+  "ranged_weapons": [
+   {
+    "name": "Blasts of Abyssal Energy",
+    "range": "12\"",
+    "attacks": "3",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "2",
+    "damage": "D3",
+    "abilities": []
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Psi-trident and Deep‑sea Sceptre",
+    "range": "",
+    "attacks": "7",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "DORMANT ENERGIES ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Add 1 to casting rolls for this unit."
+   },
+   {
+    "name": "TSUNAMI OF TERROR ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick up to 3 different visible enemy units within 12\" of this unit to be the targets, then make a casting roll of 2D6.",
+    "effect": "Subtract 1 from save rolls for combat attacks that target those units until the start of your next turn."
+   },
+   {
+    "name": "VENGEFUL WAVES ",
+    "timing": "Once Per Turn (Army), Any Charge Phase",
+    "declare": "If this unit has not charged this turn, pick an enemy unit in combat with it to be the target.",
+    "effect": "Roll a dice. On a 3+, the target cannot use commands for the rest of the turn."
+   },
+   {
+    "name": "TRANQUILLITY OF THE ABYSS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Ignore negative modifiers to the control scores of friendly IDONETH DEEPKIN units while they are wholly within 12\" of this unit."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "MONSTER",
+   "WIZARD ( 2 )",
+   "FLY",
+   "WARD ( 5+ )",
+   "ORDER",
+   "IDONETH DEEPKIN",
+   "AELF",
+   "EIDOLON"
+  ],
+  "unit_size": 1,
+  "points": 340,
+  "base_size": "100mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Isharann Emissary , Any IDONETH DEEPKIN"
+ },
+ {
+  "id": "Eidolon-of-Mathlann-Aspect-of-the-Storm",
+  "name": "Eidolon of Mathlann Aspect of the Storm",
+  "faction": "Idoneth Deepkin",
+  "faction_slug": "idoneth-deepkin",
+  "grand_alliance": "Order",
+  "move": "10\"",
+  "health": "12",
+  "save": "3+",
+  "control": "5",
+  "ward": "5+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Spear of Repressed Fury and Crulhook",
+    "range": "",
+    "attacks": "7",
+    "hit": "3+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "2",
+    "abilities": [
+     "Charge (+1 Damage)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "CRASHING UPON THE FOE ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "This unit can use CHARGE abilities even if it used a RETREAT ability in the same turn. In addition, no mortal damage is inflicted on this unit by RETREAT abilities."
+   },
+   {
+    "name": "PULLED INTO THE DEPTHS ",
+    "timing": "Once Per Turn (Army), Any Charge Phase",
+    "declare": "Pick an enemy HERO in combat with this unit to be the target.",
+    "effect": "Roll a dice. On a 3+, the target has STRIKE-LAST for the rest of the turn."
+   },
+   {
+    "name": "DRENCH WITH HATE ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Add 1 to wound rolls for combat attacks made by friendly IDONETH DEEPKIN units while they are wholly within 12\" of this unit."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "MONSTER",
+   "FLY",
+   "WARD ( 5+ )",
+   "ORDER",
+   "IDONETH DEEPKIN",
+   "AELF",
+   "EIDOLON"
+  ],
+  "unit_size": 1,
+  "points": 280,
+  "base_size": "100mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Isharann Emissary , Any IDONETH DEEPKIN"
+ },
+ {
+  "id": "Akhelian-Allopex",
+  "name": "Akhelian Allopex",
+  "faction": "Idoneth Deepkin",
+  "faction_slug": "idoneth-deepkin",
+  "grand_alliance": "Order",
+  "move": "12\"",
+  "health": "8",
+  "save": "4+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Razorshell Harpoon",
+    "range": "18\"",
+    "attacks": "2",
+    "hit": "3+",
+    "wound": "2+",
+    "rend": "1",
+    "damage": "3",
+    "abilities": [
+     "Anti- MONSTER (+1 Rend)"
+    ]
+   },
+   {
+    "name": "Retarius Net Launcher",
+    "range": "18\"",
+    "attacks": "2",
+    "hit": "3+",
+    "wound": "2+",
+    "rend": "1",
+    "damage": "3",
+    "abilities": [
+     "Anti- CAVALRY (+1 Rend)"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Allopex’s Ferocious Bite",
+    "range": "",
+    "attacks": "3",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "2",
+    "abilities": [
+     "Anti- MONSTER (+1 Rend) , Companion"
+    ]
+   },
+   {
+    "name": "Barbed Hooks and Blades",
+    "range": "",
+    "attacks": "4",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "BLOODTHIRSTY PREDATORS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Add 1 to the Attacks characteristic of this unit’s Allopex’s Ferocious Bite while it is within 6\" of any damaged enemy units or while it is within 6\" of any enemy units that had any models slain in the same turn."
+   },
+   {
+    "name": "ENSNARED ",
+    "timing": "Any Shooting Phase",
+    "declare": "Pick an enemy MONSTER or CAVALRY unit that had any damage points allocated to it this turn by this unit’s shooting attacks to be the target.",
+    "effect": "Roll a dice. On a 3+, until the start of your next turn, subtract 1 from the number of dice rolled when making charge rolls for the target, to a minimum of 1."
+   }
+  ],
+  "keywords": [
+   "CAVALRY",
+   "FLY",
+   "ORDER",
+   "IDONETH DEEPKIN",
+   "AELF",
+   "AKHELIAN"
+  ],
+  "unit_size": 1,
+  "points": 160,
+  "base_size": "90 × 52mm",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Akhelian-Ishlaen-Guard",
+  "name": "Akhelian Ishlaen Guard",
+  "faction": "Idoneth Deepkin",
+  "faction_slug": "idoneth-deepkin",
+  "grand_alliance": "Order",
+  "move": "14\"",
+  "health": "4",
+  "save": "4+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Helsabre",
+    "range": "",
+    "attacks": "3",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": []
+   },
+   {
+    "name": "Fangmora’s Fangs and Lashing Tail",
+    "range": "",
+    "attacks": "3",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": [
+     "Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "GALV-SHIELDS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "This unit has WARD ( 5+ ) if it charged in the same turn."
+   },
+   {
+    "name": "BIOVOLTAIC BARRIER ",
+    "timing": "Any Combat Phase",
+    "declare": "Pick an enemy unit in combat with this unit to be the target.",
+    "effect": "Roll a dice. On a 3+, subtract 1 from the Attacks characteristic of the target unit’s weapons for the rest of the turn."
+   }
+  ],
+  "keywords": [
+   "CAVALRY",
+   "CHAMPION",
+   "MUSICIAN ( 1/3 )",
+   "STANDARD BEARER ( 1/3 )",
+   "FLY",
+   "ORDER",
+   "IDONETH DEEPKIN",
+   "AELF",
+   "AKHELIAN"
+  ],
+  "unit_size": 3,
+  "points": 170,
+  "base_size": "60 × 35mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Akhelian-Morrsarr-Guard",
+  "name": "Akhelian Morrsarr Guard",
+  "faction": "Idoneth Deepkin",
+  "faction_slug": "idoneth-deepkin",
+  "grand_alliance": "Order",
+  "move": "14\"",
+  "health": "4",
+  "save": "4+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Voltspear",
+    "range": "",
+    "attacks": "2",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Anti- CAVALRY (+1 Rend) , Charge (+1 Damage)"
+    ]
+   },
+   {
+    "name": "Fangmora’s Fangs and Lashing Tail",
+    "range": "",
+    "attacks": "3",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": [
+     "Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "BIOVOLTAIC BLAST ",
+    "timing": "Any Charge Phase",
+    "declare": "If this unit charged this phase, pick an enemy unit within 1\" of it to be the target.",
+    "effect": "Roll a number of dice equal to the number of models in this unit. Add 1 to each roll if there are more models in the target unit than this unit. For each 3+, inflict 1 mortal damage on the target."
+   }
+  ],
+  "keywords": [
+   "CAVALRY",
+   "CHAMPION",
+   "MUSICIAN ( 1/3 )",
+   "STANDARD BEARER ( 1/3 )",
+   "FLY",
+   "ORDER",
+   "IDONETH DEEPKIN",
+   "AELF",
+   "AKHELIAN"
+  ],
+  "unit_size": 3,
+  "points": 160,
+  "base_size": "60 × 35mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Namarti-Reavers",
+  "name": "Namarti Reavers",
+  "faction": "Idoneth Deepkin",
+  "faction_slug": "idoneth-deepkin",
+  "grand_alliance": "Order",
+  "move": "7\"",
+  "health": "1",
+  "save": "5+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Whisperbow",
+    "range": "12\"",
+    "attacks": "2",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Crit (Auto-wound)"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Keening Blade",
+    "range": "",
+    "attacks": "1",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "STRIKE ON THE MOVE ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "This unit can use SHOOT abilities even if it used a RUN or RETREAT ability in the same turn."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "CHAMPION",
+   "ORDER",
+   "IDONETH DEEPKIN",
+   "AELF",
+   "NAMARTI"
+  ],
+  "unit_size": 10,
+  "points": 110,
+  "base_size": "32mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Namarti-Thralls",
+  "name": "Namarti Thralls",
+  "faction": "Idoneth Deepkin",
+  "faction_slug": "idoneth-deepkin",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "1",
+  "save": "5+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Lanmari",
+    "range": "",
+    "attacks": "2",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Anti- INFANTRY (+1 Rend) , Anti- MONSTER (+1 Rend)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "SWEEPING BLOWS ",
+    "timing": "Reaction: You declared a FIGHT ability for this unit.",
+    "declare": "",
+    "effect": "If any damage points inflicted by attacks made as part of that FIGHT ability are allocated to any enemy units, subtract 1 from wound rolls for attacks made by those enemy units for the rest of the turn."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "CHAMPION",
+   "ORDER",
+   "IDONETH DEEPKIN",
+   "AELF",
+   "NAMARTI"
+  ],
+  "unit_size": 10,
+  "points": 90,
+  "base_size": "32mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Scourge-of-Aqshy-Namarti-Reavers",
+  "name": "Scourge of Aqshy Namarti Reavers",
+  "faction": "Idoneth Deepkin",
+  "faction_slug": "idoneth-deepkin",
+  "grand_alliance": "Order",
+  "move": "7\"",
+  "health": "1",
+  "save": "5+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Whisperbow",
+    "range": "12\"",
+    "attacks": "2",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Crit (Auto-wound)"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Keening Blade",
+    "range": "",
+    "attacks": "1",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "MERCILESS HUNTERS ",
+    "timing": "Once Per Turn (Army), Reaction: You declared a SHOOT ability for this unit",
+    "declare": "",
+    "effect": "After that SHOOT ability has been resolved, if all of this unit’s attacks targeted the same enemy unit and any models in that unit were slain, pick 1 of the effects below to apply for the rest of the turn. If all of this unit’s attacks targeted the same enemy unit and no models in that unit were slain, roll a dice. On a 3+, pick 1 of the effects below to apply for the rest of the turn: Subtract 1 from ward rolls for the target. Ignore positive modifiers to save rolls for the target."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "CHAMPION",
+   "ORDER",
+   "IDONETH DEEPKIN",
+   "AELF",
+   "NAMARTI"
+  ],
+  "unit_size": 10,
+  "points": 100,
+  "base_size": "32mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Scourge-of-Ghyran-Namarti-Thralls",
+  "name": "Scourge of Ghyran Namarti Thralls",
+  "faction": "Idoneth Deepkin",
+  "faction_slug": "idoneth-deepkin",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "1",
+  "save": "5+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Lanmari",
+    "range": "",
+    "attacks": "2",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Anti- INFANTRY (+1 Rend) , Anti- MONSTER (+1 Rend)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "HIT-AND-RUN TACTICS ",
+    "timing": "Any Combat Phase",
+    "declare": "If this unit is in combat or charged this turn, this unit can make a pile-in move . Then, if this unit is in combat, you must pick 1 or more enemy units to be the target(s) of this unit’s attacks.",
+    "effect": "Resolve combat attacks against the target unit(s). Then, if this unit is in combat, roll a dice. On a 3+, this unit can move a distance up to its Move characteristic. It can pass through the combat ranges of enemy units but can only end that move in combat with units it was in combat with at the start of that move. It does not have to end the move in combat."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "CHAMPION",
+   "ORDER",
+   "IDONETH DEEPKIN",
+   "AELF",
+   "NAMARTI"
+  ],
+  "unit_size": 10,
+  "points": 80,
+  "base_size": "32mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Cyreni-s-Razors",
+  "name": "Cyreni’s Razors",
+  "faction": "Idoneth Deepkin",
+  "faction_slug": "idoneth-deepkin",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "2",
+  "save": "5+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Cephanyr’s Tentacles",
+    "range": "",
+    "attacks": "6",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": [
+     "Companion"
+    ]
+   },
+   {
+    "name": "Lanmari Weapons",
+    "range": "",
+    "attacks": "2",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "CYRENI OF THE ABYSS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit’s Cyreni of the Abyss is on the battlefield, it has WIZARD ( 1 ) ."
+   },
+   {
+    "name": "PHASE INK ",
+    "timing": "Any Combat Phase",
+    "declare": "If this unit’s Cephanyr is on the battlefield, pick an enemy unit in combat with this unit to be the target.",
+    "effect": "Roll a dice. On a 3+, the target has STRIKE-LAST for the rest of the turn."
+   }
+  ],
+  "keywords": [
+   "UNIQUE",
+   "INFANTRY",
+   "ORDER",
+   "IDONETH DEEPKIN",
+   "AELF",
+   "AKHELIAN",
+   "NAMARTI"
+  ],
+  "unit_size": 4,
+  "points": 120,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Elathain-s-Soulraid",
+  "name": "Elathain’s Soulraid",
+  "faction": "Idoneth Deepkin",
+  "faction_slug": "idoneth-deepkin",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "2",
+  "save": "5+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Riptide Harpoon",
+    "range": "8\"",
+    "attacks": "1",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": [
+     "Shoot in Combat"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Soulraid Weapons",
+    "range": "",
+    "attacks": "2",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "ELATHAIN’S LURELIGHT ",
+    "timing": "End of Any Turn",
+    "declare": "",
+    "effect": "Roll a D3. On a 2+, return a number of slain models to this unit equal to the roll."
+   },
+   {
+    "name": "SOULNET ",
+    "timing": "Any Combat Phase",
+    "declare": "If this unit’s Elathain Ill-fated is on the battlefield, pick an enemy INFANTRY unit in combat with this unit to be the target.",
+    "effect": "Roll a dice. If the roll equals or exceeds the target’s Health characteristic, 1 model in the target unit is slain."
+   }
+  ],
+  "keywords": [
+   "UNIQUE",
+   "INFANTRY",
+   "CHAMPION",
+   "ORDER",
+   "IDONETH DEEPKIN",
+   "AELF",
+   "AKHELIAN",
+   "NAMARTI"
+  ],
+  "unit_size": 5,
+  "points": 80,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Akhelian-Leviadon",
+  "name": "Akhelian Leviadon",
+  "faction": "Idoneth Deepkin",
+  "faction_slug": "idoneth-deepkin",
+  "grand_alliance": "Order",
+  "move": "10\"",
+  "health": "16",
+  "save": "3+",
+  "control": "5",
+  "ward": "5+",
+  "ranged_weapons": [
+   {
+    "name": "Razorshell Harpoon Launchers",
+    "range": "18\"",
+    "attacks": "4",
+    "hit": "3+",
+    "wound": "2+",
+    "rend": "1",
+    "damage": "3",
+    "abilities": [
+     "Anti- MONSTER (+1 Rend)"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Leviadon’s Scythed Fins and Crushing Jaws",
+    "range": "",
+    "attacks": "7",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "3",
+    "abilities": [
+     "Crit (Mortal) , Companion"
+    ]
+   },
+   {
+    "name": "Crew’s Spears and Harpoons",
+    "range": "",
+    "attacks": "4",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "VOID DRUM ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Friendly IDONETH DEEPKIN units have WARD ( 5+ ) while they are wholly within 6\" of this unit."
+   },
+   {
+    "name": "CRUSHING CHARGE ",
+    "timing": "Once Per Turn (Army), Any Charge Phase",
+    "declare": "If this unit charged this phase, pick an enemy INFANTRY unit within 1\" of it to be the target.",
+    "effect": "Roll a dice. Add 1 to the roll if the target unit has more than 10 models. On a 3+, inflict an amount of mortal damage on the target equal to the roll."
+   },
+   {
+    "name": "BATTLE DAMAGED",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit has 10 or more damage points, the Attacks characteristic of its Leviadon’s Scythed Fins and Crushing Jaws is 5."
+   }
+  ],
+  "keywords": [
+   "MONSTER",
+   "FLY",
+   "WARD ( 5+ )",
+   "ORDER",
+   "IDONETH DEEPKIN",
+   "AELF",
+   "AKHELIAN"
+  ],
+  "unit_size": 1,
+  "points": 450,
+  "base_size": "120 × 92mm",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Abyssal-Tendril",
+  "name": "Abyssal Tendril",
+  "faction": "Idoneth Deepkin",
+  "faction_slug": "idoneth-deepkin",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Freezing Grasp",
+    "range": "",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "WATERY CLUTCH ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "Pick an enemy unit in combat with this MANIFESTATION to be the target.",
+    "effect": "Roll a dice. If the roll exceeds the target’s Health characteristic, the target is ensnared for the rest of the turn. A unit cannot use commands while it is ensnared ."
+   },
+   {
+    "name": "CRUSHING COIL ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Add 1 to hit rolls for attacks made by friendly IDONETH DEEPKIN MANIFESTATIONS that target an ensnared enemy unit."
+   }
+  ],
+  "keywords": [
+   "MANIFESTATION",
+   "ENDLESS SPELL",
+   "INCARNATE",
+   "WARD ( 6+ )",
+   "ORDER",
+   "IDONETH DEEPKIN"
+  ],
+  "unit_size": null,
+  "points": null,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Incarnate-of-the-Deep",
+  "name": "Incarnate of the Deep",
+  "faction": "Idoneth Deepkin",
+  "faction_slug": "idoneth-deepkin",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Crushing Maw and Scything Waves",
+    "range": "",
+    "attacks": "6",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "1",
+    "damage": "3",
+    "abilities": [
+     "Anti- FACTION TERRAIN (+1 Rend)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "SURRENDER TO THE SEA ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "When this MANIFESTATION is removed from play, each friendly Abyssal Tendril on the battlefield is automatically removed from play."
+   },
+   {
+    "name": "WILD FORM ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Each time this MANIFESTATION is targeted by the ‘ Banish Manifestation ’ ability, if it would be banished , it is not banished. Instead, allocate 6 damage points to it ( ward rolls cannot be made for those damage points)."
+   },
+   {
+    "name": "GRASPING TENDRILS ",
+    "timing": "Any Hero Phase",
+    "declare": "",
+    "effect": "Roll a dice. Add 1 to the roll if it is your turn. On a 4+: You can remove 1 friendly Abyssal Tendril from the battlefield. If there are fewer than 2 friendly Abyssal Tendrils on the battlefield, you can set up an Abyssal Tendril wholly within 9\" of this MANIFESTATION ."
+   }
+  ],
+  "keywords": [
+   "MANIFESTATION",
+   "ENDLESS SPELL",
+   "INCARNATE",
+   "FLY",
+   "WARD ( 6+ )",
+   "ORDER",
+   "IDONETH DEEPKIN"
+  ],
+  "unit_size": null,
+  "points": null,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Gloomtide-Shipwreck",
+  "name": "Gloomtide Shipwreck",
+  "faction": "Idoneth Deepkin",
+  "faction_slug": "idoneth-deepkin",
+  "grand_alliance": "Order",
+  "move": "-",
+  "health": "7",
+  "save": "4+",
+  "control": "0",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "RISE FROM THE DEPTHS ",
+    "timing": "Deployment Phase",
+    "declare": "This ability must be used instead of the ‘ Deploy Faction Terrain ’ ability.",
+    "effect": "Set up this faction terrain either as 1 terrain feature consisting of 2 scenery pieces (that must be set up within 3\" of each other) or as 2 separate terrain features . Set up each terrain feature wholly within friendly territory and more than 3\" from all objectives and other terrain features. After you have done so, it has been deployed. If this faction terrain is set up as 1 terrain feature consisting of 2 scenery pieces, it has a Health characteristic of 14 instead of 7."
+   },
+   {
+    "name": "GUARDIANS OF THE DEEP ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Add 1 to save rolls for friendly IDONETH DEEPKIN INFANTRY and CAVALRY units while they are wholly within 6\" of this terrain feature ."
+   },
+   {
+    "name": "PHANTASMAL RUIN ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Models can pass through this terrain feature but cannot be set up on or end moves on any part of this terrain feature. Each time an enemy unit ends a move that passed through or across this terrain feature, roll a D3. On a 2+, inflict an amount of mortal damage on that unit equal to the roll."
+   }
+  ],
+  "keywords": [
+   "FACTION TERRAIN",
+   "ORDER",
+   "IDONETH DEEPKIN"
+  ],
+  "unit_size": null,
+  "points": 0,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": "",
+  "points_prev": null,
+  "points_updated": "2026-06"
+ },
+ {
+  "id": "Bundo-Whalebiter",
+  "name": "Bundo Whalebiter",
+  "faction": "Idoneth Deepkin",
+  "faction_slug": "idoneth-deepkin",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "DEAD CUNNING, FOR A GARGANT ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "",
+    "effect": "For the rest of the turn, add 1 to the Attacks characteristic of this unit’s weapons. Then, roll a dice. On a 4+, this unit has STRIKE-LAST for the rest of the turn."
+   },
+   {
+    "name": "TIMBERRRRR! ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "When the MEGA-GARGANT in this regiment of renown is slain, before removing it from play, the players must roll off . The winner picks a point on the battlefield within 3\" of that model. Inflict D3 mortal damage on each unit (friendly and enemy) within 3\" of that point that has a lower Health characteristic than that model."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 450,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Cogfort-Raiders",
+  "name": "Cogfort Raiders",
+  "faction": "Idoneth Deepkin",
+  "faction_slug": "idoneth-deepkin",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [],
+  "keywords": [],
+  "unit_size": null,
+  "points": 450,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Outlaw-Conqueror-Cogfort",
+  "name": "Outlaw Conqueror Cogfort",
+  "faction": "Idoneth Deepkin",
+  "faction_slug": "idoneth-deepkin",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "25",
+  "save": "3+",
+  "control": "10",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Realmscorcher Flame Cannon",
+    "range": "18\"",
+    "attacks": "6D6",
+    "hit": "2+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Anti- INFANTRY (+1 Rend)"
+    ]
+   },
+   {
+    "name": "Crew’s Leadshotters",
+    "range": "12\"",
+    "attacks": "6",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": [
+     "Shoot in Combat"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Crushing Iron Feet",
+    "range": "",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "4",
+    "abilities": [
+     "Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "BATTLE DAMAGED",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit has 10 or more damage points: The Attacks characteristic of its Crushing Iron Feet is 3. It has a Control characteristic of 5."
+   },
+   {
+    "name": "EVERYONE ABOARD! ",
+    "timing": "Deployment Phase",
+    "declare": "Pick up to 1 friendly INFANTRY HERO and up to 1 friendly non- reinforced , non- HERO INFANTR y unit that have not been deployed.",
+    "effect": "Set up those units in reserve as this unit’s passengers . They have now been deployed."
+   },
+   {
+    "name": "THIS IS YOUR STOP, MAGGOTS! ",
+    "timing": "Once Per Battle, Any Charge Phase",
+    "declare": "Pick this unit’s passengers to be the targets.",
+    "effect": "Set up each target wholly within 6\" of this unit and more than 9\" from all enemy units. In addition, the targets’ melee weapons have Charge (+1 Damage) for the rest of the turn."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "WAR MACHINE",
+   "ORDER"
+  ],
+  "unit_size": null,
+  "points": null,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Dawnrider-Lance",
+  "name": "Dawnrider Lance",
+  "faction": "Idoneth Deepkin",
+  "faction_slug": "idoneth-deepkin",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "BLINDING CHARGE ",
+    "timing": "Once Per Turn (Army), Any Charge Phase",
+    "declare": "Pick a unit in this Regiment of Renown that charged this turn. Then, pick an enemy INFANTRY unit within 1\" of that unit to be the target.",
+    "effect": "For the rest of the turn, ignore positive modifiers to save rolls for the target."
+   },
+   {
+    "name": "MASTERS OF ALL TERRAIN ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Ignore negative modifiers to run rolls and charge rolls for units in this Regiment of Renown and to their Move characteristic."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 260,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Drekki-s-Privateers",
+  "name": "Drekki’s Privateers",
+  "faction": "Idoneth Deepkin",
+  "faction_slug": "idoneth-deepkin",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "CRUISING INTO POSITION ",
+    "timing": "Deployment Phase",
+    "declare": "Pick all units in this Regiment of Renown that have not been deployed.",
+    "effect": "Set up all of those units in reserve plying the winds. They have now been deployed."
+   },
+   {
+    "name": "YOU CALL IT YOURS, I CALL IT MINE ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Add 1 to hit rolls and wound rolls for shooting attacks made by units in this Regiment of Renown that target an enemy unit that is within 6\" of an enemy unit that has an enhancement."
+   },
+   {
+    "name": "DAREDEVIL DEPLOYMENT ",
+    "timing": "Your Movement Phase",
+    "declare": "Pick the Arkanaut Frigate in this Regiment of Renown to use this ability if it is plying the winds.",
+    "effect": "Set up the Arkanaut Frigate anywhere on the battlefield more than 9\" from all enemy units. Then, set up all other units in this Regiment of Renown wholly within 6\" of the Arkanaut Frigate and more than 9\" from all enemy units."
+   },
+   {
+    "name": "THE GOOD SHIP AELSLING ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "The Aelsling in this Regiment of Renown has a Health characteristic of 17 instead of 14."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 500,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Drycha-s-Talons",
+  "name": "Drycha’s Talons",
+  "faction": "Idoneth Deepkin",
+  "faction_slug": "idoneth-deepkin",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "BITTER ROOTS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "If they do not otherwise have one, terrain features have a friendly overgrown token while they are contested by a Spite-Revenants unit in this Regiment of Renown ."
+   },
+   {
+    "name": "CONCEALED IN THE SHADOWS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While they are wholly within 3\" of a terrain feature , the Spite-Revenants units in this Regiment of Renown are not visible to enemy units more than 12\" away from them."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 360,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Elthwin-s-Thorns",
+  "name": "Elthwin’s Thorns",
+  "faction": "Idoneth Deepkin",
+  "faction_slug": "idoneth-deepkin",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "GOSSAMID CHAMPION ",
+    "timing": "Your Shooting Phase",
+    "declare": "Pick the Arch-Revenant in this Regiment of Renown to use this ability, the pick a visible enemy unit within 12\" of them to be the target.",
+    "effect": "Until the start of your next turn, subtract X from charge rolls for the target, where X is the number of damage points allocated to the target this phase by shooting attacks made by the Gossamid Archers unit in the Regiment of Renown, to a maximum of 6."
+   },
+   {
+    "name": "FLIGHT OF THE ZEPHYRSPITES ",
+    "timing": "Once Per Turn (Army), Your Shooting Phase",
+    "declare": "",
+    "effect": "If both units in this Regiment of Renown are within each other’s combat range and neither unit is in combat , roll a dice. On a 3+, remove both units from the battlefield, then set them up again within each other’s combat range, wholly within 3\" of a terrain feature and more than 9\" from all enemy units."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 220,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Heroes-of-The-Jade-Abbey",
+  "name": "Heroes of The Jade Abbey",
+  "faction": "Idoneth Deepkin",
+  "faction_slug": "idoneth-deepkin",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "STRONGER TOGETHER ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While each unit in this Regiment of Renown is wholly within 6\" of each other unit in this Regiment of Renown, add 1 to the Attacks characteristic of melee weapons used by units in this Regiment of Renown."
+   },
+   {
+    "name": "WATERS OF THE EVERSPRING ",
+    "timing": "End of Any Turn",
+    "declare": "",
+    "effect": "Heal (1) each unit in this Regiment of Renown."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": null,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Khinerai-Death-Flight",
+  "name": "Khinerai Death Flight",
+  "faction": "Idoneth Deepkin",
+  "faction_slug": "idoneth-deepkin",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "FIERCE COMPETITION ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Each time a unit in this Regiment of Renown uses an ability and any enemy models were slain by that ability, after that ability has been resolved, the unit that used that ability is pre-eminent and the other unit in this Regiment of Renown is overlooked . Weapons used by an overlooked unit in this Regiment of Renown have Crit (Auto-wound) ."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 240,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Mask-of-the-Deceiver",
+  "name": "Mask of the Deceiver",
+  "faction": "Idoneth Deepkin",
+  "faction_slug": "idoneth-deepkin",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [],
+  "keywords": [],
+  "unit_size": null,
+  "points": 170,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Mask-of-The-Deceiver-1",
+  "name": "Mask of The Deceiver",
+  "faction": "Idoneth Deepkin",
+  "faction_slug": "idoneth-deepkin",
+  "grand_alliance": "Order",
+  "move": "5\"",
+  "health": "6",
+  "save": "5+",
+  "control": "2",
+  "ward": "5+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "The Trickster’s Staff",
+    "range": "",
+    "attacks": "3",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "MASKED IN PLAIN SIGHT ",
+    "timing": "Deployment Phase",
+    "declare": "This unit must be deployed using this ability.",
+    "effect": "Set up this unit in reserve incognito . It has now been deployed. Friendly incognito units are destroyed at the end of the fifth battle round and not at the start of the fourth battle round"
+   },
+   {
+    "name": "BAIT AND SWITCH ",
+    "timing": "Any Hero Phase",
+    "declare": "This unit can use this ability if it is incognito . Pick this unit and a friendly INFANTRY HERO to be the targets. One target must be incognito and the other must be on the battlefield.",
+    "effect": "Set up the incognito target wholly within 6\" of the other target and not in combat . Then, remove the other target from the battlefield and set it up in reserve incognito . If this unit is destroyed, before removing it from play, set up the friendly incognito unit wholly within 6\" of a battlefield edge and not in combat."
+   },
+   {
+    "name": "FORCEFUL COMMAND ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick a visible friendly unit wholly within 12\" of this unit to be the target, then make a casting roll of 2D6.",
+    "effect": "Until the start of your next turn: The target cannot use MOVE abilities. The target’s melee weapons have Anti-charge (+1 Rend) ."
+   }
+  ],
+  "keywords": [
+   "UNIQUE",
+   "HERO",
+   "WIZARD ( 2 )",
+   "INFANTRY",
+   "WARD ( 5+ )",
+   "CHAOS",
+   "DISCIPLES OF TZEENTCH",
+   "DAEMON"
+  ],
+  "unit_size": null,
+  "points": null,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Norgrimm-s-Rune-Throng",
+  "name": "Norgrimm’s Rune Throng",
+  "faction": "Idoneth Deepkin",
+  "faction_slug": "idoneth-deepkin",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "WRATH AND RUIN ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick the Runelord in this Regiment of Renown to chant this prayer, pick a visible enemy unit within 18\" of them to be the target, then make a chanting roll of D6.",
+    "effect": "Roll 6 dice. If the chanting roll was 8+, roll 9 dice instead. For each 5+, inflict 1 mortal damage on the target. If 3 or more damage points are allocated to the target as a result of those dice rolls, ignore positive modifiers to save rolls for the target until the start of your next turn."
+   },
+   {
+    "name": "RUNE OF RESTORED HEARTH ",
+    "timing": "Once Per Battle (Army), Your Hero Phase",
+    "declare": "",
+    "effect": "If the Runelord in the Regiment of Renown is contesting an objective , for the rest of the battle, units in this Regiment of Renown have WARD ( 5+ ) while they are contesting that objective."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 330,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Reinholt-s-Sharpshooters",
+  "name": "Reinholt’s Sharpshooters",
+  "faction": "Idoneth Deepkin",
+  "faction_slug": "idoneth-deepkin",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "FRIENDLY COMPETITION ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Add 1 to hit rolls for shooting attacks made by non- HERO units in this Regiment of Renown if any enemy models were slain by shooting attacks made by non- HERO units in this Regiment of Renown in the same turn."
+   },
+   {
+    "name": "CASTLE UP! ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While a non- HERO unit in this Regiment of Renown is within the combat range of and visible to this Regiment of Renown’s HERO , those units are under orders ."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 400,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Rogue-Engine",
+  "name": "Rogue Engine",
+  "faction": "Idoneth Deepkin",
+  "faction_slug": "idoneth-deepkin",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [],
+  "keywords": [],
+  "unit_size": null,
+  "points": 470,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Outlaw-Cannonade-Cogfort-1",
+  "name": "Outlaw Cannonade Cogfort",
+  "faction": "Idoneth Deepkin",
+  "faction_slug": "idoneth-deepkin",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "25",
+  "save": "3+",
+  "control": "10",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Godbreaker Cannon",
+    "range": "24\"",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "4",
+    "abilities": []
+   },
+   {
+    "name": "Breacher Cannon",
+    "range": "12\"",
+    "attacks": "6",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Anti- INFANTRY (+1 Rend)"
+    ]
+   },
+   {
+    "name": "Crew’s Leadshotters",
+    "range": "12\"",
+    "attacks": "6",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": [
+     "Shoot in Combat"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Crushing Iron Feet",
+    "range": "",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "4",
+    "abilities": [
+     "Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "BATTLE DAMAGED",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit has 10 or more damage points: The Attacks characteristic of its Crushing Iron Feet is 3. It has a Control characteristic of 5."
+   },
+   {
+    "name": "MERCENARY ATTITUDES ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick another friendly NON-UNIQUE unit wholly within 12\" of this unit to be the target.",
+    "effect": "Pick 1 of the following effects to apply until the start of your next turn and while the target is wholly within 12\" of this unit: You can re-roll run rolls for the target. Add 1 to charge rolls for the target. The target cannot be targeted by shooting attacks . Add 1 to wound rolls for the target’s combat attacks . Add 10 to the target’s control score ."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "WAR MACHINE",
+   "ORDER"
+  ],
+  "unit_size": null,
+  "points": null,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Saviours-of-Cinderfall",
+  "name": "Saviours of Cinderfall",
+  "faction": "Idoneth Deepkin",
+  "faction_slug": "idoneth-deepkin",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "SIGMAR’S JUSTICE ",
+    "timing": "Once Per Battle (Army), Deployment Phase",
+    "declare": "Pick an enemy unit to be marked for justice . You can pick a unit that is in reserve .",
+    "effect": "For the rest of the battle, add 1 to wound rolls for combat attacks made by units in this Regiment of Renown that target a unit that is marked for justice ."
+   },
+   {
+    "name": "DUTY BOUND ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While every model in the same unit in the Regiment of Renown is contesting the same objective , add 1 to save rolls and ward rolls for that unit."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 290,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Sigil-Convocation",
+  "name": "Sigil Convocation",
+  "faction": "Idoneth Deepkin",
+  "faction_slug": "idoneth-deepkin",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "CYCLE MANIFESTATION ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick the Scinari Calligrave in this Regiment of Renown to cast this spell, pick 1 of the friendly MANIFESTATIONS below that is not on the battlefield, then make a casting roll of 2D6. Sanctum of Amyntok Hyshian Twinstones Rune of Petrification",
+    "effect": "If there is already a friendly MANIFESTATION from the list above on the battlefield, it is immediately banished and removed from play. Then, set up the MANIFESTATION you picked within 1\" of the caster and visible to them. If that MANIFESTATION is a Sanctum of Amyntok , it must instead be set up wholly within 12\" of the caster, more than 3\" from all enemy units, and with its 3 parts touching each other so that they form a ring."
+   },
+   {
+    "name": "SWIFT ERASURE ",
+    "timing": "Reaction: Opponent declared a SPELL ability",
+    "declare": "",
+    "effect": "Roll a dice for each friendly unit that was picked to be a target of that SPELL ability and that is wholly within 12\" of the Scinari Calligrave in this Regiment of Renown . On a 4+, that SPELL ability has no effect on that unit."
+   },
+   {
+    "name": "ARCANE TAXONOMY ",
+    "timing": "Once Per Turn, Your Movement Phase",
+    "declare": "",
+    "effect": "Remove the Scinari Calligrave in this Regiment of Renown from the battlefield and set it up again on the battlefield wholly within 3\" of a friendly MANIFESTATION and more than 7\" from all enemy units."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 130,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Sky-Port-Profiteers",
+  "name": "Sky-Port Profiteers",
+  "faction": "Idoneth Deepkin",
+  "faction_slug": "idoneth-deepkin",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "SUPPLIES DONT COME CHEAP ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick a visible terrain feature within 18\" of the Codewright in this Regiment of Renown . Each friendly unit wholly within 3\" of that terrain feature is a target.",
+    "effect": "Roll a D3 for each target. On a 2+, Heal (X) the target, where X is an amount equal to the roll."
+   },
+   {
+    "name": "NO ONE RIDES FOR FREE ",
+    "timing": "Your Movement Phase",
+    "declare": "Pick a friendly INFANTRY unit with up to 10 models that is wholly within 9\" of the Codewright in this Regiment of Renown and not in combat to be the target.",
+    "effect": "Remove the target from the battlefield, then set it up again on the battlefield more than 9\" from all enemy units."
+   },
+   {
+    "name": "LONG-RANGE SUPPORT ",
+    "timing": "Your Shooting Phase",
+    "declare": "Pick an objective within 15\" of the Codewright in this Regiment of Renown and that no friendly units are contesting . Each unit contesting that objective is a target.",
+    "effect": "Roll a dice for each target. If the roll exceeds the target’s Health characteristic, inflict an amount of mortal damage on the target equal to the roll."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 350,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "The-Crimson-Lash",
+  "name": "The Crimson Lash",
+  "faction": "Idoneth Deepkin",
+  "faction_slug": "idoneth-deepkin",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "SITE OF SLAUGHTER ",
+    "timing": "Once Per Battle (Army), Deployment Phase",
+    "declare": "",
+    "effect": "Pick an objective wholly outside friendly territory. That objective is considered by you to be the amphitheatre ."
+   },
+   {
+    "name": "FINISHING MOVES ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While each model in a unit in this Regiment of Renown is contesting the amphitheatre : That unit’s melee weapons have Crit (Mortal) . If you control the amphitheatre , if the unmodified hit roll or wound roll for an attack that targets that unit is a 1-4, the attack fails and the attack sequence ends."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 220,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "The-Horizon-Seekers",
+  "name": "The Horizon Seekers",
+  "faction": "Idoneth Deepkin",
+  "faction_slug": "idoneth-deepkin",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "HUNTER’S COHESION ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Each time this Regiment of Renown’s Lord-Aquilor uses its ’Ride the Winds Aetheric’ ability, you can pick all units in this Regiment of Renown that are not in combat to be the targets. In addition, add 1 to hit rolls for attacks made by this Regiment of Renown’s Lord-Aquilor and VANGUARD-PALLADORS units that target a HUNTED enemy unit. Designer’s Note: See the ’Astral Compass’ ability on the Vanguard-Hunters warscroll to see how an enemy unit can become Hunted."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 500,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "The-Lost-Song-Spirits",
+  "name": "The Lost-Song Spirits",
+  "faction": "Idoneth Deepkin",
+  "faction_slug": "idoneth-deepkin",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "ENDLESS WANDERING ",
+    "timing": "Once Per Turn (Army), Enemy Hero Phase",
+    "declare": "Pick a unit in this Regiment of Renown that is not in combat to use this ability.",
+    "effect": "That unit can use the ‘ Normal Move ’ ability as if it were your movement phase."
+   },
+   {
+    "name": "OMINOUS FOG ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Units in this Regiment of Renown are not visible to enemy units more than 12\" from them while they are wholly within 9\" of the Treelord in this Regiment of Renown."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 370,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "The-Twisted-Branch",
+  "name": "The Twisted Branch",
+  "faction": "Idoneth Deepkin",
+  "faction_slug": "idoneth-deepkin",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "SEARCHING FOR REMEDIES ",
+    "timing": "Deployment Phase",
+    "declare": "",
+    "effect": "Remove each unit in this Regiment of Renown from the battlefield and set them up again wholly within 6\" of a terrain feature and more than 9\" from all enemy units."
+   },
+   {
+    "name": "SOOTHING PULSE ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick the Branchwych in this Regiment of Renown to cast this spell, pick a visible friendly unit wholly within 12\" of them to be the target, then make a casting roll of 2D6.",
+    "effect": "Heal (3) the target."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 210,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Valnir-s-Stormwing",
+  "name": "Valnir’s Stormwing",
+  "faction": "Idoneth Deepkin",
+  "faction_slug": "idoneth-deepkin",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "HOUR OF RETRIBUTION ",
+    "timing": "Once Per Battle (Army), Your Hero Phase",
+    "declare": "",
+    "effect": "For the rest of the turn: Add 1 to wound rolls for attacks made by units in this Regiment of Renown . Add 1 to save rolls for units in this Regiment of Renown."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 350,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Ven-Denst-s-Hounds",
+  "name": "Ven Denst’s Hounds",
+  "faction": "Idoneth Deepkin",
+  "faction_slug": "idoneth-deepkin",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "SPELL HUNTERS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While both units in this Regiment of Renown are within each other’s combat range , enemy MANIFESTATIONS cannot be set up within 12\" of either of those units."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 230,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Fjori-s-Flamebearers",
+  "name": "Fjori’s Flamebearers",
+  "faction": "Idoneth Deepkin",
+  "faction_slug": "idoneth-deepkin",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "TOE TO TOE ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Subtract 10 from the control scores of enemy MONSTERS while they are in combat with any units in this Regiment of Renown ."
+   },
+   {
+    "name": "GRIMNIR’S DEFIANCE ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Units in this Regiment of Renown cannot be picked to be the target of RAMPAGE abilities used by enemy units."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 420,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Gotrek-Gurnisson",
+  "name": "Gotrek Gurnisson",
+  "faction": "Idoneth Deepkin",
+  "faction_slug": "idoneth-deepkin",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [],
+  "keywords": [],
+  "unit_size": null,
+  "points": 320,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Gotrek-Gurnisson",
+  "name": "Gotrek Gurnisson",
+  "faction": "Idoneth Deepkin",
+  "faction_slug": "idoneth-deepkin",
+  "grand_alliance": "Order",
+  "move": "4\"",
+  "health": "8",
+  "save": "5+",
+  "control": "2",
+  "ward": "3+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Zangrom-az",
+    "range": "",
+    "attacks": "8",
+    "hit": "2+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "3",
+    "abilities": [
+     "Crit (Mortal)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "UNSTOPPABLE BATTLE FURY ",
+    "timing": "Any Combat Phase",
+    "declare": "",
+    "effect": "is unit can use 2 FIGHT abilities this phase. After the first is used, however, this unit has STRIKE-LAST for the rest of the turn."
+   },
+   {
+    "name": "‘I’LL GET THERE MYSELF!’ ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "This unit cannot be set up in reserve and cannot be targeted by abilities that would remove it from the battleeld."
+   }
+  ],
+  "keywords": [
+   "UNIQUE",
+   "INFANTRY",
+   "HERO",
+   "WARD ( 3+ )",
+   "ORDER",
+   "DUARDIN"
+  ],
+  "unit_size": null,
+  "points": null,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Snerk-s-Trogg-Fer-Hire",
+  "name": "Snerk’s Trogg-Fer-Hire",
+  "faction": "Idoneth Deepkin",
+  "faction_slug": "idoneth-deepkin",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "GO DAT WAY! ",
+    "timing": "Your Charge Phase",
+    "declare": "Pick the Dankhold Troggoth in this Regiment of Renown to be the target if it is within 12\" of the Loonboss in this Regiment of Renown.",
+    "effect": "For the rest of the turn, the target can still use CHARGE abilities even if it used a RETREAT ability in the same turn."
+   },
+   {
+    "name": "TAKTIKAL COWERING ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While the Loonboss in this Regiment of Renown is within the combat range of the Dankhold Troggoth in this Regiment of Renown: That Loonboss has WARD ( 4+ ) . Each time you make a successful ward roll for that Loonboss , allocate 1 damage point to that Dankhold Troggoth after the damage sequence for that Loonboss has been resolved (ward rolls cannot be made for those damage points)."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 220,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Stumblefoot-Gargant",
+  "name": "Stumblefoot Gargant",
+  "faction": "Idoneth Deepkin",
+  "faction_slug": "idoneth-deepkin",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "PROJECTILE VOMIT ",
+    "timing": "Once Per Turn (Army), Your Shooting Phase",
+    "declare": "Pick this unit to use this ability if it has not used a RAMPAGE ability this turn. Then, pick a point on the battlefield within 6\" of this unit and pick all other units (friendly and enemy) within 3\" of that point to be the targets.",
+    "effect": "Roll a D3 for each target. On a 2+, inflict an amount of mortal damage on that target equal to the roll."
+   },
+   {
+    "name": "BELLOWING MOCKERY ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "Pick this unit to use this ability if it has not used a RAMPAGE ability this turn, then pick an enemy unit within this unit’s combat range to be the target.",
+    "effect": "Roll a dice. On a 3+, subtract 1 from hit rolls for the target’s attacks for the rest of the turn."
+   },
+   {
+    "name": "WHAT’RE YOU LOOKIN’ AT? ",
+    "timing": "Once Per Turn (Army), Any Charge Phase",
+    "declare": "Pick this unit to use this ability if it charged this turn and has not used a RAMPAGE ability this turn. Then, pick an enemy unit within 9\" of this unit to be the target.",
+    "effect": "Roll 2D6. This unit can move a number of inches equal to the roll. It can pass through enemy models and must end that move in combat with the target."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 140,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "The-Blacktalons",
+  "name": "The Blacktalons",
+  "faction": "Idoneth Deepkin",
+  "faction_slug": "idoneth-deepkin",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "JUSTICE WILL BE SERVED ",
+    "timing": "Once Per Battle (Army), Any Combat Phase",
+    "declare": "Pick the Neave Blacktalon in this Regiment of Renown to be the target if it is in combat with an enemy HERO .",
+    "effect": "The target can use 2 FIGHT abilities this phase. Each time it does so, if it is in combat with an enemy HERO , all of its attacks must target an enemy HERO . In addition, after the first FIGHT ability is used, the target has STRIKE-LAST for the rest of the turn."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 320,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ }
+]

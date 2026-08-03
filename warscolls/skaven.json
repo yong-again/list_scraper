@@ -1,0 +1,4501 @@
+[
+ {
+  "id": "Clawlord-on-Gnaw-beast",
+  "name": "Clawlord on Gnaw-beast",
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "grand_alliance": "Chaos",
+  "move": "9\"",
+  "health": "7",
+  "save": "4+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Ratling Pistol",
+    "range": "10\"",
+    "attacks": "D6",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Shoot in Combat , Crit (Auto-wound)"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Warpforged Halberd",
+    "range": "",
+    "attacks": "5",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": []
+   },
+   {
+    "name": "Gnaw-beast’s Chisel Fangs",
+    "range": "",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": [
+     "Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "CORNERED RAT ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit is damaged, add 3 to the Attacks characteristic of its Warpforged Halberd ."
+   },
+   {
+    "name": "CRUEL COMMANDER ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick a friendly non- HERO VERMINUS INFANTRY unit wholly within 13\" of this unit to be the target.",
+    "effect": "Inflict 1 mortal damage on the target. Then, add 5 to the target’s control score until the start of your next turn."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "CAVALRY",
+   "CHAOS",
+   "SKAVEN",
+   "VERMINUS"
+  ],
+  "unit_size": 1,
+  "points": 110,
+  "base_size": "75 × 42mm",
+  "can_be_reinforced": false,
+  "regiment_options": "Any VERMINUS Notes: This HERO can join an eligible regiment as a Skaven Overclaw ."
+ },
+ {
+  "id": "Arch-Warlock",
+  "name": "Arch-Warlock",
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "grand_alliance": "Chaos",
+  "move": "6\"",
+  "health": "5",
+  "save": "4+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Warpfire Gauntlet",
+    "range": "10\"",
+    "attacks": "3",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "1",
+    "abilities": [
+     "Shoot in Combat"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Stormcage Halberd",
+    "range": "",
+    "attacks": "3",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": []
+   },
+   {
+    "name": "Crushing Piston-claw",
+    "range": "",
+    "attacks": "2",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "2",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "OVERSEERS OF THE ENGINECOVENS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "If a friendly SKRYRE unit wholly within 13\" of this unit uses the ’ Covering Fire ’ command, no command points are spent."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "WIZARD ( 1 )",
+   "INFANTRY",
+   "CHAOS",
+   "SKAVEN",
+   "SKRYRE"
+  ],
+  "unit_size": 1,
+  "points": 140,
+  "base_size": "32mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Clanrats , Any SKRYRE"
+ },
+ {
+  "id": "Clawlord",
+  "name": "Clawlord",
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "grand_alliance": "Chaos",
+  "move": "6\"",
+  "health": "5",
+  "save": "4+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Warpforged Blade",
+    "range": "",
+    "attacks": "6",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "CORNERED RAT ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit is damaged, add 3 to the Attacks characteristic of its Warpforged Blade ."
+   },
+   {
+    "name": "GNASH-GNAW ON THEIR BONES! ",
+    "timing": "Reaction: You declared a FIGHT ability for this unit",
+    "declare": "",
+    "effect": "Pick a friendly non- HERO VERMINUS INFANTRY unit that has not used a FIGHT ability this turn and is within this unit’s combat range to be the target. The target can be picked to use a FIGHT ability immediately after the FIGHT ability used by this unit has been resolved. If it is picked to do so, add 1 to hit rolls for the target’s attacks for the rest of the turn."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "INFANTRY",
+   "CHAOS",
+   "SKAVEN",
+   "VERMINUS"
+  ],
+  "unit_size": 1,
+  "points": 70,
+  "base_size": "32mm",
+  "can_be_reinforced": false,
+  "regiment_options": "Any VERMINUS Notes: This HERO can join an eligible regiment as a Skaven Overclaw ."
+ },
+ {
+  "id": "Deathmaster",
+  "name": "Deathmaster",
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "grand_alliance": "Chaos",
+  "move": "7\"",
+  "health": "5",
+  "save": "5+",
+  "control": "2",
+  "ward": "6+",
+  "ranged_weapons": [
+   {
+    "name": "Eshin Throwing Stars",
+    "range": "10\"",
+    "attacks": "5",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "-",
+    "damage": "D3",
+    "abilities": [
+     "Crit (Auto-wound) , Shoot in Combat"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Weeping Blade",
+    "range": "",
+    "attacks": "5",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": [
+     "Anti- HERO (+1 Rend) , Crit (Mortal)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "SHADOWY KILLERS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "If the unmodified hit roll for an attack that targets this unit is 1-4, the attack fails and the attack sequence ends."
+   },
+   {
+    "name": "RUNNING DEATH ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While friendly ESHIN units are wholly within 13\" of this unit, they can use SHOOT and/or CHARGE abilities even if they used a RUN ability in the same turn."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "INFANTRY",
+   "WARD ( 6+ )",
+   "CHAOS",
+   "SKAVEN",
+   "ESHIN"
+  ],
+  "unit_size": 1,
+  "points": 120,
+  "base_size": "32mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Clanrats , Any ESHIN Notes: This HERO can join an eligible regiment as a Skaven Overclaw ."
+ },
+ {
+  "id": "Grey-Seer",
+  "name": "Grey Seer",
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "grand_alliance": "Chaos",
+  "move": "6\"",
+  "health": "5",
+  "save": "6+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Warpstone Staff",
+    "range": "",
+    "attacks": "3",
+    "hit": "4+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "WARPSTONE SHARDS ",
+    "timing": "Your Hero Phase",
+    "declare": "",
+    "effect": "The next time you make a casting roll for this unit this phase, roll 3D6 instead of 2D6. This roll cannot be re-rolled or modified. If the casting roll is 13, the spell is successfully cast and cannot be unbound. After the effect of that spell has been resolved, inflict D3 mortal damage on this unit. If the casting roll is not 13, remove 1 dice of your choice from the casting roll and use the remaining 2D6 as the casting roll."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "WIZARD ( 1 )",
+   "INFANTRY",
+   "CHAOS",
+   "SKAVEN",
+   "MASTERCLAN"
+  ],
+  "unit_size": 1,
+  "points": 110,
+  "base_size": "32mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Skaven Overclaw , Any SKAVEN"
+ },
+ {
+  "id": "Krittok-Foulblade",
+  "name": "Krittok Foulblade",
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "grand_alliance": "Chaos",
+  "move": "6\"",
+  "health": "6",
+  "save": "4+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Warplock Pistol",
+    "range": "10\"",
+    "attacks": "2",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "2",
+    "damage": "D3",
+    "abilities": [
+     "Crit (Auto-wound)"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Doomfang",
+    "range": "",
+    "attacks": "5",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "2",
+    "damage": "2",
+    "abilities": [
+     "Crit (Mortal)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "DOOMFANG ",
+    "timing": "Any Combat Phase",
+    "declare": "",
+    "effect": "This unit has STRIKE-FIRST for the rest of the turn but it cannot use commands this phase."
+   },
+   {
+    "name": "A REPUTATION FOR CUNNING ",
+    "timing": "Enemy Hero Phase",
+    "declare": "",
+    "effect": "You can pick 2 different eligible units to use the ’ Always Three Clawsteps Ahead ’ ability this phase instead of 1, but at least 1 of those units must have the VERMINUS keyword."
+   },
+   {
+    "name": "FOSTER COMPETITION ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Add 1 to wound rolls for friendly Stormvermin units while they are wholly within 13\"of this unit."
+   }
+  ],
+  "keywords": [
+   "WARMASTER",
+   "UNIQUE",
+   "HERO",
+   "INFANTRY",
+   "CHAOS",
+   "SKAVEN",
+   "VERMINUS"
+  ],
+  "unit_size": 1,
+  "points": 140,
+  "base_size": "40mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Skaven Overclaw , Any SKAVEN"
+ },
+ {
+  "id": "Master-Moulder",
+  "name": "Master Moulder",
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "grand_alliance": "Chaos",
+  "move": "6\"",
+  "health": "5",
+  "save": "6+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Warpsyringe Pistol",
+    "range": "10\"",
+    "attacks": "D6",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "1",
+    "abilities": [
+     "Shoot in Combat"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Arsenal of Mutation",
+    "range": "",
+    "attacks": "4",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Crit (2 Hits)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "LORD OF FLESH-GRAFTING ",
+    "timing": "End of Any Turn",
+    "declare": "Pick another friendly MOULDER unit wholly within 13\" of this unit to be the target.",
+    "effect": "Heal (3) the target."
+   },
+   {
+    "name": "TYRANNICAL PACKMASTER ",
+    "timing": "Your Charge Phase",
+    "declare": "Pick another friendly MOULDER unit within this unit’s combat range to be the target.",
+    "effect": "Add 1 to charge rolls for the target for the rest of the turn."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "INFANTRY",
+   "CHAOS",
+   "SKAVEN",
+   "MOULDER"
+  ],
+  "unit_size": 1,
+  "points": 80,
+  "base_size": "32mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Clanrats , Any MOULDER Notes: This HERO can join an eligible regiment as a Skaven Overclaw ."
+ },
+ {
+  "id": "Warlock-Bombardier",
+  "name": "Warlock Bombardier",
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "grand_alliance": "Chaos",
+  "move": "6\"",
+  "health": "5",
+  "save": "5+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Doomrocket",
+    "range": "18\"",
+    "attacks": "2",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "D6",
+    "abilities": [
+     "Anti- INFANTRY (+1 Rend)"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Firing Pole",
+    "range": "",
+    "attacks": "3",
+    "hit": "4+",
+    "wound": "4+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "EXPLOSIVE PAYLOAD ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Add 1 to hit rolls for this unit’s shooting attacks that target an enemy unit that has 10 or more models."
+   },
+   {
+    "name": "MORE-MORE DOOM! ",
+    "timing": "Reaction: You declared a SHOOT ability for this unit, it was not set up this turn and it has not used a MOVE ability this turn",
+    "declare": "",
+    "effect": "Roll a dice. On a 2+, set the Damage characteristic of its Doomrocket to D3+3 for the rest of the turn. On a 1, inflict D3 mortal damage on this unit."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "INFANTRY",
+   "CHAOS",
+   "SKAVEN",
+   "SKRYRE"
+  ],
+  "unit_size": 1,
+  "points": 90,
+  "base_size": "32mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Clanrats , Any SKRYRE Notes: This HERO can join an eligible regiment as a Skaven Overclaw"
+ },
+ {
+  "id": "Warlock-Engineer",
+  "name": "Warlock Engineer",
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "grand_alliance": "Chaos",
+  "move": "6\"",
+  "health": "5",
+  "save": "5+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Warplock Musket",
+    "range": "24\"",
+    "attacks": "2",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "2",
+    "damage": "D3",
+    "abilities": [
+     "Crit (Auto-wound)"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Warpforged Dagger",
+    "range": "",
+    "attacks": "3",
+    "hit": "4+",
+    "wound": "4+",
+    "rend": "-",
+    "damage": "2",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "SNIPER-MASTER ",
+    "timing": "Once Per Turn (Army), Your Shooting Phase",
+    "declare": "Pick a visible enemy HERO to be the target.",
+    "effect": "For the rest of the turn, this unit and friendly Warplock Jezzails units wholly within 13\" of this unit can ignore the effects of the ‘ Guarded Hero ’ ability when picking the target for their shooting attacks ."
+   },
+   {
+    "name": "MORE-MORE WARP ENERGY! ",
+    "timing": "Reaction: You declared a SHOOT ability for this unit, it was not set up this turn and it has not used a MOVE ability this turn",
+    "declare": "",
+    "effect": "Roll a dice. On a 2+, set the Damage characteristic of this unit’s Warplock Musket to 3 for the rest of the turn. On a 1, inflict D3 mortal damage on this unit."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "INFANTRY",
+   "CHAOS",
+   "SKAVEN",
+   "SKRYRE"
+  ],
+  "unit_size": 1,
+  "points": 100,
+  "base_size": "32mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Clanrats , Any SKRYRE Notes: This HERO can join an eligible regiment as a Skaven Overclaw"
+ },
+ {
+  "id": "Warlock-Galvaneer",
+  "name": "Warlock Galvaneer",
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "grand_alliance": "Chaos",
+  "move": "6\"",
+  "health": "5",
+  "save": "5+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Warpvolt Obliterator",
+    "range": "18\"",
+    "attacks": "2",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "2",
+    "damage": "D3",
+    "abilities": [
+     "Anti-Cavalry (+1 Rend) , Crit (2 Hits)"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Rusted Blade",
+    "range": "",
+    "attacks": "3",
+    "hit": "4+",
+    "wound": "5+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "LIGHTNING MASTER ",
+    "timing": "Once Per Battle (Army), Your Shooting Phase",
+    "declare": "Pick a friendly Warpvolt Scourgers unit within this unit’s combat range to be the target.",
+    "effect": "Roll a dice. On a 2+, set the Attacks characteristic of the target’s Warpvolt Scourgers to 10 for the rest of the turn."
+   },
+   {
+    "name": "MORE-MORE WARPVOLT DOOM! ",
+    "timing": "Any Shooting Phase",
+    "declare": "Pick an enemy unit that had any damage points allocated to it this turn by attacks made with this unit’s Warpvolt Obliterator to be the target.",
+    "effect": "Roll a D3 for each other enemy unit within the target’s combat range . On a 2+, inflict an amount of mortal damage on that enemy unit equal to the roll."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "INFANTRY",
+   "CHAOS",
+   "SKAVEN",
+   "SKRYRE"
+  ],
+  "unit_size": 1,
+  "points": 120,
+  "base_size": "32mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Clanrats , Any SKRYRE Notes: This HERO can join an eligible regiment as a Skaven Overclaw"
+ },
+ {
+  "id": "Deathmaster-Crixxit",
+  "name": "Deathmaster Crixxit",
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "grand_alliance": "Chaos",
+  "move": "7\"",
+  "health": "6",
+  "save": "5+",
+  "control": "2",
+  "ward": "5+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "The Blades of Thirteen Cuts",
+    "range": "",
+    "attacks": "13",
+    "hit": "2+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Anti- HERO (+1 Rend) , Crit (Mortal)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "MASTER OF ASSASSINS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Double the Damage characteristic of this unit’s melee weapons for attacks that target an enemy HERO ."
+   },
+   {
+    "name": "DIVERSIONARY ASSAULT ",
+    "timing": "Your Charge Phase",
+    "declare": "Pick a visible friendly Gutter Runners unit wholly within 13\" of this unit to be the target.",
+    "effect": "Add 2 to charge rolls for the target for the rest of the turn"
+   },
+   {
+    "name": "SHADOWBLOOD CLOAK ",
+    "timing": "Any Combat Phase",
+    "declare": "Pick a visible friendly ESHIN unit that has 2 or more models and that is wholly within 18\" of this unit to be the target.",
+    "effect": "Roll a dice. On a 3+, remove this unit from the battlefield and set it up again wholly within 6\" of the target. This unit can be set up in combat ."
+   }
+  ],
+  "keywords": [
+   "UNIQUE",
+   "INFANTRY",
+   "HERO",
+   "WARD ( 5+ )",
+   "CHAOS",
+   "SKAVEN",
+   "ESHIN"
+  ],
+  "unit_size": 1,
+  "points": 150,
+  "base_size": "40mm",
+  "can_be_reinforced": false,
+  "regiment_options": "Any ESHIN Notes: This HERO can join an eligible regiment as a Skaven Overclaw ."
+ },
+ {
+  "id": "Plague-Priest",
+  "name": "Plague Priest",
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "grand_alliance": "Chaos",
+  "move": "6\"",
+  "health": "5",
+  "save": "5+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Warpstone-tipped Staff",
+    "range": "",
+    "attacks": "3",
+    "hit": "4+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": [
+     "Crit (Auto-wound)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "FEED ON PESTILENCE ",
+    "timing": "Reaction: You declared a FIGHT ability for a friendly PESTILENS unit wholly within 13\" of this unit",
+    "declare": "",
+    "effect": "Give this unit 1 ritual point ."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "PRIEST ( 1 )",
+   "INFANTRY",
+   "CHAOS",
+   "SKAVEN",
+   "PESTILENS"
+  ],
+  "unit_size": 1,
+  "points": 110,
+  "base_size": "32mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Clanrats, Any Pestilens"
+ },
+ {
+  "id": "Lord-Skreech-Verminking",
+  "name": "Lord Skreech Verminking",
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "grand_alliance": "Chaos",
+  "move": "10\"",
+  "health": "13",
+  "save": "4+",
+  "control": "5",
+  "ward": "5+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Glaive of the Rat King",
+    "range": "",
+    "attacks": "7",
+    "hit": "3+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "3",
+    "abilities": [
+     "Crit (2 Hits)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "THE THIRTEEN-HEADED ONE ",
+    "timing": "Your Hero Phase",
+    "declare": "",
+    "effect": "Pick 1 of the following effects to apply until the start of your next turn. You cannot pick the same effect more than once per battle. Master of Dire Sorcery: Add 1 to casting rolls for friendly MASTERCLAN WIZARDS while they are wholly within 13\" of this unit. Commander of Vermin: Add 1 to charge rolls for friendly VERMINUS units while they are wholly within 13\" of this unit. Knower of Warp-tech: Add 1 to hit rolls for shooting attacks made by friendly SKRYRE units while they are wholly within 13\" of this unit. Deliverer of Weeping Blades: Add 1 to the Rend characteristic of melee weapons used by friendly ESHIN units while they are wholly within 13\" of this unit. Bringer of Plagues: Add 1 to chanting rolls for friendly PESTILENS PRIESTS while they are wholly within 13\" of this unit. Shaper of Fleshcraft: Heal (D3) each friendly MOULDER unit wholly within 13\" of this unit."
+   },
+   {
+    "name": "THE DREADED THIRTEENTH SPELL ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick a visible enemy unit within 13\" to be the target, then make a casting roll of 2D6.",
+    "effect": "Roll 13 dice. For each 5+: Inflict 1 mortal damage on the target. You can return 1 slain model to a friendly Clanrats unit wholly within 13\" of this unit."
+   },
+   {
+    "name": "TERRIFYING MONSTROSITY ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "Pick an enemy INFANTRY unit in combat with this unit to be the target.",
+    "effect": "Roll a dice. On a 3+: The target cannot use commands for the rest of the turn. Subtract an amount equal to the roll from the target’s control score until the start of your next turn."
+   }
+  ],
+  "keywords": [
+   "WARMASTER",
+   "UNIQUE",
+   "HERO",
+   "MONSTER",
+   "WIZARD ( 2 )",
+   "WARD ( 5+ )",
+   "CHAOS",
+   "SKAVEN",
+   "DAEMON",
+   "MASTERCLAN",
+   "VERMINUS",
+   "PESTILENS",
+   "ESHIN",
+   "SKRYRE",
+   "MOULDER"
+  ],
+  "unit_size": 1,
+  "points": 380,
+  "base_size": "120 × 92mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Skaven Overclaw , Any SKAVEN"
+ },
+ {
+  "id": "Thanquol-on-Boneripper",
+  "name": "Thanquol on Boneripper",
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "grand_alliance": "Chaos",
+  "move": "8\"",
+  "health": "14",
+  "save": "4+",
+  "control": "5",
+  "ward": "5+",
+  "ranged_weapons": [
+   {
+    "name": "Custom Warpfire Projectors",
+    "range": "10\"",
+    "attacks": "6",
+    "hit": "2+",
+    "wound": "3+",
+    "rend": "2",
+    "damage": "1",
+    "abilities": [
+     "Companion"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Staff of the Horned Rat",
+    "range": "",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": []
+   },
+   {
+    "name": "Warpfire Braziers",
+    "range": "",
+    "attacks": "6",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "3",
+    "abilities": [
+     "Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "BATTLE DAMAGED",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit has 10 or more damage points, the Attacks characteristic of its Warpfire Braziers is 4."
+   },
+   {
+    "name": "STAFF OF THE HORNED RAT ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Add 1 to casting rolls for this unit."
+   },
+   {
+    "name": "TERRIBLE MADNESS ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick a visible enemy unit within 13\" of this unit to be the target, then make a casting roll of 2D6.",
+    "effect": "The target cannot use commands until the start of your next turn. In addition, roll a number of dice equal to the number of models in the target unit. For each 6, inflict 1 mortal damage on the target."
+   },
+   {
+    "name": "BONERIPPER RAMPAGE ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "Pick an enemy unit in combat with this unit to be the target.",
+    "effect": "Roll a dice. On a 3-5, inflict D3 mortal damage on the target. On a 6, inflict 2D3 mortal damage on the target."
+   },
+   {
+    "name": "WARP-AMULET ",
+    "timing": "End of Any Turn",
+    "declare": "",
+    "effect": "Heal (D3) this unit."
+   }
+  ],
+  "keywords": [
+   "WARMASTER",
+   "UNIQUE",
+   "HERO",
+   "MONSTER",
+   "WIZARD ( 2 )",
+   "WARD ( 5+ )",
+   "CHAOS",
+   "SKAVEN",
+   "MASTERCLAN"
+  ],
+  "unit_size": 1,
+  "points": 310,
+  "base_size": "105 × 70mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Skaven Overclaw , Any SKAVEN"
+ },
+ {
+  "id": "Verminlord-Corruptor",
+  "name": "Verminlord Corruptor",
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "grand_alliance": "Chaos",
+  "move": "10\"",
+  "health": "13",
+  "save": "4+",
+  "control": "5",
+  "ward": "5+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Plaguereapers",
+    "range": "",
+    "attacks": "8",
+    "hit": "3+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "2",
+    "abilities": [
+     "Crit (Auto-wound)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "LORD OF GREAT PLAGUES ",
+    "timing": "Once Per Turn (Army), Your Hero Phase",
+    "declare": "",
+    "effect": "If the unmodified chanting roll for a friendly PESTILENS PRIEST this phase was 6, pick 1 of the following effects to apply: Crimsonweal Curse: Pick an enemy unit within 13\" of this unit to be the target. For the rest of the battle, each time the target uses a MOVE ability, inflict D3 mortal damage on it after the MOVE ability has been resolved. The Neverplague: For the rest of the battle, you can re-roll chanting rolls for friendly PESTILENS PRIESTS . Undulant Scourge: Pick a visible enemy unit within 13\" of this unit to be the target. Inflict 2D3 mortal damage on the target."
+   },
+   {
+    "name": "PLAGUEMASTER ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "Pick up to 3 enemy units in combat with this unit to be the targets.",
+    "effect": "Roll a D3 for each target. On a 2+: Inflict an amount of mortal damage on the target equal to the roll. Give this unit 1 ritual point ."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "MONSTER",
+   "PRIEST ( 1 )",
+   "WARD ( 5+ )",
+   "CHAOS",
+   "SKAVEN",
+   "DAEMON",
+   "PESTILENS"
+  ],
+  "unit_size": 1,
+  "points": 260,
+  "base_size": "120 × 92mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Skaven Overclaw , Any SKAVEN"
+ },
+ {
+  "id": "Verminlord-Deceiver",
+  "name": "Verminlord Deceiver",
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "grand_alliance": "Chaos",
+  "move": "10\"",
+  "health": "13",
+  "save": "4+",
+  "control": "5",
+  "ward": "5+",
+  "ranged_weapons": [
+   {
+    "name": "Doomstar",
+    "range": "13\"",
+    "attacks": "6",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Crit (Auto-wound)"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Warpstiletto",
+    "range": "",
+    "attacks": "8",
+    "hit": "3+",
+    "wound": "2+",
+    "rend": "3",
+    "damage": "2",
+    "abilities": [
+     "Crit (Mortal)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "LORD OF ASSASSINS ",
+    "timing": "Reaction: You declared the ‘ Redeploy ’ command for a friendly ESHIN INFANTRY unit wholly within 13\" of this unit",
+    "declare": "",
+    "effect": "If you roll a 1-3 when determining the distance that unit can move, you can use a value of 4 instead."
+   },
+   {
+    "name": "BURST FROM THE SHADOWS ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "",
+    "effect": "If this unit is in combat, roll a dice. On a 4+, you can pick a point on the battlefield within 13\" of this unit and within 1\" of any enemy units. Remove this unit from the battlefield and set it up again within 1\" of that point. Designer’s Note: This ability allows the unit to set up in combat with a new enemy unit."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "MONSTER",
+   "WIZARD ( 1 )",
+   "WARD ( 5+ )",
+   "CHAOS",
+   "SKAVEN",
+   "DAEMON",
+   "ESHIN"
+  ],
+  "unit_size": 1,
+  "points": 390,
+  "base_size": "120 × 92mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Skaven Overclaw , Any SKAVEN"
+ },
+ {
+  "id": "Verminlord-Warbringer",
+  "name": "Verminlord Warbringer",
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "grand_alliance": "Chaos",
+  "move": "10\"",
+  "health": "13",
+  "save": "4+",
+  "control": "5",
+  "ward": "5+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Doom Glaive and Spike-fist",
+    "range": "",
+    "attacks": "7",
+    "hit": "3+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "3",
+    "abilities": [
+     "Crit (Mortal)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "KILLING BLOW ",
+    "timing": "Once Per Turn (Army), End of Any Turn",
+    "declare": "Pick a damaged enemy unit in combat with this unit to be the target.",
+    "effect": "Roll a dice. If the roll is less than the number of damage points the target has, inflict an amount of mortal damage on the target equal to the roll."
+   },
+   {
+    "name": "TYRANT OF BATTLE ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "Pick up to 2 friendly VERMINUS INFANTRY units wholly within 13\" of this unit to be the targets.",
+    "effect": "The targets can each use the ‘ All-out Attack ’ or ‘ All-out Defence ’ command this phase even if that command has been used by a friendly unit this phase."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "MONSTER",
+   "WIZARD ( 1 )",
+   "WARD ( 5+ )",
+   "CHAOS",
+   "SKAVEN",
+   "DAEMON",
+   "VERMINUS"
+  ],
+  "unit_size": 1,
+  "points": 260,
+  "base_size": "120 × 92mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Skaven Overclaw , Any SKAVEN"
+ },
+ {
+  "id": "Verminlord-Warpseer",
+  "name": "Verminlord Warpseer",
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "grand_alliance": "Chaos",
+  "move": "10\"",
+  "health": "13",
+  "save": "4+",
+  "control": "5",
+  "ward": "5+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Doom Glaive",
+    "range": "",
+    "attacks": "6",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "3",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "TECTONIC SPLINTERING ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick a visible enemy unit within 18\" to be the target, then make a casting roll of 2D6.",
+    "effect": "Until the start of your next turn, subtract 1 from the number of dice rolled when making charge rolls for the target, to a minimum of 1."
+   },
+   {
+    "name": "DIVINE THE FUTURE ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit is on the battlefield, add 2\" to the distance friendly units can move when using the ‘ Always Three Clawsteps Ahead ’ ability."
+   },
+   {
+    "name": "HURL SCRY-ORB ",
+    "timing": "Once Per Battle, Any Combat Phase",
+    "declare": "Pick an enemy unit in combat with this unit to be the target.",
+    "effect": "This unit cannot use the ‘Divine the Future’ ability for the rest of the battle. Roll a dice. On a 2+, inflict an amount of mortal damage on the target equal to the roll."
+   },
+   {
+    "name": "ARCH-MANIPULATOR ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "Pick an enemy unit in combat with this unit to be the target.",
+    "effect": "Roll a dice. On a 4+, the target has STRIKE-LAST for the rest of the turn."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "MONSTER",
+   "WIZARD ( 2 )",
+   "WARD ( 5+ )",
+   "CHAOS",
+   "SKAVEN",
+   "DAEMON",
+   "MASTERCLAN"
+  ],
+  "unit_size": 1,
+  "points": 300,
+  "base_size": "120 × 92mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Skaven Overclaw , Any SKAVEN"
+ },
+ {
+  "id": "Vizzik-Skour-Prophet-of-the-Horned-Rat",
+  "name": "Vizzik Skour Prophet of the Horned Rat",
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "grand_alliance": "Chaos",
+  "move": "10\"",
+  "health": "15",
+  "save": "5+",
+  "control": "5",
+  "ward": "5+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Unholy Gnawstaff",
+    "range": "",
+    "attacks": "6",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "1",
+    "damage": "D6",
+    "abilities": [
+     "Crit (Mortal)"
+    ]
+   },
+   {
+    "name": "Host of Vermin",
+    "range": "",
+    "attacks": "10",
+    "hit": "5+",
+    "wound": "5+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": [
+     "Crit (Auto-wound) , Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "THE DEATH FRENZY ",
+    "timing": "Any Hero Phase",
+    "declare": "Pick a visible enemy unit within 13\"of this unit or a visible friendly SKAVEN INFANTRY unit within 13\" of this unit to be the target, then make a chanting roll of D6.",
+    "effect": "If the target is an enemy unit, subtract 1 from the Attacks characteristic of the target’s melee weapons until the start of your next turn. If the target is a friendly unit, it can use 2 FIGHT abilities this turn. After the first is used, however, the target has STRIKE-LAST for the rest of the turn. If the chanting roll was 12+, you can pick 2 targets instead of 1."
+   },
+   {
+    "name": "PROPHET OF THE HORNED RAT ",
+    "timing": "Once Per Battle, Your Hero Phase",
+    "declare": "",
+    "effect": "You can re-roll chanting rolls for this unit until the start of your next turn."
+   },
+   {
+    "name": "GAZE OF THE GNAW ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "Pick an enemy unit in combat with this unit to be the target.",
+    "effect": "Roll a dice. On a 2+, for the rest of the turn: If this unit is in combat with the target when the target is picked to use a FIGHT ability, all of the target’s attacks must target this unit. Subtract 1 from hit rolls and wound rolls for the target’s combat attacks that target this unit."
+   },
+   {
+    "name": "FISSURES IN REALITY ",
+    "timing": "Any Combat Phase",
+    "declare": "Pick each enemy unit in combat with this unit to be the targets.",
+    "effect": "Roll a D3 for each target. On a 2+, inflict an amount of mortal damage on the target equal to the roll."
+   }
+  ],
+  "keywords": [
+   "WARMASTER",
+   "UNIQUE",
+   "HERO",
+   "MONSTER",
+   "PRIEST ( 2 )",
+   "WARD ( 5+ )",
+   "CHAOS",
+   "SKAVEN",
+   "DAEMON",
+   "MASTERCLAN"
+  ],
+  "unit_size": 1,
+  "points": 340,
+  "base_size": "130mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Skaven Overclaw , Any SKAVEN"
+ },
+ {
+  "id": "Scourge-of-Aqshy-Verminlord-Corruptor",
+  "name": "Scourge of Aqshy Verminlord Corruptor",
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "grand_alliance": "Chaos",
+  "move": "10\"",
+  "health": "13",
+  "save": "4+",
+  "control": "5",
+  "ward": "5+",
+  "ranged_weapons": [
+   {
+    "name": "Plague Breath",
+    "range": "10\"",
+    "attacks": "6",
+    "hit": "2+",
+    "wound": "4+",
+    "rend": "2",
+    "damage": "1",
+    "abilities": [
+     "Shoot in Combat"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Plaguereapers",
+    "range": "",
+    "attacks": "8",
+    "hit": "3+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "2",
+    "abilities": [
+     "Crit (Auto-wound)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "FOETID FEATURES ",
+    "timing": "Once Per Battle (Army), Deployment Phase",
+    "declare": "",
+    "effect": "Pick 1 of the following effects to apply for the rest of the battle: Noisome Halitosis: Add 1 to the Damage characteristic of this unit’s Plague Breath . Pestilential Seepage: While this unit is damaged, you can re-roll chanting rolls for friendly PESTILENS PRIESTS while they are wholly within 13\" of this unit. Curdled Miasma: While they are within 6\" of this unit, enemy units are not visible to other enemy units more than 3\" from them."
+   },
+   {
+    "name": "SEETHING BLIGHT ",
+    "timing": "Once Per Turn (Army), Your Hero Phase",
+    "declare": "Spend 1 rage dice . If your opponent’s fury level is lower than yours, they must increase their fury level by 1, to a maximum of 7. Then, pick a visible unit (friendly or enemy) wholly within 13\" of this unit to be the target.",
+    "effect": "For the rest of the battle: Add 1 to the Attacks characteristic of the target’s melee weapons. If an ability would heal or return any slain models to the target unit, that ability does not heal any damage points or return any slain models to it. If the target is replaced and the replacement unit has 1 model, allocate damage points to that replacement unit equal to half X (rounding up), where X is its Health characteristic minus the number of damage points allocated to it (if any). If the target is replaced and the replacement unit has more than 1 model, half the models in that replacement unit (rounding up) are automatically slain."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "MONSTER",
+   "PRIEST ( 1 )",
+   "WARD ( 5+ )",
+   "CHAOS",
+   "SKAVEN",
+   "DAEMON",
+   "PESTILENS"
+  ],
+  "unit_size": 1,
+  "points": 310,
+  "base_size": "120 × 92mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Skaven Overclaw , Any SKAVEN Notes: This unit is legal for Matched Play for battles fought using the General’s Handbook 2026-27 battlepack."
+ },
+ {
+  "id": "Grey-Seer-on-Screaming-Bell",
+  "name": "Grey Seer on Screaming Bell",
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "grand_alliance": "Chaos",
+  "move": "6\"",
+  "health": "15",
+  "save": "4+",
+  "control": "5",
+  "ward": "5+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Warpstone Staff",
+    "range": "",
+    "attacks": "3",
+    "hit": "4+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": []
+   },
+   {
+    "name": "Rat Ogor’s Tearing Claws",
+    "range": "",
+    "attacks": "5",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Companion"
+    ]
+   },
+   {
+    "name": "Crushing Bulk",
+    "range": "",
+    "attacks": "6",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "BATTLE DAMAGED",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit has 10 or more damage points, the Attacks characteristic of its Crushing Bulk is 4."
+   },
+   {
+    "name": "ALTAR OF THE HORNED RAT ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Friendly SKAVEN INFANTRY units have WARD ( 6+ ) while they are wholly within 13\" of this unit."
+   },
+   {
+    "name": "PEAL OF DOOM ",
+    "timing": "Your Hero Phase",
+    "declare": "",
+    "effect": "Roll a dice and apply the corresponding effect: 1 Magical Backlash: Inflict D3 mortal damage on this unit. 2-4 Wall of Unholy Sound: Until the start of your next turn, subtract 1 from hit rolls for combat attacks made by enemy units while they are within 13\" of this unit. 5-6 Apocalyptic Doom: Roll a D3 for each enemy unit within 13\" of this unit. On a 2+, inflict an amount of mortal damage on that unit equal to the roll."
+   },
+   {
+    "name": "CRACKS CALL ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick a visible enemy unit that does not have FLY and is within 13\" of this unit to be the target, then make a casting roll of 2D6.",
+    "effect": "If the casting roll exceeds the target’s Move characteristic, inflict an amount of mortal damage on the target equal to the difference between the casting roll and its Move characteristic."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "WAR MACHINE",
+   "WIZARD ( 2 )",
+   "WARD ( 5+ )",
+   "CHAOS",
+   "SKAVEN",
+   "MASTERCLAN"
+  ],
+  "unit_size": 1,
+  "points": 310,
+  "base_size": "120 × 92mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Skaven Overclaw , Any SKAVEN"
+ },
+ {
+  "id": "Plague-Priest-on-Plague-Furnace",
+  "name": "Plague Priest on Plague Furnace",
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "grand_alliance": "Chaos",
+  "move": "6\"",
+  "health": "15",
+  "save": "4+",
+  "control": "5",
+  "ward": "5+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Great Plague Censer",
+    "range": "",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "1",
+    "damage": "3",
+    "abilities": [
+     "Crit (Auto-wound)"
+    ]
+   },
+   {
+    "name": "Warpstone-tipped Staff",
+    "range": "",
+    "attacks": "3",
+    "hit": "4+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": [
+     "Crit (Auto-wound)"
+    ]
+   },
+   {
+    "name": "Foetid Blades",
+    "range": "",
+    "attacks": "6",
+    "hit": "4+",
+    "wound": "5+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": [
+     "Crit (Auto-wound)"
+    ]
+   },
+   {
+    "name": "Crushing Bulk",
+    "range": "",
+    "attacks": "6",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "BATTLE DAMAGED",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit has 10 or more damage points, the Attacks characteristic of its Great Plague Censer is 2."
+   },
+   {
+    "name": "ALTAR OF THE GREAT CORRUPTOR ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Friendly PESTILENS units have WARD ( 6+ ) while they are wholly within 13\" of this unit."
+   },
+   {
+    "name": "CORRUPTING INFLUENCE ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Subtract 1 from ward rolls for enemy units while they are within 13\" of this unit."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "PRIEST ( 1 )",
+   "WAR MACHINE",
+   "WARD ( 5+ )",
+   "CHAOS",
+   "SKAVEN",
+   "PESTILENS"
+  ],
+  "unit_size": 1,
+  "points": 350,
+  "base_size": "120 × 92mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Clanrats , Any PESTILENS"
+ },
+ {
+  "id": "Scourge-of-Aqshy-Grey-Seer-on-Screaming-Bell",
+  "name": "Scourge of Aqshy Grey Seer on Screaming Bell",
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "grand_alliance": "Chaos",
+  "move": "6\"",
+  "health": "15",
+  "save": "4+",
+  "control": "5",
+  "ward": "5+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Warpstone Staff",
+    "range": "",
+    "attacks": "3",
+    "hit": "4+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": []
+   },
+   {
+    "name": "Rat Ogor’s Tearing Claws",
+    "range": "",
+    "attacks": "5",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Companion"
+    ]
+   },
+   {
+    "name": "Crushing Bulk",
+    "range": "",
+    "attacks": "6",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Charge (+1 Damage) , Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "BATTLE DAMAGED",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit has 10 or more damage points, the Attacks characteristic of its Crushing Bulk is 4."
+   },
+   {
+    "name": "THE BELL TOLLS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "If the current battle round number is odd, add 2\" to the Move characteristic of friendly SKAVEN units while they are wholly within 13\" of this unit. If the current battle round number is even, subtract 1 from hit rolls for attacks made by enemy units that target a friendly SKAVEN unit while it is wholly within 13\" of this unit."
+   },
+   {
+    "name": "CRACKS CALL ",
+    "timing": "Your Hero Phase",
+    "declare": "Make a casting roll of 2D6.",
+    "effect": "Until the start of your next turn, this unit counts as a friendly Gnawhole for the purposes of the ‘ Gnawhole Ambush ’, ‘Tunnels Through Reality’ and ‘The Endless Vermintide’ abilities."
+   },
+   {
+    "name": "PEAL OF DOOM ",
+    "timing": "Once Per Turn (Army), End of Any Turn",
+    "declare": "Pick up to 3 visible friendly SKAVEN units wholly within 13\" of this unit to be the targets.",
+    "effect": "Heal (D3) each target."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "WAR MACHINE",
+   "WIZARD ( 2 )",
+   "WARD ( 5+ )",
+   "CHAOS",
+   "SKAVEN",
+   "MASTERCLAN"
+  ],
+  "unit_size": 1,
+  "points": 330,
+  "base_size": "120 × 92mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Skaven Overclaw , Any SKAVEN Notes: This unit is legal for Matched Play for battles fought using the General’s Handbook 2026-27 battlepack."
+ },
+ {
+  "id": "Scourge-of-Ghyran-Grey-Seer-on-Screaming-Bell",
+  "name": "Scourge of Ghyran Grey Seer on Screaming Bell",
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "grand_alliance": "Chaos",
+  "move": "6\"",
+  "health": "15",
+  "save": "4+",
+  "control": "5",
+  "ward": "5+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Warpstone Staff",
+    "range": "",
+    "attacks": "3",
+    "hit": "4+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": []
+   },
+   {
+    "name": "Rat Ogor’s Tearing Claws",
+    "range": "",
+    "attacks": "5",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": []
+   },
+   {
+    "name": "Crushing Bulk",
+    "range": "",
+    "attacks": "6",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Companion , Charge (+1 Damage)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "BATTLE DAMAGED",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit has 10 or more damage points, the Attacks characteristic of its Crushing Bulk is 4."
+   },
+   {
+    "name": "THE BELL TOLLS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "If the current battle round number is odd, add 2\" to the Move characteristic of friendly SKAVEN units while they are wholly within 13\" of this unit. If the current battle round number is even, subtract 1 from hit rolls for attacks made by enemy units that target a friendly SKAVEN unit while it is wholly within 13\" of this unit."
+   },
+   {
+    "name": "GNAW THROUGH REALITY ",
+    "timing": "Your Hero Phase",
+    "declare": "Make a casting roll of 2D6.",
+    "effect": "Until the start of your next turn, this unit counts as a friendly Gnawhole for the purposes of the ‘ Gnawhole Ambush ’, ‘Tunnels Through Reality’ and ‘The Endless Vermintide’ abilities."
+   },
+   {
+    "name": "ECHOES OF THE VERMINDOOM ",
+    "timing": "Once Per Turn (Army), End of Any Turn",
+    "declare": "Pick each friendly SKAVEN unit wholly within 13\" of this unit to be the targets.",
+    "effect": "Heal (D3) each target."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "WAR MACHINE",
+   "WIZARD ( 2 )",
+   "WARD ( 5+ )",
+   "CHAOS",
+   "SKAVEN",
+   "MASTERCLAN"
+  ],
+  "unit_size": 1,
+  "points": 330,
+  "base_size": "120 × 92mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Skaven Overclaw , Any SKAVEN , 0-1 WEAPON TEAM SKRYRE , 0-1 WAR MACHINE SKRYRE Notes: This unit is legal for Matched Play for battles fought using the General’s Handbook 2025-26 battlepack."
+ },
+ {
+  "id": "Acolyte-Globadiers",
+  "name": "Acolyte Globadiers",
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "grand_alliance": "Chaos",
+  "move": "6\"",
+  "health": "2",
+  "save": "6+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Poisoned Wind Globes",
+    "range": "10\"",
+    "attacks": "1",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": [
+     "Anti- INFANTRY (+1 Rend) , Shoot in Combat"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Rusty Knife",
+    "range": "",
+    "attacks": "1",
+    "hit": "4+",
+    "wound": "5+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "GAS CLOUDS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Add 1 to the Damage characteristic of this unit’s Poisoned Wind Globes for attacks that target an enemy unit that has 10 or more models."
+   },
+   {
+    "name": "HIDDEN WEAPON TEAM ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit is within the combat range of a friendly Clanrats unit that has 5 or more models, and there are no other friendly WEAPON TEAM units within that unit’s combat range, this unit is not visible to enemy units more than 13\" away."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "WEAPON TEAM",
+   "CHAMPION",
+   "CHAOS",
+   "SKAVEN",
+   "SKRYRE"
+  ],
+  "unit_size": 5,
+  "points": 90,
+  "base_size": "28.5mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Clanrats",
+  "name": "Clanrats",
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "grand_alliance": "Chaos",
+  "move": "6\"",
+  "health": "1",
+  "save": "5+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Rusty Weapon",
+    "range": "",
+    "attacks": "2",
+    "hit": "4+",
+    "wound": "5+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": [
+     "Crit (Auto-wound)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "SEETHING SWARM ",
+    "timing": "End of Any Turn",
+    "declare": "",
+    "effect": "You can return D3 slain models to this unit."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "CHAMPION",
+   "MUSICIAN ( 1/20 )",
+   "STANDARD BEARER ( 1/20 )",
+   "CHAOS",
+   "SKAVEN",
+   "VERMINUS"
+  ],
+  "unit_size": 20,
+  "points": 150,
+  "base_size": "25mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Plague-Monks",
+  "name": "Plague Monks",
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "grand_alliance": "Chaos",
+  "move": "6\"",
+  "health": "1",
+  "save": "6+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Foetid Weapons",
+    "range": "",
+    "attacks": "2",
+    "hit": "4+",
+    "wound": "5+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": [
+     "Crit (Auto-wound)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "SPREADERS OF FILTH AND DISEASE ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Each time a model in this unit is slain by a combat attack and that model was in combat with the attacking unit, roll a dice. On a 6+, inflict 1 mortal damage on the attacking unit after the FIGHT ability has been resolved."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "CHAMPION",
+   "MUSICIAN ( 1/20 )",
+   "STANDARD BEARER ( 1/20 )",
+   "CHAOS",
+   "SKAVEN",
+   "PESTILENS"
+  ],
+  "unit_size": 20,
+  "points": 140,
+  "base_size": "25mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Plaguepack",
+  "name": "Plaguepack",
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "grand_alliance": "Chaos",
+  "move": "6\"",
+  "health": "2",
+  "save": "6+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Weapons of Corruption",
+    "range": "",
+    "attacks": "2",
+    "hit": "4+",
+    "wound": "5+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": [
+     "Crit (Auto-wound)"
+    ]
+   },
+   {
+    "name": "Plague Censer",
+    "range": "",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Crit (Auto-wound)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "ENSHROUDING FUMES ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Subtract 1 from hit rolls for shooting attacks that target this unit."
+   },
+   {
+    "name": "PLAGUE RAT ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "This unit’s Plague rat is a token. If you make a unmodified chanting roll of 1 for this unit while its Plague rat is on the battlefield, you can remove its Plague rat from the battlefield and then re-roll that chanting roll."
+   }
+  ],
+  "keywords": [
+   "PRIEST ( 1 )",
+   "INFANTRY",
+   "CHAMPION ( 1/5 )",
+   "CHAOS",
+   "SKAVEN",
+   "PESTILENS"
+  ],
+  "unit_size": 5,
+  "points": 130,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Rat-Ogors",
+  "name": "Rat Ogors",
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "grand_alliance": "Chaos",
+  "move": "6\"",
+  "health": "4",
+  "save": "5+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Warpfire Gun",
+    "range": "10\"",
+    "attacks": "2D6",
+    "hit": "2+",
+    "wound": "4+",
+    "rend": "2",
+    "damage": "1",
+    "abilities": [
+     "Shoot in Combat"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Claws, Blades and Fangs",
+    "range": "",
+    "attacks": "5",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "UNLEASHED WARP-FURY ",
+    "timing": "Any Combat Phase",
+    "declare": "",
+    "effect": "Inflict D3 mortal damage on this unit. Then, add 1 to the Attacks characteristic of this unit’s melee weapons for the rest of the turn."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "CHAOS",
+   "SKAVEN",
+   "MOULDER"
+  ],
+  "unit_size": 3,
+  "points": 140,
+  "base_size": "50mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Ratling-Gun",
+  "name": "Ratling Gun",
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "grand_alliance": "Chaos",
+  "move": "6\"",
+  "health": "3",
+  "save": "6+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Ratling Gun",
+    "range": "15\"",
+    "attacks": "3D6",
+    "hit": "4+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Crit (2 Hits)"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Rusty Knives",
+    "range": "",
+    "attacks": "2",
+    "hit": "4+",
+    "wound": "5+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "HIDDEN WEAPON TEAM ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit is within the combat range of a friendly Clanrats unit that has 5 or more models, and there are no other friendly WEAPON TEAM units within that unit’s combat range, this unit is not visible to enemy units more than 13\" away."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "WEAPON TEAM",
+   "CHAOS",
+   "SKAVEN",
+   "SKRYRE"
+  ],
+  "unit_size": 3,
+  "points": 170,
+  "base_size": "60 × 35mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Stormfiends",
+  "name": "Stormfiends",
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "grand_alliance": "Chaos",
+  "move": "6\"",
+  "health": "6",
+  "save": "4+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Ratling Cannons",
+    "range": "15\"",
+    "attacks": "3D6",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": []
+   },
+   {
+    "name": "Windlaunchers",
+    "range": "15\"",
+    "attacks": "3",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "2",
+    "damage": "D3",
+    "abilities": []
+   },
+   {
+    "name": "Warpfire Projectors",
+    "range": "10\"",
+    "attacks": "2D6",
+    "hit": "2+",
+    "wound": "4+",
+    "rend": "2",
+    "damage": "1",
+    "abilities": [
+     "Shoot in Combat"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Doomflayer Gauntlets",
+    "range": "",
+    "attacks": "5",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "D3",
+    "abilities": [
+     "Charge (+1 Damage)"
+    ]
+   },
+   {
+    "name": "Grinderfists",
+    "range": "",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "2",
+    "abilities": []
+   },
+   {
+    "name": "Shock Gauntlets",
+    "range": "",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": []
+   },
+   {
+    "name": "Clubbing Blows",
+    "range": "",
+    "attacks": "3",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "-",
+    "damage": "2",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "GRINDERFIST TUNNELLERS ",
+    "timing": "Once Per Turn (Army), Any Movement Phase",
+    "declare": "Pick this unit if it is in the tunnels below and includes any models armed with Grinderfists .",
+    "effect": "Set up this unit anywhere on the battlefield more than 9\" from all enemy units."
+   },
+   {
+    "name": "SHOCK GAUNTLETS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Each time an attack made with this unit’s Shock Gauntlets scores a critical hit , that attack scores D6 hits on the target unit instead of 1. Make a wound roll for each hit."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "CHAOS",
+   "SKAVEN",
+   "SKRYRE",
+   "MOULDER"
+  ],
+  "unit_size": 3,
+  "points": 230,
+  "base_size": "60mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Stormvermin",
+  "name": "Stormvermin",
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "grand_alliance": "Chaos",
+  "move": "6\"",
+  "health": "1",
+  "save": "4+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Stormvermin Weapons",
+    "range": "",
+    "attacks": "3",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Anti-charge (+1 Rend)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "ELITE BODYGUARD ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Friendly SKAVEN INFANTRY HEROES have WARD ( 5+ ) while they are within this unit’s combat range ."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "CHAMPION",
+   "MUSICIAN ( 1/10 )",
+   "STANDARD BEARER ( 1/10 )",
+   "CHAOS",
+   "SKAVEN",
+   "VERMINUS"
+  ],
+  "unit_size": 10,
+  "points": 110,
+  "base_size": "28.5mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Warpfire-Throwers",
+  "name": "Warpfire Throwers",
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "grand_alliance": "Chaos",
+  "move": "6\"",
+  "health": "3",
+  "save": "6+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Warpfire Thrower",
+    "range": "10\"",
+    "attacks": "2D6",
+    "hit": "2+",
+    "wound": "4+",
+    "rend": "2",
+    "damage": "1",
+    "abilities": [
+     "Shoot in Combat"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Rusty Knives",
+    "range": "",
+    "attacks": "2",
+    "hit": "4+",
+    "wound": "5+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "HIDDEN WEAPON TEAM ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit is within the combat range of a friendly Clanrats unit that has 5 or more models, and there are no other friendly WEAPON TEAM units within that unit’s combat range, this unit is not visible to enemy units more than 13\" away."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "WEAPON TEAM",
+   "CHAOS",
+   "SKAVEN",
+   "SKRYRE"
+  ],
+  "unit_size": 3,
+  "points": 120,
+  "base_size": "60 × 35mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Warplock-Jezzails",
+  "name": "Warplock Jezzails",
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "grand_alliance": "Chaos",
+  "move": "6\"",
+  "health": "2",
+  "save": "4+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Warplock Jezzail",
+    "range": "18\"",
+    "attacks": "2",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "2",
+    "damage": "2",
+    "abilities": [
+     "Crit (Auto-wound)"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Rusty Knives",
+    "range": "",
+    "attacks": "2",
+    "hit": "4+",
+    "wound": "5+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "WARPSTONE SNIPERS ",
+    "timing": "Your Shooting Phase",
+    "declare": "",
+    "effect": "If this unit has not used a MOVE ability this turn and was not set up this turn, add 6\" to the Range characteristic of this unit’s Warplock Jezzails for the rest of the turn."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "CHAMPION",
+   "CHAOS",
+   "SKAVEN",
+   "SKRYRE"
+  ],
+  "unit_size": 3,
+  "points": 120,
+  "base_size": "60 × 35mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Warpvolt-Scourgers",
+  "name": "Warpvolt Scourgers",
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "grand_alliance": "Chaos",
+  "move": "6\"",
+  "health": "3",
+  "save": "6+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Warpvolt Scourger",
+    "range": "15\"",
+    "attacks": "2D6",
+    "hit": "2+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Anti- CAVALRY (+1 Rend) , Crit (2 Hits)"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Rusty Knives",
+    "range": "",
+    "attacks": "2",
+    "hit": "4+",
+    "wound": "5+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "HIDDEN WEAPON TEAM ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit is within the combat range of a friendly Clanrats unit that has 5 or more models, and there are no other friendly WEAPON TEAM units within that unit’s combat range, this unit is not visible to enemy units more than 13\" away."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "WEAPON TEAM",
+   "CHAOS",
+   "SKAVEN",
+   "SKRYRE"
+  ],
+  "unit_size": 3,
+  "points": 170,
+  "base_size": "60 × 35mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Gutter-Runners-1",
+  "name": "Gutter Runners",
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "grand_alliance": "Chaos",
+  "move": "7\"",
+  "health": "1",
+  "save": "6+",
+  "control": "1",
+  "ward": "6+",
+  "ranged_weapons": [
+   {
+    "name": "Saboteur Bombs",
+    "range": "10\"",
+    "attacks": "2",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "-",
+    "damage": "D3",
+    "abilities": [
+     "Anti- INFANTRY (+1 Rend) , Shoot in Combat"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Punch Dagger and Blade",
+    "range": "",
+    "attacks": "3",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Crit (Mortal)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "BOMB RATS ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "This unit’s Bomb Rats are tokens . If there are fewer than 2 friendly Bomb Rats next to enemy units, pick an enemy unit in combat with this unit that does not have a friendly Bomb Rat next to it to be the target.",
+    "effect": "Place this unit’s Bomb Rat next to the target."
+   },
+   {
+    "name": "DETONATE ",
+    "timing": "End of Any Turn",
+    "declare": "This unit can use this ability even if it has been destroyed. Pick each enemy unit that has a friendly Bomb Rat token to be a target.",
+    "effect": "Roll a D3 for each enemy unit within a target’s combat range . On a 2+, inflict an amount of mortal damage on that enemy unit equal to the roll. Then, remove the target’s Bomb Rat ."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "CHAMPION",
+   "WARD ( 6+ )",
+   "CHAOS",
+   "SKAVEN",
+   "ESHIN"
+  ],
+  "unit_size": 10,
+  "points": 150,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Night-Runners",
+  "name": "Night Runners",
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "grand_alliance": "Chaos",
+  "move": "7\"",
+  "health": "1",
+  "save": "6+",
+  "control": "1",
+  "ward": "6+",
+  "ranged_weapons": [
+   {
+    "name": "Slings and Poisoned Stars",
+    "range": "10\"",
+    "attacks": "2",
+    "hit": "4+",
+    "wound": "4+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": [
+     "Crit (Auto-wound) , Shoot in Combat"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Poisoned Blades",
+    "range": "",
+    "attacks": "2",
+    "hit": "4+",
+    "wound": "5+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": [
+     "Crit (Mortal)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "GRAPPLING HOOKS ",
+    "timing": "Once Per Turn (Army), Your Movement Phase",
+    "declare": "If this unit was not set up this turn, pick a terrain feature within 3\" of this unit to be the target.",
+    "effect": "Remove this unit from the battlefield and set it up again wholly within 3\" of the target and more than 3\" from all enemy units."
+   },
+   {
+    "name": "SMOKE BOMBS ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "If this unit is in combat or charged this turn, this unit can make a pile-in move . Then, if this unit is in combat, you must pick 1 or more enemy units to be the target(s) of this unit’s attacks.",
+    "effect": "Resolve combat attacks against the target unit(s). Then, if this unit is in combat, roll a dice. On a 3+, this unit can move a distance up to its Move characteristic. It can pass through the combat ranges of enemy units but can only end that move in combat with units it was in combat with at the start of that move. It does not have to end the move in combat."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "CHAMPION",
+   "WARD ( 6+ )",
+   "CHAOS",
+   "SKAVEN",
+   "ESHIN"
+  ],
+  "unit_size": 10,
+  "points": 130,
+  "base_size": "28.5mm",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Plague-Censer-Bearer",
+  "name": "Plague Censer Bearer",
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "grand_alliance": "Chaos",
+  "move": "6\"",
+  "health": "2",
+  "save": "6+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Plague Censer",
+    "range": "",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Crit (Auto-wound)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "FRENZIED ASSAULT ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "If this unit charged in the same turn, add 1 to the Attacks characteristic of its melee weapons for the rest of the turn."
+   },
+   {
+    "name": "ENSHROUDING FUMES ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Subtract 1 from hit rolls for shooting attacks that target this unit."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "CHAOS",
+   "SKAVEN",
+   "PESTILENS"
+  ],
+  "unit_size": 5,
+  "points": 160,
+  "base_size": "32mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Skabbik-s-Plaguepack",
+  "name": "Skabbik’s Plaguepack",
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "grand_alliance": "Chaos",
+  "move": "6\"",
+  "health": "2",
+  "save": "6+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Plaguepack Weapons",
+    "range": "",
+    "attacks": "2",
+    "hit": "4+",
+    "wound": "5+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": [
+     "Crit (Auto-wound)"
+    ]
+   },
+   {
+    "name": "Plague Censer",
+    "range": "",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Crit (Auto-wound)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "ENSHROUDING FUMES ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Subtract 1 from hit rolls for shooting attacks that target this unit."
+   },
+   {
+    "name": "SKRITTER ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "This unit’s Skritter is a token. If you make a chanting roll of 1 for this unit while its Skritter is on the battlefield, you can remove its Skritter from the battlefield and then re-roll that chanting roll."
+   }
+  ],
+  "keywords": [
+   "UNIQUE",
+   "PRIEST ( 1 )",
+   "INFANTRY",
+   "CHAMPION",
+   "CHAOS",
+   "SKAVEN",
+   "PESTILENS"
+  ],
+  "unit_size": 5,
+  "points": 100,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Skittershank-s-Clawpack",
+  "name": "Skittershank’s Clawpack",
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "grand_alliance": "Chaos",
+  "move": "7\"",
+  "health": "2",
+  "save": "6+",
+  "control": "1",
+  "ward": "6+",
+  "ranged_weapons": [
+   {
+    "name": "Poisoned Stars",
+    "range": "10\"",
+    "attacks": "2",
+    "hit": "4+",
+    "wound": "4+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": [
+     "Shoot in Combat , Crit (Auto-wound)"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Weeping Blade",
+    "range": "",
+    "attacks": "5",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": [
+     "Anti- HERO (+1 Rend)"
+    ]
+   },
+   {
+    "name": "Poisoned Blades",
+    "range": "",
+    "attacks": "2",
+    "hit": "4+",
+    "wound": "5+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": [
+     "Crit (Mortal)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "SNEAKY INFILTRATORS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While each model in this unit is within 1\" of a terrain feature , this unit cannot be targeted by shooting attacks unless the attacking model is within 9\" of it."
+   },
+   {
+    "name": "SHADOWY KILLERS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "If the unmodified hit roll for an attack that targets this unit is 1-4, the attack fails and the attack sequence ends."
+   }
+  ],
+  "keywords": [
+   "UNIQUE",
+   "INFANTRY",
+   "WARD ( 6+ )",
+   "CHAOS",
+   "SKAVEN",
+   "ESHIN"
+  ],
+  "unit_size": 5,
+  "points": 100,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Spiteclaw-s-Swarm",
+  "name": "Spiteclaw’s Swarm",
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "grand_alliance": "Chaos",
+  "move": "6\"",
+  "health": "2",
+  "save": "5+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Wicked Halberd",
+    "range": "",
+    "attacks": "6",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": []
+   },
+   {
+    "name": "Rusty Weapon",
+    "range": "",
+    "attacks": "2",
+    "hit": "4+",
+    "wound": "5+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": [
+     "Crit (Auto-wound)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "SEETHING SWARM ",
+    "timing": "End of Any Turn",
+    "declare": "",
+    "effect": "You can return D3 slain models to this unit."
+   }
+  ],
+  "keywords": [
+   "UNIQUE",
+   "INFANTRY",
+   "CHAOS",
+   "SKAVEN",
+   "VERMINUS"
+  ],
+  "unit_size": 5,
+  "points": 100,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Zikkit-s-Tunnelpack",
+  "name": "Zikkit’s Tunnelpack",
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "grand_alliance": "Chaos",
+  "move": "6\"",
+  "health": "2",
+  "save": "6+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Skryre Bombs",
+    "range": "10\"",
+    "attacks": "2",
+    "hit": "4+",
+    "wound": "4+",
+    "rend": "2",
+    "damage": "1",
+    "abilities": [
+     "Shoot in Combat"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Warp Drill",
+    "range": "",
+    "attacks": "3",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": []
+   },
+   {
+    "name": "Tunnelling Gear",
+    "range": "",
+    "attacks": "2",
+    "hit": "4+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": [
+     "Charge (+1 Damage)"
+    ]
+   },
+   {
+    "name": "Mangy Claws",
+    "range": "",
+    "attacks": "2",
+    "hit": "4+",
+    "wound": "5+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "KA-BOOM! ",
+    "timing": "Once Per Battle (Army), Any Combat Phase",
+    "declare": "Pick an enemy unit in combat with this unit to be the target.",
+    "effect": "This unit’s Tik Tik is a token. If this unit’s Tik Tik is on the battlefield, remove it from the battlefield and roll a D3. On a 2+, inflict an amount of mortal damage on the target equal to the roll and the target has STRIKE-LAST for the rest of the turn"
+   },
+   {
+    "name": "TUNNELING TEAM ",
+    "timing": "Deployment Phase",
+    "declare": "",
+    "effect": "Set up this unit in reserve drilling beneath the surface . It has now been deployed."
+   },
+   {
+    "name": "TUNNELPACK AMBUSH ",
+    "timing": "Your Movement Phase",
+    "declare": "Pick this unit if it is drilling beneath the surface .",
+    "effect": "Set up this unit anywhere on the battlefield more than 9\" from all enemy units."
+   }
+  ],
+  "keywords": [
+   "UNIQUE",
+   "INFANTRY",
+   "CHAOS",
+   "SKAVEN",
+   "SKRYRE"
+  ],
+  "unit_size": 4,
+  "points": 110,
+  "base_size": "",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Brood-Terror",
+  "name": "Brood Terror",
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "grand_alliance": "Chaos",
+  "move": "6\"",
+  "health": "12",
+  "save": "5+",
+  "control": "5",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Warpflame Scourger",
+    "range": "15\"",
+    "attacks": "2D6",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": [
+     "Anti- INFANTRY (+1 Rend) , Crit (Auto-wound)"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Chain-flail",
+    "range": "",
+    "attacks": "5",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "3",
+    "abilities": [
+     "Crit (Mortal)"
+    ]
+   },
+   {
+    "name": "Bladed Limbs",
+    "range": "",
+    "attacks": "3",
+    "hit": "4+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "REGENERATING TERROR ",
+    "timing": "End of Any Turn",
+    "declare": "",
+    "effect": "Heal (D6) this unit."
+   },
+   {
+    "name": "WARPSTONE FUMES ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "",
+    "effect": "Roll a dice. On a 2+, for the rest of the turn, subtract 1 from hit rolls for attacks made by enemy units while they are within 6\" of this unit."
+   }
+  ],
+  "keywords": [
+   "MONSTER",
+   "CHAOS",
+   "SKAVEN",
+   "MOULDER"
+  ],
+  "unit_size": 1,
+  "points": 220,
+  "base_size": "90mm",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Hell-Pit-Abomination",
+  "name": "Hell Pit Abomination",
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "grand_alliance": "Chaos",
+  "move": "D6+5\"",
+  "health": "14",
+  "save": "5+",
+  "control": "5",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Gnashing Teeth and Flailing Fists",
+    "range": "",
+    "attacks": "13",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "2",
+    "abilities": [
+     "Anti- INFANTRY (+1 Rend) , Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "BATTLE DAMAGED",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit has 10 or more damage points, the Attacks characteristic of its Gnashing Teeth and Flailing Fists is 8."
+   },
+   {
+    "name": "REGENERATING MONSTROSITY ",
+    "timing": "End of Any Turn",
+    "declare": "",
+    "effect": "Heal (D6) this unit."
+   },
+   {
+    "name": "AVALANCHE OF FLESH ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "Pick an enemy INFANTRY unit in combat with this unit to be the target.",
+    "effect": "Roll a dice. On a 3+, roll a dice for each model in the target unit. For each 5+, inflict 1 mortal damage on the target."
+   },
+   {
+    "name": "TOO HORRIBLE TO DIE ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "The first time this unit would be destroyed, before removing it from the battlefield, roll a dice and apply the corresponding effect: 1 Dead: This unit is destroyed. 2-4 The Rats Emerge: Roll a D3 for each enemy unit in combat with this unit. On a 2+, inflict an amount of mortal damage on that unit equal to the roll. Then, this unit is destroyed. 5-6 It’s Alive!: This unit is not destroyed and any remaining damage points inflicted on it have no effect. Then, Heal (D6) this unit."
+   }
+  ],
+  "keywords": [
+   "MONSTER",
+   "CHAOS",
+   "SKAVEN",
+   "MOULDER"
+  ],
+  "unit_size": 1,
+  "points": 200,
+  "base_size": "120 × 92mm",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Scourge-of-Ghyran-Brood-Terror",
+  "name": "Scourge of Ghyran Brood Terror",
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "grand_alliance": "Chaos",
+  "move": "6\"",
+  "health": "12",
+  "save": "5+",
+  "control": "5",
+  "ward": "5+",
+  "ranged_weapons": [
+   {
+    "name": "Warpflame Scourger",
+    "range": "15\"",
+    "attacks": "2D6",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": [
+     "Anti- INFANTRY (+1 Rend) , Crit (Auto-wound)"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Chain-flail",
+    "range": "",
+    "attacks": "5",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "3",
+    "abilities": [
+     "Crit (Mortal)"
+    ]
+   },
+   {
+    "name": "Loosely Attached Bladed Limbs",
+    "range": "",
+    "attacks": "5",
+    "hit": "4+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "LEND A CLAW ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "Pick up to 4 other friendly non- SKRYRE MOULDER units wholly within 12\" of this unit to be the targets.",
+    "effect": "Subtract 1 from the Attacks characteristic of this unit’s Loosely Attached Bladed Limbs for the rest of the phase for each target picked. Add 1 to hit rolls for the targets’ attacks for the rest of the phase, including those made with Companion weapons."
+   },
+   {
+    "name": "REGENERATING TERROR ",
+    "timing": "End of Any Turn",
+    "declare": "",
+    "effect": "Heal (D6) this unit."
+   }
+  ],
+  "keywords": [
+   "MONSTER",
+   "WARD ( 5+ )",
+   "CHAOS",
+   "SKAVEN",
+   "MOULDER"
+  ],
+  "unit_size": 1,
+  "points": 240,
+  "base_size": "90mm",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Doom-Flayers",
+  "name": "Doom-Flayers",
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "grand_alliance": "Chaos",
+  "move": "2D6+3\"",
+  "health": "4",
+  "save": "4+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Whirling Blades",
+    "range": "",
+    "attacks": "2D6",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Anti- INFANTRY (+1 Rend) , Charge (+1 Damage)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "WHIRLING DOOM ",
+    "timing": "Any Charge Phase",
+    "declare": "If this unit charged this phase, pick an enemy unit within 1\" of it to be the target.",
+    "effect": "Roll a D3. On a 2+, inflict an amount of mortal damage on the target equal to the roll."
+   }
+  ],
+  "keywords": [
+   "WAR MACHINE",
+   "CHAOS",
+   "SKAVEN",
+   "SKRYRE"
+  ],
+  "unit_size": 2,
+  "points": 100,
+  "base_size": "50mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Doomwheel",
+  "name": "Doomwheel",
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "grand_alliance": "Chaos",
+  "move": "2D6+7\"",
+  "health": "8",
+  "save": "4+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Warp Bolts",
+    "range": "13\"",
+    "attacks": "D6",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": [
+     "Shoot in Combat"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Grinding Wheels",
+    "range": "",
+    "attacks": "6",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": [
+     "Charge (+1 Damage)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "ROLLING DOOM ",
+    "timing": "Your Movement Phase",
+    "declare": "",
+    "effect": "This unit can move a distance up to its Move characteristic. This unit can pass through other models and the combat ranges of enemy units, but it cannot end that move in combat. Then, pick up to 3 enemy units that this unit passed across during that move to be the targets. Roll a D3 for each target. On a 2+, inflict an amount of mortal damage on the target equal to the roll. Designer’s Note: This unit can use this ability even if it is in combat."
+   }
+  ],
+  "keywords": [
+   "WAR MACHINE",
+   "CHAOS",
+   "SKAVEN",
+   "SKRYRE"
+  ],
+  "unit_size": 1,
+  "points": 100,
+  "base_size": "105 × 70mm",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Plagueclaw",
+  "name": "Plagueclaw",
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "grand_alliance": "Chaos",
+  "move": "3\"",
+  "health": "8",
+  "save": "4+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Plagueclaw Catapult",
+    "range": "24\"",
+    "attacks": "2",
+    "hit": "3+",
+    "wound": "2+",
+    "rend": "1",
+    "damage": "D6",
+    "abilities": [
+     "Anti- INFANTRY (+1 Rend)"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Crew’s Teeth and Knives",
+    "range": "",
+    "attacks": "D6",
+    "hit": "4+",
+    "wound": "5+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "BUBONIC BARRAGE ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Each time this unit uses a SHOOT ability, if all of its attacks targeted the same enemy unit, after that ability has been resolved, roll a dice. If the result is equal to or less than the number of models in that enemy unit that were slain by attacks made by this unit’s Plagueclaw Catapult this phase, that enemy unit has STRIKE-LAST for the rest of the turn."
+   }
+  ],
+  "keywords": [
+   "WAR MACHINE",
+   "CHAOS",
+   "SKAVEN",
+   "PESTILENS"
+  ],
+  "unit_size": 1,
+  "points": 100,
+  "base_size": "120 × 92mm",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Ratling-Warpblaster",
+  "name": "Ratling Warpblaster",
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "grand_alliance": "Chaos",
+  "move": "6\"",
+  "health": "7",
+  "save": "4+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Hail of Warpstone Bullets",
+    "range": "20\"",
+    "attacks": "3D6+3",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Crit (Auto-wound)"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Thrall-rats’ Claws",
+    "range": "",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "5+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "OVERWHELMING FIRE ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Add 1 to hit rolls for this unit’s shooting attacks that target an enemy unit that has 10 or more models."
+   },
+   {
+    "name": "MORE-MORE WARPSTONE BULLETS! ",
+    "timing": "Once Per Turn (Army), Your Shooting Phase",
+    "declare": "",
+    "effect": "If this unit is within the combat range of a friendly SKRYRE HERO , this unit’s Hail of Warpstone Bullets has an Attacks characteristic of 6D6+3 instead of 3D6+3 for the rest of the turn. However, for each unmodified hit roll of 1 for an attack made with this unit’s Hail of Warpstone Bullets , inflict 1 mortal damage on this unit after the SHOOT ability has been resolved."
+   }
+  ],
+  "keywords": [
+   "WAR MACHINE",
+   "CHAOS",
+   "SKAVEN",
+   "SKRYRE"
+  ],
+  "unit_size": 1,
+  "points": 110,
+  "base_size": "105 × 70mm",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Warp-Lightning-Cannon",
+  "name": "Warp Lightning Cannon",
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "grand_alliance": "Chaos",
+  "move": "3\"",
+  "health": "8",
+  "save": "4+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Crew’s Teeth and Knives",
+    "range": "",
+    "attacks": "D6",
+    "hit": "4+",
+    "wound": "5+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "MORE-MORE WARP LIGHTNING! ",
+    "timing": "Once Per Turn (Army), Your Shooting Phase",
+    "declare": "",
+    "effect": "If this unit is within the combat range of a friendly SKRYRE HERO , add 6 to the Attacks characteristic of this unit’s Warp Lightning Blast for the rest of the turn. However, for each unmodified hit roll of 1 for an attack made with this unit’s Warp Lightning Blast , inflict D3 mortal damage on this unit after the SHOOT ability has been resolved."
+   },
+   {
+    "name": "WARP LIGHTNING BLAST ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Each attack made with this weapon in a single phase must target the same enemy unit. Each hit inflicts 1 mortal damage on the target and the attack sequence ends."
+   }
+  ],
+  "keywords": [
+   "WAR MACHINE",
+   "CHAOS",
+   "SKAVEN",
+   "SKRYRE"
+  ],
+  "unit_size": 1,
+  "points": 120,
+  "base_size": "120 × 92mm",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Warp-Grinder",
+  "name": "Warp-Grinder",
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "grand_alliance": "Chaos",
+  "move": "5\"",
+  "health": "8",
+  "save": "4+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Warpstone Drill-fang",
+    "range": "",
+    "attacks": "D3",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "3",
+    "damage": "5",
+    "abilities": []
+   },
+   {
+    "name": "Crew’s Teeth and Knives",
+    "range": "",
+    "attacks": "D6",
+    "hit": "4+",
+    "wound": "5+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "TUNNEL SKULKERS ",
+    "timing": "Once Per Battle (Army), Deployment Phase",
+    "declare": "Pick this unit and up to 1 friendly non- MONSTER SKAVEN unit if those units have not been deployed.",
+    "effect": "Set up those units in reserve in the tunnels below . They have now been deployed."
+   },
+   {
+    "name": "WARP-AMBUSH ",
+    "timing": "Your Movement Phase",
+    "declare": "You can only use this ability if this unit is in the tunnels below .",
+    "effect": "Roll a dice and pick one of the following effects. On a 4+, pick an enemy unit that is more than 6\" from all other enemy units. You can set up this unit on the battlefield in combat with that enemy unit and not in combat with any other enemy units. Then, if another friendly unit was set up in the tunnels below with the ‘Tunnel Skulkers’ ability, you can set up that unit wholly within 6\" of this unit, in combat with that enemy unit, and not in combat with any other enemy units. You can set up this unit anywhere on the battlefield more than 9\" from all enemy units. Then, if another friendly unit was set up in the tunnels below with the ‘Tunnel Skulkers’ ability, you can set up that unit wholly within 6\" of this unit and more than 9\" from all enemy units."
+   }
+  ],
+  "keywords": [
+   "WAR MACHINE",
+   "CHAOS",
+   "SKAVEN",
+   "SKRYRE"
+  ],
+  "unit_size": 1,
+  "points": 100,
+  "base_size": "90 × 52mm",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Gnawhole",
+  "name": "Gnawhole",
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "grand_alliance": "Chaos",
+  "move": "-",
+  "health": "6",
+  "save": "4+",
+  "control": "0",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "VOLATILE GROUND ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Models can pass through this terrain feature but cannot be set up on or end moves on any part of this terrain feature. Each time an enemy unit ends a move that passed through or across this terrain feature, roll a D3. On a 2+, inflict an amount of mortal damage on that unit equal to the roll."
+   },
+   {
+    "name": "TUNNELS THROUGH REALITY ",
+    "timing": "Your Movement Phase",
+    "declare": "Pick a friendly SKAVEN unit that is not in combat and is wholly within 6\" of this terrain feature to be the target.",
+    "effect": "Remove the target from the battlefield and set it up again wholly within 6\" of another friendly Gnawhole and more than 9\" from all enemy units."
+   },
+   {
+    "name": "THE ENDLESS VERMINTIDE ",
+    "timing": "Once Per Turn (Army), End of Your Turn",
+    "declare": "Pick a friendly non- HERO SKAVEN INFANTRY unit that has been destroyed to be the target.",
+    "effect": "Set up a replacement unit with half the number of models from the target unit (rounding up) wholly within 6\" of a friendly Gnawhole and more than 3\" from all enemy units."
+   }
+  ],
+  "keywords": [
+   "FACTION TERRAIN",
+   "CHAOS",
+   "SKAVEN"
+  ],
+  "unit_size": 1,
+  "points": 0,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Bell-of-Doom",
+  "name": "Bell of Doom",
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "grand_alliance": "Chaos",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Volatile Warp Energy",
+    "range": "",
+    "attacks": "2D6",
+    "hit": "4+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "TOLL OF DOOM ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Subtract 1 from wound rolls for attacks that target friendly SKAVEN INFANTRY units while they are wholly within 13\" of this MANIFESTATION ."
+   }
+  ],
+  "keywords": [
+   "MANIFESTATION",
+   "ENDLESS SPELL",
+   "FLY",
+   "WARD ( 6+ )",
+   "CHAOS",
+   "SKAVEN"
+  ],
+  "unit_size": null,
+  "points": null,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Vermintide",
+  "name": "Vermintide",
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "grand_alliance": "Chaos",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Chittering Bites",
+    "range": "",
+    "attacks": "13",
+    "hit": "5+",
+    "wound": "5+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": [
+     "Crit (Auto-wound)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "MORE-MORE RATS ",
+    "timing": "End of Any Turn",
+    "declare": "",
+    "effect": "Heal (D6) this MANIFESTATION ."
+   }
+  ],
+  "keywords": [
+   "MANIFESTATION",
+   "ENDLESS SPELL",
+   "WARD ( 6+ )",
+   "CHAOS",
+   "SKAVEN"
+  ],
+  "unit_size": null,
+  "points": null,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Warp-Lightning-Vortex",
+  "name": "Warp Lightning Vortex",
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "grand_alliance": "Chaos",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "MULTIPLE PARTS",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "When a number of damage points equal to this MANIFESTATION ’s Health characteristic are allocated to it, this MANIFESTATION is destroyed and all its parts are removed from play."
+   },
+   {
+    "name": "WARP VORTEX ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Subtract 2 from run rolls and charge rolls for enemy units while they are within 6\" of this MANIFESTATION . In addition, if an enemy unit passes across this MANIFESTATION and/or the round-cornered triangle formed by drawing a line around all the bases of the MANIFESTATION ’s parts, inflict D3 mortal damage on that enemy unit after the MOVE ability has been resolved."
+   },
+   {
+    "name": "WARP LIGHTNING BOLTS ",
+    "timing": "Any Hero Phase",
+    "declare": "If this MANIFESTATION was not set up this turn, pick each enemy unit within 6\" of this MANIFESTATION to be the targets.",
+    "effect": "Roll a dice for each target. On a 4+, inflict D3 mortal damage on the target."
+   }
+  ],
+  "keywords": [
+   "MANIFESTATION",
+   "ENDLESS SPELL",
+   "WARD ( 6+ )",
+   "CHAOS",
+   "SKAVEN"
+  ],
+  "unit_size": null,
+  "points": null,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Cogfort-Raiders",
+  "name": "Cogfort Raiders",
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "grand_alliance": "Chaos",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [],
+  "keywords": [],
+  "unit_size": null,
+  "points": 450,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Outlaw-Conqueror-Cogfort",
+  "name": "Outlaw Conqueror Cogfort",
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "grand_alliance": "Chaos",
+  "move": "6\"",
+  "health": "25",
+  "save": "3+",
+  "control": "10",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Realmscorcher Flame Cannon",
+    "range": "18\"",
+    "attacks": "6D6",
+    "hit": "2+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Anti- INFANTRY (+1 Rend)"
+    ]
+   },
+   {
+    "name": "Crew’s Leadshotters",
+    "range": "12\"",
+    "attacks": "6",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": [
+     "Shoot in Combat"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Crushing Iron Feet",
+    "range": "",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "4",
+    "abilities": [
+     "Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "BATTLE DAMAGED",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit has 10 or more damage points: The Attacks characteristic of its Crushing Iron Feet is 3. It has a Control characteristic of 5."
+   },
+   {
+    "name": "EVERYONE ABOARD! ",
+    "timing": "Deployment Phase",
+    "declare": "Pick up to 1 friendly INFANTRY HERO and up to 1 friendly non- reinforced , non- HERO INFANTR y unit that have not been deployed.",
+    "effect": "Set up those units in reserve as this unit’s passengers . They have now been deployed."
+   },
+   {
+    "name": "THIS IS YOUR STOP, MAGGOTS! ",
+    "timing": "Once Per Battle, Any Charge Phase",
+    "declare": "Pick this unit’s passengers to be the targets.",
+    "effect": "Set up each target wholly within 6\" of this unit and more than 9\" from all enemy units. In addition, the targets’ melee weapons have Charge (+1 Damage) for the rest of the turn."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "WAR MACHINE",
+   "ORDER"
+  ],
+  "unit_size": null,
+  "points": null,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Diseased-Revellers",
+  "name": "Diseased Revellers",
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "grand_alliance": "Chaos",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "THE PIPER’S INFECTIOUS MELODIES ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While a Beast of Nurgle in this Regiment of Renown is within 3\" of this Regiment of Renown’s Sloppity Bilepiper , it can use the 'Attention Seekers' ability even if the other Beast of Nurgle in this Regiment of Renown has already used it this turn."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 310,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Enforcers-of-the-Tithe",
+  "name": "Enforcers of the Tithe",
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "grand_alliance": "Chaos",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "COLLECT THE TITHE ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "Pick the GOTHIZZAR HARVESTER in this Regiment of Renown to use this ability, then pick a NON-HERO INFANTRY unit (friendly or enemy) within its combat range to be the target.",
+    "effect": "Roll a dice. If the roll equals or exceeds the target’s Health characteristic, 1 model in the target unit is slain, then give the unit using this ability 1 bone-tithe point ."
+   },
+   {
+    "name": "SOUL TAX ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick the Mortisan Ossifector in this Regiment of Renown to cast this spell, then: Pick a friendly unit, excluding units in this Regiment of Renown, to be the target. Pick a unit in this Regiment of Renown to be the recipient . The target and the recipient must be wholly within 12\" of and visible to the caster. Then, make a casting roll of 2D6.",
+    "effect": "Until the start of your next turn: The target has a maximum control score of 1. Add 1 to hit rolls and wound rolls for the recipient ’s combat attacks ."
+   },
+   {
+    "name": "REBUILD ON THE MARCH ",
+    "timing": "Your Movement Phase",
+    "declare": "Pick the Gothizzar Harvester in this Regiment of Renown to use this ability if it has 6 bone-tithe points . Then, pick another unit in this Regiment of Renown that has been destroyed to be the target.",
+    "effect": "Reset the Gothizzar Harvester ’s bone-tithe points to 0. Then, set up a replacement of the target unit with half the number of models (rounding up) wholly within 9\" of the Gothizzar Harvester and more than 9\" from all enemy units."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 470,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Lord-Skaldior-s-Chosen",
+  "name": "Lord Skaldior’s Chosen",
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "grand_alliance": "Chaos",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "IRONCLAD DESPOILERS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Add 1 to save rolls for units in this Regiment of Renown while they are contesting an objective you control. Add 1 to wound rolls for units in this Regiment of Renown while they are contesting an objective you do not control."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 530,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Mask-of-the-Deceiver",
+  "name": "Mask of the Deceiver",
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "grand_alliance": "Chaos",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [],
+  "keywords": [],
+  "unit_size": null,
+  "points": 170,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Mask-of-The-Deceiver-1",
+  "name": "Mask of The Deceiver",
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "grand_alliance": "Chaos",
+  "move": "5\"",
+  "health": "6",
+  "save": "5+",
+  "control": "2",
+  "ward": "5+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "The Trickster’s Staff",
+    "range": "",
+    "attacks": "3",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "MASKED IN PLAIN SIGHT ",
+    "timing": "Deployment Phase",
+    "declare": "This unit must be deployed using this ability.",
+    "effect": "Set up this unit in reserve incognito . It has now been deployed. Friendly incognito units are destroyed at the end of the fifth battle round and not at the start of the fourth battle round"
+   },
+   {
+    "name": "BAIT AND SWITCH ",
+    "timing": "Any Hero Phase",
+    "declare": "This unit can use this ability if it is incognito . Pick this unit and a friendly INFANTRY HERO to be the targets. One target must be incognito and the other must be on the battlefield.",
+    "effect": "Set up the incognito target wholly within 6\" of the other target and not in combat . Then, remove the other target from the battlefield and set it up in reserve incognito . If this unit is destroyed, before removing it from play, set up the friendly incognito unit wholly within 6\" of a battlefield edge and not in combat."
+   },
+   {
+    "name": "FORCEFUL COMMAND ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick a visible friendly unit wholly within 12\" of this unit to be the target, then make a casting roll of 2D6.",
+    "effect": "Until the start of your next turn: The target cannot use MOVE abilities. The target’s melee weapons have Anti-charge (+1 Rend) ."
+   }
+  ],
+  "keywords": [
+   "UNIQUE",
+   "HERO",
+   "WIZARD ( 2 )",
+   "INFANTRY",
+   "WARD ( 5+ )",
+   "CHAOS",
+   "DISCIPLES OF TZEENTCH",
+   "DAEMON"
+  ],
+  "unit_size": null,
+  "points": null,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Mist-Clad-Revellers",
+  "name": "Mist-Clad Revellers",
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "grand_alliance": "Chaos",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "LURKING THREAT ",
+    "timing": "Deployment Phase",
+    "declare": "Pick each unit in this Regiment of Renown if none of those units have been deployed.",
+    "effect": "Set up those units in reserve lurking in the mists . They have now been deployed."
+   },
+   {
+    "name": "THE MISTS PART ",
+    "timing": "Your Movement Phase",
+    "declare": "Pick each unit in this Regiment of Renown if they are lurking in the mists .",
+    "effect": "Set up the Shardspeaker of Slaanesh in this Regiment of Renown on the battlefield wholly within 9\" of a battlefield edge and more than 9\" from all enemy units. Then, set up the Blissbarb Archers unit in this Regiment of Renown on the battlefield wholly within 6\" of that Shardspeaker of Slaanesh , wholly within 9\" of a battlefield edge and more than 9\" from all enemy units."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 260,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "One-eyed-Grunnock",
+  "name": "One-eyed Grunnock",
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "grand_alliance": "Chaos",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "SHAKE THE EARTH ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "Pick an enemy unit in combat with this unit to be the target.",
+    "effect": "Roll a D3. On a 2+: Inflict an amount of mortal damage on the target equal to the roll. If the target is INFANTRY , double the amount of mortal damage inflicted. Subtract 1 from hit rolls for the target’s attacks for the rest of the turn."
+   },
+   {
+    "name": "TIMBERRRRR! ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "When the MEGA-GARGANT in this regiment of renown is slain, before removing it from play, the players must roll off . The winner picks a point on the battlefield within 3\" of that model. Inflict D3 mortal damage on each unit (friendly and enemy) within 3\" of that point that has a lower Health characteristic than that model."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 410,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Phulgoth-s-Shudderhood",
+  "name": "Phulgoth’s Shudderhood",
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "grand_alliance": "Chaos",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "FOG OF DESPAIR ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Subtract 1 from hit rolls for attacks that target units in this Regiment of Renown while they are wholly within 9\" of the Harbinger of Decay in this Regiment of Renown."
+   },
+   {
+    "name": "NAUSEATING CONVALESCENCE ",
+    "timing": "Once Per Turn (Army), Any Hero Phase",
+    "declare": "",
+    "effect": "Heal (1) each unit in this Regiment of Renown ."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 530,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Rogue-Engine",
+  "name": "Rogue Engine",
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "grand_alliance": "Chaos",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [],
+  "keywords": [],
+  "unit_size": null,
+  "points": 470,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Outlaw-Cannonade-Cogfort-1",
+  "name": "Outlaw Cannonade Cogfort",
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "grand_alliance": "Chaos",
+  "move": "6\"",
+  "health": "25",
+  "save": "3+",
+  "control": "10",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Godbreaker Cannon",
+    "range": "24\"",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "4",
+    "abilities": []
+   },
+   {
+    "name": "Breacher Cannon",
+    "range": "12\"",
+    "attacks": "6",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Anti- INFANTRY (+1 Rend)"
+    ]
+   },
+   {
+    "name": "Crew’s Leadshotters",
+    "range": "12\"",
+    "attacks": "6",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": [
+     "Shoot in Combat"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Crushing Iron Feet",
+    "range": "",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "4",
+    "abilities": [
+     "Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "BATTLE DAMAGED",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit has 10 or more damage points: The Attacks characteristic of its Crushing Iron Feet is 3. It has a Control characteristic of 5."
+   },
+   {
+    "name": "MERCENARY ATTITUDES ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick another friendly NON-UNIQUE unit wholly within 12\" of this unit to be the target.",
+    "effect": "Pick 1 of the following effects to apply until the start of your next turn and while the target is wholly within 12\" of this unit: You can re-roll run rolls for the target. Add 1 to charge rolls for the target. The target cannot be targeted by shooting attacks . Add 1 to wound rolls for the target’s combat attacks . Add 10 to the target’s control score ."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "WAR MACHINE",
+   "ORDER"
+  ],
+  "unit_size": null,
+  "points": null,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Seeker-of-the-Dread-Dirge",
+  "name": "Seeker of the Dread Dirge",
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "grand_alliance": "Chaos",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "DIRGE OF DESOLATION ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick the Ashen Elder in this Regiment of Renown to chant this prayer, pick a terrain feature on the battlefield to be the target, then make a chanting roll of D6.",
+    "effect": "Roll a D3 for each enemy unit contesting the target. On a 2+, inflict an amount of mortal damage on that enemy unit equal to the roll. If the chanting roll was 12+, you can pick another terrain feature to be a second target."
+   },
+   {
+    "name": "ALL-CONSUMING SEARCH ",
+    "timing": "End of Any Turn",
+    "declare": "Pick the Ashen Elder in this Regiment of Renown to use this ability. Then, pick an objective or Place of Power that they are contesting and that has not been picked to be the target of this ability this battle to be the target.",
+    "effect": "Roll 6 dice. For each 5+, give this unit 1 ritual point ."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 260,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Seekers-of-Silver",
+  "name": "Seekers of Silver",
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "grand_alliance": "Chaos",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "SPLINTERS OF SORCERY ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick a friendly WIZARD in this Regiment of Renown to cast this spell, pick a visible terrain feature within 12\" of them that has not been picked to be the target of this spell this turn to be the target, then make a casting roll of 2D6.",
+    "effect": "If the target does not have the ‘ Place of Power ’ terrain ability, it gains that ability for the rest of the battle. If the target has the ‘Place of Power’ terrain ability, pick an enemy unit within 12\" of it and roll 9 dice. For each 5+, inflict 1 mortal damage on that enemy unit."
+   },
+   {
+    "name": "BUBBLES OF UNREALITY ",
+    "timing": "Once Per Turn (Army), Any Hero Phase",
+    "declare": "Pick a terrain feature with the ‘ Place of Power ’ terrain ability to be the target.",
+    "effect": "The next time a friendly WIZARD in this Regiment of Renown uses a SUMMON SPELL ability this phase, you can measure the range and visibility of that SPELL ability from the target instead of from the caster."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 380,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "The-Accursed-Reflection",
+  "name": "The Accursed Reflection",
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "grand_alliance": "Chaos",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "SPEW FORTH SIN ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick the Contorted Epitome in this Regiment of Renown to cast this spell, then make a casting roll of 2D6.",
+    "effect": "Pick a friendly HEDONITES OF SLAANESH MANIFESTATION that is not on the battlefield and that was not removed from play earlier in the same turn. If you picked a Dreadful Visage or Wheels of Excruciation , set it up wholly within 12\" of the caster, visible to them and more than 9\" from all enemy units. If you picked a Mesmerising Mirror , set it up wholly within 12\" of the caster and visible to them."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 150,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "The-Coven-of-Thryx",
+  "name": "The Coven of Thryx",
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "grand_alliance": "Chaos",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "SPARKS OF PROFANE POTENTIAL ",
+    "timing": "Once Per Battle (Army), Deployment Phase",
+    "declare": "",
+    "effect": "If the Magister in the Regiment of Renown has been deployed, set up one of the following MANIFESTATIONS within 1\" of them: 1 Burning Sigil of Tzeentch 1 Tome of Eyes 1 Daemonic Simulacrum"
+   },
+   {
+    "name": "SKILLED SUMMONER ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick the Magister in this Regiment of Renown to cast this spell, pick 1 of the MANIFESTATIONS from the list below that is not on the battlefield, then make a casting roll of 2D6: 1 Burning Sigil of Tzeentch 1 Tome of Eyes 1 Daemonic Simulacrum",
+    "effect": "If there is already a friendly MANIFESTATION from the list above on the battlefield, it is immediately banished . Then, set up the MANIFESTATION you picked within 1\" of the caster and visible to them. If that MANIFESTATION is a Daemonic Simulacrum , it must also be set up more than 9\" away from all enemy units."
+   },
+   {
+    "name": "FLICKERING WYRDFLAME ",
+    "timing": "Once Per Turn (Army), End of Any Turn",
+    "declare": "Pick an enemy unit that had any damage points inflicted on it this turn by WYRDFLAME SPELL abilities or attacks made with weapons that have the WYRDFLAME weapon ability to be the target.",
+    "effect": "Roll a D3. On a 2+, inflict an amount of mortal damage on the target equal to the roll."
+   },
+   {
+    "name": "BOLT OF TZEENTCH ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick the Magister in this Regiment of Renown to cast this spell, pick a visible enemy unit within 18\" of them to be the target, then make a casting roll of 2D6.",
+    "effect": "Inflict D3 mortal damage on the target."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 280,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "The-Curse-Steel-Battery",
+  "name": "The Curse-Steel Battery",
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "grand_alliance": "Chaos",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "REINFORCE DAEMONSTEEL ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick the Daemonsmith in this Regiment of Renown to cast this spell, then make a casting roll of 2D6.",
+    "effect": "Until the start of your next turn, ignore the first damage point allocated to each friendly HELSMITHS OF HASHUT unit in each phase while they are wholly within 12\" of the caster."
+   },
+   {
+    "name": "DISPLAY OF TOTAL POWER ",
+    "timing": "Once Per Turn (Army), Your Shooting Phase",
+    "declare": "If neither WAR MACHINE unit in this Regiment of Renown used any SHOOT abilities this turn, pick an enemy unit to be the target.",
+    "effect": "For the rest of the turn: While that enemy unit is on the battlefield, the WAR MACHINE units in this Regiment of Renown can only pick that enemy unit to be the target of their shooting attacks . Each of those WAR MACHINE units counts as if it had 3 daemonic power points . The first time you use this ability, you can use it without any command points being spent."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 380,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "The-Exiled-One",
+  "name": "The Exiled One",
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "grand_alliance": "Chaos",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "HATRED FOR ALL ",
+    "timing": "Any Combat Phase",
+    "declare": "You must use this ability if this unit is not in combat and there are any other visible friendly units within this unit’s combat range . You must pick 1 of those friendly units to be the target.",
+    "effect": "Resolve combat attacks for this unit against the target."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 390,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "The-Pustules",
+  "name": "The Pustules",
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "grand_alliance": "Chaos",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "BLIGHTED GROWTH ",
+    "timing": "Deployment Phase",
+    "declare": "",
+    "effect": "Set up this Regiment of Renown ’s Feculent Gnarlmaw wholly within friendly territory and more than 3\" from all objectives and other terrain features . After you have done so, it has been deployed."
+   },
+   {
+    "name": "MULTITUDINOUS DISEASES ",
+    "timing": "Once Per Turn (Army), End of Any Turn",
+    "declare": "If this Regiment of Renown’s Plaguebearer’s unit is wholly within 12\" of this Regiment of Renown’s Feculent Gnarlmaw , pick that Plaguebearers unit to be the target.",
+    "effect": "Heal (1) the target. If the target is contesting an objective , you can also return 1 slain model to the target unit."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 200,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "The-Red-Revelation",
+  "name": "The Red Revelation",
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "grand_alliance": "Chaos",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "FRENZIED VIOLENCE ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick the Slaughterpriest in this Regiment of Renown to chant this prayer, pick a visible unit in this Regiment of Renown wholly within 12\" of them to be the target, then make a chanting roll of D6.",
+    "effect": "Until the start of your next turn, the target unit has WARD ( 5+ ) while every model in that unit is wholly within the combat range of an enemy unit. If the chanting roll was 10+, you can pick another eligible unit to be a second target."
+   },
+   {
+    "name": "GLIMPSE THE GOD ",
+    "timing": "Once Per Turn (Army), End of Any Turn",
+    "declare": "Pick each unit in this Regiment of Renown that used a FIGHT ability this turn to be a target.",
+    "effect": "If any damage points were allocated to an enemy unit by the target’s combat attacks this turn, that enemy unit was destroyed this turn, and no damage points were allocated to that enemy unit this turn by combat attacks made by a friendly unit that is not in this Regiment of Renown, for the rest of the battle, add 2 to the Attacks characteristic of the target’s Blood-hungry weapons."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 380,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Nurgle-s-Gift",
+  "name": "Nurgle’s Gift",
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "grand_alliance": "Chaos",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "INCUBATION PERIOD ",
+    "timing": "Deployment Phase",
+    "declare": "This ability must be used to deploy this Regiment of Renown .",
+    "effect": "Set up the units in this Regiment of Renown in reserve festering within . They have now been deployed."
+   },
+   {
+    "name": "BURSTING WITH LIFE ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "If a friendly non- NURGLE’S GIFT unit would be destroyed, before the last model is removed from play, roll a dice. Add 1 to the roll for each other friendly non- NURGLE’S GIFT unit that has been destroyed this battle. On a 5+, pick a friendly unit that is festering within and set it up wholly within 6\" of that model. It can be set up in combat ."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 180,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Snerk-s-Trogg-Fer-Hire",
+  "name": "Snerk’s Trogg-Fer-Hire",
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "grand_alliance": "Chaos",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "GO DAT WAY! ",
+    "timing": "Your Charge Phase",
+    "declare": "Pick the Dankhold Troggoth in this Regiment of Renown to be the target if it is within 12\" of the Loonboss in this Regiment of Renown.",
+    "effect": "For the rest of the turn, the target can still use CHARGE abilities even if it used a RETREAT ability in the same turn."
+   },
+   {
+    "name": "TAKTIKAL COWERING ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While the Loonboss in this Regiment of Renown is within the combat range of the Dankhold Troggoth in this Regiment of Renown: That Loonboss has WARD ( 4+ ) . Each time you make a successful ward roll for that Loonboss , allocate 1 damage point to that Dankhold Troggoth after the damage sequence for that Loonboss has been resolved (ward rolls cannot be made for those damage points)."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 220,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Stumblefoot-Gargant",
+  "name": "Stumblefoot Gargant",
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "grand_alliance": "Chaos",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "PROJECTILE VOMIT ",
+    "timing": "Once Per Turn (Army), Your Shooting Phase",
+    "declare": "Pick this unit to use this ability if it has not used a RAMPAGE ability this turn. Then, pick a point on the battlefield within 6\" of this unit and pick all other units (friendly and enemy) within 3\" of that point to be the targets.",
+    "effect": "Roll a D3 for each target. On a 2+, inflict an amount of mortal damage on that target equal to the roll."
+   },
+   {
+    "name": "BELLOWING MOCKERY ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "Pick this unit to use this ability if it has not used a RAMPAGE ability this turn, then pick an enemy unit within this unit’s combat range to be the target.",
+    "effect": "Roll a dice. On a 3+, subtract 1 from hit rolls for the target’s attacks for the rest of the turn."
+   },
+   {
+    "name": "WHAT’RE YOU LOOKIN’ AT? ",
+    "timing": "Once Per Turn (Army), Any Charge Phase",
+    "declare": "Pick this unit to use this ability if it charged this turn and has not used a RAMPAGE ability this turn. Then, pick an enemy unit within 9\" of this unit to be the target.",
+    "effect": "Roll 2D6. This unit can move a number of inches equal to the roll. It can pass through enemy models and must end that move in combat with the target."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 140,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Hargax-s-Pit-Beasts",
+  "name": "Hargax’s Pit-Beasts",
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "grand_alliance": "Chaos",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "BESTIAL DOMINATION ",
+    "timing": "Reaction: You declared a FIGHT ability for a unit in this Regiment of Renown",
+    "declare": "",
+    "effect": "Pick a unit in this Regiment of Renown that has not used a FIGHT ability this turn to be the target. The target can be picked to use a FIGHT ability immediately after the FIGHT ability used by this unit has been resolved."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 390,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Brand-s-Oathbound",
+  "name": "Brand’s Oathbound",
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "grand_alliance": "Chaos",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "FAVOUR OF THE GODS ",
+    "timing": "Once Per Turn (Army), End of Any Turn",
+    "declare": "",
+    "effect": "If any enemy HEROES were slain this turn by the Gunnar Brand in this Regiment of Renown : Heal (5) each unit in this Regiment of Renown. Add 1 to the Attacks characteristic of melee weapons used by units in this Regiment of Renown for the rest of the battle."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 200,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ }
+]

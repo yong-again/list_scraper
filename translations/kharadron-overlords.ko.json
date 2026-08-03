@@ -1,0 +1,150 @@
+{
+  "faction": "Kharadron Overlords",
+  "note": "wahapedia_factions/kharadron-overlords.json의 army_rules 항목과 같은 순서. 키워드/유닛명/능력명은 원문 유지.",
+  "entries": [
+    {
+      "section": "",
+      "ko": "필멸의 영역(Mortal Realms)의 구름 위 높은 곳에는 비할 데 없는 번영과 제공권을 누리는 제국이 번성하고 있다. 코드(Code)의 지혜에 따라 카라드론 오버로드는 비행선 함대를 파견해 하늘길을 지배하며, 카라드론의 패권에 도전하는 자는 누구든 그들의 기술-비전 전쟁 병기의 분노를 곧바로 맛보게 된다. 이 페이지에는 흥미진진한 팩션 룰부터 다양한 워스크롤까지, 필멸의 영역 전장에서 카라드론 오버로드 미니어처를 운용하는 데 필요한 모든 룰이 담겨 있다."
+    },
+    {
+      "section": "Designers’ Commentary > Battletome: Kharadron Overlords",
+      "ko": "Q: Arkanaut Frigate가 같은 턴에 RUN 능력을 사용했지만 그 전에 Brokk Grungsson의 'Command the Fleet' 능력의 대상으로 지정되었다면 'Assault Boat' 능력을 사용할 수 있나요? A: 예. Q: 'Assault Boat' 능력을 'Counter-charge'와 조합해 사용할 수 있나요? A: 예. Q: Arkanaut Admiral의 'Bring Every Gun to Bear!' 능력의 대상으로 증강(reinforced)된 Scourge of Ghyran Grundstok Gunhaulers 유닛을 지정할 수 있나요? 그렇다면 유닛의 모든 모델이 효과를 받나요, 아니면 1개 모델만 받나요? A: 예, 그리고 유닛의 모든 모델이 효과의 이득을 받습니다. Q: 'Blazebeard and Sons Bamboozling Flakgun' 아티팩트로 상대의 돌격 굴림에서 주사위 1개를 제거한 뒤 상대가 'Forward to Victory' 커맨드를 사용하면, 상대는 그 돌격 굴림에서 주사위 몇 개를 다시 굴리나요? A: 주사위 1개가 제거된 후 돌격 굴림에 남아 있는 주사위 수만큼 다시 굴립니다. 예를 들어 원래 돌격 굴림이 주사위 2개였고 그중 1개가 Blazebeard and Sons Bamboozling Flakgun에 의해 제거되었다면, 상대는 남은 1개의 주사위를 다시 굴려 돌격 굴림을 결정합니다."
+    },
+    {
+      "section": "Battle Traits",
+      "ko": "카라드론 오버로드 군대는 다음 능력들을 사용할 수 있다. [패시브] SKYVESSEL COVER(스카이베슬 엄호): 거대한 스카이베슬이 상공에서 엄호 사격을 제공하는 동안 카라드론 오버로드는 훨씬 조준하기 어려워진다. 효과: 같은 턴에 돌격하지 않은 아군 KHARADRON OVERLORDS INFANTRY 유닛이, 같은 턴에 돌격하지 않은 아군 Arkanaut Ironclad 또는 Arkanaut Frigate로부터 완전히 6\" 이내에 있는 동안, 그 유닛을 대상으로 하는 공격의 명중 굴림에서 1을 뺀다. [전투당 1회 (군대), 배치 페이즈] FLYING HIGH(고공 대기): 종종 스카이베슬 한 척이 전장 상공 높이 대기하다가, 병력이 가장 필요한 시점과 장소에 강하해 추가 병력을 전개한다. 선언: 아직 어떤 유닛도 배치되지 않은 연대(regiment)에 속한 아군 SKYVESSEL 하나를 고르고, 그 연대에 속한 유닛을 수송 용량(Transport Capacity, 워스크롤 참조)까지 고른다. 효과: 그 유닛들을 모두 '구름 속(in the clouds)' 예비대로 배치한다. 이들은 배치된 것으로 간주한다. 키워드: DEPLOY. [전투당 1회 (군대), 배치 페이즈] THE FLAGSHIP(기함): 모든 함대 사령관은 자신의 함선 중 하나를 기함으로 지정한다. 선언: 아군 SKYVESSEL 하나를 대상으로 고른다. 대상은 예비대에 있어도 된다. 효과: 대상은 전투가 끝날 때까지 FLAGSHIP 키워드를 가진다. 대상에게 Great Endrinwork가 없다면 Great Endrinwork 1개를 부여한다. 디자이너 노트: 이 Great Endrinwork는 군대 구성 시가 아니라 배치 페이즈에 부여된다. [내 이동 페이즈] DESCEND FROM THE CLOUDS(구름에서 강하): 스카이베슬이 전장으로 급강하하면 탑승한 카라드론들이 서둘러 하선해 적진을 덮친다. 선언: 구름 속에 있는 아군 SKYVESSEL 하나를 골라 이 능력을 사용한다. 효과: 그 SKYVESSEL을 모든 적 유닛으로부터 9\"보다 멀리 떨어진 전장 어디에든 배치한다."
+    },
+    {
+      "section": "Battle Traits",
+      "ko": "효과: 그 SKYVESSEL을 모든 적 유닛으로부터 9\"보다 멀리 떨어진 전장 어디에든 배치한다. 그런 다음, 그 SKYVESSEL과 함께 구름 속에 배치되었던 다른 모든 유닛을 그 SKYVESSEL로부터 완전히 6\" 이내, 모든 적 유닛으로부터 9\"보다 멀리 배치한다. [내 이동 페이즈, 리액션: 아군 SKYVESSEL에 대해 CHARGE가 아닌 MOVE 능력을 선언했을 때] TRANSPORT SKYFARERS(스카이페어러 수송): 카라드론은 단련된 두아딘 승무원이 모는 무시무시한 비행선 함대로 영역의 하늘을 지배한다. 효과: 그 SKYVESSEL의 수송 용량(워스크롤 참조)까지, 그 SKYVESSEL로부터 완전히 6\" 이내에 있고 전투 중이 아닌 유닛들을 대상으로 고른다. 이번 턴에 이미 수송된 유닛은 대상이 될 수 없다. 대상들을 전장에서 제거한다. SKYVESSEL이 이동을 마친 뒤, 각 대상 유닛을 그 SKYVESSEL로부터 완전히 6\" 이내, 전투 중이 아닌 위치에 반드시 다시 배치해야 한다. 그 유닛들은 수송된 것으로 간주한다. 같은 턴에 수송된 유닛은 CHARGE 능력을 사용할 수 없다."
+    },
+    {
+      "section": "Battle Formations",
+      "ko": "카라드론 오버로드 군대는 다음 배틀 포메이션 중 1개를 고를 수 있다. 각 배틀 포메이션은 전투에서 사용할 수 있는 서로 다른 능력을 부여한다. [배틀 프로파일 — 이름/포인트] Pioneers and Scavengers 10 / Veteran Ground Troops 0 / Rapid Redeployment Squadron 0 / Endrineers Guild Expeditionary Force 20"
+    },
+    {
+      "section": "Battle Formations > Pioneers and Scavengers",
+      "ko": "[패시브] GRITTY FORTUNE-HUNTERS(억척스러운 보물 사냥꾼): 이 원정대의 본그림 길더들은 보유한 에테르-골드가 거의 바닥났다. 이번 모험의 성패에 생존이 걸려 있으니, 눈앞의 횡재를 가로채려는 자가 있다면 결코 용납하지 않을 것이다! 효과: 아군 Vongrim Harpoon Crew 및 Vongrim Salvagers 유닛은 목표 지점을 점유(contest)하는 동안 WARD (6+)를 가진다."
+    },
+    {
+      "section": "Battle Formations > Veteran Ground Troops",
+      "ko": "[턴당 1회 (군대), 전투 라운드 시작 시] ENTRENCHED CREWS(참호화된 승무원): 이 함대의 아카노트들은 지상전에 익숙하다. 자리를 잡으면 지형을 영리하게 활용해 적의 공격을 저지한다. 선언: 아군 Arkanaut Company 유닛을 최대 3개까지 대상으로 고른다. 효과: 이번 전투 라운드가 끝날 때까지, 대상이 이번 전투 라운드에 새로 배치되지 않았고 이번 턴에 이동하지 않은 동안, 그 유닛을 대상으로 하는 공격의 렌드(Rend) 특성치에서 1을 뺀다."
+    },
+    {
+      "section": "Battle Formations > Rapid Redeployment Squadron",
+      "ko": "[패시브] EXTRA RAPPEL ANCHORS(추가 라펠 앵커): 이 부대의 Grundstok Gunhauler들에는 사략병들이 전투 중 매달려 이동할 수 있는 추가 포트가 장착되어 있다. 효과: 아군 Grundstok Gunhauler는 아군 KHARADRON OVERLORDS INFANTRY 유닛을 1개 대신 최대 2개까지, 합산 모델 수 5 대신 최대 6까지 수송할 수 있다(Battle Traits 참조)."
+    },
+    {
+      "section": "Battle Formations > Endrineers Guild Expeditionary Force",
+      "ko": "[전투당 1회 (군대), 배치 페이즈] SPECIAL PROCUREMENT(특별 조달): 엔드리니어 길드는 영역에서 가장 앞선 발명품으로 무장한 원정대를 종종 용선한다. 선언: 아티팩트를 갖고 있지 않은 아군 비-UNIQUE KHARADRON OVERLORDS HERO 하나를 고른다. 대상은 예비대에 있어도 된다. 효과: 그 HERO에게 'Inventions of the Sky-ports' 또는 'Ingenious Innovations' 목록의 아티팩트 1개를 부여한다. 디자이너 노트: 이 아티팩트는 군대 구성 시가 아니라 배치 페이즈에 부여된다."
+    },
+    {
+      "section": "Heroic Traits > Lords of the Sky-fleets",
+      "ko": "HERO 전용. [배틀 프로파일 — 이름/포인트] SHREWD OPPORTUNIST 10 / BOLD AS BRASS 0 / COMBAT GRAFTER 0. [배치 페이즈] SHREWD OPPORTUNIST(약삭빠른 기회주의자): 이 두아딘의 정신은 보석 세공사만큼 예리하다. 빈틈을 재빨리 포착하고 주저 없이 움켜쥔다. 물론 이런 자질은 이윤 창출에 더없이 유리하다! 선언: 이 유닛과, 그 외 아군 KHARADRON OVERLORDS 비-HERO INFANTRY 유닛 최대 2개를 대상으로 고른다. 효과: 각 대상은 마치 내 이동 페이즈인 것처럼 즉시 'Normal Move' 능력을 사용할 수 있다. [패시브] BOLD AS BRASS(황동처럼 담대하게): 소집 나팔보다 크게 울리는 맹세의 포효든 행동의 대담무쌍함이든, 이 장교는 전장에서 위압적인 존재감을 발한다. 효과: 이 유닛의 통제 점수(control score)에 5를 더한다. [전투당 1회, 아무 전투 페이즈] COMBAT GRAFTER(백병전의 달인): 몸을 낮추고 두개골을 부수는 것이야말로 이 장교가 가장 잘하는 일이다. 효과: 이 유닛은 이번 페이즈에 FIGHT 능력을 2번 사용할 수 있다. 단, 첫 번째 사용 후 이 유닛은 페이즈가 끝날 때까지 STRIKE-LAST를 가진다."
+    },
+    {
+      "section": "Artefacts of Power > Inventions of the Sky-Ports",
+      "ko": "HERO 전용. [배틀 프로파일 — 이름/포인트] VOIDSTONE ORB 0 / CELESTIUM BURST GRENADE 10 / BLAZEBEARD AND SONS BAMBOOZLING FLAKGUN 10. [전투당 1회, 리액션: 상대가 이 유닛으로부터 30\" 이내의 WIZARD에 대해 SPELL 능력을 선언했을 때] VOIDSTONE ORB(보이드스톤 구슬): 수수해 보이는 이 작고 검은 구체에는 적의 주문을 교란하는 힘이 담겨 있다. 효과: 그 주문은 언바운드(unbound)된다. [전투당 1회, 내 사격 페이즈] CELESTIUM BURST GRENADE(셀레스티움 폭발 수류탄): 주로 그룬드스톡 '흑색 해병'들이 쓰는 이 특수 대(對)에테르 병기는 마법 워드를 무효화할 수 있다. 선언: 이 유닛으로부터 12\" 이내의 보이는 적 유닛 하나를 대상으로 고른다. 효과: 이번 턴이 끝날 때까지 대상은 워드 굴림을 할 수 없다. [턴당 1회, 리액션: 상대가 이 유닛으로부터 12\" 이내의 유닛에 대해 CHARGE 능력을 선언했을 때] BLAZEBEARD AND SONS BAMBOOZLING FLAKGUN(블레이즈비어드 부자상회 현혹 대공포): 총열이 굵고 뭉툭한 이 무기는 인광 처리된 에테르-골드를 입힌 공방 부스러기 잡탕을 발사해, 방아쇠를 당기면 눈부시고 어지러운 폭발을 일으킨다. 진격하는 적을 멈춰 세우는 데 매우 효과적이다. 효과: 그 돌격 굴림에서 주사위 1개를 고른다. 그런 다음 D6로 현혹 대공 굴림을 한다. 굴림 값이 고른 주사위 값 이상이면 그 주사위를 돌격 굴림에서 제거한다."
+    },
+    {
+      "section": "Artefacts of Power > Ingenious Innovations",
+      "ko": "HERO 전용. [배틀 프로파일 — 이름/포인트] SPELL IN A BOTTLE 0 / KARST-BANA AETHER-POWERED COMBAT RIG 0 / EMBERSTONE FLARE 0. [전투당 1회, 내 히어로 페이즈] SPELL IN A BOTTLE(병 속의 주문): 소지자가 룬이 찍힌 코르크 마개를 뽑으면, 보관을 위해 봉인해 두었던 비전 매니페스테이션이 풀려난다. 효과: 이 유닛은 마치 WIZARD (1)을 가진 것처럼, 군대 구성 시 고른 매니페스테이션 로어의 SUMMON 능력을 사용할 수 있다. 그 SUMMON 능력의 시전 굴림을 하는 대신 시전 굴림은 7로 고정되며 수정할 수 없다. 그 SUMMON 능력은 언바운드될 수 없다. [패시브] KARST-BANA AETHER-POWERED COMBAT RIG(카르스트-바나 에테르 동력 전투 장비): 이 개척자는 부(富)란 총구 앞에서, 혹은 에테르 동력 해머의 타격 끝에서 필멸의 영역으로부터 쟁취하는 것이라 굳게 믿는다. 그 신념은 압도적인 힘과 방호를 동시에 제공하는 맞춤 제작 전투 하네스로 이어졌다. 효과: 이 유닛은 WARD (5+)를 가진다. 또한 이 유닛의 근접 무기 공격(Attacks) 특성치에 1을 더한다. [전투당 1회, 내 이동 페이즈] EMBERSTONE FLARE(엠버스톤 조명탄): 소지자가 하늘로 조명탄을 쏘아 올려 스카이베슬이나 엔드린을 장착한 카라드론 무리에게 신속한 재배치 신호를 보낸다. 선언: FLY를 가지고 있고 전투 중이 아닌 아군 KHARADRON OVERLORDS 유닛 하나를 대상으로 고른다. 효과: 대상을 전장에서 제거한 뒤, 이 유닛으로부터 완전히 9\" 이내, 모든 적 유닛으로부터 9\"보다 먼 곳에 다시 배치한다."
+    },
+    {
+      "section": "Artefacts of Power > Ingenious Innovations",
+      "ko": "이 팩션이 사용할 수 있는 다른 아티팩트 목록 대신 이 표에서 아티팩트를 고를 수 있다. HERO 전용. [배틀 프로파일 — 이름/포인트] PERSISTENT DRILLBILL 0 / EXPERIMENTAL AETHER-POWERED EJECTOR RIG 0 / HEAT-SEEKING AUTO-ENDRIN 0. [내 히어로 페이즈] PERSISTENT DRILLBILL(집요한 드릴빌): 이 조류형 태엽 사역마는 집요하기 짝이 없다. 한번 목표를 정하면 다른 모든 것을 제쳐두고 쪼아대며 괴롭힌다. 선언: 이 유닛으로부터 12\" 이내의 보이는 적 유닛 하나를 대상으로 고른다. 효과: D3를 굴린다. 2+이면 굴림 값만큼의 모탈 피해를 대상에게 입힌다. 대상 유닛의 시작 규모가 1이었다면, 내 다음 턴 시작 시까지 대상의 공격 명중 굴림에서 1을 뺀다. [전투당 1회, 아무 전투 페이즈] EXPERIMENTAL AETHER-POWERED EJECTOR RIG(실험형 에테르 동력 사출 장비): 이 개척자는 백병전은 다른 두아딘의 몫이라고 굳게 믿는다. 효과: 이 유닛을 전장에서 제거한 뒤, 아군 SKYVESSEL 또는 Zontari Endrin Dock으로부터 완전히 3\" 이내, 모든 적 유닛으로부터 9\"보다 먼 곳에 다시 배치한다. [내 이동 페이즈] HEAT-SEEKING AUTO-ENDRIN(열추적 오토-엔드린): 분노로 달아오른 열원을 추적하도록 설계된 — 불타는 아크시(Aqshy)에는 그런 열원이 넘쳐난다 — 이 작은 오토-엔드린은 격분한 적을 성가시게 하고 주의를 흩뜨린다. 선언: 이 유닛으로부터 18\" 이내의 보이는 적 유닛 하나를 대상으로 고른다. 효과: 내 다음 턴 시작 시까지, 대상의 통제 점수에서 상대의 분노 레벨(fury level)만큼 뺀다. 디자이너 노트: 유닛의 통제 점수가 결정되는 시점의 상대 분노 레벨을 사용한다."
+    },
+    {
+      "section": "Great Endrinworks",
+      "ko": "그레이트 엔드린워크는 SKYVESSEL 전용 특수 강화(enhancement)이다. 군대 구성 시 강화를 추가할 때, 그레이트 엔드린워크 1개를 골라 군대 로스터의 SKYVESSEL에 부여할 수 있다. [배틀 프로파일 — 이름/포인트] HEGSSON SOLUTIONS 'OLD RELIABLE' HULLPLATES 0 / GRUKSSON WIDE-BORE CYLINDERS 0 / COALBEARD'S COLLAPSIBLE BOMBRACK 0 / TRACER-FIRE ROUNDS 0 / GRANDIOSE FUSELAGE 0 / NULLSTONE GALVANISATION 0. [패시브] HEGSSON SOLUTIONS 'OLD RELIABLE' HULLPLATES(헤그손 솔루션스 '올드 릴라이어블' 선체 장갑판): 이 선체 장갑판은 파손 없이 피해를 흡수하는 능력으로 명성이 자자하다. 효과: 이 유닛은 SHOOT 능력으로 입는 피해에 대해 WARD (5+)를 가진다. [패시브] GRUKSSON WIDE-BORE CYLINDERS(그룩손 광폭 실린더): 이 개조 엔드린은 야코브 부그만손 11세가 자기 술을 시음하듯 연료를 들이켜며, 그만큼 힘이 넘친다. 효과: 이 유닛의 이동(Move) 특성치에 2\"를 더한다. [패시브] COALBEARD'S COLLAPSIBLE BOMBRACK(콜비어드의 접이식 폭탄 거치대): 이 탄약 적재 장치는 영리한 접이식 설계 덕분에 폭탄을 추가로 실을 수 있다. 효과: 이 유닛의 'Heavy Bomb Racks', 'Medium Bomb Racks' 또는 'Light Bomb Racks' 능력을 사용할 때 각 주사위 굴림에 1을 더한다. [내 사격 페이즈, 리액션: 이 유닛에 대해 SHOOT 능력을 선언했을 때] TRACER-FIRE ROUNDS(예광탄): 탄피에 엑셀시스산(産) 글리머링을 세공해 넣어, 탄환이 목표를 향해 미세하게 궤도를 수정한다. 효과: 모든 공격이 같은 적 유닛을 대상으로 한다면, 그 공격들의 명중 굴림에 대한 음수 수정치를 무시한다. [패시브] GRANDIOSE FUSELAGE(호화 동체): 길드 후원사를 홍보하는 화려한 룬 문구로 치장했든 유난히 위풍당당한 선수상을 달았든, 이 함선은 적에게 갑절로 위압적이다. 효과: 이 유닛의 통제(Control) 특성치에 5를 더한다."
+    },
+    {
+      "section": "Great Endrinworks",
+      "ko": "효과: 이 유닛의 통제(Control) 특성치에 5를 더한다. [아무 턴 종료 시] NULLSTONE GALVANISATION(널스톤 도금): 반(反)마법 코팅 처리된 금속 세공 덕분에, 이 함선 근처에 머무는 비전 소환물은 서서히 와해된다. 효과: 이 유닛의 전투 범위(combat range) 안에 있는 각 적 MANIFESTATION에 D6 모탈 피해를 입힌다."
+    },
+    {
+      "section": "Great Endrinworks > Great Endrinwork",
+      "ko": "그레이트 엔드린워크는 SKYVESSEL 전용 특수 강화이다. 군대 구성 시 강화를 추가할 때, 그레이트 엔드린워크 1개를 골라 군대 로스터의 SKYVESSEL에 부여할 수 있다. [배틀 프로파일 — 이름/포인트] VOIDSTONE REPULSER VENTS 0 / BLAZEBEARD AND SONS EJECTOR POD 0 / ZONBARCORP 'DEALBREAKER' BATTLE RAM 0. [리액션: 이 유닛으로부터 12\" 이내의 아군 유닛이 적 SPELL 능력의 대상으로 지정되었을 때] VOIDSTONE REPULSER VENTS(보이드스톤 반발 배출구): 곱게 간 보이드스톤 가루 구름이 이 배출구에서 뿜어져 나와 적의 주문을 무효화하고 빗나가게 한다. 효과: 주사위를 굴린다. 4+이면: 그 아군 유닛에 대한 해당 주문의 효과를 무시하고, 시전자에게 D3 모탈 피해를 입힌다. 이 유닛은 이 능력을 페이즈당 여러 번 사용할 수 있지만, 주문 시전 1회당 각 아군 유닛에 대해 한 번만 굴릴 수 있다. [전투당 1회, 아무 전투 페이즈] BLAZEBEARD AND SONS EJECTOR POD(블레이즈비어드 부자상회 사출 포드): 이 놀라운 장치는 영리한 카라드론 지도자에게 강력한 안전장치가 되어 준다. 다만 사용 후에는 제품 보증이 무효가 되므로, 제정신인 카라드론이라면 두 번 쓸 엄두를 내지 않는다! 선언: 이 유닛이 전투 중이라면, 이 유닛으로부터 완전히 6\" 이내에 있는 보이는 아군 KHARADRON OVERLORDS HERO 하나를 대상으로 고른다. 효과: 대상을 전장에서 제거한 뒤, 이 유닛으로부터 완전히 18\" 이내, 모든 적 유닛으로부터 9\"보다 먼 곳에 다시 배치한다. [아무 돌격 페이즈] ZONBARCORP 'DEALBREAKER' BATTLE RAM(존바코프 '딜브레이커' 전투 충각): 이 베스트셀러 개조품을 단 함선은 정면충돌을 두려워할 필요가 없다. 다만 그 앞을 가로막는 자들은 사정이 다르다. 선언: 이 유닛이 이번 페이즈에 돌격했다면, 이 유닛과 전투 중인 적 유닛 하나를 대상으로 고른다. 효과: 무수정 돌격 굴림 값과 같은 개수의 주사위를 굴린다. 4+마다 대상에게 모탈 피해 1을 입힌다."
+    },
+    {
+      "section": "Artycle References",
+      "ko": "아티클 레퍼런스는 비-HERO KHARADRON OVERLORDS INFANTRY 유닛에게 부여할 수 있는 고유 강화이다. 유닛 하나는 아티클 레퍼런스를 1개만 가질 수 있다. [배틀 프로파일 — 이름/포인트] ARTYCLE 15, POINT 4 10 / ARTYCLE 20, AMENDMENT 2 10 / ARTYCLE 25, POINT 6 10. [패시브] ARTYCLE 15, POINT 4(아티클 15조 4항): 모든 두아딘은 공중과 지상의 적 모두에게 대응할 수 있는 다양한 전투 기술에 능통해야 한다. 효과: FLY를 가진 적 유닛을 대상으로 하는 이 유닛의 백병 공격의 명중 굴림에 1을 더한다. FLY가 없는 적 유닛을 대상으로 하는 이 유닛의 백병 공격의 운드 굴림에 1을 더한다. [전투당 1회, 적 돌격 페이즈] ARTYCLE 20, AMENDMENT 2(아티클 20조 수정 2항): 조명총은 비상시 약탈자를 비롯한 불순한 의도를 가진 자들을 교란하는 데 사용할 수 있다. 선언: 이 유닛이 이번 턴에 돌격하지 않았다면, 이번 턴에 돌격했고 이 유닛과 전투 중인 적 유닛 하나를 대상으로 고른다. 효과: 이번 턴이 끝날 때까지 대상의 공격은 크리티컬 히트를 낼 수 없다(대신 일반 명중으로 취급한다). [패시브] ARTYCLE 25, POINT 6(아티클 25조 6항): 승무원은 위험한 원정 중 상관의 안전을 충분히 보장해야 한다. 효과: 아군 KHARADRON OVERLORDS HERO는 이 유닛의 전투 범위 안에 있는 동안 WARD (5+)를 가진다."
+    },
+    {
+      "section": "Grundstok Expeditionary Force",
+      "ko": "[아미 오브 리나운] 군대의 팩션으로 카라드론 오버로드를 고를 때, 그 군대를 Grundstok Expeditionary Force 아미 오브 리나운으로 정할 수 있다. 그렇게 하면 카라드론 오버로드 팩션 룰 대신 이 페이지의 팩션 룰을 사용한다. 군대의 모든 유닛은 아래 로스터 옵션에 나열된 유닛 중에서만 골라야 한다. 군대의 모든 유닛은 EXPEDITIONARY FORCE 키워드를 얻는다. [로스터 옵션] Arkanaut Admiral / Grundstok Thunderers / Grundstok Gunhauler / Endrinmaster with Dirigible Suit / Aether-Khemist / Codewright / Aetheric Navigator / Endrinmaster with Endrinharness. 레지먼트 오브 리나운은 포함할 수 없다."
+    },
+    {
+      "section": "Grundstok Expeditionary Force > Battle Traits",
+      "ko": "[리액션: 아군 SKYVESSEL에 대해 CHARGE가 아닌 MOVE 능력을 선언했을 때] TRANSPORT SKYFARERS(스카이페어러 수송): 카라드론은 단련된 두아딘 승무원이 모는 무시무시한 비행선 함대로 영역의 하늘을 지배한다. 효과: 그 SKYVESSEL의 수송 용량(워스크롤 참조)까지, 그 SKYVESSEL로부터 완전히 6\" 이내에 있는 유닛들을 대상으로 고른다. 이번 턴에 이미 수송된 유닛은 대상이 될 수 없다. 대상들을 전장에서 제거한다. SKYVESSEL이 이동을 마친 뒤, 각 대상 유닛을 그 SKYVESSEL로부터 완전히 6\" 이내, 전투 중이 아닌 위치에 반드시 다시 배치해야 한다. 그 유닛들은 수송된 것으로 간주한다. 같은 턴에 수송된 유닛은 CHARGE 능력을 사용할 수 없다. [패시브] GUN BUTT LOW BLOW(개머리판 급소치기): 산전수전 다 겪은 그룬드코어는 원하는 것을 얻기 위해서라면 비겁한 싸움도 마다하지 않는다. 효과: 아군 EXPEDITIONARY FORCE INFANTRY 유닛이 내가 통제하는 목표 지점을 점유하는 동안, 그 유닛의 근접 무기는 Crit (Mortal)을 가진다. [아무 턴 종료 시] NO SAFE HAVEN(안전지대는 없다): 그룬드코어의 화력은 지면을 맹렬히 두들겨, 어떤 엄폐물도 목표를 오래 지켜주지 못한다. 선언: 적 유닛 하나를 대상으로 고른다. 효과: 이번 턴에 아군 EXPEDITIONARY FORCE 유닛의 사격 공격으로 대상에게 할당된 피해 포인트 1점당 대상의 통제 점수에서 1을 뺀다(최대 10 피해 포인트까지). [턴당 1회 (군대), 아무 사격 페이즈] GRUDGEFIRE ROUNDS(원한의 소이탄): 이 탄약은 목표에 명중하면 백열 화염을 일으키며 폭발한다. 선언: 아군 EXPEDITIONARY FORCE INFANTRY 유닛 하나를 대상으로 고른다. 효과: 주사위를 굴린다. 3+이면 대상의 원거리 무기 1개를 골라, 이번 페이즈가 끝날 때까지 그 무기의 공격(Attacks) 특성치에 1을 더한다."
+    },
+    {
+      "section": "Grundstok Expeditionary Force > Heroic Traits",
+      "ko": "HERO 전용. [리액션: 이 HERO로부터 완전히 12\" 이내의 아군 유닛에 대해 'All-out Defence' 커맨드를 선언했을 때] ENTRENCHMENT EXPERT(참호전 전문가): 이 영웅은 견고한 엄폐물에서 적과 교전해 아군 손실을 최소화하는 것을 선호한다. 효과: 그 아군 유닛은 이번 턴이 끝날 때까지 WARD (5+)를 가진다."
+    },
+    {
+      "section": "Grundstok Expeditionary Force > Artefacts of Power",
+      "ko": "HERO 전용. [리액션: 상대가 소지자로부터 9\" 이내의 MANIFESTATION에 대해 SHOOT 또는 FIGHT 능력을 선언했을 때] AETHERIC NULLIFIER(에테르 무효기): 수수해 보이는 이 원통형 도구는 강력한 반마법 합금으로 제작되었다. 효과: 2D6를 굴린다. 굴림 값이 그 MANIFESTATION의 워스크롤에 적힌 추방 값(banishment value) 이상이면, 그 MANIFESTATION은 추방되어 게임에서 제거된다. 같은 MANIFESTATION을 페이즈당 두 번 이상 이 능력의 대상으로 고를 수 없다."
+    },
+    {
+      "section": "Pioneer Outpost",
+      "ko": "[아미 오브 리나운] 군대의 팩션으로 카라드론 오버로드를 고를 때, 그 군대를 Pioneer Outpost 아미 오브 리나운으로 정할 수 있다. 그렇게 하면 카라드론 오버로드 팩션 룰 대신 이 섹션의 팩션 룰을 사용한다. 군대의 모든 유닛은 아래 로스터 옵션에 나열된 유닛 중에서만 골라야 한다. 군대의 모든 유닛은 PIONEER 키워드를 얻는다. 디자이너 노트: 이 아미 오브 리나운의 룰은 Zontari Endrin Dock과 연계되도록 설계되었으므로, 군대 로스터에 하나 포함하는 것이 합리적이다! [로스터 옵션] Arkanaut Admiral / Aetheric Navigator / Endrinmaster with Endrinharness / 비-HERO KHARADRON OVERLORDS INFANTRY 유닛 전부 / Grundstok Gunhauler. 레지먼트 오브 리나운은 포함할 수 없다."
+    },
+    {
+      "section": "Pioneer Outpost > Battle Traits",
+      "ko": "[턴당 1회 (군대), 아무 히어로 페이즈] INITIAL INVESTMENT(초기 투자): 카라드론 교리는 훌륭한 정찰의 중요성을 강조한다. 효과: 각 아군 AUTO-ENDRIN은 2D6\" 이동할 수 있으나 전투 중인 위치에서 이동을 마칠 수 없다. [턴당 1회 (군대), 아무 턴 종료 시] AGGRESSIVE ACQUISITIONS(공격적 인수): 전쟁에서도 이윤에서도, 적이 나아갈 길을 남겨 두지 마라. 선언: 이번 턴에 CODE 능력을 하나도 사용하지 않았고, 전장의 각 대사분면(large quarter)마다 아군 PIONEER 유닛이 하나씩 있을 때만 이 능력을 사용할 수 있다. 그 유닛들은 각각 다른 모든 대사분면으로부터 6\"보다 멀리 있어야 하며 전투 중이 아니어야 한다. 효과: 전투가 끝날 때까지, 적 유닛은 내 진영 안이나 내가 통제하는 목표 지점으로부터 9\" 이내에 배치될 수 없다. 키워드: CODE. [턴당 1회 (군대), 아무 턴 종료 시] SECURE INVESTMENTS(투자 보호): 현명한 사업가는 자산을 확실히 지킨다. 선언: 이번 턴에 CODE 능력을 하나도 사용하지 않았고, 이번 턴에 내 Zontari Endrin Dock으로부터 3\" 이내에 있던 적 유닛이 이번 턴에 파괴되었을 때만 이 능력을 사용할 수 있다. 효과: 전투가 끝날 때까지, 아군 비-INFANTRY PIONEER 유닛 또는 아군 팩션 지형물을 대상으로 하는 백병 공격의 렌드 특성치를 무시한다. 키워드: CODE. [턴당 1회 (군대), 아무 턴 종료 시] SETTLING ACCOUNTS(외상값 청산): 교전 아티클은 빚 청산에 고성능 폭약을 적극 활용할 것을 권장한다. 선언: 이번 턴에 CODE 능력을 하나도 사용하지 않았고, 이번 턴에 아군 AUTO-ENDRIN이 적 유닛에 의해 파괴되었을 때만 이 능력을 사용할 수 있다."
+    },
+    {
+      "section": "Pioneer Outpost > Battle Traits",
+      "ko": "선언(이어짐): 이번 턴에 CODE 능력을 하나도 사용하지 않았고, 이번 턴에 아군 AUTO-ENDRIN이 적 유닛에 의해 파괴되었을 때만 이 능력을 사용할 수 있다. 효과: 전투가 끝날 때까지, 아군 AUTO-ENDRIN이 전장에서 제거될 때마다 제거하기 전에 그 AUTO-ENDRIN으로부터 3\" 이내의 각 적 유닛에 D3 모탈 피해를 입힌다. 키워드: CODE. [턴당 1회 (군대), 아무 턴 종료 시] MARKET DOMINANCE(시장 지배): 난공불락의 독점을 확보했더라도, 자기 이권은 공격적으로 지키는 것이 중요하다. 선언: 이번 턴에 CODE 능력을 하나도 사용하지 않았고, 적 진영에 완전히 들어가 있지 않은 모든 목표 지점을 내가 통제하고 있을 때만 이 능력을 사용할 수 있다. 효과: 전투가 끝날 때까지, 내 Zontari Endrin Dock의 'Endrinworks Outpost' 능력을 사용할 때마다 제조 굴림 4+ 대신 3+로 교체 AUTO-ENDRIN을 배치할 수 있다. 키워드: CODE. [턴당 1회 (군대), 아무 턴 종료 시] HOSTILE TAKEOVER(적대적 인수): 이윤으로 가는 가장 단순한 길은 주요 경쟁자의 제거다. 선언: 이번 턴에 CODE 능력을 하나도 사용하지 않았고, 이번 턴에 아군 PIONEER 유닛의 사격 공격으로 적 HERO가 파괴되었을 때만 이 능력을 사용할 수 있다. 효과: 전투가 끝날 때까지, 아군 PIONEER 유닛 또는 아군 팩션 지형물을 대상으로 하는 사격 공격의 명중 굴림에서 1을 뺀다. 키워드: CODE."
+    },
+    {
+      "section": "Pioneer Outpost > Heroic Traits",
+      "ko": "HERO 전용. [패시브] TERRITORIAL TRAILBLAZER(텃세 부리는 개척자): 이 고집 세고 대담한 두아딘은 거의 만져질 듯한 반항의 기운을 두르고 있어, 자원 통제권을 두고 그와 다투려는 적들을 주저하게 만든다. 효과: 이 유닛과 전투 중인 적 유닛의 통제 점수에서 3을 뺀다. [전투당 1회, 리액션: Zontari Endrin Dock에 대해 'Endrinworks Outpost' 능력을 선언했을 때] COPPER FINGERS(구리 손가락): 엔드리니어 길드의 정식 회원은 아니지만, 이 장교는 대대로 에테르공학에 재능을 보인 수리공 집안 출신이다. 효과: 이 유닛이 그 Zontari Endrin Dock으로부터 완전히 9\" 이내에 있다면, 'Endrinworks Outpost' 능력의 효과를 처리하는 대신 교체 AUTO-ENDRIN을 그 Zontari Endrin Dock으로부터 완전히 6\" 이내, 모든 적 유닛으로부터 3\"보다 먼 곳에 배치한다."
+    },
+    {
+      "section": "Pioneer Outpost > Artefacts of Power",
+      "ko": "HERO 전용. [패시브] THORGSSON'S UNIVERSAL AUTOMATON ACTUATOR(토르그손의 만능 자동기계 구동기): 이 휴대용 카트리지는 주변 오토-엔드린에게 한층 더한 활력과 기운을 불어넣는 에너지장을 방출한다. 배터리도 필요 없다. 효과: 이 유닛으로부터 완전히 6\" 이내에 있는 아군 AUTO-ENDRIN의 이동 특성치에 6\"를 더한다. [내 이동 페이즈] ROCKBUSTER CHARGES(암반 파쇄 폭약): 상공에서 투하되는 이 드릴 촉 폭탄은 지면을 파고든 뒤 바위와 파편의 찢어발기는 폭풍을 일으키며 폭발한다. 선언: 이 유닛이 이번 턴에 지나간 지형물 하나를 고른다. 그 지형물로부터 1\" 이내의 각 적 유닛이 대상이 된다. 효과: 각 대상에게 D3 모탈 피해를 입힌다."
+    },
+    {
+      "section": "The Duardin Ascendant",
+      "ko": "[아미 오브 리나운] 군대의 팩션으로 파이어슬레이어, 카라드론 오버로드 또는 시티즈 오브 시그마를 고를 때, 그 군대를 Duardin Ascendant 아미 오브 리나운으로 정할 수 있다. 그렇게 하면 해당 팩션 룰 대신 이 페이지의 팩션 룰을 사용한다. 군대의 모든 유닛은 아래 편성에 나열된 유닛 중에서만 골라야 한다. 군대의 모든 유닛은 DUARDIN ASCENDANT 키워드를 얻는다. [로스터 옵션] Grombrindal(반드시 포함해야 하며 장군이어야 함) / 모든 ORDER DUARDIN 유닛. [연대 옵션] 레지먼트 오브 리나운 포함 불가 / MANIFESTATION 포함 불가 / 팩션 지형물 포함 불가."
+    },
+    {
+      "section": "The Duardin Ascendant > Battle Traits",
+      "ko": "[패시브] DUARDRAZHAL(두아드라잘): 그롬브린달의 목표는 다름 아닌 흩어진 고귀한 두아딘 민족 전체의 재통일이다. 효과: 아군 DUARDIN ASCENDANT 유닛은 FYRESLAYERS, KHARADRON OVERLORDS, CITIES OF SIGMAR DUARDIN 유닛이 각각 1개 이상 완전히 12\" 이내에 있는 동안 '단결(unified)' 상태가 된다. [턴당 1회 (군대), 내 히어로 페이즈] 'AS THE ANCESTORS INTENDED!'(조상들의 뜻대로!): 위기의 순간에 먼 친족과 어깨를 나란히 하는 것은 모든 두아딘 설교자의 사기를 드높인다. 선언: 단결 상태의 아군 DUARDIN ASCENDANT PRIEST 하나를 대상으로 고른다. 효과: 이번 턴이 끝날 때까지 대상의 영창 굴림(chanting roll)에 1을 더한다. [턴당 1회 (군대), 내 사격 페이즈] 'PAH! NOW THIS IS A SHOT...'(흥! 사격이란 이런 거다...): 모든 유파의 두아딘 사수들은 친족 앞에서 자신의 뛰어난 솜씨를 뽐낼 기회를 절대 놓치지 않는다. 선언: 단결 상태의 아군 DUARDIN ASCENDANT INFANTRY 유닛 하나를 대상으로 고른다. 효과: 이번 턴이 끝날 때까지 대상의 원거리 무기 공격 특성치에 1을 더한다. [턴당 1회 (군대), 내 돌격 페이즈] 'AS ONE, KINFOLK!'(하나 되어, 친족들이여!): 조상신의 자손들이 하나의 거대한 무리가 되어 전장을 휩쓸며 돌진한다. 선언: 단결 상태의 아군 DUARDIN ASCENDANT INFANTRY 유닛을 최대 3개까지 대상으로 고른다. 효과: 이번 턴이 끝날 때까지, 대상의 돌격 굴림에 굴리는 주사위 수를 1개 늘린다(최대 3개까지). [턴당 1회 (군대), 아무 전투 페이즈] 'SETTLE EVERY GRUDGE! KHAZUK!'(모든 원한을 청산하라! 카죽!): 하나 되어 싸울 때 두아딘은 피에 물든 복수의 화신이 된다. 선언: 단결 상태의 아군 DUARDIN ASCENDANT INFANTRY 유닛 하나를 대상으로 고른다. 효과: 이번 턴이 끝날 때까지 대상의 근접 무기 공격 특성치에 1을 더한다."
+    },
+    {
+      "section": "The Duardin Ascendant > Heroic Traits",
+      "ko": "HERO 전용. [패시브] TIRELESS PURPOSE(지칠 줄 모르는 사명감): 이 두아딘 군주는 민족을 향한 그롬브린달의 이상을 함께 품고 있으며, 그 열정은 주변으로 번져 나간다. 효과: 이 유닛으로부터 완전히 12\" 이내의 아군 DUARDIN ASCENDANT INFANTRY 유닛이 'Normal Move' 능력을 사용할 때마다, 그 능력으로 이동할 수 있는 거리에 2\"를 더한다."
+    },
+    {
+      "section": "The Duardin Ascendant > Artefacts of Power",
+      "ko": "HERO 전용. [전투당 1회, 내 히어로 페이즈] VALAYAN HEARTH-BANNER(발라야의 화롯가 깃발): 화로와 보금자리를 수호하는 여신의 형상을 본떠 벼려낸 이 룬 군기는, 믿는 자들에게는 깊은 상처마저 아물게 하는 영약이다. 선언: 전장에 있는 단결 상태의 아군 DUARDIN ASCENDANT 유닛 전부를 대상으로 고른다. 효과: 각 대상을 Heal (D3) 한다."
+    },
+    {
+      "section": "The Duardin Ascendant > Prayer Lore",
+      "ko": "[내 히어로 페이즈, 시전값 4] SPIRIT OF THE WHITE DWARF(하얀 드워프의 혼): 그롬브린달이 전장에 나서면, 아무리 회의적인 카라드론이라도 신성한 경외감이 스치는 것을 어쩌지 못한다. 선언: 아군 DUARDIN ASCENDANT PRIEST를 골라 이 기도문을 영창하고, 그로부터 18\" 이내의 보이는 아군 DUARDIN ASCENDANT 유닛 하나를 대상으로 고른 뒤 D6로 영창 굴림을 한다. 효과: 대상은 내 다음 턴 시작 시까지 단결 상태가 된다. 영창 굴림이 8+였다면 대상을 1개 대신 2개 고를 수 있다. 키워드: PRAYER, UNLIMITED. [내 히어로 페이즈, 시전값 4] OATH OF RESTORATION(회복의 맹세): 한때 두아딘의 것이었던 모든 것은 다시 그들의 것이 되리라 — 그롬브린달을 믿는 자들은 그렇게 맹세한다. 선언: 아군 DUARDIN ASCENDANT PRIEST를 골라 이 기도문을 영창하고, 그로부터 18\" 이내에 있으며 단결 상태의 아군 유닛 2개 이상이 점유 중인 보이는 목표 지점 하나를 대상으로 고른 뒤 D6로 영창 굴림을 한다. 효과: 내 다음 턴 시작 시까지, 아군 DUARDIN ASCENDANT 유닛은 대상 목표 지점을 점유하는 모델이 있는 동안 WARD (6+)를 가진다. 영창 굴림이 7+였다면 대신 WARD (5+)를 가진다. 키워드: PRAYER."
+    },
+    {
+      "section": "The Magnate’s Crew",
+      "ko": "[아미 오브 리나운] 군대의 팩션으로 카라드론 오버로드를 고를 때, 그 군대를 The Magnate's Crew 아미 오브 리나운으로 정할 수 있다. 그렇게 하면 카라드론 오버로드 팩션 룰 대신 이 섹션의 팩션 룰을 사용한다. 군대의 모든 유닛은 아래 로스터 옵션에 나열된 유닛 중에서만 골라야 한다. 군대의 모든 유닛은 MAGNATE'S CREW 키워드를 얻는다. 군대에 Brokk Grungsson이 없다면, HERO 대신 군대의 Arkanaut Ironclad 하나를 장군으로 지정할 수 있다. 그렇게 하면 그 Arkanaut Ironclad는 HERO 키워드를 얻는다. 다른 HERO의 연대에는 포함될 수 없으나 다음 연대 옵션을 얻는다: 모든 MAGNATE'S CREW 유닛. [로스터 옵션] Brokk Grungsson, Lord-Magnate of Barak-Nar / Endrinmaster with Dirigible Suit / Null-Khemist / Arkanaut Ironclad / Arkanaut Frigate / Grundstok Gunhauler / Vongrim Salvagers / Vongrim Harpoon Crew / Skywardens / Endrinriggers. 레지먼트 오브 리나운과 팩션 지형물은 포함할 수 없다."
+    },
+    {
+      "section": "The Magnate’s Crew > Battle Traits",
+      "ko": "[패시브] LOYALTY TO THE MAGNATE(매그네이트를 향한 충성): 누군가는 충성이라 부르지만, 브로크는 '계약에 따른 동기 부여'라 부른다. 효과: 아군 Brokk Grungsson이 다른 아군 MAGNATE'S CREW INFANTRY 유닛의 전투 범위 안에 완전히 들어가 있는 동안, 두 유닛 모두 WARD (5+)를 가진다. [전투당 1회 (군대), 배치 페이즈] PAY YOUR DEBTS(빚은 갚아라): 그룽손은 모욕을 절대 잊지 않으며, 자신에게 잘못한 자와는 반드시 셈을 치른다. 선언: 전장 또는 예비대의 적 유닛 하나를 '채무자(indebted)'로 지정한다. 효과: 채무자 유닛을 대상으로 하는 아군 MAGNATE'S CREW 유닛의 백병 공격의 운드 굴림에 1을 더한다. [전투당 1회 (군대), 내 이동 페이즈] BOLD MOVES(대담한 수): 브로크 그룽손을 카라드론 사회의 정점에 올려놓은 것은 막대한 이윤만이 아니다. 적의 허를 찌르는 그의 비상한 능력 또한 그에 못지않은 가치를 증명해 왔다. 선언: 전투 중인 아군 MAGNATE'S CREW INFANTRY 유닛을 원하는 수만큼 대상으로 고른다. 각 대상에 대해 3D6로 비상 이탈 굴림(emergency launch roll)을 한다. 효과: 각 대상은 자신의 비상 이탈 굴림 값까지의 거리를 이동할 수 있다. 적 유닛의 전투 범위를 통과해 이동할 수 있으나, 페이즈 시작 시 전투 중이 아니었던 적 유닛과 전투 중인 상태로 이동을 마칠 수 없다. 대상(들)은 이번 턴이 끝날 때까지 CHARGE 능력을 사용할 수 없다. 키워드: CORE, MOVE. [턴당 1회 (군대), 내 이동 페이즈] CUTTING-EDGE ENDRINPACKS(최첨단 엔드린팩): 로드-매그네이트는 병사들에게 최신형의 가장 기민한 엔드린하네스를 지급한다. 선언: 아군 MAGNATE'S CREW SKYVESSEL로부터 완전히 9\" 이내에 있는 아군 MAGNATE'S CREW INFANTRY 유닛을 최대 2개까지 대상으로 고른다. 효과: 이번 턴이 끝날 때까지, 각 대상은 같은 턴에 RUN 능력을 사용했더라도 CHARGE 능력을 사용할 수 있다."
+    },
+    {
+      "section": "The Magnate’s Crew > Battle Traits",
+      "ko": "효과(이어짐): 이번 턴이 끝날 때까지, 각 대상은 같은 턴에 RUN 능력을 사용했더라도 CHARGE 능력을 사용할 수 있다. [전투당 1회 (군대), 적 히어로 페이즈] INVICTUNITE-LINED HULL(인빅투나이트 내장 선체): 함선 선체에 경이로울 만큼 단단한 운석 금속 인빅투나이트를 덧댈 수 있는 자는 로드-매그네이트뿐이다. 선언: 아군 MAGNATE'S CREW SKYVESSEL 하나를 대상으로 고른다. 효과: D3를 굴린다. 이번 턴이 끝날 때까지, 그 SKYVESSEL을 대상으로 하는 공격에 사용되는 무기의 렌드 특성치에서 X를 뺀다(X는 굴림 값). [턴당 1회 (군대), 내 사격 페이즈] CONSTANT BARRAGE(끊임없는 포격): 브로크의 숙련된 포수들은 적이 인근 카라드론 보병과 교전하러 이동하는 와중에도 정확히 포격을 퍼부을 수 있다. 선언: 이번 페이즈에 아군 MAGNATE'S CREW 유닛의 공격으로 피해 포인트가 할당된 적 유닛 하나를 대상으로 고른다. 효과: 내 다음 턴 시작 시까지, 대상이 아군 MAGNATE'S CREW 유닛으로부터 10\" 이내에서 이동을 마칠 때마다 D3를 굴린다. 2+이면 굴림 값만큼의 모탈 피해를 대상에게 입힌다."
+    },
+    {
+      "section": "The Magnate’s Crew > Heroic Traits",
+      "ko": "HERO 전용. [패시브] MASTER OF DISCIPLINE(군기의 달인): 이 두아딘은 승무원들 사이에서 인망이 두텁지만, 채찍을 들어 누가 급료를 주는지 일깨워야 할 때도 잘 안다. 효과: 이 유닛으로부터 완전히 12\" 이내의 아군 MAGNATE'S CREW INFANTRY 유닛이 'Redeploy' 커맨드를 사용할 때마다 그 주사위를 다시 굴릴 수 있다. [패시브] FLANKING FIRE(측면 사격): 전술의 대가인 이 장교는 치명적인 십자포화를 지휘하는 데 능하며, 종종 대담하게 스스로를 미끼로 쓴다. 효과: 이 유닛과 전투 중인 적 유닛을 대상으로 하는 아군 MAGNATE'S CREW SKYVESSEL의 사격 공격의 명중 굴림에 1을 더한다."
+    },
+    {
+      "section": "The Magnate’s Crew > Artefacts of Power",
+      "ko": "HERO 전용. [패시브] AERODYNAMISM(공기역학): 최신예 엔드린에 실려 전장을 누비는 이 두아딘의 속도와 기동성은 그를 매우 맞히기 어려운 표적으로 만든다. 효과: 이 유닛이 이번 턴에 이동했다면, 이번 턴이 끝날 때까지 이 유닛을 대상으로 하는 공격의 명중 굴림에서 1을 뺀다. [내 턴 종료 시] GUNS FOR ALL OCCASIONS(만일에 대비한 총기): 이 빈틈없는 두아딘은 교묘하게 숨겨 둔 에테르블라스터라는 비상 대책을 늘 갖추고 있다. 선언: 이 유닛과 전투 중인 적 유닛 하나를 대상으로 고른다. 효과: 대상에게 D3 모탈 피해를 입힌다."
+    }
+  ]
+}

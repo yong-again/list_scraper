@@ -1,0 +1,1628 @@
+[
+ {
+  "id": "Beast-smasher-Mega-Gargant",
+  "name": "Beast-smasher Mega-Gargant",
+  "faction": "Sons of Behemat",
+  "faction_slug": "sons-of-behemat",
+  "grand_alliance": "Destruction",
+  "move": "10\"",
+  "health": "35",
+  "save": "4+",
+  "control": "20",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Death Grip",
+    "range": "",
+    "attacks": "1",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "D6",
+    "abilities": [
+     "Anti- HERO (+1 Rend)"
+    ]
+   },
+   {
+    "name": "Menhir Club",
+    "range": "",
+    "attacks": "5",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "5",
+    "abilities": [
+     "Anti- MONSTER (+1 Rend)"
+    ]
+   },
+   {
+    "name": "Almighty Stomp",
+    "range": "",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "D3",
+    "abilities": [
+     "Anti- INFANTRY (+1 Rend)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "BATTLE DAMAGED",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit has 15 or more damage points, the Attacks characteristic of its Menhir Club is 3 and this unit has a Control characteristic of 10."
+   },
+   {
+    "name": "BEHEMOTH BRAWLER ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Subtract 1 from the Attacks characteristic of enemy MONSTERS while they are in combat with this unit."
+   },
+   {
+    "name": "LONGSHANKS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "This unit can pass through models in non- MONSTER units and parts of terrain features that are less than 4\" tall."
+   },
+   {
+    "name": "BEAST-BREAKING STRIKE ",
+    "timing": "Any Combat Phase",
+    "declare": "Pick an enemy MONSTER in combat with this unit to be the target.",
+    "effect": "This unit can make a pile-in move . Then, roll a dice. On a 4+, inflict 5D6 mortal damage on the target."
+   },
+   {
+    "name": "SON OF BEHEMAT ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "If this unit would be automatically destroyed, it is not automatically destroyed. Instead, allocate 6 damage points to it ( ward rolls cannot be made for those damage points)."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "MONSTER",
+   "DESTRUCTION",
+   "SONS OF BEHEMAT",
+   "MEGA-GARGANT"
+  ],
+  "unit_size": 1,
+  "points": 470,
+  "base_size": "130mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Eager Lout , Any SONS OF BEHEMAT Notes: This HERO can join an eligible regiment as an Eager Lout ."
+ },
+ {
+  "id": "Gatebreaker-Mega-Gargant",
+  "name": "Gatebreaker Mega-Gargant",
+  "faction": "Sons of Behemat",
+  "faction_slug": "sons-of-behemat",
+  "grand_alliance": "Destruction",
+  "move": "10\"",
+  "health": "35",
+  "save": "4+",
+  "control": "20",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Hurled Boulder",
+    "range": "18\"",
+    "attacks": "1",
+    "hit": "3+",
+    "wound": "2+",
+    "rend": "3",
+    "damage": "4",
+    "abilities": []
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Almighty Stomp",
+    "range": "",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "D3",
+    "abilities": [
+     "Anti- INFANTRY (+1 Rend)"
+    ]
+   },
+   {
+    "name": "Death Grip",
+    "range": "",
+    "attacks": "1",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "D6",
+    "abilities": [
+     "Anti- HERO (+1 Rend)"
+    ]
+   },
+   {
+    "name": "Fortcrusha Flail",
+    "range": "",
+    "attacks": "6",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "4",
+    "abilities": [
+     "Anti- FACTION TERRAIN (+1 Rend)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "BATTLE DAMAGED",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit has 15 or more damage points, the Attacks characteristic of its Fortcrusha Flail is 4 and this unit has a Control characteristic of 10."
+   },
+   {
+    "name": "SONS OF BEHEMAT ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "If this unit would be automatically destroyed, it is not automatically destroyed. Instead, allocate 6 damage points to it ( ward rolls cannot be made for those damage points)."
+   },
+   {
+    "name": "LONGSHANKS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "This unit can pass through models in non- MONSTER units and parts of terrain features that are less than 4\" tall."
+   },
+   {
+    "name": "PULVERISING STRIKE ",
+    "timing": "Any Combat Phase",
+    "declare": "Pick an enemy unit in combat with this unit to be the target.",
+    "effect": "This unit can make a pile-in move . Then, roll a dice. On a 4+, inflict 4D6 mortal damage on the target."
+   },
+   {
+    "name": "SMASH DOWN ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "Pick a terrain feature within 3\" of this unit to be the target.",
+    "effect": "If the target is FACTION TERRAIN , inflict D3+3 mortal damage on it. Then, roll a D3 for each non- MONSTER unit (friendly and enemy) within 3\" of the target. On a 2+, inflict an amount of mortal damage on that unit equal to the roll."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "MONSTER",
+   "DESTRUCTION",
+   "SONS OF BEHEMAT",
+   "MEGA-GARGANT"
+  ],
+  "unit_size": 1,
+  "points": 490,
+  "base_size": "130mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Eager Lout , Any SONS OF BEHEMAT Notes: This HERO can join an eligible regiment as an Eager Lout ."
+ },
+ {
+  "id": "King-Brodd",
+  "name": "King Brodd",
+  "faction": "Sons of Behemat",
+  "faction_slug": "sons-of-behemat",
+  "grand_alliance": "Destruction",
+  "move": "10\"",
+  "health": "40",
+  "save": "4+",
+  "control": "20",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Obelisk of Tor Crania",
+    "range": "",
+    "attacks": "6",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "5",
+    "abilities": []
+   },
+   {
+    "name": "Death Grip",
+    "range": "",
+    "attacks": "1",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "D6",
+    "abilities": [
+     "Anti- HERO (+1 Rend)"
+    ]
+   },
+   {
+    "name": "Almighty Stomp",
+    "range": "",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "D3",
+    "abilities": [
+     "Anti- INFANTRY (+1 Rend)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "BATTLE DAMAGED",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit has 15 or more damage points, the Attacks characteristic of its Obelisk of Tor Crania is 4 and this unit has a Control characteristic of 10."
+   },
+   {
+    "name": "POWER OF BEHEMAT ",
+    "timing": "Your Hero Phase",
+    "declare": "Make a chanting roll of D6.",
+    "effect": "Pick 1 of the following effects. If the chanting roll was 10+, pick 2 instead: Shatter the Mountains: Add 2\" to the Move characteristic of friendly SONS OF BEHEMAT units for the rest of the turn. Might of the Earth: Heal (D3) each friendly SONS OF BEHEMAT unit. Pummel All to Dust: For the rest of the turn, add 1 to the Rend characteristic of the Obelisk of Tor Crania , Menhir Club , Fortcrusha Flail , Shipwrecka Warclub , Titanic Boulderclub and Massive Club used by friendly SONS OF BEHEMAT units."
+   },
+   {
+    "name": "CREEPERS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "This unit cannot be picked to be the target of enemy RAMPAGE abilities."
+   },
+   {
+    "name": "SONS OF BEHEMAT ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "If this unit would be automatically destroyed, it is not automatically destroyed. Instead, allocate 6 damage points to it ( ward rolls cannot be made for those damage points)."
+   },
+   {
+    "name": "LONGSHANKS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "This unit can pass through models in non- MONSTER units and parts of terrain features that are less than 4\" tall."
+   }
+  ],
+  "keywords": [
+   "WARMASTER",
+   "UNIQUE",
+   "HERO",
+   "MONSTER",
+   "PRIEST ( 1 )",
+   "DESTRUCTION",
+   "SONS OF BEHEMAT",
+   "MEGA-GARGANT"
+  ],
+  "unit_size": 1,
+  "points": 520,
+  "base_size": "130mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Eager Lout , Any SONS OF BEHEMAT"
+ },
+ {
+  "id": "Kragnos-the-End-of-Empires",
+  "name": "Kragnos the End of Empires",
+  "faction": "Sons of Behemat",
+  "faction_slug": "sons-of-behemat",
+  "grand_alliance": "Destruction",
+  "move": "10\"",
+  "health": "18",
+  "save": "4+",
+  "control": "15",
+  "ward": "5+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Hooves of Wrack and Ruin",
+    "range": "",
+    "attacks": "6",
+    "hit": "3+",
+    "wound": "2+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": []
+   },
+   {
+    "name": "The Dread Mace",
+    "range": "",
+    "attacks": "6",
+    "hit": "3+",
+    "wound": "2+",
+    "rend": "3",
+    "damage": "4",
+    "abilities": []
+   },
+   {
+    "name": "Tuskbreaker",
+    "range": "",
+    "attacks": "3",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "D3",
+    "abilities": [
+     "Crit (2 Hits)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "BATTLE DAMAGED",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit has 10 or more damage points, the Attacks characteristic of The Dread Mace is 4 and this unit has a Control characteristic of 10."
+   },
+   {
+    "name": "THE SHIELD INVIOLATE ",
+    "timing": "Reaction: Opponent declared a SPELL ability",
+    "declare": "",
+    "effect": "If this unit was picked to be the target of that spell, roll a dice. On a 3+, ignore the effect of that spell on this unit. This unit can use this ability more than once per phase but only once per SPELL ability."
+   },
+   {
+    "name": "AVATAR OF DESTRUCTION ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "If this unit would be automatically destroyed, it is not automatically destroyed. Instead, allocate 6 damage points to it ( ward rolls cannot be made for those damage points)."
+   },
+   {
+    "name": "RAMPAGING DESTRUCTION ",
+    "timing": "Once Per Turn (Army), Any Charge Phase",
+    "declare": "",
+    "effect": "If this unit charged this phase, pick 1 of the following effects: Roll a dice for each enemy unit within 1\" of this unit. On a 2+, inflict an amount of mortal damage on that unit equal to the roll. Pick an enemy MONSTER in combat with this unit and roll 2D6. On a 7, this ability has no effect. Otherwise, inflict an amount of mortal damage on that unit equal to the results on the dice used for the 2D6 roll multiplied together. For example, a 2D6 roll of 2 and 6 would inflict 12 mortal damage (2 × 6)."
+   },
+   {
+    "name": "THE END OF EMPIRES ",
+    "timing": "Your Charge Phase",
+    "declare": "",
+    "effect": "For the rest of the turn, add 1 to the number of dice rolled when making charge rolls for friendly DESTRUCTION units while they are wholly within 12\" of this unit, to a maximum of 3."
+   }
+  ],
+  "keywords": [
+   "WARMASTER",
+   "UNIQUE",
+   "HERO",
+   "MONSTER",
+   "WARD ( 5+ )",
+   "DESTRUCTION",
+   "SONS OF BEHEMAT"
+  ],
+  "unit_size": 1,
+  "points": 590,
+  "base_size": "130mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Eager Lout , Any SONS OF BEHEMAT"
+ },
+ {
+  "id": "Kraken-eater-Mega-Gargant",
+  "name": "Kraken-eater Mega-Gargant",
+  "faction": "Sons of Behemat",
+  "faction_slug": "sons-of-behemat",
+  "grand_alliance": "Destruction",
+  "move": "10\"",
+  "health": "35",
+  "save": "4+",
+  "control": "20",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Hurled Debris",
+    "range": "24\"",
+    "attacks": "3",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": []
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Death Grip",
+    "range": "",
+    "attacks": "1",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "D6",
+    "abilities": [
+     "Anti- HERO (+1 Rend)"
+    ]
+   },
+   {
+    "name": "Almighty Stomp",
+    "range": "",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "D3",
+    "abilities": [
+     "Anti- INFANTRY (+1 Rend)"
+    ]
+   },
+   {
+    "name": "Shipwrecka Warclub",
+    "range": "",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "4",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "BATTLE DAMAGED",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit has 15 or more damage points, the Attacks characteristic of its Shipwrecka Warclub is 3 and this unit has a Control characteristic of 10."
+   },
+   {
+    "name": "SONS OF BEHEMAT ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "If this unit would be automatically destroyed, it is not automatically destroyed. Instead, allocate 6 damage points to it ( ward rolls cannot be made for those damage points)."
+   },
+   {
+    "name": "LONGSHANKS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "This unit can pass through models in non- MONSTER units and parts of terrain features that are less than 4\" tall."
+   },
+   {
+    "name": "GET ORF ME LAND! ",
+    "timing": "Once Per Turn (Army), Your Hero Phase",
+    "declare": "Pick an objective within 1\" of this unit to be the target.",
+    "effect": "Roll a dice. On a 2+, move the target 2D6\" to a new position on the battlefield more than 1\" from all models, terrain features and other objectives. That objective is treated as if it were in the same territories as it was when it was first set up on the battlefield for the purposes of the battleplan ."
+   },
+   {
+    "name": "STUFF ’EM IN ME NET ",
+    "timing": "Once Per Turn, Any Combat Phase",
+    "declare": "Pick an enemy unit in combat with this unit to be the target.",
+    "effect": "Roll 3 dice. For each roll that is at least double the target’s Health characteristic, 1 model in the target unit is slain."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "MONSTER",
+   "DESTRUCTION",
+   "SONS OF BEHEMAT",
+   "MEGA-GARGANT"
+  ],
+  "unit_size": 1,
+  "points": 410,
+  "base_size": "130mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Eager Lout , Any SONS OF BEHEMAT Notes: This HERO can join an eligible regiment as an Eager Lout ."
+ },
+ {
+  "id": "Warstomper-Mega-Gargant",
+  "name": "Warstomper Mega-Gargant",
+  "faction": "Sons of Behemat",
+  "faction_slug": "sons-of-behemat",
+  "grand_alliance": "Destruction",
+  "move": "10\"",
+  "health": "35",
+  "save": "4+",
+  "control": "20",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Almightier Stomp",
+    "range": "",
+    "attacks": "6",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "D3",
+    "abilities": [
+     "Anti- INFANTRY (+1 Rend)"
+    ]
+   },
+   {
+    "name": "Death Grip",
+    "range": "",
+    "attacks": "1",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "D6",
+    "abilities": [
+     "Anti- HERO (+1 Rend)"
+    ]
+   },
+   {
+    "name": "Titanic Boulderclub",
+    "range": "",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "2",
+    "abilities": [
+     "Anti- INFANTRY (+1 Rend)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "BATTLE DAMAGED",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit has 15 or more damage points, the Attacks characteristic of its Titanic Boulderclub is 3 and this unit has a Control characteristic of 10."
+   },
+   {
+    "name": "SON OF BEHEMAT ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "If this unit would be automatically destroyed, it is not automatically destroyed. Instead, allocate 6 damage points to it ( ward rolls cannot be made for those damage points)."
+   },
+   {
+    "name": "LONGSHANKS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "This unit can pass through models in non- MONSTER units and parts of terrain features that are less than 4\" tall."
+   },
+   {
+    "name": "TITANIC BOULDERCLUB ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "If all of the attacks made with this unit’s Titanic Boulderclub target the same enemy unit, for every 5 models in the target unit, add 2 to its Attacks characteristic for the rest of the phase."
+   },
+   {
+    "name": "HURLED BODY ",
+    "timing": "Any Combat Phase",
+    "declare": "Pick an enemy unit in combat with this unit to be the target.",
+    "effect": "Roll a dice. If the roll is at least double the target’s Health characteristic, 1 model in that unit is slain and you can pick a visible enemy unit within 12\" of this unit. Inflict an amount of mortal damage on that unit equal to the target’s Health characteristic."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "MONSTER",
+   "DESTRUCTION",
+   "SONS OF BEHEMAT",
+   "MEGA-GARGANT"
+  ],
+  "unit_size": 1,
+  "points": 450,
+  "base_size": "130mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Eager Lout , Any SONS OF BEHEMAT Notes: This HERO can join an eligible regiment as an Eager Lout ."
+ },
+ {
+  "id": "Scourge-of-Aqshy-Gatebreaker-Mega-Gargant",
+  "name": "Scourge of Aqshy Gatebreaker Mega-Gargant",
+  "faction": "Sons of Behemat",
+  "faction_slug": "sons-of-behemat",
+  "grand_alliance": "Destruction",
+  "move": "10\"",
+  "health": "35",
+  "save": "4+",
+  "control": "20",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Hurled Boulder",
+    "range": "18\"",
+    "attacks": "1",
+    "hit": "3+",
+    "wound": "2+",
+    "rend": "3",
+    "damage": "4",
+    "abilities": []
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Fortcrusha Flail",
+    "range": "",
+    "attacks": "6",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "4",
+    "abilities": [
+     "Anti- FACTION TERRAIN (+1 Rend)"
+    ]
+   },
+   {
+    "name": "Almighty Stomp",
+    "range": "",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "D3",
+    "abilities": [
+     "Anti- INFANTRY (+1 Rend)"
+    ]
+   },
+   {
+    "name": "Death Grip",
+    "range": "",
+    "attacks": "1",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "D6",
+    "abilities": [
+     "Anti- HERO (+1 Rend)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "BATTLE DAMAGED",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit has 15 or more damage points, the Attacks characteristic of its Fortcrusha Flail is 4 and this unit has a Control characteristic of 10."
+   },
+   {
+    "name": "LONGSHANKS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "This unit can pass through models in non- MONSTER units and parts of terrain features that are less than 4\" tall."
+   },
+   {
+    "name": "SON OF BEHEMAT ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "If this unit would be automatically destroyed, it is not automatically destroyed. Instead, allocate 6 damage points to it ( ward rolls cannot be made for those damage points)"
+   },
+   {
+    "name": "IT’S GOIN’ DOWN ",
+    "timing": "Once Per Battle, Your Hero Phase",
+    "declare": "",
+    "effect": "Until the start of your next turn: This unit has a Move characteristic of 4D6\". While this unit is within 1\" of a terrain feature , the Attacks characteristic of its Hurled Boulder is D6 instead of 1."
+   },
+   {
+    "name": "OFF IN A HUFF ",
+    "timing": "Once Per Turn (Army), Your Movement Phase",
+    "declare": "",
+    "effect": "You and your opponent must roll off . Each player adds their fury level to their roll. Then, this unit can move a distance up to its Move characteristic. It can move through the combat ranges of enemy units, but it cannot end that move in combat unless you won the roll-off."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "MONSTER",
+   "DESTRUCTION",
+   "SONS OF BEHEMAT",
+   "MEGA-GARGANT"
+  ],
+  "unit_size": 1,
+  "points": 490,
+  "base_size": "130mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Eager Lout , Any SONS OF BEHEMAT Notes: This HERO can join an eligible regiment as an Eager Lout . This unit is legal for Matched Play for battles fought using the General’s Handbook 2026-27 battlepack."
+ },
+ {
+  "id": "Scourge-of-Ghyran-Kraken-eater-Mega-Gargant",
+  "name": "Scourge of Ghyran Kraken-eater Mega-Gargant",
+  "faction": "Sons of Behemat",
+  "faction_slug": "sons-of-behemat",
+  "grand_alliance": "Destruction",
+  "move": "10\"",
+  "health": "35",
+  "save": "4+",
+  "control": "20",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Hurled Debris",
+    "range": "24\"",
+    "attacks": "3",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": []
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Shipwrecka Warclub",
+    "range": "",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "5",
+    "abilities": []
+   },
+   {
+    "name": "Spine-shattering Stomp",
+    "range": "",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "D3",
+    "abilities": [
+     "Anti- INFANTRY (+1 Rend)"
+    ]
+   },
+   {
+    "name": "Death Grip",
+    "range": "",
+    "attacks": "1",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "D6",
+    "abilities": [
+     "Anti- HERO (+1 Rend)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "BATTLE DAMAGED",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit has 15 or more damage points, the Attacks characteristic of its Shipwrecka Warclub is 3 and this unit has a Control characteristic of 10."
+   },
+   {
+    "name": "SONS OF BEHEMAT ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "If this unit would be automatically destroyed, it is not automatically destroyed. Instead, allocate 6 damage points to it ( ward rolls cannot be made for those damage points)."
+   },
+   {
+    "name": "LONGSHANKS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "This unit can pass through models in non- MONSTER units and parts of terrain features that are less than 4\" tall."
+   },
+   {
+    "name": "EMERGE FROM THE DEEP ",
+    "timing": "Your Movement Phase",
+    "declare": "Pick this unit if it is beneath the waves .",
+    "effect": "Set up this unit anywhere on the battlefield more than 9\" from all enemy units and wholly within 9\" of a battlefield edge."
+   },
+   {
+    "name": "LURKING BENEATH THE WAVES ",
+    "timing": "Once Per Battle (Army), Deployment Phase",
+    "declare": "Pick this unit if it has not been deployed.",
+    "effect": "Set up this unit in reserve beneath the waves . It has now been deployed."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "MONSTER",
+   "DESTRUCTION",
+   "SONS OF BEHEMAT",
+   "MEGA-GARGANT"
+  ],
+  "unit_size": 1,
+  "points": 430,
+  "base_size": "130mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Eager Lout , Any SONS OF BEHEMAT Notes: This HERO can join an eligible regiment as an Eager Lout . This unit is legal for Matched Play for battles fought using the General’s Handbook 2025-26 battlepack."
+ },
+ {
+  "id": "Mancrusher-Gargant-1",
+  "name": "Mancrusher Gargant",
+  "faction": "Sons of Behemat",
+  "faction_slug": "sons-of-behemat",
+  "grand_alliance": "Destruction",
+  "move": "8\"",
+  "health": "12",
+  "save": "5+",
+  "control": "10",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Throwin’ Rocks",
+    "range": "12\"",
+    "attacks": "1",
+    "hit": "5+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "D3",
+    "abilities": []
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "’Eadbutt",
+    "range": "",
+    "attacks": "1",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "4",
+    "abilities": []
+   },
+   {
+    "name": "Mighty Kick",
+    "range": "",
+    "attacks": "1",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "D3",
+    "abilities": []
+   },
+   {
+    "name": "Massive Club",
+    "range": "",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "KEEP UP! ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit is wholly within 12\" of a friendly MEGA-GARGANT , this unit can use CHARGE abilities even if it used a RUN ability in the same turn."
+   },
+   {
+    "name": "STUFF ’EM IN ME BAG ",
+    "timing": "Once Per Turn, Any Combat Phase",
+    "declare": "Pick an enemy unit in combat with this unit to be the target.",
+    "effect": "Roll a dice. If the roll is at least double the target’s Health characteristic, 1 model in the target unit is slain."
+   }
+  ],
+  "keywords": [
+   "MONSTER",
+   "DESTRUCTION",
+   "SONS OF BEHEMAT",
+   "GARGANT"
+  ],
+  "unit_size": 1,
+  "points": 120,
+  "base_size": "90 × 52mm",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Mancrusher-Mob",
+  "name": "Mancrusher Mob",
+  "faction": "Sons of Behemat",
+  "faction_slug": "sons-of-behemat",
+  "grand_alliance": "Destruction",
+  "move": "8\"",
+  "health": "12",
+  "save": "5+",
+  "control": "10",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Throwin’ Rocks",
+    "range": "12\"",
+    "attacks": "1",
+    "hit": "5+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "D3",
+    "abilities": []
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Massive Club",
+    "range": "",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": []
+   },
+   {
+    "name": "Mighty Kick",
+    "range": "",
+    "attacks": "1",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "D3",
+    "abilities": []
+   },
+   {
+    "name": "’Eadbutt",
+    "range": "",
+    "attacks": "1",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "4",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "KEEP UP! ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit is wholly within 12\" of a friendly MEGA-GARGANT , this unit can use CHARGE abilities even if it used a RUN ability in the same turn."
+   },
+   {
+    "name": "STUFF ’EM IN ME BAG ",
+    "timing": "Once Per Turn, Any Combat Phase",
+    "declare": "Pick an enemy unit in combat with this unit to be the target.",
+    "effect": "Roll a dice. If the roll is at least double the target’s Health characteristic, 1 model in the target unit is slain."
+   },
+   {
+    "name": "’OO’S UNDER THE HEEL NOW? ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Each time this unit uses the ‘ Gargant Charge ’ ability, add 1 to the amount of mortal damage inflicted, if any, for each model in this unit."
+   }
+  ],
+  "keywords": [
+   "MONSTER",
+   "DESTRUCTION",
+   "SONS OF BEHEMAT",
+   "GARGANT"
+  ],
+  "unit_size": 3,
+  "points": 350,
+  "base_size": "90 × 52mm",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Scourge-of-Aqshy-Mancrusher-Gargant",
+  "name": "Scourge of Aqshy Mancrusher Gargant",
+  "faction": "Sons of Behemat",
+  "faction_slug": "sons-of-behemat",
+  "grand_alliance": "Destruction",
+  "move": "8\"",
+  "health": "12",
+  "save": "5+",
+  "control": "10",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Throwin’ Rocks",
+    "range": "12\"",
+    "attacks": "1",
+    "hit": "5+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "D3",
+    "abilities": []
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Massive Club",
+    "range": "",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": []
+   },
+   {
+    "name": "’Eadbutt",
+    "range": "",
+    "attacks": "1",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "4",
+    "abilities": []
+   },
+   {
+    "name": "Mighty Kick",
+    "range": "",
+    "attacks": "1",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "D3",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "STATUE TOSSING ",
+    "timing": "Once Per Turn (Army), Your Shooting Phase",
+    "declare": "",
+    "effect": "For the rest of the turn, the Damage characteristic of this unit’s Throwin’ Rocks is 3 instead of D3. Then, you can spend up to 3 rage dice . If you do: For each rage dice spent, add 2 to the Attacks characteristic of this unit’s Throwin’ Rocks for the rest of the turn. If your opponent’s fury level is lower than yours, they must increase their fury level by 1, to a maximum of 7."
+   }
+  ],
+  "keywords": [
+   "MONSTER",
+   "DESTRUCTION",
+   "SONS OF BEHEMAT",
+   "GARGANT"
+  ],
+  "unit_size": 1,
+  "points": 120,
+  "base_size": "90 × 52mm",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Cogfort-Raiders",
+  "name": "Cogfort Raiders",
+  "faction": "Sons of Behemat",
+  "faction_slug": "sons-of-behemat",
+  "grand_alliance": "Destruction",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [],
+  "keywords": [],
+  "unit_size": null,
+  "points": 450,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Outlaw-Conqueror-Cogfort",
+  "name": "Outlaw Conqueror Cogfort",
+  "faction": "Sons of Behemat",
+  "faction_slug": "sons-of-behemat",
+  "grand_alliance": "Destruction",
+  "move": "6\"",
+  "health": "25",
+  "save": "3+",
+  "control": "10",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Realmscorcher Flame Cannon",
+    "range": "18\"",
+    "attacks": "6D6",
+    "hit": "2+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Anti- INFANTRY (+1 Rend)"
+    ]
+   },
+   {
+    "name": "Crew’s Leadshotters",
+    "range": "12\"",
+    "attacks": "6",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": [
+     "Shoot in Combat"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Crushing Iron Feet",
+    "range": "",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "4",
+    "abilities": [
+     "Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "BATTLE DAMAGED",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit has 10 or more damage points: The Attacks characteristic of its Crushing Iron Feet is 3. It has a Control characteristic of 5."
+   },
+   {
+    "name": "EVERYONE ABOARD! ",
+    "timing": "Deployment Phase",
+    "declare": "Pick up to 1 friendly INFANTRY HERO and up to 1 friendly non- reinforced , non- HERO INFANTR y unit that have not been deployed.",
+    "effect": "Set up those units in reserve as this unit’s passengers . They have now been deployed."
+   },
+   {
+    "name": "THIS IS YOUR STOP, MAGGOTS! ",
+    "timing": "Once Per Battle, Any Charge Phase",
+    "declare": "Pick this unit’s passengers to be the targets.",
+    "effect": "Set up each target wholly within 6\" of this unit and more than 9\" from all enemy units. In addition, the targets’ melee weapons have Charge (+1 Damage) for the rest of the turn."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "WAR MACHINE",
+   "ORDER"
+  ],
+  "unit_size": null,
+  "points": null,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Da-Hurtlin-Hogz",
+  "name": "Da Hurtlin’ Hogz",
+  "faction": "Sons of Behemat",
+  "faction_slug": "sons-of-behemat",
+  "grand_alliance": "Destruction",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "GRUNTA WAAAGH! ",
+    "timing": "Once Per Battle, Your Charge Phase",
+    "declare": "You can use this ability if this Regiment of Renown ’s Tuskboss on Maw-grunta is on the battlefield.",
+    "effect": "For the rest of the phase, each time a friendly unit in this Regiment of Renown finishes a charge move, roll a D3 for each enemy unit within 1\" of that unit. On a 2+, inflict an amount of mortal damage on that unit equal to the roll. If that enemy unit is INFANTRY , add 1 to the mortal damage inflicted (if any)."
+   },
+   {
+    "name": "PULLIN’ AHEAD ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "Pick a friendly unit in this Regiment of Renown that charged this turn and has not used any RAMPAGE abilities this turn to be the target.",
+    "effect": "The target can move D6\". It must end that move in combat. Then, add 1 to the target’s momentum points . After this ability has been resolved, the target cannot use any other RAMPAGE abilities for the rest of the turn."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 430,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Da-Kountin-Krew",
+  "name": "Da Kountin’ Krew",
+  "faction": "Sons of Behemat",
+  "faction_slug": "sons-of-behemat",
+  "grand_alliance": "Destruction",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "BOMBZ AWAY, LADZ! ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Friendly units in this Regiment of Renown can use RUN abilities and still use SHOOT abilities later in the turn while they are wholly within 12\" of this Regiment of Renown’s Swampboss Skumdrekk ."
+   },
+   {
+    "name": "SNATCH ’EM UP! ",
+    "timing": "Once Per Turn (Army), Enemy Hero Phase",
+    "declare": "Pick an enemy unit in combat with this Regiment of Renown ’s Swampboss Skumdrekk to be the target.",
+    "effect": "Roll a dice. If the roll is at least double the target’s Health characteristic, 1 model in the target unit is slain."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 320,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Enforcers-of-the-Tithe",
+  "name": "Enforcers of the Tithe",
+  "faction": "Sons of Behemat",
+  "faction_slug": "sons-of-behemat",
+  "grand_alliance": "Destruction",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "COLLECT THE TITHE ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "Pick the GOTHIZZAR HARVESTER in this Regiment of Renown to use this ability, then pick a NON-HERO INFANTRY unit (friendly or enemy) within its combat range to be the target.",
+    "effect": "Roll a dice. If the roll equals or exceeds the target’s Health characteristic, 1 model in the target unit is slain, then give the unit using this ability 1 bone-tithe point ."
+   },
+   {
+    "name": "SOUL TAX ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick the Mortisan Ossifector in this Regiment of Renown to cast this spell, then: Pick a friendly unit, excluding units in this Regiment of Renown, to be the target. Pick a unit in this Regiment of Renown to be the recipient . The target and the recipient must be wholly within 12\" of and visible to the caster. Then, make a casting roll of 2D6.",
+    "effect": "Until the start of your next turn: The target has a maximum control score of 1. Add 1 to hit rolls and wound rolls for the recipient ’s combat attacks ."
+   },
+   {
+    "name": "REBUILD ON THE MARCH ",
+    "timing": "Your Movement Phase",
+    "declare": "Pick the Gothizzar Harvester in this Regiment of Renown to use this ability if it has 6 bone-tithe points . Then, pick another unit in this Regiment of Renown that has been destroyed to be the target.",
+    "effect": "Reset the Gothizzar Harvester ’s bone-tithe points to 0. Then, set up a replacement of the target unit with half the number of models (rounding up) wholly within 9\" of the Gothizzar Harvester and more than 9\" from all enemy units."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 470,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Exile-Scavengers",
+  "name": "Exile Scavengers",
+  "faction": "Sons of Behemat",
+  "faction_slug": "sons-of-behemat",
+  "grand_alliance": "Destruction",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "AN EYE FOR LOOT ",
+    "timing": "Deployment Phase",
+    "declare": "This ability must be used to deploy this Regiment of Renown .",
+    "effect": "Set up the units in this Regiment of Renown in reserve studying the battlefield . They have now been deployed."
+   },
+   {
+    "name": "SWOOP IN ",
+    "timing": "Your Movement Phase",
+    "declare": "Pick the Grundstok Gunhauler in this Regiment of Renown to use this ability if it is studying the battlefield .",
+    "effect": "Set up the Grundstok Gunhauler on the battlefield more than 6\" from all enemy units that have an artefact of power and more than 9\" from all other enemy units. Then, set up all other units in this Regiment of Renown wholly within 3\" of the Grundstok Gunhauler and more than 6\" from all enemy units."
+   },
+   {
+    "name": "WHAT’S YOURS IS MINE ",
+    "timing": "Once Per Turn (Army), Your Combat Phase",
+    "declare": "Pick an enemy unit in combat with a unit in this Regiment of Renown to be the target. Then, pick an artefact of power the target has.",
+    "effect": "Roll a dice. Add 1 to the roll for each unit in this Regiment of Renown that is in combat with the target. On a 6+, the target no longer has that artefact of power."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 410,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Rogue-Engine",
+  "name": "Rogue Engine",
+  "faction": "Sons of Behemat",
+  "faction_slug": "sons-of-behemat",
+  "grand_alliance": "Destruction",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [],
+  "keywords": [],
+  "unit_size": null,
+  "points": 470,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Outlaw-Cannonade-Cogfort-1",
+  "name": "Outlaw Cannonade Cogfort",
+  "faction": "Sons of Behemat",
+  "faction_slug": "sons-of-behemat",
+  "grand_alliance": "Destruction",
+  "move": "6\"",
+  "health": "25",
+  "save": "3+",
+  "control": "10",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Godbreaker Cannon",
+    "range": "24\"",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "4",
+    "abilities": []
+   },
+   {
+    "name": "Breacher Cannon",
+    "range": "12\"",
+    "attacks": "6",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Anti- INFANTRY (+1 Rend)"
+    ]
+   },
+   {
+    "name": "Crew’s Leadshotters",
+    "range": "12\"",
+    "attacks": "6",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": [
+     "Shoot in Combat"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Crushing Iron Feet",
+    "range": "",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "4",
+    "abilities": [
+     "Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "BATTLE DAMAGED",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit has 10 or more damage points: The Attacks characteristic of its Crushing Iron Feet is 3. It has a Control characteristic of 5."
+   },
+   {
+    "name": "MERCENARY ATTITUDES ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick another friendly NON-UNIQUE unit wholly within 12\" of this unit to be the target.",
+    "effect": "Pick 1 of the following effects to apply until the start of your next turn and while the target is wholly within 12\" of this unit: You can re-roll run rolls for the target. Add 1 to charge rolls for the target. The target cannot be targeted by shooting attacks . Add 1 to wound rolls for the target’s combat attacks . Add 10 to the target’s control score ."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "WAR MACHINE",
+   "ORDER"
+  ],
+  "unit_size": null,
+  "points": null,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Skulkrik-s-Loonladz",
+  "name": "Skulkrik’s Loonladz",
+  "faction": "Sons of Behemat",
+  "faction_slug": "sons-of-behemat",
+  "grand_alliance": "Destruction",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "ON DA MOON’S TRAIL ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "The melee weapons of units in this Regiment of Renown have Anti-charge (+1 Rend) while they are contesting an objective you control ."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 310,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "The-Scarlet-Jury",
+  "name": "The Scarlet Jury",
+  "faction": "Sons of Behemat",
+  "faction_slug": "sons-of-behemat",
+  "grand_alliance": "Destruction",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "PUNISHMENT FITS THE CRIME ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "You believe the ‘Accusations of Regicide’ DELUSION (see Grand Justice Gormayne ’s warscroll)."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 300,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "The-Shinestealaz",
+  "name": "The Shinestealaz",
+  "faction": "Sons of Behemat",
+  "faction_slug": "sons-of-behemat",
+  "grand_alliance": "Destruction",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "SNEAKY PROWLIN’ ",
+    "timing": "Deployment Phase",
+    "declare": "Pick all units in this Regiment of Renown if none of them have been deployed.",
+    "effect": "Set up those units in reserve prowlin’ around . They have now been deployed."
+   },
+   {
+    "name": "AMBUSH TIME! ",
+    "timing": "Once Per Battle (Army), Your Movement Phase",
+    "declare": "Pick all units in this Regiment of Renown if they are prowlin’ around .",
+    "effect": "Set up those units anywhere on the battlefield more than 9\" from all enemy units."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 500,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Big-Grikk-s-Kruleshots",
+  "name": "Big Grikk’s Kruleshots",
+  "faction": "Sons of Behemat",
+  "faction_slug": "sons-of-behemat",
+  "grand_alliance": "Destruction",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "SKEWER IT AGAIN! ",
+    "timing": "Once Per Turn (Army), Your Shooting Phase",
+    "declare": "Pick an enemy MONSTER that had any damage points allocated to it this phase by a shooting attack made by the Beast-skewer Killbow in this Regiment of Renown . Then, pick any number of Man-skewer Boltboyz units in this Regiment of Renown to focus fire .",
+    "effect": "For the rest of the turn, add 1 to the Attacks characteristic of the ranged weapons used by the units you picked to focus fire but all of their attacks must target the enemy MONSTER you picked."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 320,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Braggit-s-Bottle-Snatchaz",
+  "name": "Braggit’s Bottle-Snatchaz",
+  "faction": "Sons of Behemat",
+  "faction_slug": "sons-of-behemat",
+  "grand_alliance": "Destruction",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "SNEAKY DISTRACTION ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick the Gobbapalooza in this Regiment of Renown to cast this spell, then make a casting roll of 2D6.",
+    "effect": "Until the start of your next turn, subtract 1 from hit rolls for attacks made by enemy units while they are wholly within 12\" of the caster."
+   },
+   {
+    "name": "SUPER-SECRET TUNNELS ",
+    "timing": "Deployment Phase",
+    "declare": "Pick a unit in this Regiment of Renown that has not been deployed.",
+    "effect": "Set up that unit in reserve in a super-secret tunnel . It has now been deployed."
+   },
+   {
+    "name": "SUDDEN EMERGENCE ",
+    "timing": "Once Per Turn (Army), Any Movement Phase",
+    "declare": "If the Rabble-Rowza in this Regiment of Renown is in a super-secret tunnel , pick it to be the target.",
+    "effect": "Set up the target anywhere on the battlefield more than 9\" from all enemy units. Then, set up all other friendly units that are in a super-secret tunnel within 3\" of the target and more than 9\" from all enemy units."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 480,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Goroan-Scions",
+  "name": "Goroan Scions",
+  "faction": "Sons of Behemat",
+  "faction_slug": "sons-of-behemat",
+  "grand_alliance": "Destruction",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "GOROAN FORGECRAFT ",
+    "timing": "Once Per Turn (Army), Your Hero Phase",
+    "declare": "Pick a friendly DESTRUCTION HERO that is within the combat range of a HERO in this Regiment of Renown to be the target.",
+    "effect": "On a 3+, add 1 to the Rend characteristic of the target’s melee weapons until the start of your next turn."
+   },
+   {
+    "name": "BELLOW OF GORKAMORKA ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick the Ogroid Thaumaturge in this Regiment of Renown to cast this spell, pick a visible enemy unit within 12\" of them to be the target, then make a casting roll of 2D6.",
+    "effect": "The target has STRIKE-LAST until the start of your next turn. In addition, while the target has the BURNING keyword, subtract 1 from hit rolls for the target until the start of your next turn."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 420,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Nurgle-s-Gift",
+  "name": "Nurgle’s Gift",
+  "faction": "Sons of Behemat",
+  "faction_slug": "sons-of-behemat",
+  "grand_alliance": "Destruction",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "INCUBATION PERIOD ",
+    "timing": "Deployment Phase",
+    "declare": "This ability must be used to deploy this Regiment of Renown .",
+    "effect": "Set up the units in this Regiment of Renown in reserve festering within . They have now been deployed."
+   },
+   {
+    "name": "BURSTING WITH LIFE ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "If a friendly non- NURGLE’S GIFT unit would be destroyed, before the last model is removed from play, roll a dice. Add 1 to the roll for each other friendly non- NURGLE’S GIFT unit that has been destroyed this battle. On a 5+, pick a friendly unit that is festering within and set it up wholly within 6\" of that model. It can be set up in combat ."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 180,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ }
+]

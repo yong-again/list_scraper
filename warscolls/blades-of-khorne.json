@@ -1,0 +1,3271 @@
+[
+ {
+  "id": "Karanak",
+  "name": "Karanak",
+  "faction": "Blades of Khorne",
+  "faction_slug": "blades-of-khorne",
+  "grand_alliance": "Chaos",
+  "move": "8\"",
+  "health": "7",
+  "save": "5+",
+  "control": "2",
+  "ward": "6+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Savage Maws and Goreslick Claws",
+    "range": "",
+    "attacks": "6",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Anti- HERO (+1 Rend) , Blood-hungry"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "FIRST OF THE PACK ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit is wholly within 12\" of a friendly Flesh Hounds unit, add 2 to charge rolls for this unit. In addition, while any friendly Flesh Hounds units are wholly within 12\" of this unit, they can ignore the effect of the ‘Beast’ ability."
+   },
+   {
+    "name": "PREY OF THE BLOOD GOD ",
+    "timing": "Once Per Turn, Your Movement Phase",
+    "declare": "",
+    "effect": "If this unit’s quarry is on the battlefield, pick an enemy HERO to be this unit’s quarry. You can pick a HERO in reserve ."
+   },
+   {
+    "name": "STALK THE PREY ",
+    "timing": "Enemy Movement Phase",
+    "declare": "Pick this unit and up to 1 friendly Flesh Hounds unit to be the targets.",
+    "effect": "Remove the targets from the battleeld and set them up again on the battleeld more than 6\" from this unit’s quarry and more than 9\" from all other enemy units. If picked to be a target, the unit of Flesh Hounds must also be set up wholly within 12\" of this unit."
+   }
+  ],
+  "keywords": [
+   "UNIQUE",
+   "HERO",
+   "BEAST",
+   "WARD ( 6+ )",
+   "CHAOS",
+   "BLADES OF KHORNE",
+   "DAEMON"
+  ],
+  "unit_size": 1,
+  "points": 110,
+  "base_size": "75 × 42mm",
+  "can_be_reinforced": false,
+  "regiment_options": "Any Claws of Karanak , Any Flesh Hounds"
+ },
+ {
+  "id": "Scyla-Anfingrimm",
+  "name": "Scyla Anfingrimm",
+  "faction": "Blades of Khorne",
+  "faction_slug": "blades-of-khorne",
+  "grand_alliance": "Chaos",
+  "move": "8\"",
+  "health": "8",
+  "save": "5+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Brutal Fists",
+    "range": "",
+    "attacks": "8",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "-",
+    "damage": "2",
+    "abilities": [
+     "Blood-hungry , Crit (2 Hits)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "BRASS COLLAR OF KHORNE ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "This unit can use UNBIND abilities as if it had WIZARD ( 1 ) ."
+   },
+   {
+    "name": "BESTIAL LEAP ",
+    "timing": "Any Charge Phase",
+    "declare": "",
+    "effect": "If this unit charged this phase, roll a dice. On a 3+, this unit can move 2D6\" as if it had FLY but must end that move in combat ."
+   }
+  ],
+  "keywords": [
+   "UNIQUE",
+   "BEAST",
+   "HERO",
+   "CHAOS",
+   "BLADES OF KHORNE",
+   "BLOODBOUND"
+  ],
+  "unit_size": 1,
+  "points": 130,
+  "base_size": "60mm",
+  "can_be_reinforced": false,
+  "regiment_options": "Any BLOODBOUND"
+ },
+ {
+  "id": "Lord-of-Khorne-on-Juggernaut",
+  "name": "Lord of Khorne on Juggernaut",
+  "faction": "Blades of Khorne",
+  "faction_slug": "blades-of-khorne",
+  "grand_alliance": "Chaos",
+  "move": "10\"",
+  "health": "8",
+  "save": "2+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Wrathforged Axe",
+    "range": "",
+    "attacks": "6",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Blood-hungry"
+    ]
+   },
+   {
+    "name": "Juggernaut’s Brazen Hooves",
+    "range": "",
+    "attacks": "2",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": [
+     "Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "LORD OF THE BRASS STAMPEDE ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "If this unit charged this turn, for the rest of the turn, add 1 to charge rolls for friendly BLADES OF KHORNE CAVALRY units while they are wholly within 12\" of this unit."
+   },
+   {
+    "name": "SLAUGHTEROUS CHARGE ",
+    "timing": "Any Charge Phase",
+    "declare": "If this unit charged this turn, pick a visible enemy unit within 1\" of it to be the target.",
+    "effect": "Roll a D3. On a 2+, inflict an amount of mortal damage on the target equal to the roll."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "CAVALRY",
+   "CHAOS",
+   "BLADES OF KHORNE",
+   "BLOODBOUND"
+  ],
+  "unit_size": 1,
+  "points": 200,
+  "base_size": "90 × 52mm",
+  "can_be_reinforced": false,
+  "regiment_options": "Any BLOODBOUND Notes: This unit will move to Warhammer Legends on 1 June 2026."
+ },
+ {
+  "id": "Skullmaster-Herald-of-Khorne",
+  "name": "Skullmaster Herald of Khorne",
+  "faction": "Blades of Khorne",
+  "faction_slug": "blades-of-khorne",
+  "grand_alliance": "Chaos",
+  "move": "10\"",
+  "health": "7",
+  "save": "4+",
+  "control": "2",
+  "ward": "6+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Blade of Blood",
+    "range": "",
+    "attacks": "5",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "2",
+    "damage": "2",
+    "abilities": [
+     "Blood-hungry , Crit (Mortal)"
+    ]
+   },
+   {
+    "name": "Juggernaut’s Brazen Hooves",
+    "range": "",
+    "attacks": "2",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": [
+     "Anti- CAVALRY (+1 Rend) , Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "SLAUGHTEROUS CHARGE ",
+    "timing": "Any Charge Phase",
+    "declare": "If this unit charged this turn, pick a visible enemy unit within 1\" of it to be the target.",
+    "effect": "Roll a D3. On a 2+, inflict an amount of mortal damage on the target equal to the roll."
+   },
+   {
+    "name": "HERALD OF TRAMPLING DEATH ",
+    "timing": "Once Per Battle, Any Charge Phase",
+    "declare": "Pick a friendly Bloodcrushers unit within this unit’s combat range to be the target.",
+    "effect": "For the rest of the turn, weapons used by this unit and the target have Charge (+1 Damage) ."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "CAVALRY",
+   "WARD ( 6+ )",
+   "CHAOS",
+   "BLADES OF KHORNE",
+   "DAEMON"
+  ],
+  "unit_size": 1,
+  "points": 130,
+  "base_size": "90 × 52mm",
+  "can_be_reinforced": false,
+  "regiment_options": "Any DAEMON CAVALRY , Any WAR MACHINE Notes: This unit will move to Warhammer Legends on 1 June 2026."
+ },
+ {
+  "id": "Bloodmaster-Herald-of-Khorne",
+  "name": "Bloodmaster Herald of Khorne",
+  "faction": "Blades of Khorne",
+  "faction_slug": "blades-of-khorne",
+  "grand_alliance": "Chaos",
+  "move": "5\"",
+  "health": "6",
+  "save": "4+",
+  "control": "2",
+  "ward": "6+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Blade of Blood",
+    "range": "",
+    "attacks": "5",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "2",
+    "damage": "2",
+    "abilities": [
+     "Blood-hungry , Crit (2 Hits)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "THE BLOOD MUST FLOW ",
+    "timing": "Reaction: You declared a FIGHT ability for this unit",
+    "declare": "",
+    "effect": "Pick a friendly Bloodletters unit that has not used a FIGHT ability this turn and is within this unit’s combat range to be the target. The target can be picked to use a FIGHT ability immediately after the FIGHT ability used by this unit has been resolved. For the rest of the turn, add 1 to hit rolls for combat attacks made by this unit and that friendly Bloodletters unit."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "PRIEST ( 1 )",
+   "INFANTRY",
+   "WARD ( 6+ )",
+   "CHAOS",
+   "BLADES OF KHORNE",
+   "DAEMON"
+  ],
+  "unit_size": 1,
+  "points": 120,
+  "base_size": "40mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Slaughter Seeker , Any BLADES OF KHORNE DAEMON"
+ },
+ {
+  "id": "Bloodsecrator",
+  "name": "Bloodsecrator",
+  "faction": "Blades of Khorne",
+  "faction_slug": "blades-of-khorne",
+  "grand_alliance": "Chaos",
+  "move": "5\"",
+  "health": "6",
+  "save": "3+",
+  "control": "5",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Ensorcelled Axe",
+    "range": "",
+    "attacks": "4",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Blood-hungry"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "ICON OF THE BLOOD GOD ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "If a friendly BLOODBOUND unit wholly within 12\" of this unit uses the ‘ Rally ’ command, you can make 3 additional rally rolls of D6."
+   },
+   {
+    "name": "RAGE OF KHORNE ",
+    "timing": "Once Per Battle (Army), Any Combat Phase",
+    "declare": "",
+    "effect": "Add 1 to the Attacks characteristics of melee weapons used by friendly BLOODBOUND units for the rest of the turn."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "INFANTRY",
+   "CHAOS",
+   "BLADES OF KHORNE",
+   "BLOODBOUND"
+  ],
+  "unit_size": 1,
+  "points": 110,
+  "base_size": "32mm",
+  "can_be_reinforced": false,
+  "regiment_options": "Any BLOODBOUND Notes: This HERO can join an eligible regiment as a Bloodbound Warmonger ."
+ },
+ {
+  "id": "Bloodstoker",
+  "name": "Bloodstoker",
+  "faction": "Blades of Khorne",
+  "faction_slug": "blades-of-khorne",
+  "grand_alliance": "Chaos",
+  "move": "5\"",
+  "health": "5",
+  "save": "4+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Torture Blade and Blood Whip",
+    "range": "",
+    "attacks": "4",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Blood-hungry"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "WHIPPED TO FURY ",
+    "timing": "Once Per Turn (Army), Your Movement Phase",
+    "declare": "Pick a friendly non- HERO BLOODBOUND unit within this unit’s combat range to be the target.",
+    "effect": "For the rest of the turn, the target can use CHARGE abilities even if it used a RUN ability in the same turn."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "INFANTRY",
+   "CHAOS",
+   "BLADES OF KHORNE",
+   "BLOODBOUND"
+  ],
+  "unit_size": 1,
+  "points": 100,
+  "base_size": "40mm",
+  "can_be_reinforced": false,
+  "regiment_options": "Any BLOODBOUND Notes: This HERO can join an eligible regiment as a Bloodbound Warmonger ."
+ },
+ {
+  "id": "Deathbringer",
+  "name": "Deathbringer",
+  "faction": "Blades of Khorne",
+  "faction_slug": "blades-of-khorne",
+  "grand_alliance": "Chaos",
+  "move": "5\"",
+  "health": "6",
+  "save": "3+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Kingslayer Axe",
+    "range": "",
+    "attacks": "4",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "3",
+    "abilities": [
+     "Blood-hungry , Crit (2 Hits)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "TROPHIES OF GLORIOUS DEATHS ",
+    "timing": "Reaction: Opponent declared a command for a unit within 8\" of this unit",
+    "declare": "",
+    "effect": "Roll a dice. On an 5+, that command has no effect, it still counts as having been used and the command points spent to use it are still lost. This reaction cannot be used more than once per command."
+   },
+   {
+    "name": "KILLER OF KINGS ",
+    "timing": "Once Per Turn (Army), End of Any Turn",
+    "declare": "Pick each enemy unit and MANIFESTATION in combat with this unit to be a target.",
+    "effect": "Roll 2D6 for each target. If the roll exceeds the target’s Health characteristic, 1 model from that unit is slain or, if the target is a MANIFESTATION , it is automatically destroyed."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "INFANTRY",
+   "CHAOS",
+   "BLADES OF KHORNE",
+   "BLOODBOUND"
+  ],
+  "unit_size": 1,
+  "points": 120,
+  "base_size": "40mm",
+  "can_be_reinforced": false,
+  "regiment_options": "Any BLOODBOUND Notes: This HERO can join an eligible regiment as a Bloodbound Warmonger ."
+ },
+ {
+  "id": "Mighty-Lord-of-Khorne",
+  "name": "Mighty Lord of Khorne",
+  "faction": "Blades of Khorne",
+  "faction_slug": "blades-of-khorne",
+  "grand_alliance": "Chaos",
+  "move": "5\"",
+  "health": "7",
+  "save": "3+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Flesh Hound’s Blood‑dark Claws",
+    "range": "",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": [
+     "Companion"
+    ]
+   },
+   {
+    "name": "Axe of Khorne",
+    "range": "",
+    "attacks": "5",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "2",
+    "damage": "2",
+    "abilities": [
+     "Blood-hungry"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "LORD OF THE BLOODBOUND ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Add 1 to wound rolls for friendly BLOODBOUND INFANTRY units while they are wholly within 12\" of this unit."
+   },
+   {
+    "name": "’BRING ME THEIR SKULL!’ ",
+    "timing": "Once Per Turn (Army), Your Combat Phase",
+    "declare": "Pick another friendly BLOODBOUND INFANTRY HERO wholly within 12\" of this unit to be the target.",
+    "effect": "The target has STRIKE-FIRST for the rest of the turn."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "INFANTRY",
+   "CHAOS",
+   "BLADES OF KHORNE",
+   "BLOODBOUND"
+  ],
+  "unit_size": 1,
+  "points": 110,
+  "base_size": "60mm",
+  "can_be_reinforced": false,
+  "regiment_options": "Any Bloodbound Warmonger , Any BLOODBOUND"
+ },
+ {
+  "id": "Realmgore-Ritualist",
+  "name": "Realmgore Ritualist",
+  "faction": "Blades of Khorne",
+  "faction_slug": "blades-of-khorne",
+  "grand_alliance": "Chaos",
+  "move": "5\"",
+  "health": "5",
+  "save": "5+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Ritual Dagger",
+    "range": "",
+    "attacks": "2",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "2",
+    "damage": "D3",
+    "abilities": [
+     "Blood-hungry"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "DESECRATING BLOOD RUNES ",
+    "timing": "Once Per Battle (Army), Your Movement Phase",
+    "declare": "Pick an objective or terrain feature within this unit’s combat range to be the target.",
+    "effect": "For the rest of the battle, add 1 to wound rolls for combat attacks made by friendly BLOODBOUND units while they are wholly within 12\" of the target."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "PRIEST ( 1 )",
+   "INFANTRY",
+   "CHAOS",
+   "BLADES OF KHORNE",
+   "BLOODBOUND"
+  ],
+  "unit_size": 1,
+  "points": 110,
+  "base_size": "32mm",
+  "can_be_reinforced": false,
+  "regiment_options": "Any BLOODBOUND"
+ },
+ {
+  "id": "Skullgrinder",
+  "name": "Skullgrinder",
+  "faction": "Blades of Khorne",
+  "faction_slug": "blades-of-khorne",
+  "grand_alliance": "Chaos",
+  "move": "5\"",
+  "health": "6",
+  "save": "3+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Brazen Anvil",
+    "range": "",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "1",
+    "damage": "3",
+    "abilities": [
+     "Anti- MONSTER (+1 Rend) , Blood-hungry"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "TEMPERED BY FURY ",
+    "timing": "Once Per Battle (Army), Deployment Phase",
+    "declare": "Pick another friendly BLOODBOUND HERO within 8\" of this unit to be the target.",
+    "effect": "Pick 1 of the target’s melee weapons. Add 1 to the Rend characteristic of that weapon for the rest of the battle."
+   },
+   {
+    "name": "BONE-CRUSHING STRIKES ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "Pick an enemy unit in combat with this unit to be the target.",
+    "effect": "Roll a dice. If the roll is equal to or less than the target’s Control characteristic, the target has STRIKE-LAST for the rest of the turn."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "INFANTRY",
+   "CHAOS",
+   "BLADES OF KHORNE",
+   "BLOODBOUND"
+  ],
+  "unit_size": 1,
+  "points": 110,
+  "base_size": "40mm",
+  "can_be_reinforced": false,
+  "regiment_options": "Any BLOODBOUND Notes: This HERO can join an eligible regiment as a Bloodbound Warmonger ."
+ },
+ {
+  "id": "Skulltaker",
+  "name": "Skulltaker",
+  "faction": "Blades of Khorne",
+  "faction_slug": "blades-of-khorne",
+  "grand_alliance": "Chaos",
+  "move": "5\"",
+  "health": "7",
+  "save": "4+",
+  "control": "2",
+  "ward": "5+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "The Slayer Sword",
+    "range": "",
+    "attacks": "6",
+    "hit": "2+",
+    "wound": "3+",
+    "rend": "2",
+    "damage": "2",
+    "abilities": [
+     "Anti- HERO (+1 Rend) , Blood-hungry"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "HEROES’ BANE ",
+    "timing": "Any Combat Phase",
+    "declare": "Pick an enemy HERO in combat with this unit to be the target.",
+    "effect": "For the rest of the turn, while the target is in combat with this unit, this unit has STRIKE-FIRST but all of its combat attacks must target that enemy HERO ."
+   },
+   {
+    "name": "THE ETERNAL DUEL ",
+    "timing": "End of Any Turn",
+    "declare": "",
+    "effect": "If an enemy HERO had any damage points allocated to it by this unit’s combat attacks this turn and that HERO was destroyed this turn, Heal (X) this unit, where X is the number of damage points this unit has."
+   },
+   {
+    "name": "DRAWN BY BLOOD ",
+    "timing": "Once Per Battle (Army), End of Enemy Turn",
+    "declare": "Pick an enemy HERO unit that used a FIGHT ability this turn to be the target.",
+    "effect": "Remove this unit from the battlefield and set it up again on the battlefield in combat with the target and not in combat with any other enemy units."
+   }
+  ],
+  "keywords": [
+   "UNIQUE",
+   "HERO",
+   "INFANTRY",
+   "WARD ( 5+ )",
+   "CHAOS",
+   "BLADES OF KHORNE",
+   "DAEMON"
+  ],
+  "unit_size": 1,
+  "points": 120,
+  "base_size": "40mm",
+  "can_be_reinforced": false,
+  "regiment_options": "Any BLADES OF KHORNE DAEMON Notes: This HERO can join an eligible regiment as a Slaughter Seeker ."
+ },
+ {
+  "id": "Slaughterpriest",
+  "name": "Slaughterpriest",
+  "faction": "Blades of Khorne",
+  "faction_slug": "blades-of-khorne",
+  "grand_alliance": "Chaos",
+  "move": "5\"",
+  "health": "6",
+  "save": "5+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Bloodbathed Weapon",
+    "range": "",
+    "attacks": "4",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Blood-hungry"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "BLOOD SACRIFICE ",
+    "timing": "Once Per Turn, Your Hero Phase",
+    "declare": "Pick a unit (friendly or enemy) within this unit’s combat range to be the target.",
+    "effect": "Roll a D3. On a 2+: Inflict an amount of mortal damage on the target equal to the roll. This unit gains 1 ritual point ."
+   },
+   {
+    "name": "SCORN OF SORCERY ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "This unit can use UNBIND abilities as if it had WIZARD ( 1 ) ."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "PRIEST ( 1 )",
+   "INFANTRY",
+   "CHAOS",
+   "BLADES OF KHORNE",
+   "BLOODBOUND"
+  ],
+  "unit_size": 1,
+  "points": 120,
+  "base_size": "40mm",
+  "can_be_reinforced": false,
+  "regiment_options": "Any BLOODBOUND"
+ },
+ {
+  "id": "Khul-Ascended",
+  "name": "Khul Ascended",
+  "faction": "Blades of Khorne",
+  "faction_slug": "blades-of-khorne",
+  "grand_alliance": "Chaos",
+  "move": "10\"",
+  "health": "10",
+  "save": "3+",
+  "control": "5",
+  "ward": "5+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Axe of Khorne",
+    "range": "",
+    "attacks": "6",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "2",
+    "damage": "3",
+    "abilities": [
+     "Crit (Mortal) , Blood-hungry"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "ASCENDED WARLORD ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "",
+    "effect": "Roll a dice. On a 3+, add 1 to the Attacks characteristic of this unit’s Axe of Khorne for each other friendly BLADES OF KH0RNE unit that is within this unit’s combat range and is in combat ."
+   },
+   {
+    "name": "REALITY SPLITTING AXE ",
+    "timing": "End of Any Turn",
+    "declare": "Pick an enemy unit that had any damage points allocated to it this turn by combat attacks made by this unit to be the target.",
+    "effect": "Roll a dice. On a 5+, 1 model in that unit is slain."
+   },
+   {
+    "name": "LOATHE THE ARCANE ",
+    "timing": "Reaction: Opponent declared a SPELL ability",
+    "declare": "",
+    "effect": "This unit can use this ability if it is not in combat . This unit can move 3\" but must end that move closer to the unit that used the SPELL ability. It cannot move into combat during any part of that move."
+   }
+  ],
+  "keywords": [
+   "WARMASTER",
+   "UNIQUE",
+   "HERO",
+   "INFANTRY",
+   "FLY",
+   "WARD ( 5+ )",
+   "CHAOS",
+   "BLADES OF KHORNE",
+   "DAEMON"
+  ],
+  "unit_size": 1,
+  "points": 310,
+  "base_size": "60mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Slaughter Seeker , Any BLADES OF KHORNE Notes: Legends Warscroll"
+ },
+ {
+  "id": "Korghos-Khul",
+  "name": "Korghos Khul",
+  "faction": "Blades of Khorne",
+  "faction_slug": "blades-of-khorne",
+  "grand_alliance": "Chaos",
+  "move": "5\"",
+  "health": "8",
+  "save": "3+",
+  "control": "2",
+  "ward": "6+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Axe of Khorne",
+    "range": "",
+    "attacks": "6",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "2",
+    "damage": "2",
+    "abilities": [
+     "Crit (Mortal) , Blood-hungry"
+    ]
+   },
+   {
+    "name": "Grizzlemaw's Blood-dark Claws",
+    "range": "",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": [
+     "Anti- WIZARD (+1 Rend) , Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "MASTER OF THE GORETIDE ",
+    "timing": "Once Per Turn (Army), Your Movement Phase",
+    "declare": "Spend 3 blood tithe points and pick a friendly BLOODBOUND unit that started the battle with 3 or more models and that has been destroyed to be the target.",
+    "effect": "Set up a replacement unit with half the number of models from the target unit (rounding up) wholly within 6\" of the battlefield edge and more than 9\" from all enemy units."
+   },
+   {
+    "name": "REALITY-SPLITTING AXE ",
+    "timing": "End of Any Turn",
+    "declare": "Pick an enemy unit that had any damage points allocated to it this turn by combat attacks made by this unit to be the target.",
+    "effect": "Roll a dice. On a 5+, 1 model in that unit is slain."
+   },
+   {
+    "name": "RETINUE OF BLOOD ",
+    "timing": "Once Per Battle, Any Charge Phase",
+    "declare": "Pick each friendly BLOODBOUND HERO within this unit’s combat range to be the targets.",
+    "effect": "The target’s melee weapons have Charge (+1 Damage) for the rest of the turn."
+   }
+  ],
+  "keywords": [
+   "WARMASTER",
+   "UNIQUE",
+   "HERO",
+   "INFANTRY",
+   "WARD ( 6+ )",
+   "CHAOS",
+   "BLADES OF KHORNE",
+   "BLOODBOUND"
+  ],
+  "unit_size": 1,
+  "points": 220,
+  "base_size": "60mm",
+  "can_be_reinforced": false,
+  "regiment_options": "Any Bloodbound Warmonger , Any BLADES OF KHORNE Notes: Legends Warscroll"
+ },
+ {
+  "id": "Skarr-Bloodwrath",
+  "name": "Skarr Bloodwrath",
+  "faction": "Blades of Khorne",
+  "faction_slug": "blades-of-khorne",
+  "grand_alliance": "Chaos",
+  "move": "5\"",
+  "health": "6",
+  "save": "4+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "The Bloodstorm Blades",
+    "range": "",
+    "attacks": "6",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Blood-hungry , Crit (2 Hits)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "THE SLAUGHTERBORN ",
+    "timing": "Any Movement Phase",
+    "declare": "This unit can only use this ability if it has been destroyed.",
+    "effect": "Roll 2D6. On an 8+, set up a replacement unit on the battlefield more than 9\" from all enemy units."
+   },
+   {
+    "name": "MURDEROUS PARAGON ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "If this unit is in combat , add 1 to the Attacks characteristic of melee weapons used by friendly Wrathmongers units while they are wholly within 12\" of this unit."
+   }
+  ],
+  "keywords": [
+   "UNIQUE",
+   "HERO",
+   "INFANTRY",
+   "CHAOS",
+   "BLADES OF KHORNE",
+   "BLOODBOUND"
+  ],
+  "unit_size": 1,
+  "points": 140,
+  "base_size": "40mm",
+  "can_be_reinforced": false,
+  "regiment_options": "Any BLOODBOUND Notes: This unit will move to Warhammer Legends on 1 June 2026."
+ },
+ {
+  "id": "Scourge-of-Ghyran-Mighty-Lord-of-Khorne",
+  "name": "Scourge of Ghyran Mighty Lord of Khorne",
+  "faction": "Blades of Khorne",
+  "faction_slug": "blades-of-khorne",
+  "grand_alliance": "Chaos",
+  "move": "5\"",
+  "health": "7",
+  "save": "3+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Axe of Khorne",
+    "range": "",
+    "attacks": "4",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "2",
+    "damage": "3",
+    "abilities": [
+     "Blood-hungry"
+    ]
+   },
+   {
+    "name": "Flesh Hound’s Blood‑dark Claws",
+    "range": "",
+    "attacks": "3",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": [
+     "Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "HOWL OF BLOOD-CURDLING SAVAGERY ",
+    "timing": "Once Per Battle (Army), Any Combat Phase",
+    "declare": "If this unit is in combat , pick a visible friendly BLOODBOUND unit that is wholly within 12\" of this unit and not in combat to be the target. Then, make a charge roll of 2D6.",
+    "effect": "The target can move a distance up to the value of the charge roll. That unit can move through the combat ranges of any enemy units and must end that move within 1/2\" of a visible enemy unit. If it does so, the target has charged ."
+   },
+   {
+    "name": "REALITY-SPLITTING AXE ",
+    "timing": "Once Per Turn (Army), End of Any Turn",
+    "declare": "This unit can use this ability even if it has been destroyed. Pick an enemy HERO that was allocated any damage points by this unit’s Axe of Khorne this turn to be the target.",
+    "effect": "Roll a dice. On a 5+, the target is automatically destroyed and cannot be replaced for the rest of the battle."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "INFANTRY",
+   "CHAOS",
+   "BLADES OF KHORNE",
+   "BLOODBOUND"
+  ],
+  "unit_size": 1,
+  "points": 140,
+  "base_size": "60mm",
+  "can_be_reinforced": false,
+  "regiment_options": "Any Bloodbound Warmonger , Any BLOODBOUND Notes: This unit is legal for Matched Play for battles fought using the General’s Handbook 2025-26 battlepack."
+ },
+ {
+  "id": "Valkia-The-Bloody",
+  "name": "Valkia The Bloody",
+  "faction": "Blades of Khorne",
+  "faction_slug": "blades-of-khorne",
+  "grand_alliance": "Chaos",
+  "move": "12\"",
+  "health": "6",
+  "save": "3+",
+  "control": "2",
+  "ward": "6+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Slaupnir",
+    "range": "",
+    "attacks": "5",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "2",
+    "damage": "2",
+    "abilities": [
+     "Blood-hungry , Charge (+1 Damage)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "BORNE ON WINGS OF BLOOD ",
+    "timing": "Deployment Phase",
+    "declare": "Pick this unit if it has not been deployed.",
+    "effect": "Set up this unit in reserve soaring above the battlefield. It has now been deployed."
+   },
+   {
+    "name": "THE RED ANGEL OF SLAUGHTER ",
+    "timing": "Your Movement Phase",
+    "declare": "Pick this unit if it is soaring above the battlefield .",
+    "effect": "Set up this unit anywhere on the battlefield more than 9\" from all enemy units. Then, pick a visible enemy unit within 10\" of this unit and roll a dice. On a 2+, inflict an amount of mortal damage on that unit equal to the roll."
+   },
+   {
+    "name": "THE GAZE OF KHORNE ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "If a friendly BLOODBOUND unit wholly within 12\" of this unit uses the ‘ Rally ’ command, you can make 3 additional rally rolls of D6. However, friendly BLOODBOUND units cannot use RETREAT abilities while they are within 12\" of this unit."
+   }
+  ],
+  "keywords": [
+   "UNIQUE",
+   "HERO",
+   "INFANTRY",
+   "FLY",
+   "WARD ( 6+ )",
+   "CHAOS",
+   "BLADES OF KHORNE",
+   "BLOODBOUND"
+  ],
+  "unit_size": 1,
+  "points": 180,
+  "base_size": "32mm",
+  "can_be_reinforced": false,
+  "regiment_options": "Any BLOODBOUND , 0-1 Bloodbound Warmonger"
+ },
+ {
+  "id": "Bloodthirster-of-Insensate-Rage",
+  "name": "Bloodthirster of Insensate Rage",
+  "faction": "Blades of Khorne",
+  "faction_slug": "blades-of-khorne",
+  "grand_alliance": "Chaos",
+  "move": "12\"",
+  "health": "16",
+  "save": "4+",
+  "control": "5",
+  "ward": "5+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Great Axe of Khorne",
+    "range": "",
+    "attacks": "5",
+    "hit": "3+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "5",
+    "abilities": [
+     "Anti- INFANTRY (+1 Rend) , Blood-hungry"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "OUTRAGEOUS CARNAGE ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Each time an attack made by this unit scores a critical hit , inflict D3 mortal damage on each enemy unit within 8\" of it after the FIGHT ability has been resolved (and continue the attack sequence)."
+   },
+   {
+    "name": "BATTLE DAMAGED",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit has 10 or more damage points, the Attacks characteristic of its Great Axe of Khorne is 3."
+   },
+   {
+    "name": "SHATTERING CHARGE ",
+    "timing": "Once Per Turn (Army), Any Charge Phase",
+    "declare": "If this unit charged this turn, pick an enemy unit within 1\" of it to be the target.",
+    "effect": "Roll a D3. On a 2+, inflict an amount of mortal damage on the target equal to the roll. If the target is INFANTRY , inflict an additional 3 mortal damage on it."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "MONSTER",
+   "FLY",
+   "WARD ( 5+ )",
+   "CHAOS",
+   "BLADES OF KHORNE",
+   "DAEMON"
+  ],
+  "unit_size": 1,
+  "points": 410,
+  "base_size": "120 × 92mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Slaughter Seeker , Any BLADES OF KHORNE DAEMON Notes: This HERO can join an eligible regiment as a Baleful Lord ."
+ },
+ {
+  "id": "Bloodthirster-of-Unfettered-Fury",
+  "name": "Bloodthirster of Unfettered Fury",
+  "faction": "Blades of Khorne",
+  "faction_slug": "blades-of-khorne",
+  "grand_alliance": "Chaos",
+  "move": "12\"",
+  "health": "16",
+  "save": "4+",
+  "control": "5",
+  "ward": "5+",
+  "ranged_weapons": [
+   {
+    "name": "Lash of Khorne",
+    "range": "8\"",
+    "attacks": "4",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": [
+     "Shoot in Combat"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Mighty Axe of Khorne",
+    "range": "",
+    "attacks": "6",
+    "hit": "3+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "4",
+    "abilities": [
+     "Anti- MONSTER (+1 Rend) , Blood-hungry"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "BATTLE DAMAGED",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit has 10 or more damage points, the Attacks characteristic of its Mighty Axe of Khorne is 4 ."
+   },
+   {
+    "name": "BECKON THE HUNT ",
+    "timing": "Once Per Turn (Army), Your Movement Phase",
+    "declare": "Pick a friendly non- UNIQUE BLADES OF KHORNE DAEMON unit to be the target.",
+    "effect": "For the rest of the turn, when making charge rolls for the target, roll l additional dice, to a maximum of 3, and discard 1 dice of your choice."
+   },
+   {
+    "name": "ENSNARING LASH ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "Pick an enemy MONSTER in combat with this unit to be the target.",
+    "effect": "If the target is in combat with this unit when the target is picked to use a FIGHT ability : It must pick this unit to be the target of the pile-in move (Core Rules, 15.3). Subtract 1 from hit rolls and wound rolls for attacks made as part of that FIGHT ability against this unit."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "MONSTER",
+   "FLY",
+   "WARD ( 5+ )",
+   "CHAOS",
+   "BLADES OF KHORNE",
+   "DAEMON"
+  ],
+  "unit_size": 1,
+  "points": 390,
+  "base_size": "120 × 92mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Slaughter Seeker , Any BLADES OF KHORNE DAEMON Notes: This HERO can join an eligible regiment as a Baleful Lord ."
+ },
+ {
+  "id": "Skarbrand",
+  "name": "Skarbrand",
+  "faction": "Blades of Khorne",
+  "faction_slug": "blades-of-khorne",
+  "grand_alliance": "Chaos",
+  "move": "8\"",
+  "health": "16",
+  "save": "4+",
+  "control": "5",
+  "ward": "5+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Slaughter",
+    "range": "",
+    "attacks": "4",
+    "hit": "3+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "4",
+    "abilities": [
+     "Blood-hungry"
+    ]
+   },
+   {
+    "name": "Carnage",
+    "range": "",
+    "attacks": "2",
+    "hit": "3+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "8",
+    "abilities": [
+     "Crit (Mortal)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "SKARBRAND’S RAGE ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit has 10 or more damage points, or if it did not use a FIGHT ability last turn, the effects of the ’ Blood-drenched ’ ability apply to this unit."
+   },
+   {
+    "name": "INESCAPABLE WRATH ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Add 1 to the number of dice rolled when making charge rolls for this unit, to a maximum of 3."
+   },
+   {
+    "name": "ROAR OF TOTAL RAGE ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "Pick an enemy unit in combat with this unit to be the target.",
+    "effect": "Roll either 3 dice or a number of dice equal to the number of damage points this unit has. For each 4+, inflict 1 mortal damage on the target."
+   }
+  ],
+  "keywords": [
+   "UNIQUE",
+   "HERO",
+   "MONSTER",
+   "WARD ( 5+ )",
+   "CHAOS",
+   "BLADES OF KHORNE",
+   "DAEMON"
+  ],
+  "unit_size": 1,
+  "points": 430,
+  "base_size": "100mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Slaughter Seeker , Any BLADES OF KHORNE DAEMON"
+ },
+ {
+  "id": "Wrath-of-Khorne-Bloodthirster",
+  "name": "Bloodthirster Wrath of Khorne",
+  "faction": "Blades of Khorne",
+  "faction_slug": "blades-of-khorne",
+  "grand_alliance": "Chaos",
+  "move": "12\"",
+  "health": "16",
+  "save": "4+",
+  "control": "5",
+  "ward": "5+",
+  "ranged_weapons": [
+   {
+    "name": "Hellfire Breath",
+    "range": "8\"",
+    "attacks": "2D6",
+    "hit": "2+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Shoot in Combat"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Mighty Axe of Khorne and Bloodflail",
+    "range": "",
+    "attacks": "6",
+    "hit": "3+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "4",
+    "abilities": [
+     "Anti- HERO (+1 Rend) , Blood-hungry"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "BATTLE DAMAGED",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit has 10 or more damage points, the Attacks characteristic of its Mighty Axe of Khorne and Bloodflail is 4."
+   },
+   {
+    "name": "WRATHFUL DOMINANCE ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Add I to hit rolls for this unit’s attacks that target an enemy HERO ."
+   },
+   {
+    "name": "VENGEANCE OF KHORNE ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "Pick an enemy HERO in combat with this unit to be the target.",
+    "effect": "Roll 8 dice. For each 4+, inflict 1 mortal damage on the target."
+   },
+   {
+    "name": "COMMANDER OF TYRANTS ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "Pick another visible friendly non- UNIQUE BLADES OF KHORNE DAEMON unit to be the target.",
+    "effect": "Add 1 to the Attacks characteristic of each target’s melee weapons for the rest of the turn."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "MONSTER",
+   "FLY",
+   "WARD ( 5+ )",
+   "CHAOS",
+   "BLADES OF KHORNE",
+   "DAEMON"
+  ],
+  "unit_size": 1,
+  "points": 400,
+  "base_size": "120 × 92mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Slaughter Seeker , Any BLADES OF KHORNE , 0-1 Baleful Lord"
+ },
+ {
+  "id": "Herald-of-Khorne-on-Blood-Throne",
+  "name": "Blood Throne Herald of Khorne on",
+  "faction": "Blades of Khorne",
+  "faction_slug": "blades-of-khorne",
+  "grand_alliance": "Chaos",
+  "move": "8\"",
+  "health": "10",
+  "save": "4+",
+  "control": "2",
+  "ward": "6+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Blade of Blood and Hellblades",
+    "range": "",
+    "attacks": "7",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Blood-hungry , Crit (Mortal)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "OFFERING OF BLOOD ",
+    "timing": "Once Per Turn (Army), Your Hero Phase",
+    "declare": "Pick a friendly unit within 3\" of this unit to be the target.",
+    "effect": "Allocate 3 damage points to the target ( ward rolls cannot be made for those damage points). For the rest of the turn, add 1 to this unit’s power level , to a maximum of 2."
+   },
+   {
+    "name": "BLOOD MARKED ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "This unit has WARD ( 4+ ) against damage inflicted by SPELL abilities and abilities used by MANIFESTATIONS ."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "WAR MACHINE",
+   "PRIEST ( 1 )",
+   "WARD ( 6+ )",
+   "CHAOS",
+   "BLADES OF KHORNE",
+   "DAEMON"
+  ],
+  "unit_size": 1,
+  "points": 160,
+  "base_size": "120 × 92mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Slaughter Seeker , Any BLADES OF KHORNE DAEMON"
+ },
+ {
+  "id": "Flesh-Hounds",
+  "name": "Flesh Hounds",
+  "faction": "Blades of Khorne",
+  "faction_slug": "blades-of-khorne",
+  "grand_alliance": "Chaos",
+  "move": "8\"",
+  "health": "2",
+  "save": "6+",
+  "control": "1",
+  "ward": "6+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Blood-dark Claws",
+    "range": "",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": [
+     "Blood-hungry , Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "BEAST",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "This unit has a maximum control score of 1."
+   },
+   {
+    "name": "HUNTERS OF MYSTICS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "If the casting roll for an enemy WIZARD within 12\" of this unit contains 2 or more results of 1 or 2, the spell is miscast . If the chanting roll for an enemy PRIEST within 12\" of this unit is an unmodified 2, the prayer fails and its effect is not resolved. In addition, your opponent cannot give that PRIEST any ritual points for the rest of the phase."
+   }
+  ],
+  "keywords": [
+   "BEAST",
+   "CHAMPION ( 1/5 )",
+   "WARD ( 6+ )",
+   "CHAOS",
+   "BLADES OF KHORNE",
+   "DAEMON"
+  ],
+  "unit_size": 5,
+  "points": 100,
+  "base_size": "60 × 35mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Bloodcrushers",
+  "name": "Bloodcrushers",
+  "faction": "Blades of Khorne",
+  "faction_slug": "blades-of-khorne",
+  "grand_alliance": "Chaos",
+  "move": "10\"",
+  "health": "5",
+  "save": "4+",
+  "control": "2",
+  "ward": "6+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Juggernaut’s Brazen Hooves",
+    "range": "",
+    "attacks": "2",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": [
+     "Anti- CAVALRY (+1 Rend) , Companion"
+    ]
+   },
+   {
+    "name": "Bloodcrusher Hellblade",
+    "range": "",
+    "attacks": "3",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Blood-hungry , Crit (Mortal)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "CRUSHING ONSLAUGHT ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "If the unmodified charge roll for this unit is 8+: For the rest of the phase, this unit can pass through models in enemy units. Enemy CAVALRY units passed through by this unit in this phase cannot make pile-in moves for the rest of the turn."
+   }
+  ],
+  "keywords": [
+   "CAVALRY",
+   "CHAMPION",
+   "MUSICIAN ( 1/3 )",
+   "STANDARD BEARER ( 1/3 )",
+   "WARD ( 6+ )",
+   "CHAOS",
+   "BLADES OF KHORNE",
+   "DAEMON"
+  ],
+  "unit_size": 3,
+  "points": 130,
+  "base_size": "90 × 52mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Mighty-Skullcrushers",
+  "name": "Mighty Skullcrushers",
+  "faction": "Blades of Khorne",
+  "faction_slug": "blades-of-khorne",
+  "grand_alliance": "Chaos",
+  "move": "10\"",
+  "health": "5",
+  "save": "2+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Gorebathed Glaive or Axe",
+    "range": "",
+    "attacks": "3",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Blood-hungry , Charge (+1 Damage)"
+    ]
+   },
+   {
+    "name": "Juggernaut’s Brazen Hooves",
+    "range": "",
+    "attacks": "2",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": [
+     "Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "SLAUGHTEROUS CHARGE ",
+    "timing": "Any Charge Phase",
+    "declare": "If this unit charged this turn, pick a visible enemy unit within 1\" of it to be the target.",
+    "effect": "Roll a D3. On a 2+, inflict an amount of mortal damage on the target equal to the roll."
+   }
+  ],
+  "keywords": [
+   "CAVALRY",
+   "CHAMPION",
+   "MUSICIAN ( 1/3 )",
+   "STANDARD BEARER ( 1/3 )",
+   "CHAOS",
+   "BLADES OF KHORNE",
+   "BLOODBOUND"
+  ],
+  "unit_size": 3,
+  "points": 200,
+  "base_size": "90 × 52mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Scourge-of-Ghyran-Bloodcrushers",
+  "name": "Scourge of Ghyran Bloodcrushers",
+  "faction": "Blades of Khorne",
+  "faction_slug": "blades-of-khorne",
+  "grand_alliance": "Chaos",
+  "move": "10\"",
+  "health": "5",
+  "save": "4+",
+  "control": "2",
+  "ward": "6+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Bloodcrusher Hellblade",
+    "range": "",
+    "attacks": "2",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Charge (+1 Damage) , Crit (Mortal)"
+    ]
+   },
+   {
+    "name": "Juggernaut’s Brazen Hooves",
+    "range": "",
+    "attacks": "2",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": [
+     "Anti- CAVALRY (+1 Rend) , Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "BRASS STAMPEDE ",
+    "timing": "Once Per Turn (Army), Any Charge Phase",
+    "declare": "If this unit charged this turn, pick an enemy unit in combat with it to be the target.",
+    "effect": "Roll a dice. On a 3+, this unit can move 2D6\". It can pass through models in the target unit and must end that move in combat."
+   }
+  ],
+  "keywords": [
+   "CAVALRY",
+   "CHAMPION",
+   "STANDARD BEARER ( 1/3 )",
+   "MUSICIAN ( 1/3 )",
+   "WARD ( 6+ )",
+   "CHAOS",
+   "BLADES OF KHORNE",
+   "DAEMON"
+  ],
+  "unit_size": 3,
+  "points": 150,
+  "base_size": "90 × 52mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Blood-Warriors",
+  "name": "Blood Warriors",
+  "faction": "Blades of Khorne",
+  "faction_slug": "blades-of-khorne",
+  "grand_alliance": "Chaos",
+  "move": "5\"",
+  "health": "2",
+  "save": "3+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Goreweapons",
+    "range": "",
+    "attacks": "3",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Blood-hungry , Crit (Auto-wound)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "NO RESPITE ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit is contesting an objective you do not control, it has WARD ( 5+ ) ."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "CHAMPION",
+   "STANDARD BEARER ( 1/10 )",
+   "CHAOS",
+   "BLADES OF KHORNE",
+   "BLOODBOUND"
+  ],
+  "unit_size": 10,
+  "points": 180,
+  "base_size": "32mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Bloodletters",
+  "name": "Bloodletters",
+  "faction": "Blades of Khorne",
+  "faction_slug": "blades-of-khorne",
+  "grand_alliance": "Chaos",
+  "move": "5\"",
+  "health": "2",
+  "save": "5+",
+  "control": "1",
+  "ward": "6+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Hellblade",
+    "range": "",
+    "attacks": "2",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Blood-hungry , Crit (Mortal)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "CEASELESS VIOLENCE ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "",
+    "effect": "If this unit is in combat , it can move 3\". It can pass through the combat ranges of enemy units and must end that move in combat."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "CHAMPION",
+   "MUSICIAN ( 1/10 )",
+   "STANDARD BEARER ( 1/10 )",
+   "WARD ( 6+ )",
+   "CHAOS",
+   "BLADES OF KHORNE",
+   "DAEMON"
+  ],
+  "unit_size": 10,
+  "points": 150,
+  "base_size": "32mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Bloodreavers",
+  "name": "Bloodreavers",
+  "faction": "Blades of Khorne",
+  "faction_slug": "blades-of-khorne",
+  "grand_alliance": "Chaos",
+  "move": "5\"",
+  "health": "1",
+  "save": "6+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Reaver Blades and Axes",
+    "range": "",
+    "attacks": "2",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": [
+     "Blood-hungry"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "BLOOD FOR THE BLOOD GOD! ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Add 1 to the Rend characteristic of this unit’s melee weapons if it charged in the same turn."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "CHAMPION",
+   "MUSICIAN ( 1/10 )",
+   "STANDARD BEARER ( 1/10 )",
+   "CHAOS",
+   "BLADES OF KHORNE",
+   "BLOODBOUND"
+  ],
+  "unit_size": 10,
+  "points": 80,
+  "base_size": "32mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Claws-of-Karanak",
+  "name": "Claws of Karanak",
+  "faction": "Blades of Khorne",
+  "faction_slug": "blades-of-khorne",
+  "grand_alliance": "Chaos",
+  "move": "6\"",
+  "health": "1",
+  "save": "5+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Weapons of the Hunt",
+    "range": "",
+    "attacks": "3",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": [
+     "Blood-hungry , Crit (2 Hits)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "THE SCENT OF BLOOD ",
+    "timing": "Deployment Phase",
+    "declare": "",
+    "effect": "This unit can use the ‘ Normal Move ’ ability as if it were your movement phase."
+   },
+   {
+    "name": "PACK HUNTERS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit is wholly within 12\" of a friendly Flesh Hounds unit or a friendly Karanak , this unit’s combat attacks score critical hits on unmodified hit rolls of 5+."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "CHAMPION ( 1/8 )",
+   "CHAOS",
+   "BLADES OF KHORNE",
+   "BLOODBOUND"
+  ],
+  "unit_size": 8,
+  "points": 100,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Skullreapers",
+  "name": "Skullreapers",
+  "faction": "Blades of Khorne",
+  "faction_slug": "blades-of-khorne",
+  "grand_alliance": "Chaos",
+  "move": "5\"",
+  "health": "3",
+  "save": "4+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Daemonforged Weapons",
+    "range": "",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Blood-hungry , Crit (2 Hits)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "TRIAL OF SKULLS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Add 8 to this unit’s control score while it is in combat ."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "CHAMPION",
+   "STANDARD BEARER ( 1/5 )",
+   "CHAOS",
+   "BLADES OF KHORNE",
+   "BLOODBOUND"
+  ],
+  "unit_size": 5,
+  "points": 170,
+  "base_size": "40mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Wrathmongers",
+  "name": "Wrathmongers",
+  "faction": "Blades of Khorne",
+  "faction_slug": "blades-of-khorne",
+  "grand_alliance": "Chaos",
+  "move": "5\"",
+  "health": "3",
+  "save": "5+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Wrath-flails",
+    "range": "",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Blood-hungry , Crit (2 Hits)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "CRIMSON HAZE ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit is in combat , add 1 to the Attacks characteristic of melee weapons used by friendly BLOODBOUND units, excluding Wrathmongers units, while they are wholly within 12\" of this unit."
+   },
+   {
+    "name": "BLOODFURY ",
+    "timing": "Once Per Turn (Army), End of Any Turn",
+    "declare": "Pick a visible enemy model within 3\" of this unit to be the target.",
+    "effect": "Both players roll off . If you win the roll-off, pick a melee weapon that the target is armed with. Your opponent must pick a visible unit in their army within 3\" of the target (they can pick the target’s own unit, and even if it is a single-model unit). Your opponent must resolve combat attacks for the target using the melee weapon you picked against the unit they picked."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "CHAMPION",
+   "CHAOS",
+   "BLADES OF KHORNE",
+   "BLOODBOUND"
+  ],
+  "unit_size": 5,
+  "points": 130,
+  "base_size": "40mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Scourge-of-Aqshy-Blood-Warriors",
+  "name": "Scourge of Aqshy Blood Warriors",
+  "faction": "Blades of Khorne",
+  "faction_slug": "blades-of-khorne",
+  "grand_alliance": "Chaos",
+  "move": "5\"",
+  "health": "2",
+  "save": "3+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Goreweapons",
+    "range": "",
+    "attacks": "3",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Blood-hungry , Crit (Auto-wound)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "ONLY THE WORTHY ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "The following cumulative effects apply depending on the number of models in this unit that are slain. 1+ Add 1 to charge rolls for this unit. 4+ Add 1 to hit rolls for this unit’s combat attacks . 8+ Add 1 to wound rolls for this unit’s combat attacks . 16+ Double the Attacks characteristic of this unit’s melee weapons and this unit’s combat attacks score critical hits on unmodified hit rolls of 5+."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "CHAMPION",
+   "STANDARD BEARER ( 1/10 )",
+   "CHAOS",
+   "BLADES OF KHORNE",
+   "BLOODBOUND"
+  ],
+  "unit_size": 10,
+  "points": 190,
+  "base_size": "32mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Scourge-of-Aqshy-Bloodletters",
+  "name": "Scourge of Aqshy Bloodletters",
+  "faction": "Blades of Khorne",
+  "faction_slug": "blades-of-khorne",
+  "grand_alliance": "Chaos",
+  "move": "5\"",
+  "health": "2",
+  "save": "5+",
+  "control": "1",
+  "ward": "6+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Hellblade",
+    "range": "",
+    "attacks": "2",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Blood-hungry , Crit (Mortal)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "CEASELESS VIOLENCE ",
+    "timing": "Once Per Turn (Army), Reaction: You or your opponent declared the ‘ Eruption of Fury ’ ability for a unit within 12\" of this unit",
+    "declare": "",
+    "effect": "Return 1 slain model to this unit. If your opponent declared that ‘ Eruption of Fury ’ ability and the unit using the ability is in combat with this unit, return 3 slain models to this unit instead."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "CHAMPION",
+   "MUSICIAN ( 1/10 )",
+   "STANDARD BEARER ( 1/10 )",
+   "WARD ( 6+ )",
+   "CHAOS",
+   "BLADES OF KHORNE",
+   "DAEMON"
+  ],
+  "unit_size": 10,
+  "points": 150,
+  "base_size": "32mm",
+  "can_be_reinforced": true,
+  "regiment_options": "",
+  "points_prev": 190,
+  "points_updated": "2026-06"
+ },
+ {
+  "id": "Garrek-s-Reavers",
+  "name": "Garrek’s Reavers",
+  "faction": "Blades of Khorne",
+  "faction_slug": "blades-of-khorne",
+  "grand_alliance": "Chaos",
+  "move": "5\"",
+  "health": "2",
+  "save": "6+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Reaver Blades and Axes",
+    "range": "",
+    "attacks": "2",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": [
+     "Blood-hungry"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "BLOOD FOR THE BLOOD GOD! ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Add 1 to the Rend characteristic of this unit’s melee weapons if it charged in the same turn."
+   },
+   {
+    "name": "GRISLY TROPHIES ",
+    "timing": "End of Any Turn",
+    "declare": "",
+    "effect": "If this unit is in a Blades of Khorne army and any enemy models were slain this turn by this unit’s attacks, you gain 1 blood tithe point ."
+   }
+  ],
+  "keywords": [
+   "UNIQUE",
+   "INFANTRY",
+   "CHAMPION",
+   "CHAOS",
+   "BLADES OF KHORNE",
+   "BLOODBOUND"
+  ],
+  "unit_size": 5,
+  "points": 70,
+  "base_size": "32mm",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Gorechosen-of-Dromm",
+  "name": "Gorechosen of Dromm",
+  "faction": "Blades of Khorne",
+  "faction_slug": "blades-of-khorne",
+  "grand_alliance": "Chaos",
+  "move": "5\"",
+  "health": "3",
+  "save": "4+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Weapons of Wrath",
+    "range": "",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Blood-hungry , Crit (Mortal)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "DROMM, WOUNDER OF WORLDS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit’s Dromm, Wounder of Worlds , is on the battlefield, it has PRIEST ( 1 ) and can use UNBIND abilities as if it had WIZARD ( 1 ) ."
+   }
+  ],
+  "keywords": [
+   "UNIQUE",
+   "INFANTRY",
+   "CHAMPION",
+   "CHAOS",
+   "BLADES OF KHORNE",
+   "BLOODBOUND"
+  ],
+  "unit_size": 3,
+  "points": 190,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Kamandora-s-Blades",
+  "name": "Kamandora’s Blades",
+  "faction": "Blades of Khorne",
+  "faction_slug": "blades-of-khorne",
+  "grand_alliance": "Chaos",
+  "move": "6\"",
+  "health": "2",
+  "save": "6+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Bloodied Weapons",
+    "range": "",
+    "attacks": "5",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "2",
+    "damage": "2",
+    "abilities": [
+     "Blood-hungry"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "KHORNATE HOUND ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "This unit’s Kannat is a token. Each time you declare a FIGHT ability for this unit while its Kannat is on the battlefield, as a reaction, you can remove its Kannat from the battlefield and then add 1 to the Rend characteristic of this unit’s Bloodied Weapons for the rest of the phase."
+   },
+   {
+    "name": "GATHER THE SKULLS! ",
+    "timing": "Once Per Turn (Army), End of Any Turn",
+    "declare": "Pick an enemy unit in combat with this unit to be the target.",
+    "effect": "Roll a D3. If the roll exceeds the target’s Health characteristic, 1 model in the target unit is slain and you earn 1 blood tithe point ."
+   }
+  ],
+  "keywords": [
+   "UNIQUE",
+   "INFANTRY",
+   "CHAMPION",
+   "CHAOS",
+   "BLADES OF KHORNE",
+   "BLOODBOUND"
+  ],
+  "unit_size": 4,
+  "points": 90,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Magore-s-Fiends",
+  "name": "Magore’s Fiends",
+  "faction": "Blades of Khorne",
+  "faction_slug": "blades-of-khorne",
+  "grand_alliance": "Chaos",
+  "move": "5\"",
+  "health": "3",
+  "save": "3+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Goreaxe",
+    "range": "",
+    "attacks": "3",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Blood-hungry"
+    ]
+   },
+   {
+    "name": "Blood-dark Claws",
+    "range": "",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": [
+     "Blood-hungry , Anti- WIZARD (+1 Rend) , Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "NO RESPITE ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Each time a model in this unit is slain by a combat attack and that model was in combat with the attacking unit, roll 2 dice. For each 5+, inflict 1 mortal damage on the attacking unit after the FIGHT ability has been resolved."
+   }
+  ],
+  "keywords": [
+   "UNIQUE",
+   "INFANTRY",
+   "CHAMPION",
+   "CHAOS",
+   "BLADES OF KHORNE",
+   "BLOODBOUND"
+  ],
+  "unit_size": 4,
+  "points": 120,
+  "base_size": "32mm",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Khorgorath",
+  "name": "Khorgorath",
+  "faction": "Blades of Khorne",
+  "faction_slug": "blades-of-khorne",
+  "grand_alliance": "Chaos",
+  "move": "8\"",
+  "health": "8",
+  "save": "5+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Claws and Fangs",
+    "range": "",
+    "attacks": "5",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "HORRIFIC PREDATORS ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "Pick an enemy unit in combat with this unit to be the target.",
+    "effect": "Roll a dice. On a 3+, the target cannot use commands for the rest of the turn."
+   },
+   {
+    "name": "FEAST UPON THEIR BONES ",
+    "timing": "End of Any Turn",
+    "declare": "",
+    "effect": "Subtract 3 from the control scores of enemy non- MONSTER units while they are in combat with this unit."
+   }
+  ],
+  "keywords": [
+   "MONSTER",
+   "CHAOS",
+   "BLADES OF KHORNE",
+   "BLOODBOUND"
+  ],
+  "unit_size": 1,
+  "points": 120,
+  "base_size": "90 × 52mm",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Skull-Cannon",
+  "name": "Skull Cannon",
+  "faction": "Blades of Khorne",
+  "faction_slug": "blades-of-khorne",
+  "grand_alliance": "Chaos",
+  "move": "8\"",
+  "health": "8",
+  "save": "4+",
+  "control": "2",
+  "ward": "6+",
+  "ranged_weapons": [
+   {
+    "name": "Burning Skulls",
+    "range": "15\"",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Shoot in Combat"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Gnashing Maw",
+    "range": "",
+    "attacks": "1",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": [
+     "Blood-hungry , Companion"
+    ]
+   },
+   {
+    "name": "Hellblades",
+    "range": "",
+    "attacks": "4",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Blood-hungry , Crit (Mortal)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "GRIND THEIR BONES, SEIZE THEIR SKULLS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "If any enemy models are slain by a FIGHT ability used by this unit, after that FIGHT ability has been resolved, this unit can immediately use a SHOOT ability as if it were your shooting phase."
+   },
+   {
+    "name": "GRUESOME BOMBARDMENT ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "If any damage points are allocated to an enemy unit by a SHOOT ability used by this unit, subtract 3 from that enemy unit’s control score for the rest of the turn."
+   }
+  ],
+  "keywords": [
+   "WAR MACHINE",
+   "WARD ( 6+ )",
+   "CHAOS",
+   "BLADES OF KHORNE",
+   "DAEMON"
+  ],
+  "unit_size": 1,
+  "points": 130,
+  "base_size": "120 × 92mm",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Skull-Altar",
+  "name": "Skull Altar",
+  "faction": "Blades of Khorne",
+  "faction_slug": "blades-of-khorne",
+  "grand_alliance": "Chaos",
+  "move": "-",
+  "health": "10",
+  "save": "4+",
+  "control": "0",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "WORDS OF HATE ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this terrain feature has an Invoker : Add l to chanting rolls for the Invoker . The Invoker cannot use MOVE abilities. Instead of measuring range or visibility to the Invoker , measure to this terrain feature instead. All attacks that would target the Invoker target this terrain feature instead. If this terrain feature is destroyed, before removing it from the battlefield, inflict D3 mortal damage on the Invoker . Then, set up the Invoker on the battlefield wholly within 3\" of this terrain feature and not in combat . That unit is no longer an Invoker . If it is not possible to set up the Invoker , it is slain."
+   },
+   {
+    "name": "ASCEND THE ALTAR ",
+    "timing": "Your Hero Phase",
+    "declare": "If this terrain feature does not have an Invoker, pick a friendly BLADES OF KHORNE INFANTRY PRIEST within 3\" of it and not in combat to be the target.",
+    "effect": "Place the target on this terrain feature. The target is now an Invoker (see ’Words of Hate’)."
+   },
+   {
+    "name": "HATRED OF SORCERY ",
+    "timing": "Once Per Turn, Your Hero Phase",
+    "declare": "If this terrain feature has an Invoker, pick up to D3 enemy ENDLESS SPELLS within 18\" of this terrain feature to be the targets(s) and make a banishment roll of 2D6 for each target.",
+    "effect": "Resolve the effect of the ’ Banish Manifestation ’ ability for each target. If any ENDLESS SPELLS are banished by this ability, you gain 1 blood tithe point ."
+   },
+   {
+    "name": "DESCEND THE ALTAR ",
+    "timing": "Your Movement Phase",
+    "declare": "",
+    "effect": "If this terrain feature has an Invoker that was not placed on it this turn, set up the Invoker on the battlefield wholly within 6\" of this terrain feature and not in combat . That unit is no longer an Invoker ."
+   }
+  ],
+  "keywords": [
+   "FACTION TERRAIN",
+   "CHAOS",
+   "BLADES OF KHORNE"
+  ],
+  "unit_size": null,
+  "points": 0,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": "",
+  "points_prev": null,
+  "points_updated": "2026-06"
+ },
+ {
+  "id": "Bleeding-Icon",
+  "name": "Bleeding Icon",
+  "faction": "Blades of Khorne",
+  "faction_slug": "blades-of-khorne",
+  "grand_alliance": "Chaos",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "SIGIL OF DOOM ",
+    "timing": "Once Per Turn, Your Hero Phase",
+    "declare": "Pick a visible friendly BLADES OF KHORNE unit wholly within 8\" of this MANIFESTATION to be the target. Then, pick a BLOOD TITHE ability that you have not unlocked this battle.",
+    "effect": "Roll a dice. If the roll equals or exceeds the the blood tithe points cost of the chosen ability, until the start of your next turn, the target can use the chosen ability as if it had been unlocked."
+   }
+  ],
+  "keywords": [
+   "MANIFESTATION",
+   "INVOCATION",
+   "FLY",
+   "WARD ( 6+ )",
+   "CHAOS",
+   "BLADES OF KHORNE"
+  ],
+  "unit_size": null,
+  "points": null,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Hexgorger-Skulls",
+  "name": "Hexgorger Skulls",
+  "faction": "Blades of Khorne",
+  "faction_slug": "blades-of-khorne",
+  "grand_alliance": "Chaos",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Stream of Molten Blood",
+    "range": "",
+    "attacks": "2",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "-",
+    "damage": "D3",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "MULTIPLE PARTS",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "When a number of damage points equal to this MANIFESTATION ’s Health characteristic are allocated to it, this MANIFESTATION is destroyed and both its parts are removed from play. Each time this MANIFESTATION moves, both its parts must end within 8\" of each other. Each part of this MANIFESTATION is armed with a Stream of Molten Blood ."
+   },
+   {
+    "name": "HEXGORGERS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "For each part of this MANIFESTATION that is within 8\" of a WIZARD (friendly or enemy), subtract 1 from casting rolls for that WIZARD ."
+   }
+  ],
+  "keywords": [
+   "MANIFESTATION",
+   "INVOCATION",
+   "FLY",
+   "WARD ( 6+ )",
+   "CHAOS",
+   "BLADES OF KHORNE"
+  ],
+  "unit_size": null,
+  "points": null,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Wrath-Axe",
+  "name": "Wrath-Axe",
+  "faction": "Blades of Khorne",
+  "faction_slug": "blades-of-khorne",
+  "grand_alliance": "Chaos",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Wrath-axe",
+    "range": "",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "D3",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "HATRED’S EDGE ",
+    "timing": "Any Combat Phase",
+    "declare": "If this MANIFESTATION charged this turn, pick an enemy unit with a starting size greater than 1 that is in combat with this MANIFESTATION to be the target.",
+    "effect": "Roll 2D6. On an 8+, 1 model in the target unit is slain."
+   }
+  ],
+  "keywords": [
+   "MANIFESTATION",
+   "INVOCATION",
+   "FLY",
+   "WARD ( 6+ )",
+   "CHAOS",
+   "BLADES OF KHORNE"
+  ],
+  "unit_size": null,
+  "points": null,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Cogfort-Raiders",
+  "name": "Cogfort Raiders",
+  "faction": "Blades of Khorne",
+  "faction_slug": "blades-of-khorne",
+  "grand_alliance": "Chaos",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [],
+  "keywords": [],
+  "unit_size": null,
+  "points": 450,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Outlaw-Conqueror-Cogfort",
+  "name": "Outlaw Conqueror Cogfort",
+  "faction": "Blades of Khorne",
+  "faction_slug": "blades-of-khorne",
+  "grand_alliance": "Chaos",
+  "move": "6\"",
+  "health": "25",
+  "save": "3+",
+  "control": "10",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Realmscorcher Flame Cannon",
+    "range": "18\"",
+    "attacks": "6D6",
+    "hit": "2+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Anti- INFANTRY (+1 Rend)"
+    ]
+   },
+   {
+    "name": "Crew’s Leadshotters",
+    "range": "12\"",
+    "attacks": "6",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": [
+     "Shoot in Combat"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Crushing Iron Feet",
+    "range": "",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "4",
+    "abilities": [
+     "Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "BATTLE DAMAGED",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit has 10 or more damage points: The Attacks characteristic of its Crushing Iron Feet is 3. It has a Control characteristic of 5."
+   },
+   {
+    "name": "EVERYONE ABOARD! ",
+    "timing": "Deployment Phase",
+    "declare": "Pick up to 1 friendly INFANTRY HERO and up to 1 friendly non- reinforced , non- HERO INFANTR y unit that have not been deployed.",
+    "effect": "Set up those units in reserve as this unit’s passengers . They have now been deployed."
+   },
+   {
+    "name": "THIS IS YOUR STOP, MAGGOTS! ",
+    "timing": "Once Per Battle, Any Charge Phase",
+    "declare": "Pick this unit’s passengers to be the targets.",
+    "effect": "Set up each target wholly within 6\" of this unit and more than 9\" from all enemy units. In addition, the targets’ melee weapons have Charge (+1 Damage) for the rest of the turn."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "WAR MACHINE",
+   "ORDER"
+  ],
+  "unit_size": null,
+  "points": null,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Diseased-Revellers",
+  "name": "Diseased Revellers",
+  "faction": "Blades of Khorne",
+  "faction_slug": "blades-of-khorne",
+  "grand_alliance": "Chaos",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "THE PIPER’S INFECTIOUS MELODIES ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While a Beast of Nurgle in this Regiment of Renown is within 3\" of this Regiment of Renown’s Sloppity Bilepiper , it can use the 'Attention Seekers' ability even if the other Beast of Nurgle in this Regiment of Renown has already used it this turn."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 310,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Godmarked-Ascendant",
+  "name": "Godmarked Ascendant",
+  "faction": "Blades of Khorne",
+  "faction_slug": "blades-of-khorne",
+  "grand_alliance": "Chaos",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "GODMARKED LEGION ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "The unit in this Regiment of Renown gains the ‘Gifts of Chaos’ ability and one of the following faction keywords that matches your army’s faction: BLADES OF KHORNE DISCIPLES OF TZEENTCH MAGGOTKIN OF NURGLE HEDONITES OF SLAANESH"
+   },
+   {
+    "name": "GIFTS OF CHAOS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "If this unit has the BLADES OF KHORNE keyword, add 1 to the Attacks characteristic of its Hellforged Weapons and its Hellforged Weapons have the Blood-Hungry weapon ability. If this unit has the DISCIPLES OF TZEENTCH keyword, it has WIZARD ( 1 ) . If this unit has the MAGGOTKIN OF NURGLE keyword, it has WARD ( 5+ ) . If this unit has the HEDONITES OF SLAANESH keyword, add 1 run rolls and charge rolls for it."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 260,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Krittok-s-Clawpack",
+  "name": "Krittok’s Clawpack",
+  "faction": "Blades of Khorne",
+  "faction_slug": "blades-of-khorne",
+  "grand_alliance": "Chaos",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "FICKLE MOTIVES ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Add 1 to the Attacks characteristic of melee weapons used by friendly KRITTOK’S CLAWPACK units while you have more victory points than your opponent. Subtract 3 from the control score s of friendly KRITTOK’S CLAWPACK units while you have fewer victory points than your opponent."
+   },
+   {
+    "name": "ALWAYS THREE CLAWSTEPS AHEAD ",
+    "timing": "Once Per Turn (Army), Enemy Hero Phase",
+    "declare": "Pick a friendly KRITTOK’S CLAWPACK unit that is not in combat to use this ability.",
+    "effect": "That unit can use the ’ Normal Move ’ ability as if it were your movement phase."
+   },
+   {
+    "name": "SKRYRE PAYLOADS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Friendly KRITTOK’S CLAWPACK Doom-Flayers units have WARD ( 5+ ) while they are within the combat range of a friendly KRITTOK’S CLAWPACK Stormvermin unit."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 380,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Lord-Skaldior-s-Chosen",
+  "name": "Lord Skaldior’s Chosen",
+  "faction": "Blades of Khorne",
+  "faction_slug": "blades-of-khorne",
+  "grand_alliance": "Chaos",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "IRONCLAD DESPOILERS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Add 1 to save rolls for units in this Regiment of Renown while they are contesting an objective you control. Add 1 to wound rolls for units in this Regiment of Renown while they are contesting an objective you do not control."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 530,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "One-eyed-Grunnock",
+  "name": "One-eyed Grunnock",
+  "faction": "Blades of Khorne",
+  "faction_slug": "blades-of-khorne",
+  "grand_alliance": "Chaos",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "SHAKE THE EARTH ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "Pick an enemy unit in combat with this unit to be the target.",
+    "effect": "Roll a D3. On a 2+: Inflict an amount of mortal damage on the target equal to the roll. If the target is INFANTRY , double the amount of mortal damage inflicted. Subtract 1 from hit rolls for the target’s attacks for the rest of the turn."
+   },
+   {
+    "name": "TIMBERRRRR! ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "When the MEGA-GARGANT in this regiment of renown is slain, before removing it from play, the players must roll off . The winner picks a point on the battlefield within 3\" of that model. Inflict D3 mortal damage on each unit (friendly and enemy) within 3\" of that point that has a lower Health characteristic than that model."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 410,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Phulgoth-s-Shudderhood",
+  "name": "Phulgoth’s Shudderhood",
+  "faction": "Blades of Khorne",
+  "faction_slug": "blades-of-khorne",
+  "grand_alliance": "Chaos",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "FOG OF DESPAIR ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Subtract 1 from hit rolls for attacks that target units in this Regiment of Renown while they are wholly within 9\" of the Harbinger of Decay in this Regiment of Renown."
+   },
+   {
+    "name": "NAUSEATING CONVALESCENCE ",
+    "timing": "Once Per Turn (Army), Any Hero Phase",
+    "declare": "",
+    "effect": "Heal (1) each unit in this Regiment of Renown ."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 530,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Rogue-Engine",
+  "name": "Rogue Engine",
+  "faction": "Blades of Khorne",
+  "faction_slug": "blades-of-khorne",
+  "grand_alliance": "Chaos",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [],
+  "keywords": [],
+  "unit_size": null,
+  "points": 470,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Outlaw-Cannonade-Cogfort-1",
+  "name": "Outlaw Cannonade Cogfort",
+  "faction": "Blades of Khorne",
+  "faction_slug": "blades-of-khorne",
+  "grand_alliance": "Chaos",
+  "move": "6\"",
+  "health": "25",
+  "save": "3+",
+  "control": "10",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Godbreaker Cannon",
+    "range": "24\"",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "4",
+    "abilities": []
+   },
+   {
+    "name": "Breacher Cannon",
+    "range": "12\"",
+    "attacks": "6",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Anti- INFANTRY (+1 Rend)"
+    ]
+   },
+   {
+    "name": "Crew’s Leadshotters",
+    "range": "12\"",
+    "attacks": "6",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": [
+     "Shoot in Combat"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Crushing Iron Feet",
+    "range": "",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "4",
+    "abilities": [
+     "Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "BATTLE DAMAGED",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit has 10 or more damage points: The Attacks characteristic of its Crushing Iron Feet is 3. It has a Control characteristic of 5."
+   },
+   {
+    "name": "MERCENARY ATTITUDES ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick another friendly NON-UNIQUE unit wholly within 12\" of this unit to be the target.",
+    "effect": "Pick 1 of the following effects to apply until the start of your next turn and while the target is wholly within 12\" of this unit: You can re-roll run rolls for the target. Add 1 to charge rolls for the target. The target cannot be targeted by shooting attacks . Add 1 to wound rolls for the target’s combat attacks . Add 10 to the target’s control score ."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "WAR MACHINE",
+   "ORDER"
+  ],
+  "unit_size": null,
+  "points": null,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Seeker-of-the-Dread-Dirge",
+  "name": "Seeker of the Dread Dirge",
+  "faction": "Blades of Khorne",
+  "faction_slug": "blades-of-khorne",
+  "grand_alliance": "Chaos",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "DIRGE OF DESOLATION ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick the Ashen Elder in this Regiment of Renown to chant this prayer, pick a terrain feature on the battlefield to be the target, then make a chanting roll of D6.",
+    "effect": "Roll a D3 for each enemy unit contesting the target. On a 2+, inflict an amount of mortal damage on that enemy unit equal to the roll. If the chanting roll was 12+, you can pick another terrain feature to be a second target."
+   },
+   {
+    "name": "ALL-CONSUMING SEARCH ",
+    "timing": "End of Any Turn",
+    "declare": "Pick the Ashen Elder in this Regiment of Renown to use this ability. Then, pick an objective or Place of Power that they are contesting and that has not been picked to be the target of this ability this battle to be the target.",
+    "effect": "Roll 6 dice. For each 5+, give this unit 1 ritual point ."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 260,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "The-Curse-Steel-Battery",
+  "name": "The Curse-Steel Battery",
+  "faction": "Blades of Khorne",
+  "faction_slug": "blades-of-khorne",
+  "grand_alliance": "Chaos",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "REINFORCE DAEMONSTEEL ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick the Daemonsmith in this Regiment of Renown to cast this spell, then make a casting roll of 2D6.",
+    "effect": "Until the start of your next turn, ignore the first damage point allocated to each friendly HELSMITHS OF HASHUT unit in each phase while they are wholly within 12\" of the caster."
+   },
+   {
+    "name": "DISPLAY OF TOTAL POWER ",
+    "timing": "Once Per Turn (Army), Your Shooting Phase",
+    "declare": "If neither WAR MACHINE unit in this Regiment of Renown used any SHOOT abilities this turn, pick an enemy unit to be the target.",
+    "effect": "For the rest of the turn: While that enemy unit is on the battlefield, the WAR MACHINE units in this Regiment of Renown can only pick that enemy unit to be the target of their shooting attacks . Each of those WAR MACHINE units counts as if it had 3 daemonic power points . The first time you use this ability, you can use it without any command points being spent."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 380,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "The-Pustules",
+  "name": "The Pustules",
+  "faction": "Blades of Khorne",
+  "faction_slug": "blades-of-khorne",
+  "grand_alliance": "Chaos",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "BLIGHTED GROWTH ",
+    "timing": "Deployment Phase",
+    "declare": "",
+    "effect": "Set up this Regiment of Renown ’s Feculent Gnarlmaw wholly within friendly territory and more than 3\" from all objectives and other terrain features . After you have done so, it has been deployed."
+   },
+   {
+    "name": "MULTITUDINOUS DISEASES ",
+    "timing": "Once Per Turn (Army), End of Any Turn",
+    "declare": "If this Regiment of Renown’s Plaguebearer’s unit is wholly within 12\" of this Regiment of Renown’s Feculent Gnarlmaw , pick that Plaguebearers unit to be the target.",
+    "effect": "Heal (1) the target. If the target is contesting an objective , you can also return 1 slain model to the target unit."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 200,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Volt-Klaw-s-Enginecoven",
+  "name": "Volt-Klaw’s Enginecoven",
+  "faction": "Blades of Khorne",
+  "faction_slug": "blades-of-khorne",
+  "grand_alliance": "Chaos",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "BEHOLD MY GENIUS! ",
+    "timing": "Once Per Battle (Army), Your Shooting Phase",
+    "declare": "Pick all friendly VOLT-KLAW’S ENGINECOVEN units to be the targets.",
+    "effect": "Until the start of your next turn: Add 1 to hit rolls for the targets’ shooting attacks . Add 3\" to the Range characteristic of the targets’ ranged weapons."
+   },
+   {
+    "name": "HIDE-SHELTER! ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While a friendly VOLT-KLAW’S ENGINECOVEN INFANTRY unit is within the combat range of a friendly VOLT-KLAW’S ENGINECOVEN Ratling Warpblaster , it is not visible to enemy units more than 13\" away."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 410,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Brand-s-Oathbound",
+  "name": "Brand’s Oathbound",
+  "faction": "Blades of Khorne",
+  "faction_slug": "blades-of-khorne",
+  "grand_alliance": "Chaos",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "FAVOUR OF THE GODS ",
+    "timing": "Once Per Turn (Army), End of Any Turn",
+    "declare": "",
+    "effect": "If any enemy HEROES were slain this turn by the Gunnar Brand in this Regiment of Renown : Heal (5) each unit in this Regiment of Renown. Add 1 to the Attacks characteristic of melee weapons used by units in this Regiment of Renown for the rest of the battle."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 200,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Hargax-s-Pit-Beasts",
+  "name": "Hargax’s Pit-Beasts",
+  "faction": "Blades of Khorne",
+  "faction_slug": "blades-of-khorne",
+  "grand_alliance": "Chaos",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "BESTIAL DOMINATION ",
+    "timing": "Reaction: You declared a FIGHT ability for a unit in this Regiment of Renown",
+    "declare": "",
+    "effect": "Pick a unit in this Regiment of Renown that has not used a FIGHT ability this turn to be the target. The target can be picked to use a FIGHT ability immediately after the FIGHT ability used by this unit has been resolved."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 390,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Snerk-s-Trogg-Fer-Hire",
+  "name": "Snerk’s Trogg-Fer-Hire",
+  "faction": "Blades of Khorne",
+  "faction_slug": "blades-of-khorne",
+  "grand_alliance": "Chaos",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "GO DAT WAY! ",
+    "timing": "Your Charge Phase",
+    "declare": "Pick the Dankhold Troggoth in this Regiment of Renown to be the target if it is within 12\" of the Loonboss in this Regiment of Renown.",
+    "effect": "For the rest of the turn, the target can still use CHARGE abilities even if it used a RETREAT ability in the same turn."
+   },
+   {
+    "name": "TAKTIKAL COWERING ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While the Loonboss in this Regiment of Renown is within the combat range of the Dankhold Troggoth in this Regiment of Renown: That Loonboss has WARD ( 4+ ) . Each time you make a successful ward roll for that Loonboss , allocate 1 damage point to that Dankhold Troggoth after the damage sequence for that Loonboss has been resolved (ward rolls cannot be made for those damage points)."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 220,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Squires-of-the-Everchosen",
+  "name": "Squires of the Everchosen",
+  "faction": "Blades of Khorne",
+  "faction_slug": "blades-of-khorne",
+  "grand_alliance": "Chaos",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "A DELUDED QUEST ",
+    "timing": "Once Per Battle, Deployment Phase",
+    "declare": "Pick an enemy unit to be the target.",
+    "effect": "The target has the ENEMY OF THE EVERCHOSEN keyword."
+   },
+   {
+    "name": "A QUEST WELL DONE ",
+    "timing": "Once Per Battle (Army), End of Any Turn",
+    "declare": "",
+    "effect": "If the enemy ENEMY OF THE EVERCHOSEN unit is destroyed by a unit in this Regiment of Renown , add 10 to the control score of each unit in this Regiment of Renown for the rest of the battle."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 280,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Stumblefoot-Gargant",
+  "name": "Stumblefoot Gargant",
+  "faction": "Blades of Khorne",
+  "faction_slug": "blades-of-khorne",
+  "grand_alliance": "Chaos",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "PROJECTILE VOMIT ",
+    "timing": "Once Per Turn (Army), Your Shooting Phase",
+    "declare": "Pick this unit to use this ability if it has not used a RAMPAGE ability this turn. Then, pick a point on the battlefield within 6\" of this unit and pick all other units (friendly and enemy) within 3\" of that point to be the targets.",
+    "effect": "Roll a D3 for each target. On a 2+, inflict an amount of mortal damage on that target equal to the roll."
+   },
+   {
+    "name": "BELLOWING MOCKERY ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "Pick this unit to use this ability if it has not used a RAMPAGE ability this turn, then pick an enemy unit within this unit’s combat range to be the target.",
+    "effect": "Roll a dice. On a 3+, subtract 1 from hit rolls for the target’s attacks for the rest of the turn."
+   },
+   {
+    "name": "WHAT’RE YOU LOOKIN’ AT? ",
+    "timing": "Once Per Turn (Army), Any Charge Phase",
+    "declare": "Pick this unit to use this ability if it charged this turn and has not used a RAMPAGE ability this turn. Then, pick an enemy unit within 9\" of this unit to be the target.",
+    "effect": "Roll 2D6. This unit can move a number of inches equal to the roll. It can pass through enemy models and must end that move in combat with the target."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 140,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ }
+]

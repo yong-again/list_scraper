@@ -1,0 +1,322 @@
+[
+ {
+  "faction": "Helsmiths of Hashut",
+  "faction_slug": "helsmiths-of-hashut",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "",
+  "text": "/noindex This page contains all of the rules you need to field your Helsmiths of Hashut miniatures on the battlefields of the Mortal Realms, from a host of exciting faction rules to a range of warscrolls. The rules are split into the following sections:"
+ },
+ {
+  "faction": "Helsmiths of Hashut",
+  "faction_slug": "helsmiths-of-hashut",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Designers’ Commentary > Battletome: Helsmiths of Hashut",
+  "text": "Q: When using ‘ Harness Daemonic Power ’, when daemonic power points are removed from units, are they retained to be reallocated to friendly units or are they lost? A: They are lost. Q: If a unit is affected by both the Ashen Elder ’s ‘Stoked Fanaticism’ and the Taar’s Grand Forgehost spell ‘ Reinforce Daemonsteel ’, both of which allow a unit to ignore the first damage point allocated to it in a phase, do those abilities allow that unit to ignore just the first damage point allocated to it or does that unit ignore the first and second damage points allocated to it? A: Only the first damage point would be ignored. Q: If one of the WAR MACHINES in the Curse-Steel Battery has been destroyed, can the ‘Display of Total Power’ ability be used? A: Yes. Q: When a unit in a TAAR’S GRAND FORGEHOST army gains a daemonic power point (for example, from the Infernal Cohort with Hashutite Spears ’ ‘Conquered Lands’ ability), does it lose that daemonic power point at the end of the battle round? A: No."
+ },
+ {
+  "faction": "Helsmiths of Hashut",
+  "faction_slug": "helsmiths-of-hashut",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Traits",
+  "text": "Helsmiths of Hashut armies can use the following abilities: Once Per Turn (Army), Start of Your Turn HARNESS DAEMONIC POWER : The Helsmiths of Hashut believe themselves above the fell influence of Chaos and readily harness daemonic power to embolden their spellcraft and ensorcelled weapons. Effect: You must use this ability at the start of each of your turns. Remove all daemonic power points from each friendly unit. Then, gain 1 daemonic power point for each friendly desolation token on the battlefield. Then, allocate your daemonic power points to friendly non- HOBGROT HELSMITHS OF HASHUT units. Each unit can have a maximum of 3 daemonic power points . Then, all unallocated daemonic power points are lost. Designer’s Note: Non- HOBGROT units have abilities that become more powerful depending on how many daemonic power points they have. We recommend using coloured dice to track the number of points each unit has. Once Per Turn (Army), Any Hero Phase 1 RESERVES OF DAEMONIC POWER : When venturing forth into the untainted reaches of the realms, the Helsmiths of Hashut draw upon reserves of daemonic power to establish a foothold. Declare: Pick a friendly non- HOBGROT HELSMITHS OF HASHUT unit that has no daemonic power points to be the target. Effect: Give 2 daemonic power points to the target. Once Per Turn (Army), Start of Any Turn LEAVE THE LAND IN RUIN : Both raw resources and esoteric pain are needed to fuel the Helsmiths’ forge-craft, demanding they lay lands to waste. Declare: Pick a terrain feature or objective that does not have a friendly desolation token and is contested by a friendly HELSMITHS OF HASHUT unit that is not in combat to be the target. Effect: Give the target a desolation token ."
+ },
+ {
+  "faction": "Helsmiths of Hashut",
+  "faction_slug": "helsmiths-of-hashut",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations",
+  "text": "You can pick 1 of the following battle formations for a Helsmiths of Hashut army. Each battle formation grants a different ability you can use in the battle. BATTLE PROFILE Name Points Hashutite Host 0 The Bullfather’s Horns 0 Castigation Battery 0 Daemonsmith Cabal 0 Domination Force 0 Industrial Polluters 0"
+ },
+ {
+  "faction": "Helsmiths of Hashut",
+  "faction_slug": "helsmiths-of-hashut",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Hashutite Host",
+  "text": "Passive AMASSED LEGIONS : The hosts of the ziggurats march to conquer and claim, advancing into verdant lands and leaving them barren. Effect: Each time a friendly HELSMITHS OF HASHUT INFANTRY unit with 3 daemonic power points uses the ‘ Rally ’ command, you can make 3 additional rally rolls of D6."
+ },
+ {
+  "faction": "Helsmiths of Hashut",
+  "faction_slug": "helsmiths-of-hashut",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > The Bullfather’s Horns",
+  "text": "Passive BULLS OF THE ZIGGURAT : When unleashed, those warriors and constructs shaped in Hashut’s image are relentless. Effect: Add 2\" to the Move characteristic of friendly HELSMITHS OF HASHUT CAVALRY and MONSTER units while they have 3 daemonic power points ."
+ },
+ {
+  "faction": "Helsmiths of Hashut",
+  "faction_slug": "helsmiths-of-hashut",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Castigation Battery",
+  "text": "Passive EXPERIMENTAL MUNITIONS : In trying to control Chaos, duardin engineers have crafted all manner of eldritch ammunition for their war machines. In doing so, they have given the power of ruin even more destructive outlets. Effect: Add 1 to the Attacks characteristic of ranged weapons used by friendly HELSMITHS OF HASHUT WAR MACHINES while they have 3 daemonic power points ."
+ },
+ {
+  "faction": "Helsmiths of Hashut",
+  "faction_slug": "helsmiths-of-hashut",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Daemonsmith Cabal",
+  "text": "Passive ARCANE DOMINANCE : Despite all that its pursuit costs them, the sorcerers of the ziggurats are ever lusting for greater power. Effect: Add 1 to casting rolls , unbinding rolls , banishment rolls and chanting rolls for friendly HELSMITHS OF HASHUT WIZARDS and PRIESTS while they have 3 daemonic power points ."
+ },
+ {
+  "faction": "Helsmiths of Hashut",
+  "faction_slug": "helsmiths-of-hashut",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Domination Force",
+  "text": "Passive DOMINION HEXES : The armour of these Helsmiths has been imbued by the Daemonsmiths with hexes of subjugation that weaken the resolve of those who seek to stand in their way. Effect: Double the Health characteristic of friendly non- HOBGROT HELSMITHS OF HASHUT units for the purposes of the ‘ Power Through ’ command. Designer’s Note: The effect of this ability applies both when you use ‘Power Through’ and when your opponent uses ‘Power Through’"
+ },
+ {
+  "faction": "Helsmiths of Hashut",
+  "faction_slug": "helsmiths-of-hashut",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Industrial Polluters",
+  "text": "Passive SMOG AND SMOKE : The heavy exhaust fumes billowing from the Helsmiths’ war machines envelops their warriors in an obscuring, pollutantladen smoke. Effect: Subtract 1 from hit rolls for shooting attacks that target friendly HELSMITHS OF HASHUT INFANTRY or CAVALRY units while they are wholly within 9\" of a friendly HELSMITHS OF HASHUT WAR MACHINE ."
+ },
+ {
+  "faction": "Helsmiths of Hashut",
+  "faction_slug": "helsmiths-of-hashut",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Heroic Traits > Tyrants and Overseers",
+  "text": "HERO only BATTLE PROFILE Name Points SERVILE AUTOMATON 0 AN EYE FOR WEAKNESS 0 ’FIRE, YOU WORMS!’ 0 Deployment Phase SERVILE AUTOMATON : This paranoid overlord shuns traditional bodyguards, instead favouring a looming daemon engine entirely bound to them through burning Zharralid carvings. Declare: Pick a friendly HELSMITHS OF HASHUT AUTOMATON unit within this unit’s combat range to be the target. Effect: For the rest of the battle, the target is this unit’s bodyguard and the following effects apply: While this unit is in combat and its bodyguard is within its combat range, its bodyguard has STRIKE-FIRST . If this unit is INFANTRY , it has WARD ( 5+ ) while its bodyguard is within its combat range. Your Hero Phase AN EYE FOR WEAKNESS : Whether bargaining a Wage of Toil or considering the press of battle, this duardin can readily sense vulnerability. Declare: Pick a visible enemy unit within 18\" of this unit to be the target. Effect: Until the start of your next turn, add 1 to wound rolls for combat attacks made by friendly HELSMITHS OF HASHUT units that target that enemy unit. Enemy Charge Phase ’FIRE, YOU WORMS!’ : A pitiless enforcer of discipline, this duardin expects their underlings to keep firing even as the foe bears down on them. Declare: Pick a friendly HELSMITHS OF HASHUT INFANTRY unit that is not in combat and is wholly within 12\" of this unit to be the target. Effect: The target can immediately use the ‘ Shoot ’ ability as if it were your shooting phase. All attacks must target the same enemy unit, and the enemy unit picked to be the target of the attacks must have charged this phase. If the unmodified hit roll for any of those attacks is 1-5, the attack fails and the attack sequence ends."
+ },
+ {
+  "faction": "Helsmiths of Hashut",
+  "faction_slug": "helsmiths-of-hashut",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Artefacts of Power > Dark Gifts of Hashut",
+  "text": "HERO only BATTLE PROFILE Name Points SCROLL OF PETRIFICATION 0 CRUCIBLE OF SPITE 0 GAUNTLETS OF PUNISHMENT 0 Once Per Battle, Any Hero Phase SCROLL OF PETRIFICATION : Though they cannot control the stone-flesh curse, the Zharrdron still believe it can be harnessed. This scroll is the result of such a belief. One who reads from it can transform themselves or their minions into stone for a fleeting moment. Declare: Pick a friendly HELSMITHS OF HASHUT unit wholly within 12\" of this unit to be the target. Effect: For the rest of the turn: The target has WARD ( 2+ ) . Enemy units can ignore the target’s combat range for the purposes of movement and charging . Enemy units can ignore the target for the purposes of setting up on the battlefield but cannot be set up on the target. Once Per Battle, Your Hero Phase CRUCIBLE OF SPITE : This charm, a hollowed and profane statuette of Grungni, contains raging daemon essences that can be drawn on for strength. Yet such eager blasphemy does not go unpunished… Effect: Give up to 3 daemonic power points to this unit. However, you cannot allocate or give any more daemonic power points to this unit for the rest of the battle. Your Shooting Phase GAUNTLETS OF PUNISHMENT : Cooled in the blood of duardin who sought to betray their sworn overlords, a spiteful gesture from these gauntlets can wrack a soul with unbearable pain. Declare: Pick a visible enemy unit within 12\" of this unit to be the target. Effect: Roll a D3. On a 2+, inflict an amount of mortal damage on the target equal to the roll."
+ },
+ {
+  "faction": "Helsmiths of Hashut",
+  "faction_slug": "helsmiths-of-hashut",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Artefacts of Power > Dark Gifts of Hashut",
+  "text": "HERO only BATTLE PROFILE Name Points GEM OF UTORAK 0 CASQUE OF BELITTLEMENT 0 HORN OF THE BULLFATHER 0 Once Per Battle, Your Hero Phase GEM OF UTORAK : Utorak created many of these crystals, each of which grants a measure, albeit fleeting, of arcane power. His censure and eradication followed swiftly after Effect: If this unit is not a Wizard , it has WIZARD ( 2 ) until the start of your next turn. If this unit is a WIZARD , until the start of your next turn: Add 1 to this unit’s power level . Add D3 to casting rolls for this unit. Any Combat Phase CASQUE OF BELITTLEMENT : The wearer of this helm hears a constant scornful voice in their ear, one that sneers at and derides them until they explode in a fit of pique. Declare: Pick an enemy unit in combat with this unit to be the target. Effect: Roll a number of dice equal to your fury level . If this unit charged this turn, add 1 to each roll. For each 3+, inflict 1 mortal damage on the target. Deployment Phase HORN OF THE BULLFATHER : Using this dread clarion, duardin warriors and disposable lackeys across the battlefield can be sent to outflank the enemy. Declare: Pick a visible friendly HELSMITHS OF HASHUT unit to be the target. Then, you can pick a visible friendly Hobgrot Vandalz unit to be a second target. Effect: Remove each target from the battlefield and set them up again wholly within 7\" of the battlefield edge and more than 9\" from all enemy units."
+ },
+ {
+  "faction": "Helsmiths of Hashut",
+  "faction_slug": "helsmiths-of-hashut",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Accursed Devices",
+  "text": "Accursed Devices are a special type of enhancement for WAR MACHINES . During army composition , when you add enhancements , you can pick 1 Accursed Device and give it to a WAR MACHINE on your army roster ."
+ },
+ {
+  "faction": "Helsmiths of Hashut",
+  "faction_slug": "helsmiths-of-hashut",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Accursed Devices > Accursed Device",
+  "text": "BATTLE PROFILE Name Points GREED PISTONS 0 OVERDRIVE SWITCH 0 BREATH OF CONTEMPT 0 Passive GREED PISTONS : At great expense the Daemonsmiths have fitted this machine with advanced piston assemblies, enabling it to perform fearsome turns of speed. Effect: When making charge rolls for this unit, add 1 to the number of dice rolled, to a maximum of 3, then remove 1 dice of your choice and use the remaining dice as the charge roll. Once Per Turn (Army), Reaction: You declared an ATTACK ability for this unit OVERDRIVE SWITCH : Pushing this war engine beyond its normal limits will wreak devastation on the enemy but risks damaging blowbacks from the daemonfire bound within it. Declare: For the rest of the phase: Add 1 to hit rolls for this unit’s attacks, including those made with Companion weapons, that target an enemy unit within 9\" of it. Each time an unmodified hit roll for an attack made by this unit is 1, allocate 1 damage point to this unit after the ATTACK ability has been resolved ( ward rolls cannot be made for those damage points). End of Any Turn BREATH OF CONTEMPT : This war machine has been fitted with chambers that store excess steam under pressure that can be released in scalding gouts at nearby foes. Declare: Pick up to 3 enemy units in combat with this unit to be the targets. Effect: Roll a D3 for each target. On a 2+, inflict an amount of mortal damage on the target equal to the roll."
+ },
+ {
+  "faction": "Helsmiths of Hashut",
+  "faction_slug": "helsmiths-of-hashut",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Accursed Devices > Accursed Device",
+  "text": "Accursed Devices are unique enhancements that can be given to HELSMITHS OF HASHUT WAR MACHINES . A unit can only have 1 Accursed Device. BATTLE PROFILE Name Points INFERNAL MOTIVATORS 20 EARTHWRACK STABILISERS 10 BULLFATHER’S SCORN 10 Passive INFERNAL MOTIVATORS : The daemonic matter that powers this machine consistently provides it with feverish animation. Effect: Add 2\" to this unit’s Move characteristic. Passive EARTHWRACK STABILISERS : Large metal rods embedded in this war machine’s frame plunge deep into the earth, reducing its mobility but providing incredible stability while attacking Effect: Add 1 to the Rend characteristic of this unit’s melee weapons if it has not charged in the same turn. Your Shooting Phase BULLFATHER’S SCORN : This war machine has been stamped with infernal runes of contempt that grant immense power on command. Effect: You can spend 1 rage dice . If you do: Apply the effect below. If your opponent’s fury level is lower than yours, they must increase their fury level by 1, to a maximum of 7. Otherwise, roll a dice. On a 3+, apply the effect below. This unit’s ranged weapons have Crit (2 Hits) until the start of your next turn. If each of this unit’s ranged weapons already have Crit (2 Hits) , this unit’s shooting attacks score critical hits on unmodified hit rolls of 5+ until the start of your next turn instead."
+ },
+ {
+  "faction": "Helsmiths of Hashut",
+  "faction_slug": "helsmiths-of-hashut",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Spell Lore",
+  "text": "BATTLE PROFILE Name Points Lore of Infernal Power 0"
+ },
+ {
+  "faction": "Helsmiths of Hashut",
+  "faction_slug": "helsmiths-of-hashut",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Spell Lore > Lore of Infernal Power",
+  "text": "Your Hero Phase 6 HATEFUL FRACTURES : The sorcerer clenches a contemptuous fist, seeing firm ground beneath their foes suddenly splinter and crack. Declare: Pick a friendly HELSMITHS OF HASHUT WIZARD to cast this spell, pick a visible enemy unit within 18\" of them to be the target, then make a casting roll of 2D6. Effect: Halve the target’s Move characteristic until the start of your next turn. KEYWORDS SPELL, UNLIMITED Your Hero Phase 7 ASHEN SMOG : Clouds of choking ash seep from the sorcerer’s outstretched talon before settling across the lands as an impenetrable, blinding pall. Declare: Pick a friendly HELSMITHS OF HASHUT WIZARD to cast this spell, pick a visible terrain feature within 18\" of them that has a friendly desolation token to be the target, then make a casting roll of 2D6. Effect: That terrain feature has the ‘ Obscuring ’ ability ( Terrain, 1.2 ) until the start of your next turn. Then, roll a D3 for each enemy unit contesting the target terrain feature. On a 2+, inflict an amount of damage equal to the roll on that unit. KEYWORDS SPELL Your Hero Phase 8 MOLTEN METAL : A wave of hellish, liquid metal that strips armour and melts flesh surges forth into the enemy line. Declare: Pick a friendly HELSMITHS OF HASHUT WIZARD to cast this spell, pick a visible enemy unit within 18\" of them to be the target, then make a casting roll of 2D6. Effect: Roll a number of dice equal to the unmodified casting roll. Inflict 1 mortal damage on the target for each roll that equals or exceeds the target’s Save characteristic. KEYWORDS SPELL"
+ },
+ {
+  "faction": "Helsmiths of Hashut",
+  "faction_slug": "helsmiths-of-hashut",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Prayer Lore",
+  "text": "BATTLE PROFILE Name Points Prayers of the Scorched Sect 0"
+ },
+ {
+  "faction": "Helsmiths of Hashut",
+  "faction_slug": "helsmiths-of-hashut",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Prayer Lore > Prayers of the Scorched Sect",
+  "text": "Your Hero Phase 4 BLACK FLAMES OF HASHUT : Spitting the Bullfather’s contempt, the priest causes their enemies to be wreathed in abyssal fire – a worthy punishment for the weak. Declare: Pick a friendly HELSMITHS OF HASHUT PRIEST to chant this prayer, pick a visible enemy unit within 12\" of them to be the target, then make a chanting roll of D6. Effect: Roll a number of dice equal to the number of models in the target unit. For each 5+, inflict 1 mortal damage on the target. If the chanting roll was 8+, inflict 1 mortal damage on the target for each 4+ instead. KEYWORDS PRAYER, UNLIMITED Your Hero Phase 4 FURNACE BLESSING : The priest pours burning scorn upon the daemonic essences bound in duardin steel, seeing the weapons of the Hashutites blaze in molten outrage. Declare: Pick a friendly HELSMITHS OF HASHUT PRIEST to chant this prayer, pick a visible friendly HELSMITHS OF HASHUT unit wholly within 12\" of them to be the target, then make a chanting roll of D6. Effect: Add 1 to the Rend characteristic of the target’s melee weapons for the rest of the turn. If the chanting roll was 8+, that unit’s melee weapons also have Crit (Mortal) for the rest of the turn. KEYWORDS PRAYER Your Hero Phase 5 STORM OF OBSIDIAN SHARDS : The sheer vitriol of this duardin priest is incarnated as a tumult of flesh-shredding stone splinters. Declare: Pick a friendly HELSMITHS OF HASHUT PRIEST to chant this prayer, pick a visible enemy unit within 18\" of them to be the target, then make a chanting roll of D6. Effect: Inflict D3 mortal damage on the target and subtract 3 from the target’s control score for the rest of the turn. If the chanting roll was 10+, you can pick another eligible unit to be a second target. KEYWORDS PRAYER Army of Renown"
+ },
+ {
+  "faction": "Helsmiths of Hashut",
+  "faction_slug": "helsmiths-of-hashut",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Taar’s Grand Forgehost",
+  "text": "When you pick the Helsmiths of Hashut faction for your army, you can choose for it to be a Taar’s Grand Forgehost Army of Renown . If you do so, use the faction rules in this section instead of the Helsmiths of Hashut faction rules. Every unit in your army must be drawn from the units listed in the roster options box below. All units in your army gain the GRAND FORGEHOST keyword. ROSTER OPTIONS Urak Taar, the First Daemonsmith (must be included and must be your general ) Any non- HOBGROT HELSMITHS OF HASHUT INFANTRY units Any non- HERO HELSMITHS OF HASHUT WAR MACHINE units You cannot include Regiments of Renown"
+ },
+ {
+  "faction": "Helsmiths of Hashut",
+  "faction_slug": "helsmiths-of-hashut",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Taar’s Grand Forgehost > Battle Traits",
+  "text": "Passive RISING FIRE : The hosts of Urak Taar fight with obsessive precision instead of haste – but once the furnaces are lit, victory is inevitable. Effect: The following cumulative effects apply to friendly GRAND FORGEHOST units in each battle round after the first. Battle Round 2: Daemonic Weaponry: Those units’ weapons have Crit (2 Hits) . Battle Round 3: Harnessed Sorcery: Add 1 to casting rolls and chanting rolls for those units. Battle Round 4: Channelled Power: Attacks made by those units score critical hits on unmodified hit rolls of 5+. Battle Round 5: Arcane Dominance: Add 1 to the power level of those units if they are a WIZARD or PRIEST . Passive MASTERFUL DAEMONWORKS : Those engines marshalled by the First Daemonsmith are masterworks of cursed engineering. Effect: Friendly GRAND FORGEHOST WAR MACHINES have WARD ( 6+ ) . Once Per Turn (Army), Your Movement Phase 1 DREAD RANKS UNBROKEN : Serried legions of duardin march in service to Urak Taar and the Forge Anathema. Declare: Pick a friendly NON-HERO GRAND FORGEHOST INFANTRY unit that has been destroyed to be the target. Effect: Set up a replacement unit with half the number of models from the target unit (rounding up), wholly within 6\" of the battlefield edge and more than 9\" from all enemy units."
+ },
+ {
+  "faction": "Helsmiths of Hashut",
+  "faction_slug": "helsmiths-of-hashut",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Taar’s Grand Forgehost > Heroic Traits",
+  "text": "( HERO ) only Passive RUTHLESS OVERSSER : The magnates and warlords in service to Urak Taar are hungry to distinguish themselves and demand faultless discipline. Effect: Each time a friendly GRAND FORGEHOST unit wholly within 12\" of this unit uses the ‘ Rally ’ command, you can make 3 additional rally rolls of D6."
+ },
+ {
+  "faction": "Helsmiths of Hashut",
+  "faction_slug": "helsmiths-of-hashut",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Taar’s Grand Forgehost > Artefacts of Power",
+  "text": "( HERO ) only Passive TALISMAN OF OBSIDIAN : The obsidian jewel set within this amulet shrouds the bearer and protects them from harm. Effect: Subtract 1 from hit rolls for attacks that target this unit."
+ },
+ {
+  "faction": "Helsmiths of Hashut",
+  "faction_slug": "helsmiths-of-hashut",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Taar’s Grand Forgehost > Spell Lore",
+  "text": "Your Hero Phase 7 REINFORCE DAEMONSTEEL : At a sorcerer’s chanting, the sigils inscribed on their minions’ armour glow with protective power. Declare: Pick a friendly GRAND FORGEHOST WIZARD to cast this spell, then make a casting roll of 2D6. Effect: Until the start of your next turn, ignore the first damage point allocated to each friendly HELSMITHS OF HASHUT unit in each phase while they are wholly within 12\" of the caster. KEYWORDS SPELL, UNLIMITED Your Hero Phase 6 SHACKLING CURSE : A daemonic hex of Urak Taar’s own devising is placed upon the foe, blunting their strikes. Declare: Pick a friendly GRAND FORGEHOST WIZARD to cast this spell, pick a visible enemy unit within 18\" of them to be the target, then make a casting roll of 2D6. Effect: For the rest of the turn, the target’s attacks cannot score critical hits (treat them as regular hits instead). KEYWORDS SPELL"
+ },
+ {
+  "faction": "Helsmiths of Hashut",
+  "faction_slug": "helsmiths-of-hashut",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Taar’s Grand Forgehost > Prayer Lore",
+  "text": "Your Hero Phase 4 GRASP OF STONE : The Drazghar have observed Urak Taar’s ability to channel his curse. They attempt to replicate this via invocations, though Taar ensures that none learn too much… Declare: Pick a friendly GRAND FORGEHOST PRIEST to chant this prayer, pick a visible enemy unit within 18\" of them to be the target, then make a chanting roll of D6. Effect: Subtract 1 from the Attacks characteristic of the target’s melee weapons until the start of your next turn. If the chanting roll was 8+, the target also has STRIKE-LAST until the start of your next turn. KEYWORDS PRAYER, UNLIMITED Your Hero Phase 5 LAVA STORM : The skies above burn a polluted red as globs of black lava are called to rain onto the enemy. Declare: Pick a friendly GRAND FORGEHOST PRIEST to chant this prayer. Pick an enemy unit to be the target and roll 6 dice. For each 6, pick an additional enemy unit to be a target. Then make a chanting roll of D6. Effect: If the chanting roll was 7+, pick an additional enemy unit to be a target. Inict D3 mortal damage on each target. KEYWORDS PRAYER Army of Renown"
+ },
+ {
+  "faction": "Helsmiths of Hashut",
+  "faction_slug": "helsmiths-of-hashut",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Ziggurat Stampede",
+  "text": "When you pick the Helsmiths of Hashut faction for your army, you can choose for it to be a Ziggurat Stampede Army of Renown . If you do so, use the faction rules in this section instead of the Helsmiths of Hashut faction rules. Every unit in your army must be drawn from the units listed in the roster options box below. All units in your army gain the ZIGGURAT STAMPEDE keyword. ROSTER OPTIONS Daemonsmith on Infernal Taurus Any HELSMITHS OF HASHUT CAVALRY units Any HELSMITHS OF HASHUT AUTOMATON units You cannot include Regiments of Renown"
+ },
+ {
+  "faction": "Helsmiths of Hashut",
+  "faction_slug": "helsmiths-of-hashut",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Ziggurat Stampede > Battle Traits",
+  "text": "Passive LET THE REALMS TREMBLE : The onslaught of Hashutite war machines are a tide of annihilation that cannot be resisted. Effect: Add X to charge rolls for friendly ZIGGURAT STAMPEDE units, where X is the number of friendly ZIGGURAT STAMPEDE units that have already charged this phase. Passive ’BREAK THEM, ONE AND ALL...’ : A Ziggurat Stampede is unleashed for one reason – to crush all in its path. Effect: Any number of friendly ZIGGURAT STAMPEDE units can use the ‘ Power Through ’ command in the same turn. Your Movement Phase 1 RUN ROUGHSHOD : Only a fool believes they can stop Hashut’s chosen from going where they wish. Declare: Pick a friendly ZIGGURAT STAMPEDE unit in combat to be the target. Effect: For the rest of the turn: The target can use SHOOT and/or CHARGE abilities even if it used a RETREAT ability in the same turn. No mortal damage is inflicted on the target by RETREAT abilities."
+ },
+ {
+  "faction": "Helsmiths of Hashut",
+  "faction_slug": "helsmiths-of-hashut",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Ziggurat Stampede > Heroic Traits",
+  "text": "HERO only Passive RAGING ANIMUS : Within this Taurus is bound an especially diabolical spirit – one that takes any opportunity to violently burst free. Effect: Each time you make an unmodified save roll of 1 for a combat attack that targets this unit, inflict D3 mortal damage on the attacking unit after the FIGHT ability has been resolved."
+ },
+ {
+  "faction": "Helsmiths of Hashut",
+  "faction_slug": "helsmiths-of-hashut",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Ziggurat Stampede > Artefacts of Power",
+  "text": "HERO only Passive VISAGE OF THE GREAT BULL : This graven, gilded mask is wrought in the visage of a Taurus, supplanting the bearer’s will with Hashut’s crushing purpose. Effect: In your charge phase , add 1 to the number of dice rolled when making charge rolls for this unit, to a maximum of 3."
+ },
+ {
+  "faction": "Helsmiths of Hashut",
+  "faction_slug": "helsmiths-of-hashut",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Ziggurat Stampede > Spell Lore",
+  "text": "Your Hero Phase 6 SEARING DETONATION : The sorcerer grasps dark fire in their claws, crushing it into a dense and howling nova before unleashing it in a wave of devastation. Declare: Pick a friendly ZIGGURAT STAMPEDE WIZARD to cast this spell, pick each enemy unit in combat with them to be the targets, then make a casting roll of 2D6. Effect: Roll a D3 for each target. On a 2+, inflict an amount of mortal damage on the target equal to the roll. KEYWORDS SPELL, UNLIMITED Your Hero Phase 7 FLAMING WEAPONS : At a gesture, the cuneiform-inscribed weapons of the sorcerer’s host glow white-hot and ignite. Declare: Pick a friendly ZIGGURAT STAMPEDE WIZARD to cast this spell, pick a visible friendly ZIGGURAT STAMPEDE unit wholly within 12\" of them to be the target, then make a casting roll of 2D6. Effect: Add 1 to the Rend characteristic of the target’s melee weapons until the start of your next turn. KEYWORDS SPELL Your Hero Phase 8 BURN TO ASH : Twisted Zharralid cantrips ignite the land until it is blackened and withered. Declare: Pick a friendly ZIGGURAT STAMPEDE WIZARD to cast this spell, pick a terrain feature within 18\" of them to be the target, then make a casting roll of 2D6. Effect: If the target has a Health characteristic, inflict 2D3 mortal damage on it. Then, if the target was not destroyed or does not have a Health characteristic: The target gains the ‘ Obscuring ’ terrain ability for the rest of the battle ( Terrain, 1.2 ). If the target is FACTION TERRAIN , until the start of your next turn, abilities on that terrain feature’s warscroll have no effect. KEYWORDS SPELL"
+ },
+ {
+  "faction": "Helsmiths of Hashut",
+  "faction_slug": "helsmiths-of-hashut",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Helforge Host",
+  "text": "To the servants of Hashut, war and conquest are matters of calculation. The masters of the ziggurats know to ensure their stockpiles remain full and that nothing is done without the goal of ultimate personal gain. Helforge Hosts embody this martial philosophy: concise but deadly assemblages of force sent to claim a particular resource or punish a chosen enemy. Helforge Hosts are not led by sorcerers – there are few of these rarefied figures, and when they take to the field, it is for more sinister purposes. Highborn from the royal clans instead command on their behalf, seeking to accrue favour by achieving results no matter the cost. These warlords are accompanied by warriors of their own household, perhaps even their own bloodline, but the true mark of their authority are the daemon engines that growl and rumble at their side. Drawn from the forges of the patron Daemonsmith and animated by their dark magic, these hateful machines can decimate a force that outnumbers them many times over. Such is just as it should be, to properly enshrine the dominion of Hashut and his scions. This Spearhead army consists of the following units: General War Despot Units 1 Dominator Engine 1 Tormentor Bombard 5 Infernal Cohort with Hashutite Spears 5 Infernal Cohort with Hashutite Spears (with Gong Carrier)",
+  "spearhead_name": "Helforge Host"
+ },
+ {
+  "faction": "Helsmiths of Hashut",
+  "faction_slug": "helsmiths-of-hashut",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Helforge Host > Battle Traits",
+  "text": "Once Per Turn (Army), Your Hero Phase HARNESS DAEMONIC POWER : The Helsmiths of Hashut believe themselves above the fell influence of Chaos and readily harness daemonic power to embolden their spellcraft and ensorcelled weapons. Effect: You must use this ability at the start of each of your hero phases. Remove all daemonic power points from each friendly unit. Then, gain a number of daemonic power points equal to the current battle round number plus 1. Then, allocate your daemonic power points to friendly units. Each unit can have a maximum of 3 daemonic power points . Then, all unallocated daemonic power points are lost. Designer’s Note: Your units have abilities that become more powerful depending on how many daemonic power points they have. We recommend using coloured dice to track the number of points each unit has.",
+  "spearhead_name": "Helforge Host"
+ },
+ {
+  "faction": "Helsmiths of Hashut",
+  "faction_slug": "helsmiths-of-hashut",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Helforge Host > Regiment Abilities",
+  "text": "Pick 1 of the following regiment abilities. Once Per Battle, Deployment Phase GRINDING ADVANCE : The scions of Hashut do not come swiftly – but they are thorough, relentless and in time, all shall be ground to rubble before them. Declare: Pick up to 2 friendly Infernal Cohort units to be the targets. Effect: Each target can immediately move up to 3\" but cannot use CHARGE abilities in the first battle round. Once Per Turn, Your Shooting Phase SUPPRESSIVE BOMBARDMENT : Shows of extreme force are a favoured tactic of the Zharrdron. Declare: Pick an enemy INFANTRY unit that had any damage points allocated to it this turn as a result of shooting attacks made by a friendly Tormentor Bombard to be the target. Effect: Until the start of your next turn, subtract 1 from the number of dice rolled when making charge rolls for the target, to a minimum of 1.",
+  "spearhead_name": "Helforge Host"
+ },
+ {
+  "faction": "Helsmiths of Hashut",
+  "faction_slug": "helsmiths-of-hashut",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Helforge Host > Enhancements",
+  "text": "Give your general 1 of the following enhancements. Once Per Battle, Any Hero Phase SCROLL OF PETRIFICATION : Though they cannot control the stone-flesh curse, the Zharrdron still believe it can be harnesses. This scroll is the result of such a belief. One who reads from it can transform themselves into stone for a fleeting moment. Effect: For the rest of the turn, your general has WARD ( 2+ ) but cannot use abilities or be picked to be the target of friendly abilities. Passive TALISMAN OF OBSIDIAN : Bartered in exchange for years of gruelling service, this talisman renders its wearer impervious to all but the most grievous of wounds. Effect: Ignore the first damage point allocated to your general in each phase. Once Per Battle, Your Shooting Phase CHALICE OF DARKNESS : Dread power spills from this vessel of ebon-black stone. Declare: Pick a visible enemy unit within 12\" of your general to be the target. Effect: Inflict D3 mortal damage on the target. Once Per Battle, Any Combat Phase AMULET OF BURNING HATE : A sacred relic of the Drazghar order, this amulet is said to contain the merest flicker of Hashut’s depthless spite. Effect: For the rest of the turn, your general ’s attacks score critical hits on unmodified hit rolls of 5+.",
+  "spearhead_name": "Helforge Host"
+ },
+ {
+  "faction": "Helsmiths of Hashut",
+  "faction_slug": "helsmiths-of-hashut",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Helforge Host > Warscrolls",
+  "text": "• SPEARHEAD WARSCROLL • War Despot 4\" 6 3+ 2 The lords of a ziggurat’s royal clans are also its commanders in times of war. Swollen by dark power and clad in imposing armour, they see their thrall hosts as extensions of their own conquering ambition. Underlings are driven on relentlessly, expected to triumph or perish, while a Despot’s rivals fall beneath their blades – weapons acquired at a terrible price and empowered by the most dangerous daemonic essences. • SPEARHEAD WARSCROLL • War Despot MELEE WEAPONS Atk Hit Wnd Rnd Dmg Daemonflame Glaive [ Crit (Mortal) ] Daemonflame Glaive Crit (Mortal) 5 3+ 3+ 1 2 Passive BLACK-HEARTED CONQUEROR : Those sworn to serve beneath a Despot must offer them conquest and tribute or suffer the consequences… Effect: While this unit has any daemonic power points , friendly units with 0 daemonic power points count as having 1 daemonic power point while they are wholly within 6\" of and visible to this unit. For each daemonic power point this unit has, add 3\" to the range of this ability. KEYWORDS HERO , INFANTRY • SPEARHEAD WARSCROLL • Infernal Cohort with Hashutite Spears 4\" 1 3+ 1 The black heart of the Zharrdron warhosts are formed of warrior cohorts. Drawn in the main from the stock of the royal clans, the finery and pomp these duardin clad themselves in does not detract from their pitiless martial skill. Many of their regiments take to battle wielding spears ablaze with daemonic energy, forming a wall of death that advances to the sound of arcane gongs and grinds down the foe without mercy.",
+  "spearhead_name": "Helforge Host"
+ },
+ {
+  "faction": "Helsmiths of Hashut",
+  "faction_slug": "helsmiths-of-hashut",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Helforge Host > Warscrolls",
+  "text": "spears ablaze with daemonic energy, forming a wall of death that advances to the sound of arcane gongs and grinds down the foe without mercy. • SPEARHEAD WARSCROLL • Infernal Cohort with Hashutite Spears MELEE WEAPONS Atk Hit Wnd Rnd Dmg Hashutite Spear [ Anti-charge (+1 Rend) ] Hashutite Spear Anti-charge (+1 Rend) 2 3+ 4+ - 1 Once Per Battle, Any Hero Phase STRIKE THE GONGS : Borne by straining hobgrots, these gongs are holy relics to the servants of Hashut. Effect: This unit’s Gong Carrier (if any) is a token . You can remove its Gong Carrier from the battlefield and return D3 slain models to this unit. Passive DAEMONIC RESILIENCE : Spitting contempt from between their tusks, these duardin refuse to show the slightest shred of weakness. Effect: Apply the effect below that corresponds with the number of daemonic power points (DPP) this unit has: DPP Effect 1 This unit has WARD ( 6+ ) . 2 This unit has WARD ( 5+ ) . 3 This unit has WARD ( 5+ ) and you ignore the first damage point allocated to this unit in each phase. KEYWORDS INFANTRY , REINFORCEMENTS • SPEARHEAD WARSCROLL • Dominator Engine with Immolation Cannons 6\" 10 2+ 2 Dark rumour swirls around the Dominator Engines, those mechanised constructs wrought in the image of almighty Hashut. Within these beasts of iron burns an inferno of tormented daemon-matter, and the malice of those entities leaks from their eyes in hateful waves. The purpose of these engines is to destroy the enemies of the Zharrdron and the Father of Darkness in the most total and extreme fashion possible. In pursuit of these ends, many Dominators have their arms replaced by great Immolation Cannons, barrel-mouthed weapons that spit forth torrents of blazing death across the field.",
+  "spearhead_name": "Helforge Host"
+ },
+ {
+  "faction": "Helsmiths of Hashut",
+  "faction_slug": "helsmiths-of-hashut",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Helforge Host > Warscrolls",
+  "text": "Dominators have their arms replaced by great Immolation Cannons, barrel-mouthed weapons that spit forth torrents of blazing death across the field. • SPEARHEAD WARSCROLL • Dominator Engine with Immolation Cannons RANGED WEAPONS Rng Atk Hit Wnd Rnd Dmg Immolation Cannons [ Shoot in Combat ] Immolation Cannons Shoot in Combat 8\" 5 2+ 4+ 1 D3 MELEE WEAPONS Atk Hit Wnd Rnd Dmg Horns and Pummelling Strikes Horns and Pummelling Strikes 3 4+ 3+ 1 D3 Passive DAEMONIC STRENGTH : When empowered with a surplus of daemonic energy, Dominator Engines are made faster and deadlier still. Effect: For each daemonic power point this unit has: Add 1\" to its Move characteristic. Add 1 to the Attacks characteristic of its weapons. KEYWORDS WAR MACHINE , REINFORCEMENTS • SPEARHEAD WARSCROLL • Tormentor Bombard 4\" 8 3+ 2 Rumbling with each blast, spitting trails of smoke into the sky, a Tormentor Bombard rains down a relentless rain of slaughter. The mechanistic precision of these war machines stands in contrast to the anarchy they cause. Instead of tangible shells, they fire the raw essence of Chaos, which has been tortured, agitated and shovelled into rune-warded furnaces. Where these crackling cores of dark energy impact the earth, they explode with terrible force. Enemy formations are violently ripped apart, the survivors left staggering through wreckage as the ground beneath them shatters and twists.",
+  "spearhead_name": "Helforge Host"
+ },
+ {
+  "faction": "Helsmiths of Hashut",
+  "faction_slug": "helsmiths-of-hashut",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Helforge Host > Warscrolls",
+  "text": "Enemy formations are violently ripped apart, the survivors left staggering through wreckage as the ground beneath them shatters and twists. • SPEARHEAD WARSCROLL • Tormentor Bombard RANGED WEAPONS Rng Atk Hit Wnd Rnd Dmg Torrent of Ruinous Energy [ Anti- INFANTRY (+1 Rend) , Anti- CAVALRY (+1 Rend) ] Torrent of Ruinous Energy Anti- INFANTRY (+1 Rend) , Anti- CAVALRY (+1 Rend) 30\" 4 3+ 3+ 1 D3 MELEE WEAPONS Atk Hit Wnd Rnd Dmg Artillerist Weapons Artillerist Weapons 3 4+ 4+ - 1 Passive CALCULATED TRAJECTORY : The warhosts of the Chaos duardin revel in overwhelming their foes with excessive, punishing firepower. Effect: Add 1 to hit rolls for this unit’s shooting attacks that target an enemy unit with 5 or more models that is more than 12\" from this unit. Once Per Turn (Army), Your Shooting Phase RUINOUS BOMBARDMENT : Those who survive the initial unmaking wave of raw Chaos energy laid down by a Tormentor Bombard are left addled and disoriented. Declare: If this unit used a SHOOT ability this turn and all of its attacks targeted the same enemy unit, that enemy unit is the target. Then, you can pick a number of enemy units within 6\" of the target equal to the number of daemonic power points this unit has to be additional targets. Effect: Roll a dice for each target. On a 3+, subtract 3 from the target’s control score for the rest of the turn. KEYWORDS WAR MACHINE noindex /noindex noindex",
+  "spearhead_name": "Helforge Host"
+ }
+]

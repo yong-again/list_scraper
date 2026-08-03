@@ -1,0 +1,425 @@
+[
+ {
+  "faction": "Kharadron Overlords",
+  "faction_slug": "kharadron-overlords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "",
+  "text": "/noindex High above the clouds of the Mortal Realms there thrives an empire of unrivalled prosperity and aerial power. Guided by the wisdom of their Code, the Kharadron Overlords send forth airship fleets to dominate the skyways – all who challenge the Kharadron’s supremacy are quick to suffer the wrath of their techno-arcane war machines. This page contains all of the rules you need to field your Kharadron Overlords miniatures on the battlefields of the Mortal Realms, from a host of exciting faction rules to a range of warscrolls. The rules are split into the following sections:"
+ },
+ {
+  "faction": "Kharadron Overlords",
+  "faction_slug": "kharadron-overlords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Designers’ Commentary > Battletome: Kharadron Overlords",
+  "text": "Q: Can an Arkanaut Frigate use the ‘Assault Boat’ ability if it used a RUN ability in the same turn but was picked as a target of Brokk Grungsson’s ‘Command the Fleet’ ability earlier in the same turn? A: Yes. Q: Can I use the ‘Assault Boat’ ability in combination with ‘ Counter-charge ’? A: Yes. Q: Can I picked a reinforced unit of Scourge of Ghyran Grundstok Gunhaulers to be the target of an Arkanaut Admiral ’s ‘Bring Every Gun to Bear!’ ability? If so, do all models in the unit gain the benefit of the effect or would only 1 model in the unit? A: Yes, and all models in the unit would gain the benefit of the effect. Q: If I use the ‘ Blazebeard and Sons Bamboozling Flakgun ’ artefact of power to remove a dice from my opponent’s charge roll , and then my opponent uses the ‘ Forward to Victory ’ command, how many dice does my opponent re-roll for that charge roll? A: They would roll the number of dice left in the charge roll after 1 dice has been removed. For example, if the original charge roll was made with 2 dice and 1 of those dice was removed by the Blazebeard and Sons Bamboozling Flakgun, your opponent would re-roll that 1 remaining dice to determine their re-rolled charge roll."
+ },
+ {
+  "faction": "Kharadron Overlords",
+  "faction_slug": "kharadron-overlords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Traits",
+  "text": "Kharadron Overlords armies can use the following abilities: Passive SKYVESSEL COVER : With a mighty skyvessel floating above providing covering fire, Kharadron Overlords are much harder to target. Effect: Subtract 1 from hit rolls for attacks that target friendly KHARADRON OVERLORDS INFANTRY units that have not charged in the same turn while they are wholly within 6\" of a friendly Arkanaut Ironclad or Arkanaut Frigate that has not charged in the same turn. Once Per Battle (Army), Deployment Phase FLYING HIGH : Often one skyvessel will hold back high above the battlefield, only to descend and deploy additional troops where and when they are most needed. Declare: Pick a friendly SKYVESSEL that is in a regiment from which no units have been deployed, then pick a number of units up to its Transport Capacity (see its warscroll) that are in its regiment. Effect: Set up all of those units in reserve in the clouds . They have now been deployed. KEYWORDS DEPLOY Once Per Battle (Army), Deployment Phase THE FLAGSHIP : Every fleet commander designates one of their vessels to be their flagship. Declare: Pick a friendly SKYVESSEL to be the target. The target can be in reserve . Effect: The target has the FLAGSHIP keyword for the rest of the battle. If the target does not have a Great Endrinwork , give the target 1 Great Endrinwork . Designer’s Note: This Great Endrinwork is given to the unit during the deployment phase , not during army composition . Your Movement Phase DESCEND FROM THE CLOUDS : As a skyvessel swoops down to the battlefield, its Kharadron passengers scramble to disembark and storm the enemy lines. Declare: Pick a friendly SKYVESSEL in the clouds to use this ability. Effect: Set up that SKYVESSEL anywhere on the battlefield more than 9\" from all enemy units."
+ },
+ {
+  "faction": "Kharadron Overlords",
+  "faction_slug": "kharadron-overlords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Traits",
+  "text": "Effect: Set up that SKYVESSEL anywhere on the battlefield more than 9\" from all enemy units. Then, set up all other units that were set up in the clouds with that SKYVESSEL wholly within 6\" of it and more than 9\" from all enemy units. Your Movement Phase, Reaction: You declared a non- CHARGE MOVE ability for a friendly SKYVESSEL TRANSPORT SKYFARERS : The Kharadron rule the skies of the realms with fleets of fearsome airships crewed by hardened duardin. Effect: Pick a number of units up to that SKYVESSEL ’s Transport Capacity (see its warscroll) that are wholly within 6\" of it and not in combat to be the targets. Units that have been transported this turn cannot be targets. Remove the targets from the battlefield. After the SKYVESSEL ends its move, you must set up each target unit on the battlefield, wholly within 6\" of that SKYVESSEL and not in combat. Those units have been transported. A unit cannot use CHARGE abilities if it was transported in the same turn."
+ },
+ {
+  "faction": "Kharadron Overlords",
+  "faction_slug": "kharadron-overlords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations",
+  "text": "You can pick 1 of the following battle formations for a Kharadron Overlords army. Each battle formation grants a different ability you can use in the battle. BATTLE PROFILE Name Points Pioneers and Scavengers 10 Veteran Ground Troops 0 Rapid Redeployment Squadron 0 Endrineers Guild Expeditionary Force 20"
+ },
+ {
+  "faction": "Kharadron Overlords",
+  "faction_slug": "kharadron-overlords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Pioneers and Scavengers",
+  "text": "Passive GRITTY FORTUNE-HUNTERS : The Vongrim guilders in this expedition have almost depleted their current reserves of aether-gold. Their very existence depends on the success of this venture, and they’ll be damned if anyone tries to cheat them of their imminent windfall! Effect: Friendly Vongrim Harpoon Crew and Vongrim Salvagers units have WARD ( 6+ ) while they are contesting an objective ."
+ },
+ {
+  "faction": "Kharadron Overlords",
+  "faction_slug": "kharadron-overlords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Veteran Ground Troops",
+  "text": "Once Per Turn (Army), Start of Battle Round ENTRENCHED CREWS : The Arkanauts in this fleet are no strangers to ground-based combat. Once in position, they will make clever use of the terrain to stymie the attacks of the foe. Declare: Pick up to 3 friendly Arkanaut Company units to be the targets. Effect: For the rest of the battle round, if the target has not been set up this battle round and while it has not moved this turn, subtract 1 from the Rend characteristic of attacks that target that unit."
+ },
+ {
+  "faction": "Kharadron Overlords",
+  "faction_slug": "kharadron-overlords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Rapid Redeployment Squadron",
+  "text": "Passive EXTRA RAPPEL ANCHORS : The Grundstok Gunhaulers in this force have been fitted with extra ports to which privateers can tether themselves in order to hitch a ride in battle. Effect: Friendly Grundstok Gunhaulers can transport up to 2 friendly KHARADRON OVERLORDS INFANTRY units instead of 1 and with a combined model count of up to 6 instead of 5 (see Battle Traits)."
+ },
+ {
+  "faction": "Kharadron Overlords",
+  "faction_slug": "kharadron-overlords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Endrineers Guild Expeditionary Force",
+  "text": "Once Per Battle (Army), Deployment Phase SPECIAL PROCUREMENT : The Endrineers Guild often charter expeditionary forces equipped with the most advanced inventions in the realms. Declare: Pick a friendly non- UNIQUE KHARADRON OVERLORDS HERO that does not have an artefact of power. The target can be in reserve . Effect: Give that Hero 1 artefact of power from the ‘ Inventions of the Sky-ports ’ or the ‘ Ingenious Innovations ’. Designer’s Note: This artefact of power is given to the unit during the deployment phase , not during army composition ."
+ },
+ {
+  "faction": "Kharadron Overlords",
+  "faction_slug": "kharadron-overlords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Heroic Traits > Lords of the Sky-fleets",
+  "text": "HERO only BATTLE PROFILE Name Points SHREWD OPPORTUNIST 10 BOLD AS BRASS 0 COMBAT GRAFTER 0 Deployment Phase SHREWD OPPORTUNIST : This duardin’s mind is as sharp as a gem cutter. They are quick to see openings and do not hesitate to seize upon them. Such a quality is, of course, highly conducive to profit! Declare: Pick this unit and up to 2 other friendly KHARADRON OVERLORDS non- HERO INFANTRY units to be the targets. Effect: Each target can immediately use the ‘ Normal Move ’ ability as if it were your movement phase. Passive BOLD AS BRASS : Whether their roared oaths ring louder than the summons to Musterpress or the sheer audacity of their actions speaks volumes, this officer is an imposing presence on the battlefield. Effect: Add 5 to this unit’s control score . Once Per Battle, Any Combat Phase COMBAT GRAFTER : Knuckling down and cracking skulls is what this officer does best. Effect: This unit can use 2 FIGHT abilities this phase. After the first is used, however, this unit has STRIKE-LAST for the rest of the phase."
+ },
+ {
+  "faction": "Kharadron Overlords",
+  "faction_slug": "kharadron-overlords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Artefacts of Power > Inventions of the Sky-Ports",
+  "text": "HERO only BATTLE PROFILE Name Points VOIDSTONE ORB 0 CELESTIUM BURST GRENADE 10 BLAZEBEARD AND SONS BAMBOOZLING FLAKGUN 10 Once Per Battle, Reaction: Opponent declared a SPELL ability for a WIZARD within 30\" of this unit VOIDSTONE ORB : This small, unassuming black globe contains the power to disrupt enemy spells. Effect: That spell is unbound . Once Per Battle, Your Shooting Phase CELESTIUM BURST GRENADE : Typically used by the Grundstok ‘black marines’, this specialised anti-ethereal weapon can nullify magical wards. Declare: Pick a visible enemy unit within 12\" of this unit to be the target. Effect: Ward rolls cannot be made for the target for the rest of the turn. Once Per Turn, Reaction: Opponent declared a CHARGE ability for a unit within 12\" of this unit BLAZEBEARD AND SONS BAMBOOZLING FLAKGUN : This large-barrelled, stumpy weapon fires a mishmash of workshop swarf coated in phosphor-laced aether-gold that produces a blinding, bewildering display when the trigger is pulled – highly effective for stopping an advancing enemy in their tracks. Effect: Pick 1 dice in that charge roll . Then, make a bamboozling flak roll of D6. If the roll equals or exceeds the value on the dice, remove that dice from the charge roll."
+ },
+ {
+  "faction": "Kharadron Overlords",
+  "faction_slug": "kharadron-overlords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Artefacts of Power > Ingenious Innovations",
+  "text": "HERO only BATTLE PROFILE Name Points SPELL IN A BOTTLE 0 KARST-BANA AETHER-POWERED COMBAT RIG 0 EMBERSTONE FLARE 0 Once Per Battle, Your Hero Phase SPELL IN A BOTTLE : The bearer pops the rune-stamped cork of this bottle and unleashes an arcane manifestation previously sealed up for safekeeping. Effect: This unit can use a SUMMON ability from the manifestation lore you picked during army composition as if it had WIZARD ( 1 ) . Instead of making a casting roll for that SUMMON ability, the casting roll is 7 and cannot be modified. That SUMMON ability cannot be unbound . Passive KARST-BANA AETHER-POWERED COMBAT RIG : This pioneer is a firm believer that wealth is be wrested from the Mortal Realms at gunpoint or at the business end of an aether-powered hammer. This has led to a custom-built combat harness, commissioned to provide overwhelming strength and protection in equal measure. Effect: This unit has WARD ( 5+ ) . In addition, add 1 to the Attacks characteristic of this unit’s melee weapons. Once Per Battle, Your Movement Phase EMBERSTONE FLARE : The bearer shoots a flare into the sky, signalling a skyvessel or a group of endrin-borne Kharadron to rapidly relocate. Declare: Pick a friendly KHARADRON OVERLORDS unit that has FLY and is not in combat to be the target. Effect: Remove the target from the battlefield and set it up again wholly within 9\" of this unit and more than 9\" from all enemy units."
+ },
+ {
+  "faction": "Kharadron Overlords",
+  "faction_slug": "kharadron-overlords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Artefacts of Power > Ingenious Innovations",
+  "text": "You can pick an artefact from this table instead of from other Artefacts of Power tables available to this faction. HERO only. BATTLE PROFILE Name Points PERSISTENT DRILLBILL 0 EXPERIMENTAL AETHER-POWERED EJECTOR RIG 0 HEAT-SEEKING AUTO‑ENDRIN 0 Your Hero Phase PERSISTENT DRILLBILL : This avian cogfamiliar is relentless; once it has a foe in its sights, it will harry and peck them to the exclusion of all else. Declare: Pick a visible enemy unit within 12\" of this unit to be the target. Effect: Roll a D3. On a 2+: Inflict an amount of mortal damage on the target equal to the roll. If the target unit’s starting size was 1, subtract 1 from hit rolls for the target’s attacks until the start of your next turn. Once Per Battle, Any Combat Phase EXPERIMENTAL AETHER-POWERED EJECTOR RIG : This pioneer firmly believes that combat is for other duardin. Effect: Remove this unit from the battlefield and set it up again wholly within 3\" of a friendly SKYVESSEL or Zontari Endrin Dock and more than 9\" from all enemy units. Your Movement Phase HEAT-SEEKING AUTO‑ENDRIN : Designed to home in on sources of rageinduced heat – of which there are no shortage in fiery Aqshy – this tiny auto-endrin harasses and distracts the incensed foe. Declare: Pick a visible enemy unit within 18\" of this unit to be the target. Effect: Until the start of your next turn, subtract your opponent’s fury level from the target’s control score . Designer’s Note: Use your opponent’s fury level at the point the unit’s control score is determined."
+ },
+ {
+  "faction": "Kharadron Overlords",
+  "faction_slug": "kharadron-overlords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Great Endrinworks",
+  "text": "Great Endrinworks are a special type of enhancement for SKYVESSELS . During army composition , when you add enhancements, you can pick 1 Great Endrinwork and give it to a SKYVESSEL on your army roster. BATTLE PROFILE Name Points HEGSSON SOLUTIONS ’OLD RELIABLE’ HULLPLATES 0 GRUKSSON WIDE-BORE CYLINDERS 0 COALBEARD’S COLLAPSIBLE BOMBRACK 0 TRACER-FIRE ROUNDS 0 GRANDIOSE FUSELAGE 0 NULLSTONE GALVANISATION 0 Passive HEGSSON SOLUTIONS ’OLD RELIABLE’ HULLPLATES : These hull plates are renowned for their ability to absorb damage without failing. Effect: This unit has WARD ( 5+ ) against damage inflicted by SHOOT abilities. Passive GRUKSSON WIDE-BORE CYLINDERS : This modified endrin guzzles fuel like Jakkob Bugmansson XI samples his stock, and is similarly energised for doing so. Effect: Add 2\" to this unit’s Move characteristic. Passive COALBEARD’S COLLAPSIBLE BOMBRACK : This munitions storage rig has a clever folding design that allows it to carry additional bombs. Effect: Add 1 to each dice roll when using this unit’s ‘Heavy Bomb Racks’, ‘Medium Bomb Racks’ or ‘Light Bomb Racks’ ability. Your Shooting Phase, Reaction: You declared a SHOOT ability for this unit TRACER-FIRE ROUNDS : Imported Excelsian glimmerings have been worked into the casings of these rounds, causing them to subtly correct their trajectory to their target. Effect: If all of the attacks target the same enemy unit, ignore negative modifiers to hit rolls for those attacks. Passive GRANDIOSE FUSELAGE : Whether emblazoned with gaudy runic slogans advocating guild sponsors or bearing a particularly impressive figurehead, this vessel is doubly imposing to foes. Effect: Add 5 to this unit’s Control characteristic."
+ },
+ {
+  "faction": "Kharadron Overlords",
+  "faction_slug": "kharadron-overlords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Great Endrinworks",
+  "text": "Effect: Add 5 to this unit’s Control characteristic. End of Any Turn NULLSTONE GALVANISATION : Thanks to metalwork treated with an anti-magic coating, arcane conjurations that linger in proximity to this ship are gradually undone. Effect: Inflict D6 mortal damage on each enemy MANIFESTATION within this unit’s combat range ."
+ },
+ {
+  "faction": "Kharadron Overlords",
+  "faction_slug": "kharadron-overlords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Great Endrinworks > Great Endrinwork",
+  "text": "Great Endrinworks are a special type of enhancement for SKYVESSELS . During army composition , when you add enhancements , you can pick 1 Great Endrinwork and give it to a SKYVESSELS on your army roster . BATTLE PROFILE Name Points VOIDSTONE REPULSER VENTS 0 BLAZEBEARD AND SONS EJECTOR POD 0 ZONBARCORP ’DEALBREAKER’ BATTLE RAM 0 Reaction: A friendly unit within 12\" of this unit was picked to be the target of an enemy SPELL ability VOIDSTONE REPULSER VENTS : Clouds of voidstone ground into a fine dust are released from these ports to nullify and deflect enemy spells. Effect: Roll a dice. On a 4+: Ignore the effect of that spell on that friendly unit. Inflict D3 mortal damage on the caster. This unit can use this ability more than once per phase but you can only roll once for each friendly unit per spell cast. Once Per Battle, Any Combat Phase BLAZEBEARD AND SONS EJECTOR POD : This incredible device provides a potent fail-safe for any shrewd Kharadron leader. However after use, the warranty for the device is void, making subsequent uses a risk no sane Kharadron would ever take! Declare: If this unit is in combat , pick a visible friendly KHARADRON OVERLORDS HERO wholly within 6\" of this unit to be the target. Effect: Remove the target from the battlefield, then set it up again wholly within 18\" of this unit and more than 9\" from all enemy units. Any Charge Phase ZONBARCORP ’DEALBREAKER’ BATTLE RAM : A vessel with this best-selling upgrade need not fear full-on collisions. The same cannot be said for those in its way, however. Declare: If this unit charged this phase, pick an enemy unit in combat with it to be the target. Effect: Roll a number of dice equal to the unmodified charge roll . For each 4+, inflict 1 mortal damage on the target."
+ },
+ {
+  "faction": "Kharadron Overlords",
+  "faction_slug": "kharadron-overlords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Artycle References",
+  "text": "Artycle References are unique enhancements that can be given to non- HERO KHARADRON OVERLORDS INFANTRY units. A unit can only have 1 Artycle Reference. BATTLE PROFILE Name Points ARTYCLE 15, POINT 4 10 ARTYCLE 20, AMENDMENT 2 10 ARTYCLE 25, POINT 6 10 Passive ARTYCLE 15, POINT 4 : All duardin should be well versed in multiple combat techniques that can be employed against airborne and ground‑based enemies. Effect: Add 1 to hit rolls for this unit’s combat attacks that target an enemy unit that has FLY . Add 1 to wound rolls for this unit’s combat attacks that target an enemy unit that does not have FLY . Once Per Battle, Enemy Charge Phase ARTYCLE 20, AMENDMENT 2 : Flare guns may be used in extremis to disorientate marauders and others with sinister motives. Declare: If this unit has not charged this turn, pick an enemy unit that charged this turn and is in combat with this unit to be the target. Effect: The target’s attacks cannot score critical hits for the rest of the turn (treat them as regular hits instead). Passive ARTYCLE 25, POINT 6 : Crew members must ensure the adequate defence of their superiors during perilous expeditions. Effect: Friendly KHARADRON OVERLORDS HEROES have WARD ( 5+ ) while they are within this unit’s combat range . Army of Renown"
+ },
+ {
+  "faction": "Kharadron Overlords",
+  "faction_slug": "kharadron-overlords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Grundstok Expeditionary Force",
+  "text": "When you pick the Kharadron Overlords faction for your army, you can choose for it to be a Grundstok Expeditionary Force Army of Renown . If you do so, use the faction rules on these pages instead of the Kharadron Overlords faction rules. Every unit in your army must be drawn from the units listed in the roster options box below. All units in your army gain the EXPEDITIONARY FORCE keyword. ROSTER OPTIONS Arkanaut Admiral Grundstok Thunderers Grundstok Gunhauler Endrinmaster with Dirigible Suit Aether-Khemist Codewright Aetheric Navigator Endrinmaster with Endrinharness You cannot include Regiments of Renown"
+ },
+ {
+  "faction": "Kharadron Overlords",
+  "faction_slug": "kharadron-overlords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Grundstok Expeditionary Force > Battle Traits",
+  "text": "Reaction: You declared a non- CHARGE MOVE ability for a friendly SKYVESSEL TRANSPORT SKYFARERS : The Kharadron rule the skies of the realms with fleets of fearsome airships crewed by hardened duardin. Effect: Pick a number of units up to that SKYVESSEL ’s Transport Capacity (see its warscroll) that are wholly within 6\" of it to be the targets. Units that have been transported this turn cannot be targets. Remove the targets from the battlefield. After the SKYVESSEL ends its move, you must set up each target unit on the battlefield, wholly within 6\" of that SKYVESSEL and not in combat . Those units have been transported. A unit cannot use CHARGE abilities if it was transported in the same turn. Passive GUN BUTT LOW BLOW : Grizzled veterans all, the Grundcorps are used to fighting dirty if it means getting what they want. Effect: While a friendly EXPEDITIONARY FORCE INFANTRY unit is contesting an objective that you control, its melee weapons have Crit (Mortal) . End of Any Turn NO SAFE HAVEN : The firepower of the Grundcorps pelts the ground so aggressively that no cover can protect their targets for long. Declare: Pick an enemy unit to be the target. Effect: Subtract 1 from the control score of that unit for each damage point allocated to it this turn by a shooting attack made by a friendly EXPEDITIONARY FORCE unit, to a maximum of 10 damage points. Once Per Turn (Army), Any Shooting Phase GRUDGEFIRE ROUNDS : This ammunition bursts into white-hot flames when it hits its target. Declare: Pick a friendly EXPEDITIONARY FORCE INFANTRY unit to be the target. Effect: Roll a dice. On a 3+, pick 1 of the target’s ranged weapons. Add 1 to the Attacks characteristic of that weapon for the rest of the phase."
+ },
+ {
+  "faction": "Kharadron Overlords",
+  "faction_slug": "kharadron-overlords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Grundstok Expeditionary Force > Heroic Traits",
+  "text": "HERO only Reaction: You declared the ‘ All-out Defence ’ command for a friendly unit wholly within 12\" of this HERO ENTRENCHMENT EXPERT : This hero prefers to engage their foes from heavy cover, keeping their own losses to a minimum. Effect: That friendly unit has WARD ( 5+ ) for the rest of the turn."
+ },
+ {
+  "faction": "Kharadron Overlords",
+  "faction_slug": "kharadron-overlords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Grundstok Expeditionary Force > Artefacts of Power",
+  "text": "HERO only Reaction: Opponent declared a SHOOT or FIGHT ability for a MANIFESTATION within 9\" of the bearer AETHERIC NULLIFIER : This unassuming cylindrical tool is fashioned from a potent anti-magic alloy. Effect: Roll 2D6. If the roll equals or exceeds the banishment value listed on the MANIFESTATION ’s warscroll, it is banished and removed from play. You cannot pick the same MANIFESTATION to be the target of this ability more than once per phase. Army of Renown"
+ },
+ {
+  "faction": "Kharadron Overlords",
+  "faction_slug": "kharadron-overlords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Pioneer Outpost",
+  "text": "When you pick the Kharadron Overlords faction for your army, you can choose for it to be a Pioneer Outpost Army of Renown . If you do so, use the faction rules in this section instead of the Kharadron Overlords faction rules. Every unit in your army must be drawn from the units listed in the roster options box below. All units in your army gain the PIONEER keyword. Designer’s Note: This Army of Renown has rules designed to work with the Zontari Endrin Dock , so it makes sense to include one on your army roster ! ROSTER OPTIONS Arkanaut Admiral Aetheric Navigator Endrinmaster with Endrinharness Any non- HERO KHARADRON OVERLORDS INFANTRY units Grundstok Gunhauler You cannot include Regiments of Renown"
+ },
+ {
+  "faction": "Kharadron Overlords",
+  "faction_slug": "kharadron-overlords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Pioneer Outpost > Battle Traits",
+  "text": "Once Per Turn (Army), Any Hero Phase INITIAL INVESTMENT : Kharadron doctrine emphasises the importance of good reconaissance. Effect: Each friendly AUTO-ENDRIN can move 2D6\" but cannot finish that move in combat . Once Per Turn (Army), End of Any Turn AGGRESSIVE ACQUISITIONS : In war and profit, leave no avenue for your enemies to progress. Declare: You can only use this ability if you have not used any CODE abilities this turn and if there is a friendly PIONEER unit in each large quarter of the battlefield. Each of those units must be more than 6\" from all other large quarters of the battlefield and not in combat . Effect: For the rest of the battle, enemy units cannot be set up within your territory or within 9\" of an objective that you control. KEYWORDS CODE Once Per Turn (Army), End of Any Turn SECURE INVESTMENTS : The wise profiteer ensures that their assets are well protected. Declare: You can only use this ability if you have not used any CODE abilities this turn and if any enemy units that were within 3\" of your Zontari Endrin Dock this turn were destroyed this turn. Effect: For the rest of the battle, ignore the Rend characteristic of combat attacks that target friendly NON-INFANTRY PIONEER units or friendly faction terrain features . KEYWORDS CODE Once Per Turn (Army), End of Any Turn SETTLING ACCOUNTS : The artycles of engagement encourage the settling of one’s debts through the application of heavy explosives. Declare: You can only use this ability if you have not used any CODE abilities this turn and if a friendly AUTO-ENDRIN was destroyed this turn by an enemy unit."
+ },
+ {
+  "faction": "Kharadron Overlords",
+  "faction_slug": "kharadron-overlords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Pioneer Outpost > Battle Traits",
+  "text": "can only use this ability if you have not used any CODE abilities this turn and if a friendly AUTO-ENDRIN was destroyed this turn by an enemy unit. Effect: For the rest of the battle, each time a friendly AUTO-ENDRIN is removed from the battlefield, before removing it, inflict D3 mortal damage on each enemy unit within 3\" of that AUTO-ENDRIN . KEYWORDS CODE Once Per Turn (Army), End of Any Turn MARKET DOMINANCE : Even if you have secured an unassailable monopoly, it is vital to aggressively defend your interests. Declare: You can only use this ability if you have not used any CODE abilities this turn and if you control every objective that is not wholly within enemy territory. Effect: For the rest of the battle, each time you use your Zontari Endrin Dock ’s ‘Endrinworks Outpost’ ability, you can set up a replacement AUTO-ENDRIN on a manufacturing roll of 3+ instead of 4+. KEYWORDS CODE Once Per Turn (Army), End of Any Turn HOSTILE TAKEOVER : The simplest route to profit is the elimination of one’s main rivals. Declare: You can only use this ability if you have not used any CODE abilities this turn and if an enemy HERO was destroyed by shooting attacks made by a friendly PIONEER unit this turn. Effect: For the rest of the battle, subtract 1 from hit rolls for shooting attacks that target friendly PIONEER units or friendly faction terrain features . KEYWORDS CODE"
+ },
+ {
+  "faction": "Kharadron Overlords",
+  "faction_slug": "kharadron-overlords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Pioneer Outpost > Heroic Traits",
+  "text": "HERO only Passive TERRITORIAL TRAILBLAZER : This stubborn and audacious duardin is surrounded by an almost tangible aura of defiance that makes enemies think twice about challenging them for control of resources. Effect: Subtract 3 from the control scores of enemy units while they are in combat with this unit. Once Per Battle, Reaction: You declared the ‘Endrinworks Outpost’ ability for a Zontari Endrin Dock COPPER FINGERS : Though not a qualified member of the Endrineers Guild, this officer comes from a long line of tinkerers with an aptitude for aethermatics. Effect: If this unit is wholly within 9\" of that Zontari Endrin Dock , instead of resolving the effect of the ‘Endrinworks Outpost’ ability, set up a replacement AUTO-ENDRIN on the battlefield, wholly within 6\" of that Zontari Endrin Dock and more than 3\" from all enemy units."
+ },
+ {
+  "faction": "Kharadron Overlords",
+  "faction_slug": "kharadron-overlords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Pioneer Outpost > Artefacts of Power",
+  "text": "HERO only PAssive THORGSSON’S UNIVERSAL AUTOMATON ACTUATOR : This portable cartridge radiates an energy field that gives nearby Auto-Endrins that extra bit of spark and verve. No batteries necessary. Effect: Add 6\" to the Move characteristic of friendly AUTO-ENDRINS while they are wholly within 6\" of this unit. Your Movement Phase ROCKBUSTER CHARGES : Dropped from on high, these drill-tipped bomblets bore into the ground before detonating in shredding storms of rock and shrapnel. Declare: Pick a terrain feature that this unit passed across this turn. Each enemy unit within 1\" of that terrain feature is a target. Effect: Inflict D3 mortal damage on each target."
+ },
+ {
+  "faction": "Kharadron Overlords",
+  "faction_slug": "kharadron-overlords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Duardin Ascendant",
+  "text": "When you pick the Fyreslayers, Kharadron Overlords or Cities of Sigmar faction for your army, you can choose it to be a Duardin Ascendant Army of Renown . If you do so, use the faction rules on these pages instead of the Fyreslayers, Kharadron Overlords or Cities of Sigmar faction rules. Every unit in your army must be drawn from the units listed in the organisation below. All units in your army gain the DUARDIN ASCENDANT keyword. ROSTER OPTIONS Grombrindal (must be include and must be your general } Any ORDER DUARDIN unit REGIMENT OPTIONS You cannot include Regiments of Renown You cannot include MANIFESTATIONS You cannot include faction terrain"
+ },
+ {
+  "faction": "Kharadron Overlords",
+  "faction_slug": "kharadron-overlords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Duardin Ascendant > Battle Traits",
+  "text": "Passive DUARDRAZHAL : Grombrindal's goal is no less than the reunification of all the scattered, noble duardin nations. Effect: Friendly DUARDIN ASCENDANT units are unified while they are wholly within 12\" of at least 1 FYRESLAYERS , 1 KHARADRON OVERLORDS and 1 CITIES OF SIGMAR DUARDIN unit. Once Per Turn (Army), Your Hero Phase 'AS THE ANCESTORS INTENDED!' : To stand with far-flung kin in hours of crisis bolsters every duardin preacher. Declare: Pick a friendly unified DUARDIN ASCENDANT PRIEST to be the target. Effect: Add 1 to chanting rolls for the target for the rest of the turn. Once Per Turn (Army), Your Shooting Phase 'PAH! NOW THIS IS A SHOT...' : Duardin gunners of every creed never miss an opportunity to show their superior craft before their kin. Declare: Pick a friendly unified DUARDIN ASCENDANT INFANTRY unit to be the target. Effect: Add 1 to the Attacks characteristic of the target’s ranged weapons for the rest of the turn . Once Per Turn (Army), Your Charge Phase 'AS ONE, KINFOLK!' : The children of the ancestor gods surge across the field as one mighty throng. Declare: Pick up to 3 friendly unified DUARDIN ASCENDANT INFANTRY units to be the targets. Effect: For the rest of the turn, add 1 to the number of dice rolled when making charge rolls for the targets, to a maximum of 3. Once Per Turn (Army), Any Comhat Phase 'SETTLE EVERY GRUDGE! KHAZUK!' : When fighting as one, the duardin are a red-handed force of raw vengeance. Declare: Pick a friendly unified DUARDIN ASCENDANT INFANTRY unit to be the target. Effect: Add 1 to the Attacks characteristic of the target’s melee weapons for the rest of the turn."
+ },
+ {
+  "faction": "Kharadron Overlords",
+  "faction_slug": "kharadron-overlords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Duardin Ascendant > Heroic Traits",
+  "text": "HERO only Passive TIRELESS PURPOSE : This duardin lord shares Grombrindal's vision for their people, and their fervour is infectious. Effect: Each time a friendly DUARDIN ASCENDANT INFANTRY unit wholly within 12\" of this unit uses the ' Normal Move ' ability, add 2\" to the distance that unit can move as part of that ability."
+ },
+ {
+  "faction": "Kharadron Overlords",
+  "faction_slug": "kharadron-overlords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Duardin Ascendant > Artefacts of Power",
+  "text": "HERO only Once Per Battle, Your Hero Phase VALAYAN HEARTH-BANNER : Wrought in the image of she who guards hold and hearth, this runic standard is a salve to even severe wounds - for those who believe. Declare: Pick each friendly unified DUARDIN ASCENDANT unit on the battlefield to be the targets. Effect: Heal (D3) each target."
+ },
+ {
+  "faction": "Kharadron Overlords",
+  "faction_slug": "kharadron-overlords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Duardin Ascendant > Prayer Lore",
+  "text": "Your Hero Phase 4 SPIRIT OF THE WHITE DWARF : When Grombrindal takes the field, even the most sceptical Kharadron cannot help but feel a flicker of divine awe. Declare: Pick a friendly DUARDIN ASCENDANT PRIEST to chant this prayer, pick a visible friendly DUARDIN ASCENDANT unit within 18\" of them to be the target, then make a chanting roll of D6. Effect: The target is unified until the start of your next turn. If the chanting roll was 8+, you can pick 2 targets instead of 1. KEYWORDS PRAYER, UNLIMITED Your Hero Phase 4 OATH OF RESTORATION : All that which once belonged to the duardin will be theirs anew - so swear those who hold faith in Grombrindal. Declare: Pick a friendly DUARDIN ASCENDANT PRIEST to chant this prayer, pick a visible objective within 18\" of them that is contest ed by 2 or more friendly unified units to be the target, then make a chanting roll of D6. Effect: Until the start of your next turn, friendly DUARDIN ASCENDANT units have WARD ( 6+ ) while they have any models contesting the target. If the chanting roll was 7+, friendly DUARDIN ASCENDANT units have WARD ( 5+ ) while they have any models contesting the target instead. KEYWORDS PRAYER Army of Renown"
+ },
+ {
+  "faction": "Kharadron Overlords",
+  "faction_slug": "kharadron-overlords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Magnate’s Crew",
+  "text": "When you pick the Kharadron Overlords faction for your army, you can choose for it to be a The Magnate’s Crew Army of Renown . If you do so, use the faction rules in this section instead of the Kharadron Overlords faction rules. Every unit in your army must be drawn from the units listed in the roster options box below. All units in your army gain the MAGNATE’S CREW keyword. If your army does not include Brokk Grungsson , you can pick an Arkanaut Ironclad in your army to be your general instead of a HERO . If you do, that Arkanaut Ironclad gains the HERO keyword. It cannot be included in another HERO ’s regiment but gains the following Regiment Options: Any MAGNATE’S CREW units ROSTER OPTIONS Brokk Grungsson, Lord-Magnate of Barak-Nar Endrinmaster with Dirigible Suit Null-Khemist Arkanaut Ironclad Arkanaut Frigate Grundstok Gunhauler Vongrim Salvagers Vongrim Harpoon Crew Skywardens Endrinriggers You cannot include Regiments of Renown or faction terrain"
+ },
+ {
+  "faction": "Kharadron Overlords",
+  "faction_slug": "kharadron-overlords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Magnate’s Crew > Battle Traits",
+  "text": "Passive LOYALTY TO THE MAGNATE : Some call it loyalty; Brokk calls it ‘contractual motivation’. Effect: While a friendly Brokk Grungsson is wholly within the combat range of another friendly MAGNATE’S CREW INFANTRY unit, both those units have WARD ( 5+ ) . Once Per Battle (Army), Deployment Phase PAY YOUR DEBTS : Grungsson never forgets an insult and always settles the score with those who have done him wrong. Declare: Pick an enemy unit on the battlefield or in reserve to be indebted . Effect: Add 1 to wound rolls for combat attacks made by friendly MAGNATE’S CREW units that target the indebted unit. Once Per Battle (Army), Your Movement Phase BOLD MOVES : Massive profits alone have not taken Brokk Grungsson to the apex of Kharadron society. His uncanny ability to take his foes off-guard has proven just as valuable. Declare: Pick any number of friendly MAGNATE’S CREW INFANTRY units that are in combat to be the targets. Make an emergency launch roll of 3D6 for each target. Effect: Each target can move a distance up to the value of its emergency launch roll . It can move through the combat ranges of any enemy units but cannot end that move in combat with an enemy unit that it was not in combat with at the start of the phase. The target(s) cannot use CHARGE abilities for the rest of the turn. KEYWORDS CORE, MOVE Once Per Turn (Army), Your Movement Phase CUTTING-EDGE ENDRINPACKS : The Lord-Magnate outfits his soldiers with the latest and most agile endrinharnesses. Declare: Pick up to 2 friendly MAGNATE’S CREW INFANTRY units that are wholly within 9\" of a friendly MAGNATE’S CREW SKYVESSEL to be the targets. Effect: For the rest of the turn, each target can use CHARGE abilities even if it used a RUN ability in the same turn."
+ },
+ {
+  "faction": "Kharadron Overlords",
+  "faction_slug": "kharadron-overlords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Magnate’s Crew > Battle Traits",
+  "text": "Effect: For the rest of the turn, each target can use CHARGE abilities even if it used a RUN ability in the same turn. Once Per Battle (Army), Enemy Hero Phase INVICTUNITE-LINED HULL : Only the Lord-Magnate could afford to line his ships’ hulls with the incredibly strong meteoric metal invictunite. Declare: Pick a friendly MAGNATE’S CREW SKYVESSEL to be the target. Effect: Roll a D3. For the rest of the turn, subtract X from the Rend characteristic of weapons used for attacks that target that SKYVESSEL , where X is equal to the roll. Once Per Turn (Army), Your Shooting Phase CONSTANT BARRAGE : Brokk’s expert gunners are so precise that they can bombard the enemy even as they move to engage nearby Kharadron infantry. Declare: Pick an enemy unit that had any damage points allocated to it this phase by a friendly MAGNATE’S CREW unit’s attacks to be the target. Effect: Until the start of your next turn, each time the target ends a move within 10\" of any friendly MAGNATE’S CREW units, roll a D3. On a 2+, inflict an amount of mortal damage on the target equal to the roll."
+ },
+ {
+  "faction": "Kharadron Overlords",
+  "faction_slug": "kharadron-overlords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Magnate’s Crew > Heroic Traits",
+  "text": "HERO only Passive MASTER OF DISCIPLINE : This duardin is popular amongst their crews but also knows when to crack the whip and remind them who pays their wages. Effect: Each time a friendly MAGNATE’S CREW INFANTRY unit wholly within 12\" of this unit uses the ‘ Redeploy ’ command, you can re-roll the dice. Passive FLANKING FIRE : A master of tactics, this officer is an expert at orchestrating deadly crossfires, often boldly using themselves as the bait. Effect: Add 1 to hit rolls for shooting attacks made by friendly MAGNATE’S CREW SKYVESSELS that target an enemy unit in combat with this unit."
+ },
+ {
+  "faction": "Kharadron Overlords",
+  "faction_slug": "kharadron-overlords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Magnate’s Crew > Artefacts of Power",
+  "text": "HERO only Passive AERODYNAMISM : Borne by state-of-the-art endrins, the speed and agility with which this duardin navigates the battlefield makes them a very difficult target. Effect: If this unit moved this turn, subtract 1 from hit rolls for attacks that target this unit for the rest of the turn. End of Your Turn GUNS FOR ALL OCCASIONS : This canny duardin always has a backup plan in the form of a cleverly stowed aetherblaster. Declare: Pick an enemy unit in combat with this unit to be the target. Effect: Inflict D3 mortal damage on the target."
+ },
+ {
+  "faction": "Kharadron Overlords",
+  "faction_slug": "kharadron-overlords",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Grundstok Trailblazers",
+  "text": "The first duty of the Grundcorps is to protect the sky-fleets of the great Kharadron empire, and most do so from the deck of a mighty capital ship, fighting on behalf of an Admiral or Captain who has the aether-shares to afford them. Yet their duties go far beyond simple deck defence. Utilising their nimble Gunhaulers, heavily armed bands of Grundstok Trailblazers make for excellent vanguard troops, capable of locating assets and holding them for as long as it takes for the main fleet to arrive. Typically such work is performed on behalf of members of the Endrineers Guild. The work of such luminaries must occasionally take them far from the relative safety of an Ironclad or Frigate. Though the cost of a Grundcorps contract might be eye-watering, it is always worth it: the heavy weapons and blistering firepower of a group of Grundstok Marines is enough to make any foe think twice before attacking, and Gunhaulers, though lightweight in comparison to other Kharadron vessels, are still outfitted with enough heavy munitions to annihilate an enemy warband in a single salvo. This Spearhead army consists of the following units: General Endrinmaster with Dirigible Suit Units 5 Grundstok Thunderers 1 Grundstok Gunhauler 3 Endrinriggers",
+  "spearhead_name": "Grundstok Trailblazers"
+ },
+ {
+  "faction": "Kharadron Overlords",
+  "faction_slug": "kharadron-overlords",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Grundstok Trailblazers > Battle Traits",
+  "text": "Passive GUNHAULER ESCORT : The threatening presence of a Grundstok Gunhauler overhead makes it difficult for enemies to focus their attacks on the Trailblazers’ ground forces. Effect: Subtract 1 from hit rolls for attacks that target friendly KHARADRON OVERLORDS INFANTRY units while they are wholly within 6\" of a friendly Grundstok Gunhauler .",
+  "spearhead_name": "Grundstok Trailblazers"
+ },
+ {
+  "faction": "Kharadron Overlords",
+  "faction_slug": "kharadron-overlords",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Grundstok Trailblazers > Regiment Abilities",
+  "text": "Pick 1 of the following regiment abilities. Once Per Battle (Army), Your Movement Phase RAPID RELOCATION : The Gunhauler’s pilot assumes a high trajectory before looping around and rejoining the battle from a different direction. Declare: Pick a friendly unit with FLY to be the target. Effect: Remove the target from the battlefield and set it up again anywhere on the battlefield more than 6\" from all enemy units. The target cannot use CHARGE abilities this turn. Passive PROPELLER DOWNDRAUGHT : The buffeting air currents kicked up by the Gunhauler as it flies low mean that nearby foes seeking to engage the Kharadron find themselves charging into a headwind. Effect: Subtract 1 from charge rolls for enemy units while they are within 9\" of a friendly Grundstok Gunhauler .",
+  "spearhead_name": "Grundstok Trailblazers"
+ },
+ {
+  "faction": "Kharadron Overlords",
+  "faction_slug": "kharadron-overlords",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Grundstok Trailblazers > Enhancements",
+  "text": "Give your general 1 of the following enhancements. Once Per Battle (Army), Any Combat Phase EMERGENCY FUEL INJECTION PODS : By flicking a rune-embossed switch concealed in their suit, this Endrinmaster can give their equipment a boost just when they need it. Effect: Your general has STRIKE-FIRST for the rest of the turn. Any Combat Phase CELESTIUM-BURST BOMBLETS : Long-standing trade agreements with Azyrheim have allowed the production of these munitions, which have a disruptive effect on supernatural defences. Declare: Pick an enemy unit in combat with your general to be the target. Effect: Roll a dice. On a 3+, ward rolls cannot be made for the target for the rest of the turn. Passive PROSPECTOR AND PIONEER : Whether they are a cranky taskmaster or a charismatic maverick, this general is a force of nature when it comes to staking new claims for their sky-port. Effect: Add 2 to your general’s control score . Passive EXTRACTION FAIL-SAFES : This Endrinmaster has fitted their Dirigible Suit with non-essential components that can be jettisoned to distract a pursuing foe. Effect: Subtract 1 from the number of damage points inflicted on this unit when it uses a RETREAT ability.",
+  "spearhead_name": "Grundstok Trailblazers"
+ },
+ {
+  "faction": "Kharadron Overlords",
+  "faction_slug": "kharadron-overlords",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Grundstok Trailblazers > Warscrolls",
+  "text": "• SPEARHEAD WARSCROLL • Endrinmaster with Dirigible Suit 12\" 8 3+ 2 Many Endrinmasters take to the skies in master-crafted dirigible suits, their aetherturbines allowing them to zoom through the air towards skyvessels in need of repair even as an in-built weapon array blasts their enemies into pieces. • SPEARHEAD WARSCROLL • Endrinmaster with Dirigible Suit RANGED WEAPONS Rng Atk Hit Wnd Rnd Dmg Aethercannon Aethercannon 18\" 1 3+ 3+ 2 3 Dirigible Suit Weapon Battery Dirigible Suit Weapon Battery 12\" 6 3+ 3+ 1 1 MELEE WEAPONS Atk Hit Wnd Rnd Dmg Upgraded Aethermatic Saw Upgraded Aethermatic Saw 4 3+ 3+ 2 2 Your Hero Phase ENDRINMASTER EXTRAORDINAIRE : This Endrinmaster’s rig bristles with tools and gizmos that allow them to perform battlefield repairs with great haste. Declare: Pick a friendly unit with the FLY keyword that is wholly within 12\" of this unit to be the target. Effect: Roll a D3. On a 2+, Heal (X) the target where X is equal to the roll. KEYWORDS HERO , INFANTRY , FLY • SPEARHEAD WARSCROLL • Grundstok Gunhauler 14\" 10 2+ 2 Small, manoeuvrable and deadly, the Grundstok Gunhauler is an escort-class ship tasked with ensuring the safety of the airfleets’ larger skyvessels. They perform this role well, swarming in defence before peeling off to launch blistering attack runs. • SPEARHEAD WARSCROLL • Grundstok Gunhauler RANGED WEAPONS Rng Atk Hit Wnd Rnd Dmg Sky Ordnance Sky Ordnance 15\" 3 4+ 3+ 2 3 MELEE WEAPONS Atk Hit Wnd Rnd Dmg Boarding Weapons Boarding Weapons 4 4+ 4+ - 1 Any Combat Phase GUNHAULER OVERWATCH : At the last moment, the Gunhauler’s crew loose a hasty fusillade at a charging group of foes. Declare: Pick an enemy unit that charged this turn and is in combat with this unit to be the target. Effect: Roll a D3.",
+  "spearhead_name": "Grundstok Trailblazers"
+ },
+ {
+  "faction": "Kharadron Overlords",
+  "faction_slug": "kharadron-overlords",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Grundstok Trailblazers > Warscrolls",
+  "text": "Declare: Pick an enemy unit that charged this turn and is in combat with this unit to be the target. Effect: Roll a D3. On a 2+, inflict an amount of mortal damage on the target equal to the roll. KEYWORDS WAR MACHINE , FLY • SPEARHEAD WARSCROLL • Grundstok Thunderers 4\" 2 3+ 1 Grundstok Thunderers are heavily armoured marines employed by the airfleets to defend it from hostiles. Expert marksmen and battle-hardened veterans of many voyages, they obliterate their foes in a storm of aethershot and mortar rounds. • SPEARHEAD WARSCROLL • Grundstok Thunderers RANGED WEAPONS Rng Atk Hit Wnd Rnd Dmg Aethershot Rifle Aethershot Rifle 18\" 2 3+ 4+ 1 1 Aetheric Fumigator or Decksweeper [ Shoot in Combat ] Aetheric Fumigator or Decksweeper Shoot in Combat 10\" 5 3+ 4+ - 1 Grundstok Mortar or Aethercannon Grundstok Mortar or Aethercannon 18\" 2 4+ 3+ 1 2 MELEE WEAPONS Atk Hit Wnd Rnd Dmg Gun Butt Gun Butt 1 4+ 5+ - 1 1 model is armed with an Aethershot Rifle. 1 model is armed with an Aetheric Fumigator. 1 model is armed with a Decksweeper. 1 model is armed with a Grundstok Mortar. 1 model is armed with an Aethercannon. Every model is also armed with a Gun Butt. Once Per Battle (Army), Any Shooting Phase BEWILDERBLAST ROUNDS : These specialist rounds emit a riot of light and sound, severely disrupting the targets’ cohesion. Declare: Pick an enemy unit that had any damage points allocated to it this phase by this unit’s shooting attacks to be the target. Effect: Subtract D6 from the target’s control score for the rest of the turn. KEYWORDS INFANTRY , REINFORCEMENTS • SPEARHEAD WARSCROLL • Endrinriggers 12\" 2 3+ 1 With aether-endrins strapped to their backs, Endrinriggers conduct repairs on their beloved airships miles above ground.",
+  "spearhead_name": "Grundstok Trailblazers"
+ },
+ {
+  "faction": "Kharadron Overlords",
+  "faction_slug": "kharadron-overlords",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Grundstok Trailblazers > Warscrolls",
+  "text": "• Endrinriggers 12\" 2 3+ 1 With aether-endrins strapped to their backs, Endrinriggers conduct repairs on their beloved airships miles above ground. In battle, their aether-powered tools become lethal weapons capable of punching through armour or messily sawing off limbs. • SPEARHEAD WARSCROLL • Endrinriggers RANGED WEAPONS Rng Atk Hit Wnd Rnd Dmg Rapid-fire Rivet Gun [ Shoot in Combat ] Rapid-fire Rivet Gun Shoot in Combat 10\" 3 3+ 4+ 1 1 Aethermatic Volley Gun [ Crit (2 Hits) ] Aethermatic Volley Gun Crit (2 Hits) 15\" 2D6 4+ 4+ - 1 Skyrigger Heavy Weapon [ Anti- MONSTER (+1 Rend) ] Skyrigger Heavy Weapon Anti- MONSTER (+1 Rend) 15\" 1 4+ 3+ 1 D3 MELEE WEAPONS Atk Hit Wnd Rnd Dmg Aethermatic Saw [ Anti-charge (+1 Rend) ] Aethermatic Saw Anti-charge (+1 Rend) 3 4+ 3+ 1 2 Gun Butt Gun Butt 1 4+ 5+ - 1 1 model is armed with a Rapid Fire Rivet Gun and Aethermatic Saw. 1 model is armed with an Aethermatic Volley Gun and Gun Butt. 1 model is armed with a Skyrigger Heavy Weapon (Grapnel Launcher, Skyhook or Drill Launcher) and Gun Butt. Enemy Movement Phase CLOUDWEAVING SKYFARERS : It is not only the Kharadron’s vessels that prowl the skies: one-duardin endrinsphere harnesses grant their wearers the power of flight, making them manoeuvrable troops indeed. Effect: Roll a dice. On a 3+, this unit can use the ‘ Normal Move ’ ability as if it were your movement phase. KEYWORDS INFANTRY , FLY , REINFORCEMENTS",
+  "spearhead_name": "Grundstok Trailblazers"
+ },
+ {
+  "faction": "Kharadron Overlords",
+  "faction_slug": "kharadron-overlords",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Skyhammer Task Force",
+  "text": "The Kharadron naval doctrine emphasises the swift and decisive application of intense firepower in order to seize profitable territory. On occasions where it is infeasible to deploy the full might of their sky-fleet in order to achieve this purpose, a Kharadron Admiral will often take charge of a single Arkanaut Frigate and a carefully selected retinue of trusted aeronauts, forming a heavy-hitting ad-hoc formation known as a Skyhammer Task Force. The success of a Skyhammer Task Force relies first and foremost on the wondrous war machine that is the Arkanaut Frigate. As the vessel descends from the skies, it unleashes a hail of armour-shredding firepower, clearing a landing zone for the Arkanauts rappelling down from its gunwales. The Admiral commands this ground party personally, bellowing orders and blasting at the foe with their volley pistol, while airborne, endrin-clad Skywardens sweep the skies clear of threats. Once a foothold has been secured, the Frigate will swoop back in, slowing long enough for Arkanauts to tether themselves to its hull, hitching a ride on the vessel in order to outflank and plunder the next enemy position. This Spearhead army consists of the following units: General Arkanaut Admiral Units 5 Arkanaut Company (incl. Skypike) 5 Arkanaut Company (incl. Light Skyhook and Aethermatic Volley Gun) 3 Skywardens 1 Arkanaut Frigate",
+  "spearhead_name": "Skyhammer Task Force"
+ },
+ {
+  "faction": "Kharadron Overlords",
+  "faction_slug": "kharadron-overlords",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Skyhammer Task Force > Battle Traits",
+  "text": "Reaction: You declared a non- CHARGE MOVE ability for an Arkanaut Frigate PLY THE SKIES : The Kharadron rule the skies of the realms with fleets of fearsome airships crewed by hardened duardin. Used By: The Arkanaut Frigate that is using that MOVE ability. Effect: Pick a friendly INFANTRY unit that is wholly within the combat range of that Arkanaut Frigate and not in combat to be transported . Remove that INFANTRY unit from the battlefield. Then, when the Arkanaut Frigate ends its move, set up the INFANTRY unit on the battlefield again, wholly within the combat range of the Arkanaut Frigate and not in combat. A unit cannot use CHARGE abilities if it was transported in the same turn.",
+  "spearhead_name": "Skyhammer Task Force"
+ },
+ {
+  "faction": "Kharadron Overlords",
+  "faction_slug": "kharadron-overlords",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Skyhammer Task Force > Regiment Abilities",
+  "text": "Pick 1 of the following regiment abilities. Once Per Battle, Your Movement Phase ASSAULT BOAT : The speed and manoeuvrability of the Arkanaut Frigate allows it to deliver Arkanaut Companies directly into the fray. Declare: Pick a friendly unit that was transported this turn to use this ability. Effect: That unit can still use CHARGE abilities later in the turn. Once Per Battle, Your Movement Phase DISENGAGE : At an officer’s command, the vessel disengages with all guns blazing. Declare: Pick a friendly Arkanaut Frigate to use this ability. Effect: If that unit uses a RETREAT ability this phase, no mortal damage is inflicted on it and it can still use SHOOT abilities later in the turn.",
+  "spearhead_name": "Skyhammer Task Force"
+ },
+ {
+  "faction": "Kharadron Overlords",
+  "faction_slug": "kharadron-overlords",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Skyhammer Task Force > Enhancements",
+  "text": "Give your general 1 of the following enhancements. Passive MASTERWROUGHT ARMOUR : This Admiral’s finely crafted suit of armour is the acme of the armourer’s art. Effect: Your general has WARD ( 6+ ) . Once Per Battle, Reaction: You declared a CHARGE ability for a unit wholly within 12\" of your general THERE'S NO REWARD WITHOUT RISK : Under the command of their Admiral, the crew close in on their prize without a moment’s hesitation. Effect: You can re-roll the charge roll for that CHARGE ability. Once Per Battle, Any Hero Phase FLASK OF VINTAGE GOROGNA : This rare duardin drink is said to be good for whatever ails you. Effect: Heal (D6) your general. Once Per Battle, Your Hero Phase LEAVE NO DUARDIN BEHIND : With a rousing speech, the Admiral rallies his crew and steels their resolve. Declare: Pick a friendly Arkanaut Company unit wholly within 12\" of your general and roll a dice for each slain model from that unit. Effect: For each 4+, you can return 1 slain model to that unit.",
+  "spearhead_name": "Skyhammer Task Force"
+ },
+ {
+  "faction": "Kharadron Overlords",
+  "faction_slug": "kharadron-overlords",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Skyhammer Task Force > Warscrolls",
+  "text": "• SPEARHEAD WARSCROLL • Arkanaut Admiral 4\" 6 3+ 2 Arkanaut Admirals are the cream of the sky-ports’ officer class, intrepid leaders and battle-hardened veterans of a thousand aerial engagements whose booming commands inspire their crew to mighty deeds in the search for profit. Armed with an ornately crafted volley pistol and a massive, aether-powered skalfhammer, they lead by example, crushing skulls and blasting smoking craters in any foes that stand between them and their next big score. • SPEARHEAD WARSCROLL • Arkanaut Admiral RANGED WEAPONS Rng Atk Hit Wnd Rnd Dmg Masterwork Volley Pistol [ Shoot in Combat ] Masterwork Volley Pistol Shoot in Combat 10\" 3 3+ 3+ 1 2 MELEE WEAPONS Atk Hit Wnd Rnd Dmg Skalfhammer Skalfhammer 3 3+ 2+ 1 3 Your Hero Phase ALWAYS TAKE WHAT YOU ARE OWED : Following the decrees of the Code, the Admiral directs their fleet in the pursuit of profit and glory. Declare: Pick a friendly Arkanaut Company unit wholly within 12\" of this unit to be the target. Effect: Add D6 to the target’s control score until the start of your next turn. KEYWORDS HERO , INFANTRY • SPEARHEAD WARSCROLL • Skywardens 12\" 2 4+ 1 Skywardens are elite formations of Arkanaut warriors whose duty is to safeguard their skyfleet’s vessels against attack. Granted the power of flight by portable aether-endrins, they soar alongside their metal wards, scanning the clouds and the ground below for potential threats. Should battle be joined, Skywardens will swoop from on high to skewer enemies upon long-hafted skypikes or hover at short range to incinerate them with vulcaniser pistols. Whenever the enemy gather close, they withdraw to fight anew, leaving behind floating mines that detonate to cover their escape.",
+  "spearhead_name": "Skyhammer Task Force"
+ },
+ {
+  "faction": "Kharadron Overlords",
+  "faction_slug": "kharadron-overlords",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Skyhammer Task Force > Warscrolls",
+  "text": "Whenever the enemy gather close, they withdraw to fight anew, leaving behind floating mines that detonate to cover their escape. • SPEARHEAD WARSCROLL • Skywardens RANGED WEAPONS Rng Atk Hit Wnd Rnd Dmg Vulcaniser Pistol [ Shoot in Combat ] Vulcaniser Pistol Shoot in Combat 10\" 3 3+ 3+ 1 1 Aethermatic Volley Gun Aethermatic Volley Gun 15\" 2D6 4+ 4+ - 1 MELEE WEAPONS Atk Hit Wnd Rnd Dmg Skypike [ Crit (Mortal) ] Skypike Crit (Mortal) 2 3+ 3+ 1 2 Gun Butt Gun Butt 1 4+ 5+ - 1 This unit has 2 Skywardens armed with a Vulcaniser Pistol and Skypike, and 1 Skywarden armed with an Aethermatic Volley Gun and Gun Butt. End of Any Turn TIMED CHARGES : Skywardens are practised at striking hard and then retreating quickly amidst timed explosions to cause massive damage. Declare: Pick an enemy unit in combat with this unit to be the target, then roll a dice. Effect: On a 2+, inflict 1 mortal damage on the target, and this unit can immediately use the ‘ Retreat ’ ability without any mortal damage being inflicted on it. KEYWORDS INFANTRY , FLY , REINFORCEMENTS • SPEARHEAD WARSCROLL • Arkanaut Frigate 12\" 15 3+ 5 The unmistakable profile of an Arkanaut Frigate set against the sky is a sight greatly feared by the Kharadron’s enemies, who know all too well the devastating firepower these airships possess and the fighting spirit of the skysailors they carry into battle. As much transport vessels as weapon platforms, Frigates launch blistering attack runs upon enemy formations with harpoon-like skyhooks and expertly deployed munitions from their bomb racks, before swooping in low to disgorge companies of hard-bitten Arkanauts into their midst.",
+  "spearhead_name": "Skyhammer Task Force"
+ },
+ {
+  "faction": "Kharadron Overlords",
+  "faction_slug": "kharadron-overlords",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Skyhammer Task Force > Warscrolls",
+  "text": "and expertly deployed munitions from their bomb racks, before swooping in low to disgorge companies of hard-bitten Arkanauts into their midst. • SPEARHEAD WARSCROLL • Arkanaut Frigate RANGED WEAPONS Rng Atk Hit Wnd Rnd Dmg Heavy Skyhook Heavy Skyhook 24\" 2 4+ 3+ 2 D6 Aethershot Carbines [ Shoot in Combat ] Aethershot Carbines Shoot in Combat 12\" 4 3+ 3+ 1 2 MELEE WEAPONS Atk Hit Wnd Rnd Dmg Crew’s Boarding Weapons Crew’s Boarding Weapons 8 4+ 4+ - 1 Passive BATTLE DAMAGED Effect: While this unit has 10 or more damage points, the Attacks characteristic of its Heavy Skyhook is 1. Once Per Battle, Your Movement Phase BOMB RACKS : This skyvessel carries a variety of bombs that can be dropped onto the battlefield below to obliterate ground targets. Declare: Pick an enemy unit that this unit passed across this phase to be the target. Effect: Inflict D3+1 mortal damage on the target. KEYWORDS WAR MACHINE , FLY • SPEARHEAD WARSCROLL • Arkanaut Company 4\" 1 4+ 1 The backbone of the Kharadron airfleets are the Arkanaut Companies. These grizzled privateers crew the sky-ports’ vessels and are armed with a variety of aether-powered firearms and deck tools with which to repel boarders or take the fight to the enemy. Eager to earn an officer’s commission, Arkanauts compete to outdo each other with acts of reckless bravado, risking everything to secure glory – and thus earn a better share of the profits.",
+  "spearhead_name": "Skyhammer Task Force"
+ },
+ {
+  "faction": "Kharadron Overlords",
+  "faction_slug": "kharadron-overlords",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Skyhammer Task Force > Warscrolls",
+  "text": "compete to outdo each other with acts of reckless bravado, risking everything to secure glory – and thus earn a better share of the profits. • SPEARHEAD WARSCROLL • Arkanaut Company RANGED WEAPONS Rng Atk Hit Wnd Rnd Dmg Privateer Pistol [ Shoot in Combat ] Privateer Pistol Shoot in Combat 10\" 2 4+ 4+ - 1 Aethermatic Volley Gun Aethermatic Volley Gun 15\" 2D6 4+ 4+ - 1 Light Skyhook Light Skyhook 15\" 1 4+ 3+ 2 D3 MELEE WEAPONS Atk Hit Wnd Rnd Dmg Arkanaut Cutter Arkanaut Cutter 2 4+ 4+ - 1 Gun Butt Gun Butt 1 4+ 5+ - 1 Skypike [ Crit (Mortal) ] Skypike Crit (Mortal) 2 3+ 3+ 1 2 One unit has 4 Arkanauts armed with a Privateer Pistol and Arkanaut Cutter, and 1 Arkanaut armed with a Skypike. The other unit has 3 Arkanauts armed with a Privateer Pistol and Arkanaut Cutter, 1 Arkanaut armed with an Aethermatic Volley Gun and Gun Butt, and 1 Arkanaut armed with a Light Skyhook and Gun Butt. Passive GLORY-SEEKERS : All of the warriors that make up an Arkanaut Company are eager to win recognition for daring deeds. Effect: Add 1 to hit rolls for attacks made by this unit that target a unit contesting an objective . KEYWORDS INFANTRY , REINFORCEMENTS noindex /noindex noindex",
+  "spearhead_name": "Skyhammer Task Force"
+ }
+]

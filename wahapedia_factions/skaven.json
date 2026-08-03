@@ -1,0 +1,522 @@
+[
+ {
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "",
+  "text": "/noindex The skaven are a race of mutant ratmen. They are true beings of Chaos, their every thought turned towards selfish advancement and conquest. Their technologies and magics are powered by the foul substance known as warpstone. Anarchic, prolific and deranged, the skaven are a threat to every living being in the Mortal Realms. This page contains all of the rules you need to field your Skaven miniatures on the battlefields of the Mortal Realms, from a host of exciting faction rules to a range of warscrolls. The rules are split into the following sections:"
+ },
+ {
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Designers’ Commentary > Battletome: Skaven",
+  "text": "Q: If I pick a friendly Stormfiends unit as the target of the ‘ Filth-crust ’ prayer with a chanting roll of 8+, how would the Crit (Mortal) weapon ability interact with the ‘Shock Gauntlets’ ability? A: The Crit (Mortal) weapon ability would inflict mortal damage on the target unit equal to the Damage characteristic and the attack sequence would end, so ‘Shock Gauntlets’ would have no further effect. Q: If an enemy unit is affected by the ‘Gaze of the Gnaw’ ability and must attack Vizzik Skour , can the models in that unit that are not within Vizzik Skour’s combat range after piling in attack? A: No. Q: If a Warp-Grinder picks another Warp-Grinder unit to be set up in the tunnels below using the ‘Tunnel Skulkers’ ability, can both of those units use the ‘Warp-Ambush’ ability to attempt to set up the units on the battlefield? A: Yes. Q: When using the Grey Seer ’s ‘Warpstone Shards’ ability, if the 3D6 casting roll includes 2 or more rolls of 1 (before removing one of the dice), is that spell miscast? A: Yes. Q: If I successfully cast ‘Gnaw Through Reality’ on a Scourge of Ghyran Grey Seer on Screaming Bell , could I then use ‘Tunnels Through Reality’ to remove that unit and set it up wholly within 6\" of another friendly Gnawhole ? A: No. ‘Gnaw Through Reality’ does not allow the Grey Seer on Screaming Bell to use abilities from the Gnawhole warscroll, only to be treated as a Gnawhole when using those abilities. Q: If a flying unit passes across a Gnawhole , does it ignore the effect of the ‘Volatile Ground’ ability since the ‘Fly’ ability means that units ignore terrain features while moving? A: No. The unit still counts as having passed across the Gnawhole, so the effect applies."
+ },
+ {
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Designers’ Commentary > Battletome: Skaven",
+  "text": "The unit still counts as having passed across the Gnawhole, so the effect applies. Q: Can a Mutated Menagerie Hell Pit Abomination that is picked as the target of the ‘ Rampaging Demise ’ ability avoid being destroyed if I roll a 5 or 6 on the ‘Too Horrible To Die’ ability? A: Yes."
+ },
+ {
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Traits",
+  "text": "Skaven armies can use the following abilities: Deployment Phase THE LURKING VERMINTIDE : What scurries beneath the surface? Declare: Pick a friendly SKAVEN unit that has not been deployed. Effect: Set up that unit in reserve in the tunnels below . It has now been deployed. KEYWORDS DEPLOY Once Per Turn (Army), Enemy Hero Phase ALWAYS THREE CLAWSTEPS AHEAD : The best laid plans of the Skaven never go awry (or so they claim). Declare: Pick a friendly non- MONSTER SKAVEN unit that is not in combat and was not set up this turn to use this ability. Effect: That unit can use the ’ Normal Move ’ ability as if it were your movement phase. Passive TOO QUICK TO HIT-HIT : These skittish ratmen dart and run in all directions, avoiding retribution as they flee from combat. Effect: No mortal damage is inflicted on friendly SKAVEN INFANTRY and CAVALRY units by RETREAT abilities. Once Per Battle Round (Army), Start of Battle Round SPLINTERS OF THE VERMINDOOM : In the aftermath of the Vermindoom, reality continues to fracture and tear as gnawholes bore into reality, spewing forth endless tides of ratmen. Declare: You can use this ability if there are fewer than 3 friendly Gnawholes on the battlefield. Effect: Set up a Gnawhole on the battlefield more than 9\" from all enemy units, more than 3\" from all objectives and more than 1\" from all other terrain features . Your Movement Phase GNAWHOLE AMBUSH : Emerging from a green, glowing rift, the Skaventide pours onto the battlefield. Declare: Pick a friendly SKAVEN unit that is in the tunnels below to use this ability. Effect: Set up that unit wholly within 6\" of a friendly Gnawhole and more than 9\" from all enemy units."
+ },
+ {
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations",
+  "text": "You can pick 1 of the following battle formations for a Skaven army. Each battle formation grants a different ability you can use in the battle. BATTLE PROFILE Name Points Virulent Procession 0 Fleshmeld Menagerie 0 Claw-horde 0 Warpcog Convocation 0 Kill‑Pack 0 Envoys of the Deepengnaw 0 Gathering of the Clans 0"
+ },
+ {
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Virulent Procession",
+  "text": "Once Per Turn (Army), End of Any Turn CORRUPTED EARTH : The Clans Pestilens are relentless in advancing the spread of plague and corruption. Declare: Pick up to 3 friendly PESTILENS units that are in combat to be the targets. Effect: For each target: Make a pile-in move . Then, pick an enemy unit in combat with the target and roll a D3. On a 2+, inflict an amount of mortal damage on that enemy unit equal to the roll."
+ },
+ {
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Fleshmeld Menagerie",
+  "text": "Once Per Turn (Army), Your Hero Phase PRIZED CREATIONS : Moulder warbeasts are studded with warpstone crystals and pumped full of vile serums that spur their battle-rage – at the occasional cost of overtaxing their forms. Declare: Pick up to 3 friendly non- HERO MOULDER units to be the targets. Effect: Roll a dice for each target and apply the corresponding effect: 1-2 Self-destructive Fury: Inflict D3 mortal damage on the target. 3-4 Rabid Infusion: Add 1 to the Attacks characteristic of the target’s melee weapons until the start of your next turn. 5-6 Blinded by Frenzy: In addition to the effect of ‘Rabid Infusion’, the target has WARD ( 5+ ) until the start of your next turn."
+ },
+ {
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Claw-horde",
+  "text": "Once Per Turn (Army), Your Combat Phase CLAW-PICKED : The Stormvermin and Clanrats of a Verminus Claw‑horde are amongst the most ferocious of all ratmen. Declare: Pick up to 3 friendly VERMINUS units that charged this turn to be the targets. Effect: Add 1 to the Rend characteristic of the targets’ melee weapons for the rest of the turn."
+ },
+ {
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Warpcog Convocation",
+  "text": "Once Per Turn (Army), Your Shooting Phase SKRYRE PROTOTYPES : The fell contraptions wielded by these ratmen were created by the Clans Skryre’s most ingenious weaponsmiths. Declare: Pick up to 3 friendly SKRYRE units to be the targets. Effect: Roll a dice for each target and apply the corresponding effect: 1 Kaboom!: Inflict D3 mortal damage on the target. 2-5 More Power!: Add 1 to wound rolls for the target’s shooting attacks for the rest of the turn. 6 More-more Power!: In addition to the effect of ‘More Power!’, add 1 to the Rend characteristic of the target’s ranged weapons for the rest of the turn."
+ },
+ {
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Kill‑Pack",
+  "text": "Once Per Turn (Army), Deployment Phase KILL-KILL! SCURRY-FLEE! : A kill‑pack has one purpose: slay the target. Once this goal has been achieved and the element of surprise lost, the Eshin agents must see to their own survival… Declare: Pick an enemy HERO to be the target. Effect: For the rest of the battle, if the target has been destroyed, add 2\" to the Move characteristic of friendly ESHIN units"
+ },
+ {
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Envoys of the Deepengnaw",
+  "text": "Passive WILL OF THE HORNED RAT : Although they tower over the rest of the swarm, Verminlords are as craven and cunning as any Skaven – in truth even more so – and will readily use their underlings as fodder to protect their own hides. Effect: While a friendly SKAVEN DAEMON is within the combat range of a friendly non- HERO SKAVEN INFANTRY unit: That SKAVEN DAEMON has WARD ( 4+ ) . Each time you make a successful ward roll for that SKAVEN DAEMON , allocate 1 mortal damage on a friendly non- HERO SKAVEN INFANTRY unit within that unit’s combat range after the damage sequence for that unit has been resolved (ward rolls cannot be made for these damage points)."
+ },
+ {
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Gathering of the Clans",
+  "text": "Once Per Turn (Army), Reaction: You declared the ‘ Redeploy ’ command for a friendly SKAVEN unit BACKSTABBING ALLIES : The Skaven often form uneasy alliances between clans, but none of them want to suffer the brunt of the fighting when the enemy draws near. Effect: Pick up to 2 other friendly SKAVEN units that are not in combat and are wholly within 13\" of the unit using the ‘ Redeploy ’ command to be the targets. Each target must have at least one of the following keywords: VERMINUS , SKRYRE , MOULDER , PESTILENS , ESHIN . After that ‘Redeploy’ command has been resolved, each of the targets can immediately use the ‘Redeploy’ command in an order of your choice without any command points being spent."
+ },
+ {
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Heroic Traits > Devious Machinations",
+  "text": "Hero only BATTLE PROFILE Name Points Scurry Away 0 Short-tempered 0 Skilled Manipulator 0 Any Combat Phase SCURRY AWAY : This Skaven chief does not think twice about scampering to safety when things look to be going south. Perhaps that’s why they have lived so long. Effect: If this unit is in combat, roll a dice. On a 3+, this unit can immediately use the ‘ Retreat ’ ability as if it were your movement phase. Passive SHORT-TEMPERED : This twitching and irascible Skaven has succeeded in making their minions more afraid of their displeasure than of the enemy. Effect: Add 1 to run rolls and charge rolls for friendly SKAVEN units while they are wholly within 13\" of this unit. Passive SKILLED MANIPULATOR : This Skaven warlord is particularly devious and selfserving, deftly ensuring that their minions are always conveniently positioned between themselves and potential threats. Effect: While this unit is within the combat range of a friendly non- HERO SKAVEN INFANTRY unit: This unit has WARD ( 4+ ) . Each time you make a successful ward roll for this unit, allocate 1 damage point to a friendly non- HERO SKAVEN INFANTRY unit within this unit’s combat range after the damage sequence for this unit has been resolved (ward rolls cannot be made for those damage points)."
+ },
+ {
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Heroic Traits > Ruinous Realm-Gnawers",
+  "text": "HERO only BATTLE PROFILE Name Points DEVIOUS UNDERLING 0 FLESHMEDDLER 0 PIT TINKERER 0 Deployment Phase DEVIOUS UNDERLING : Sly in the extreme, this ratman has mastered the art of biding his time, content to wait until his superiors’ demise before violently seizing control for himself. Declare: Pick another friendly SKAVEN HERO on the battleeld with a Health characteristic that equals or exceeds this unit’s Health characteristic to be the target. Effect: For the rest of the battle: While the target has not been slain, friendly SKAVEN INFANTRY units have WARD ( 6+ ) while they are wholly within 13\" of this unit. Once the target has been slain, add 2 to charge rolls for friendly SKAVEN INFANTRY units while they are wholly within 13\" of this unit. Your Hero Phase FLESHMEDDLER : This Skaven carries syringe darts filled with warpstone serum that can be fired into the patchwork hides of nearby Moulder creations to give them a ‘bit of extra bite’. Declare: Pick a friendly MOULDER unit wholly within 13\" of this unit to be the target. Effect: Pick 1 of the target’s melee weapons. Add 1 to the Rend characteristic of that weapon for the rest of the turn. Passive PIT TINKERER : This mechanically minded Skaven has a compulsion to make ‘improvements’ to the Skryre devices under his command. Effect: You can re-roll the random characteristic rolls for the Move characteristic of friendly SKRYRE WAR MACHINE S while they are wholly within 13\" of this unit. In addition, each time a friendly SKRYRE WAR MACHINE wholly within 18\" of this unit uses the ‘Rolling Doom’ or ‘Whirling Doom’ ability, add 1 to the amount of mortal damage inflicted, if any."
+ },
+ {
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Heroic Traits > Devious Machinations",
+  "text": "HERO only BATTLE PROFILE Name Points DEVIOUS UNDERLING 0 FLESHMEDDLER 0 PIT TINKERER 0 Reaction: You declared a SPELL or UNBIND ability for a visible Skaven unit wholly within 13\" of this unit DEVIOUS UNDERLING : This Skaven’s obsequious nature has allowed them to curry favour with a member of the sorcerous Masterclan. Effect: Add D3 to that casting roll or unbinding roll . Passive FLESHMEDDLER : This warlord understands the importance of numbers, ensuring their burrows are teeming with fresh warriors. Effect: Each time an ability returns 1 or more slain models to a friendly SKAVEN unit wholly within 13\" of this unit, after that ability has been resolved, you can return 1 additional slain model to it. Any Combat Phase PIT TINKERER : A cursed combination of warpstone and daemonic power allows this rodent to twist reality. Declare: Pick another visible SKAVEN unit wholly within 13\" of this unit and in combat to be the target. Effect: For the rest of the turn, this unit has STRIKE-FIRST and the target has STRIKE-LAST ."
+ },
+ {
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Artefacts of Power > Relics of Ruin",
+  "text": "HERO only BATTLE PROFILE Name Points Foulhide 0 Warpstone Charm 0 Skavenbrew 0 End of Any Turn FOULHIDE : Fashioned from the flensed flesh of Rat Ogors and soaked in cloying alchemical agents, this stinking armour sticks to its wearer like a bloated second skin and regrows as fast as it can be hacked apart. Effect: Heal (D3) this unit. Any Combat Phase WARPSTONE CHARM : This foul talisman radiates mutating energy that can be directed at an enemy unit to erode their armour. Declare: Pick an enemy unit in combat with this unit to be the target. Effect: Roll a dice. On a 3+, subtract 1 from save rolls for the target for the rest of the turn. Once Per Battle, Any Combat Phase SKAVENBREW : This foul concoction, brewed from blood and warpstone, is dispensed to expendable underlings to drive them into a short-lived but devastating killing frenzy. Declare: Pick a friendly non- HERO SKAVEN INFANTRY unit wholly within 13\" of this unit to be the target. Effect: Inflict D3 mortal damage on the target. Then, add 1 to the Attacks characteristic of the target’s melee weapons for the rest of the turn."
+ },
+ {
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Spell Lore",
+  "text": "BATTLE PROFILE Name Points Lore of Ruin 0"
+ },
+ {
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Spell Lore > Lore of Ruin",
+  "text": "Your Hero Phase 6 SKITTERLEAP : Vanishing in a puff of foul-smelling smoke, the verminkin reappear elsewhere on the battlefield an eye-blink later. Declare: Pick a friendly SKAVEN WIZARD to cast this spell , pick a visible friendly SKAVEN HERO wholly within 13\" of them to be the target, then make a casting roll of 2D6. Effect: Remove the target from the battlefield and set it up again on the battlefield more than 9\" from all enemy units. KEYWORDS SPELL, UNLIMITED Your Hero Phase 6 WITHER : The spellcaster hurls a glowing green globe of magical energy at the foe. Anyone touched by the globe starts to shrivel and wither away. Declare: Pick a friendly SKAVEN WIZARD to cast this spell , pick a visible enemy unit within 13\" of them to be the target, then make a casting roll of 2D6. Effect: Inflict D3 mortal damage on the target. KEYWORDS SPELL Your Hero Phase 6 WARPGALE : Screeching in an unholy tongue, the caster parts the veil of reality and draws a ravening gale of unnatural energies forth. Declare: Pick a friendly SKAVEN WIZARD to cast this spell , pick a visible enemy unit within 18\" of them to be the target, then make a casting roll of 2D6. Effect: The target has STRIKE-LAST for the rest of the turn. KEYWORDS SPELL"
+ },
+ {
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Prayer Lore",
+  "text": "BATTLE PROFILE Name Points Noxious Prayers 0"
+ },
+ {
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Prayer Lore > Noxious Prayers",
+  "text": "Your Hero Phase 4 FILTH-CRUST : The Great Horned Rat heeds the call of this priest to encrust the weapons of their minions with irresistible contagions. Declare: Pick a friendly SKAVEN PRIEST to chant this prayer , pick a visible friendly SKAVEN INFANTRY unit wholly within 13\" of them to be the target, then make a chanting roll of D6. Effect: Add 1 to wound rolls for the target’s combat attacks until the start of your next turn. In addition, if the chanting roll was 8+, the target’s melee weapons have Crit (Mortal) until the start of your next turn. KEYWORDS PRAYER, UNLIMITED Your Hero Phase 4 BILE-TORRENT : The priest screeches with glowing green eyes as a torrent of bile sweeps over their foe. Declare: Pick a friendly SKAVEN PRIEST to chant this prayer , pick a visible enemy unit within 13\" of them to be the target, then make a chanting roll of D6. Effect: Roll a number of dice equal to the number of models in the target unit. For each 5+, inflict 1 mortal damage on the target. If the chanting roll was 8+, inflict 1 mortal damage on the target for each 4+ instead. KEYWORDS PRAYER Your Hero Phase 5 RABID-TOUGH : The priest snarls and conjures a dense cloud of toxins that sends their followers into a frenzy that numbs them to pain. Declare: Pick a friendly SKAVEN PRIEST to chant this prayer , pick a visible friendly SKAVEN INFANTRY unit wholly within 13\" of them to be the target, then make a chanting roll of D6. Effect: Subtract 1 from wound rolls for attacks that target that unit until the start of your next turn. In addition, if the chanting roll was 8+, add 1 to save rolls for the target until the start of your next turn. KEYWORDS PRAYER"
+ },
+ {
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Manifestation Lore",
+  "text": "BATTLE PROFILE Name Points Manifestations of Doom 0"
+ },
+ {
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Manifestation Lore > Manifestations of Doom",
+  "text": "Your Hero Phase 7 SUMMON WARP LIGHTNING VORTEX : Warpstone shards are cast into the air, growing impossibly large and discharging bolts of warp lightning. Declare: If there is not a friendly Warp Lightning Vortex on the battlefield, pick a friendly SKAVEN WIZARD to cast this spell , then make a casting roll of 2D6. Effect: Set up the first part of the Warp Lightning Vortex within 18\" of the caster and visible to them, then set up the second and third parts exactly 7\" from the first part and exactly 7\" from each other so that they form a triangle. KEYWORDS SUMMON, SPELL Your Hero Phase 7 SUMMON VERMINTIDE : A Skaven spellcaster can summon forth a seething mass of arcane rodents that consumes everything in its path. Declare: If there is not a friendly Vermintide on the battlefield, pick a friendly SKAVEN WIZARD to cast this spell , then make a casting roll of 2D6. Effect: Set up a Vermintide wholly within 13\" of the caster, visible to them and more than 9\" from all enemy units. KEYWORDS SUMMON, SPELL Your Hero Phase 7 SUMMON BELL OF DOOM : Invoking ancient creation myths, the spellcaster causes a great Bell of Doom to manifest upon the battlefield. Declare: If there is not a friendly Bell of Doom on the battlefield, pick a friendly SKAVEN WIZARD to cast this spell , then make a casting roll of 2D6. Effect: Set up a Bell of Doom wholly within 13\" of the caster, visible to them and more than 9\" from all enemy units. KEYWORDS SUMMON, SPELL"
+ },
+ {
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Moulder Mutations",
+  "text": "Moulder Mutations are unique enhancements that can be given to non- HERO non- WAR MACHINE SKAVEN units. A unit can only have 1 Moulder Mutation. BATTLE PROFILE Name Points TRANSPLANTED BRAINS 0 ANABOLIC ACCELERATORS 0 SERRATED BONE PROTRUSIONS 0 Any Hero Phase TRANSPLANTED BRAINS : The grey matter of various ‘willing’ Moulder volunteers has been grafted onto these mutants’ brains, allowing them to change their personalities in an instant. Effect: Pick 1 of the following brains. Its effects apply for the rest of the turn: Warpstone Addict’s Brain: Add 1 to hit rolls for this unit’s combat attacks . This unit has a maximum control score of 1. Warlock Whelp’s Brain: Add 10 to this unit’s control score Your Charge Phase ANABOLIC ACCELERATORS : The limbs of these mutants have been injected with a serum that promotes rapid tissue growth, giving them a monstrous – if short-lived – burst of speed. Effect: If this unit was set up this turn, when making charge rolls for this unit, add 1 to the number of dice rolled, to a maximum of 3, then remove 1 dice of your choice and use the remaining dice as the charge roll. Passive SERRATED BONE PROTRUSIONS : The jagged shards of bone that jut out from these abominations can inflict nasty injuries on careless attackers. Effect: For each unmodified hit roll of 1 for a combat attack made by an enemy unit that targets this unit, inflict 1 mortal damage on the attacking unit after the FIGHT ability has been resolved. Army of Renown"
+ },
+ {
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Great-Grand Gnawhorde",
+  "text": "When you pick the Skaven faction for your army, you can choose for it to be a Great-grand Gnawhorde Army of Renown . If you do so, use the faction rules on these pages instead of the Skaven faction rules. Every unit in your army must be drawn from the units listed in the roster options opposite. All units in your army gain the GNAWHORDE keyword. ROSTER OPTIONS Vizzik Skour, Prophet of the Horned Rat Non- UNIQUE MASTERCLAN Units Non- UNIQUE VERMINUS units Non- UNIQUE SKRYRE units Non- UNIQUE MOULDER units You cannot include Regiments of Renown or faction terrain"
+ },
+ {
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Great-Grand Gnawhorde > Battle Traits",
+  "text": "Passive DISCIPLES OF VIZZIK : The clawpacks of the Great-grand Gnawhorde protect their daemon-prophet by any means necessary. Effect: While a friendly Vizzik Skour is within the combat range of another friendly GNAWHORDE unit: That Vizzik Skour has WARD ( 4+ ) . Each time you make a successful ward roll for that Vizzik Skour , allocate 1 damage point to a friendly GNAWHORDE unit within its combat range after the damage sequence has been resolved. Once Per Turn (Army), Any Shooting Phase UNSTOPPABLE WARP-VOLLEY : The Warlocks of the Gnawhorde are no less aggressive than their Verminus kin - they are simply able to strike from further away. Declare: You can only use this ability if you have not used any WARPSHATTER THROES abilities this turn. Pick up to 3 friendly GNAWHORDE units to be the targets. Effect: For the rest of the turn: Add 3\" to the Range characteristic of the targets’ ranged weapons. The targets cannot use commands . KEYWORDS WARPSHATTER THROES Once Per Turn (Army), Your Movement Phase FRENZIED MOMENTUM : Hateful bells clanging in their minds, the swarms of the Great-grand Gnawhorde surge into the fray. Declare: You can only use this ability if you have not used any WARPSHATTER THROES abilities this turn. Pick up to 3 friendly GNAWHORDE units to be the targets. Effect: For the rest of the turn: Add 2 to run rolls and charge rolls for the targets. Subtract 1 from the targets’ control scores . KEYWORDS WARPSHATTER THROES Once Per Turn (Army), Any Combat Phase RECKLESS ABANDON : With the death frenzy upon them, the Gnawhorde's warriors show a most unusual disregard for self-preservation. Declare: You can only use this ability if you have not used any WARPSHATTER THROES abilities this turn. Pick up to 3 friendly GNAWHORDES units to be the targets."
+ },
+ {
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Great-Grand Gnawhorde > Battle Traits",
+  "text": "Pick up to 3 friendly GNAWHORDES units to be the targets. Effect: For the rest of the turn: Add 1 to the Attacks characteristic of the targets’ melee weapons. Add 1 to hit rolls for combat attacks that target those friendly units. KEYWORDS WARPSHATTER THROES"
+ },
+ {
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Great-Grand Gnawhorde > Heroic Traits",
+  "text": "HERO only Once Per Battle, Start of Any Turn HARBINGER OF THE GREAT ASCENDANCY : In the eyes of this Skaven warlord, nothing can stop the Horned Rat's ascendancy and the ruination of the Mortal Realms. Effect: If this unit is not in combat, you can use 2 different WARPSHATTER THROES abilities this turn instead of 1."
+ },
+ {
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Great-Grand Gnawhorde > Artefacts of Power",
+  "text": "HERO only Once Per Battle, Your Hero Phase ICON OF GREAT-TOTAL SUPREMACY : Within this jagged brass reliquary lies a cutting from the Horned Rat's whiskers. It exerts a natural hold over the Skaven, drawing frothing warriors to it. Effect: You can return up to D3 slain models to each friendly GNAWHORDE INFANTRY unit with a Health characteristic of up to 3."
+ },
+ {
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Great-Grand Gnawhorde > Spell Lore",
+  "text": "Your Hero Phase 8 DEAFENING FRENZY : The caster enhances the clangour of the thirteen Warpshatter Bells in the minds of a nearby swarm, driving them to even greater heights of fury. Declare: Pick a friendly GNAWHORDE WIZARD to cast this spell, pick a visible friendly GNAWHORDE INFANTRY unit wholly within 13\" of them to be the target, then make a casting roll of 2D6. The casting roll for this spell cannot be modified. Effect: Until the start of your next turn: The target has STRIKE-FIRST . The target cannot use commands . KEYWORDS SPELL, UNLIMITED"
+ },
+ {
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Great-Grand Gnawhorde > Prayer Lore",
+  "text": "Your Hero Phase 7 REVERBERATING RITUAL : The priest chants in time with the tolling of the Warpshatter Bells, sonically shattering the last dregs of sanity from nearby ratmen and filling them with dreadful hunger. Declare: Pick a friendly GNAWHORDE PRIEST to chant this prayer , pick a visible friendly GNAWHORDE INFANTRY unit wholly within 13\" of them to be the target, then make a chanting roll of D6. Effect: Until the start of your next turn, the target can move an extra 3\" when it makes a pile-in move . In addition, if the chanting roll was 8+, add 1 to the target’s control score until the start of your next turn. KEYWORDS PRAYER, UNLIMITED"
+ },
+ {
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Great-Grand Gnawhorde > Manifestation Lore",
+  "text": "Your Hero Phase 7 SUMMON VERMINTIDE : A Skaven spellcaster can summon forth a seething mass of arcane rodents that consumes everything in its path. Declare: If there is not a friendly Vermintide on the battlefield, pick a friendly GNAWHORDE WIZARD to cast this spell , then make a casting roll of 2D6. Effect: Set up a Vermintide wholly within 13\" of the caster, visible to them and more than 9\" from all enemy units. KEYWORDS SPELL, SUMMON Army of Renown"
+ },
+ {
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Thanquol’s Mutated Menagerie",
+  "text": "When you pick the Skaven faction for your army, you can choose for it to be a Thanquol’s Mutated Menagerie Army of Renown . If you do so, use the faction rules on these pages instead of the Skaven faction rules. Every unit in your army must be drawn from the units listed in the roster options opposite. All units in your army gain the MUTATED MENAGERIE keyword. ROSTER OPTIONS Thanquol on Boneripper Master Moulder Hell Pit Abomination Brood Terror Rat Ogors Stormfiends You cannot include Regiments of Renown or faction terrain"
+ },
+ {
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Thanquol’s Mutated Menagerie > Battle Traits",
+  "text": "Passive MONSTROUS ENTOURAGE : Thanquol is well practised in getting Moulder mutants to die on his behalf. Effect: The Companion weapon ability has no effect on MUTATED MENAGERIE units. While a friendly Thanquol is within the combat range of another friendly MUTATED MENAGERIE unit: That Thanquol has WARD ( 4+ ) . Each time you make a successful ward roll for that Thanquol , allocate 1 damage point to a friendly MUTATED MENAGERIE unit within its combat range after the damage sequence has been resolved. Once Per Turn (Army), Any Combat Phase SPITEFUL SWARMS : Always one for a cunning trick, churning rat-swarms have been stitched into the guts of Thanquol's beasts, ready to burst free in a wave of disorienting fangs and claws when their host is slain. Declare: Pick a friendly non- HERO MUTATED MENAGERIE MONSTER unit that has not used any RAMPAGE abilities this turn to use this ability. Effect: This unit has STRIKE-FIRST for the rest of the turn. However, at the end of the turn, this unit is destroyed. When this unit would be destroyed, before it is removed from play, roll a dice for each enemy unit within 6\" of this unit. On a 3+, subtract 1 from the Attacks characteristic of that enemy unit’s melee weapons for the rest of the battle. After this ability has been resolved, this unit cannot use any other RAMPAGE abilities for the rest of the turn. KEYWORDS RAMPAGE Once Per Turn (Army), Your Hero Phase MORE-MORE MUTATION! : The sponsorship of a Grey Seer gives Thanquol's flesh-grafting lackeys licence to pursue their most deranged experiments. Declare: Pick a friendly non- HERO MUTATED MENAGERIE unit to be the target. You cannot pick the same unit to be the target of this ability more than once per battle."
+ },
+ {
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Thanquol’s Mutated Menagerie > Battle Traits",
+  "text": "You cannot pick the same unit to be the target of this ability more than once per battle. Effect: For the rest of the battle: Add 2 to the target’s Health characteristic. Add 2\" to the target’s Move characteristic. Add 1 to the Attacks characteristic of the target’s melee weapons. The target has WARD ( 5+ ) . At the end of each turn, allocate D3+2 damage points to the target. Once Per Turn (Army), Any Combat Phase RAMPAGING DEMISE : Thanquol cares little for the survival of his beasts and is more than willing to have them sacrifice themselves in spasms of fury. Declare: Pick a friendly non- HERO MUTATED MENAGERIE MONSTER unit that has not used any RAMPAGE abilities this turn to use this ability. Effect: This unit has STRIKE-FIRST for the rest of the turn. However, at the end of the turn, this unit is destroyed. When this unit would be destroyed, before it is removed from play, roll a D3 for each enemy unit within 6\" of this unit. On a 2+, inflict an amount of mortal damage on that enemy unit equal to the roll. After this ability has been resolved, this unit cannot use any other RAMPAGE abilities for the rest of the turn. KEYWORDS RAMPAGE"
+ },
+ {
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Thanquol’s Mutated Menagerie > Heroic Traits",
+  "text": "HERO only Once Per Battle, Any Combat Phase PACK TACTICS : Though insane with frenzy, the beasts of Thanquol's menagerie retain some of their predatory swarming instincts.. Declare: Pick up to 2 friendly non- HERO MUTATED MENAGERIE MONSTER units wholly within 13\" of this unit to be the targets. Effect: The targets can each use the ‘ All-out Attack ’ or ‘ All-out Defence ’ command this phase even if that command has been used by a friendly unit this phase."
+ },
+ {
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Thanquol’s Mutated Menagerie > Artefacts of Power",
+  "text": "HERO only Once Per Battle, Your Hero Phase WARPSTONE INNARDS : A 'gift' from Thanquol, these warpstone-studded organs have been inserted into a prized warbeast to augment its power. Declare: Pick a friendly non- HERO MUTATED MENAGERIE MONSTER unit wholly within 13\" of this unit to be the target. Effect: Add 1 to the Attacks characteristic of the target’s melee weapons for the rest of the battle. However, at the end of each turn, allocate D3 damage points to the target."
+ },
+ {
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Thanquol’s Mutated Menagerie > Spell Lore",
+  "text": "Your Hero Phase 5 UNTAPPED MUTATION : This wizard manipulates the warpstone melded into the flesh of their minions, pushing the limits of their physicality before they are inevitably destroyed. Declare: Pick a friendly MUTATED MENAGERIE WIZARD to cast this spell , pick up to 3 visible friendly MUTATED MENAGERIE units wholly within 13\" of them that are affected by the ‘ More-more Mutation! ’ ability to be the targets, then make a casting roll of 2D6. Effect: For each damage point allocated to the target at the end of this turn by the ‘More-more Mutation!’ ability, add 1 to the target’s control score until the start of your next turn. KEYWORDS SPELL, UNLIMITED"
+ },
+ {
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Thanquol’s Mutated Menagerie > Manifestation Lore",
+  "text": "Your Hero Phase 7 SUMMON WARP LIGHTNING VORTEX : Warpstone shards are cast into the air, growing impossibly large and discharging bolts of warp lightning. Declare: If there is not a friendly Warp Lightning Vortex on the battlefield, pick a friendly SKAVEN WIZARD to cast this spell , then make a casting roll of 2D6. Effect: Set up the first part of the Warp Lightning Vortex within 18\" of the caster and visible to them, then set up the second and third parts exactly 7\" from the first part and exactly 7\" from each other so that they form a triangle. KEYWORDS SPELL, SUMMON"
+ },
+ {
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Gnawfeast Clawpack",
+  "text": "When the Skaven swarm across the realms, it is a vision drawn from apocalyptic texts. They are famine and rabid hunger made manifest, a chittering tide that drags down anything in their path. Even a comparatively small pack of Skaven can triumph through weight of frenzied numbers. This is embodied by the Gnawfeast Clawpacks, swarms of ratmen who surge forwards in a manic need to devour, defile and otherwise bring to ruin. Gnawfeast Clawpacks rely on numbers to carry the day. Clanrats are an eminently disposable force sent to overwhelm foes alongside frenzied Rat Ogors. Their leaders are anything but subtle. The Clawlords that rule the Clanrat swarms are cunning strategists and know just where to sacrifice their warriors to grind down the enemy – before riding in themselves to tip the balance and claim the credit. A Clawlord will be attended to by advisors, both the magic-wielding Grey Seers and the Warlock Engineers of the Clans Skryre, who offer unpredictable but deadly fire support. All these verminous potentates are out to undermine one another, of course, but this only serves to ensure that the sharpest rise to the top. This Spearhead army consists of the following units: General Clawlord on Gnaw-beast Units 1 Grey Seer 1 Warlock Engineer 10 Clanrats 10 Clanrats 3 Rat Ogors",
+  "spearhead_name": "Gnawfeast Clawpack"
+ },
+ {
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Gnawfeast Clawpack > Battle Traits",
+  "text": "Once Per Battle, Deployment Phase THE LURKING VERMINTIDE : What scurries beneath the surface? Declare: Pick a friendly unit that has not been deployed to be the target. Effect: The target unit is set up in reserve in the tunnels below . Units in the tunnels below that have not used the ‘Gnawhole Ambush’ ability by the end of the third battle round are destroyed. KEYWORDS DEPLOY Your Movement Phase GNAWHOLE AMBUSH : A pack of Skaven emerges onto the battlefield from a glowing green rift in reality. Declare: Pick a friendly unit that is in the tunnels below to use this ability. Effect: Set up that unit wholly within 6\" of a corner of the battlefield and more than 9\" from all enemy units. KEYWORDS CORE",
+  "spearhead_name": "Gnawfeast Clawpack"
+ },
+ {
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Gnawfeast Clawpack > Regiment Abilities",
+  "text": "Pick 1 of the following regiment abilities. Once Per Battle, Your Shooting Phase WARPSTONE-LACED BULLETS : Saturated with the energies of ruin, these munitions pack a deadly punch. Declare: Pick a ranged weapon a friendly unit is armed with. Effect: That weapon has Crit (Mortal) this phase. Passive TOO QUICK TO HIT-HIT : These skittish ratmen dart and run in all directions, avoiding retribution as they flee from combat. Effect: No mortal damage is inflicted on friendly units when they use RETREAT abilities.",
+  "spearhead_name": "Gnawfeast Clawpack"
+ },
+ {
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Gnawfeast Clawpack > Enhancements",
+  "text": "Give your general 1 of the following enhancements. Reaction: You declared the ‘ Call for Reinforcements ’ ability LEAD THE SEETHING HORDE : With screeched war cries, this Clawlord directs their vermin underlings to swarm the enemy. Effect: Instead of using the set-up instructions in the ‘ Call for Reinforcements ’ ability, the replacement unit can be set up wholly within 13\" of this unit and not in combat . Passive WARPSTONE CHARM : This foul talisman radiates mutating energy. Effect: Subtract 1 from save rolls for enemy units in combat with your general . Passive SKRYRE CONNECTIONS : This Clawlord has tasked the Skryre engineers under their command to overcharge their ratling pistol. Effect: Your general ’s Ratling Pistol has an Attacks characteristic of 2D6 instead of D6. Passive CLOAK OF STITCHED VICTORIES : This cloak is made from the stitched pelts of traitors and inflicts a rabid paranoia upon the bearer, making them hard to hit and even harder to stab in the back. Effect: Your general has WARD ( 5+ ) .",
+  "spearhead_name": "Gnawfeast Clawpack"
+ },
+ {
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Gnawfeast Clawpack > Warscrolls",
+  "text": "• SPEARHEAD WARSCROLL • Clawlord on Gnaw-beast 9\" 7 4+ 2 6+ Clawlords are the tyrannical rulers of the Clans Verminus, the lives of thousands of minions theirs to expend at a moment’s notice. It takes both cunning and viciousness to hold their lofty position, and successful Clawlords must be willing to stoop to any foul end and fight like cornered animals in order to keep their star in the ascendant. Accumulating favours from members of the other Great Clans is a fine way to do this, and so the most powerful Clawlords will ride upon a Gnaw-beast bred by the Clans Moulder – a gangly, shrieking abomination whose hunger is even more voracious than that of its Skaven master. • SPEARHEAD WARSCROLL • Clawlord on Gnaw-beast RANGED WEAPONS Rng Atk Hit Wnd Rnd Dmg Ratling Pistol [ Shoot in Combat , Crit (Auto-wound) ] Ratling Pistol Shoot in Combat , Crit (Auto-wound) 10\" D6 3+ 3+ 1 1 MELEE WEAPONS Atk Hit Wnd Rnd Dmg Warpforged Halberd Warpforged Halberd 5 3+ 4+ 1 2 Gnaw-beast's Chisel Fangs [ Companion ] Gnaw-beast's Chisel Fangs Companion 4 4+ 3+ 1 D3 Passive CORNERED RAT : A Clawlord in fear for their life fights with rabid ferocity. Effect: While this unit is damaged, add 3 to the Attacks characteristic of its Warpforged Halberd . KEYWORDS HERO , CAVALRY , WARD ( 6+ ) • SPEARHEAD WARSCROLL • Grey Seer 6\" 5 6+ 2 Grey Seers are marked out from their minions not only by their pale fur and curling horns but also by their ability to wield the withering magics of the Great Horned Rat. They serve as the executors of their terrible god’s will amongst the clans – though this does not prevent them from pursuing their own schemes as a matter of course.",
+  "spearhead_name": "Gnawfeast Clawpack"
+ },
+ {
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Gnawfeast Clawpack > Warscrolls",
+  "text": "executors of their terrible god’s will amongst the clans – though this does not prevent them from pursuing their own schemes as a matter of course. Able to handle warpstone with greater ease than fellow ratmen, a Grey Seer will use all manner of relics to try and glean an advantage, all while using their sorcery and innate cunning to undermine and drag down enemies and rivals alike. • SPEARHEAD WARSCROLL • Grey Seer MELEE WEAPONS Atk Hit Wnd Rnd Dmg Warpstone Staff Warpstone Staff 3 4+ 4+ 1 D3 Your Hero Phase WILL OF THE HORNED RAT : None among the Skaven clans may defy the commands of a Grey Seer – openly, at least… Declare: Pick a friendly unit wholly within 13\" of this unit to be the target, then roll a dice. Effect: On a 3+, add the roll to the target’s control score until the start of your next turn. Your Hero Phase WITHER : The Grey Seer hurls a glowing green globe of magical energy at the foe. Anyone touched by the globe starts to shrivel and wither away. Declare: Pick a visible enemy unit within 13\" of this unit to be the target, then make a casting roll of 2D6. Effect: On a 6+, inflict D3 mortal damage on the target. KEYWORDS HERO , WIZARD , INFANTRY • SPEARHEAD WARSCROLL • Warlock Engineer 6\" 5 5+ 2 Warlock Engineers are those Skryre artificer-rats who have mastered the various branches of skaven engineering. Skilled in the creation of ingenious and insane weapons, these Skaven take every opportunity to put their latest inventions to the test – even if it means overcharging them to the point of dangerous volatility.",
+  "spearhead_name": "Gnawfeast Clawpack"
+ },
+ {
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Gnawfeast Clawpack > Warscrolls",
+  "text": "Skaven take every opportunity to put their latest inventions to the test – even if it means overcharging them to the point of dangerous volatility. • SPEARHEAD WARSCROLL • Warlock Engineer RANGED WEAPONS Rng Atk Hit Wnd Rnd Dmg Warplock Musket [ Crit (Auto-wound) ] Warplock Musket Crit (Auto-wound) 24\" 2 3+ 3+ 2 D3 MELEE WEAPONS Atk Hit Wnd Rnd Dmg Warpforged Dagger Warpforged Dagger 3 4+ 4+ - 2 Reaction: You declared a SHOOT ability for this unit and it has not used a MOVE ability this turn MORE-MORE WARP ENERGY! : The Engineer overcharges their weapon with volatile energy. Effect: Roll a dice. On a 2+, set the Damage characteristic of its Warplock Musket to 3 this phase. On a 1, inflict D3 mortal damage on this unit. KEYWORDS HERO , INFANTRY • SPEARHEAD WARSCROLL • Clanrats 6\" 1 5+ 1 Clanrats form the verminous masses of Skavendom, an endless sea of filthy fangs, rusty blades and red eyes filled with malice. They are spite made manifest, seeking to advance their own position while leaving rivals – which is everyone – to a grisly fate. Clanrats are utterly expendable to their masters, herded forwards in chittering swarms to slow an enemy and die upon their blades. Yet though Clanrats are craven by nature, they can be overcome by a terrible frenzy in battle – and should one fall, there are always more where they came from… • SPEARHEAD WARSCROLL • Clanrats MELEE WEAPONS Atk Hit Wnd Rnd Dmg Rusty Blade Rusty Blade 2 4+ 5+ - 1 End of Any Turn SEETHING SWARM : Sweeping forward in a chittering mass, Clanrats overwhelm their enemies with their seemingly limitless numbers, biting, stabbing, screeching and trampling their own fallen beneath their bloody claws. Effect: You can return D3 slain models to this unit.",
+  "spearhead_name": "Gnawfeast Clawpack"
+ },
+ {
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Gnawfeast Clawpack > Warscrolls",
+  "text": "Effect: You can return D3 slain models to this unit. KEYWORDS INFANTRY , REINFORCEMENTS • SPEARHEAD WARSCROLL • Rat Ogors 6\" 4 5+ 1 Perhaps the most infamous creations of the Clans Moulder, Rat Ogors are flesh-grafted shock troops that fly into a terrifying frenzy when the stench of death fills the air. • SPEARHEAD WARSCROLL • Rat Ogors RANGED WEAPONS Rng Atk Hit Wnd Rnd Dmg Warpfire Gun [ Shoot in Combat ] Warpfire Gun Shoot in Combat 10\" 2D6 2+ 4+ 2 1 MELEE WEAPONS Atk Hit Wnd Rnd Dmg Claws, Blades and Fangs Claws, Blades and Fangs 5 4+ 3+ 1 2 This unit has 2 Rat Ogors armed with Claws, Blades and Fangs, and 1 Rat Ogor armed with a Warpfire Gun and Claws, Blades and Fangs. Any Combat Phase, Once Per Battle UNLEASHED WARP-FURY : The warpstone hammered into the flesh of these creatures crackles with volatile energies, driving them into a frenzy. Effect: Inflict D3 mortal damage on this unit. Then, add 1 to the Attacks characteristic of its melee weapons this phase. KEYWORDS INFANTRY",
+  "spearhead_name": "Gnawfeast Clawpack"
+ },
+ {
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Crixxit's Kill-Pack",
+  "text": "The Clans Eshin favour the hidden dagger over the open claw. Yet certain contracts demand more than one knife in the gloom. When a target is particularly well defended or several souls marked for death congregate, a clan’s Nightlord may unleash a kill-pack – an entire force of lethal agents. A kill-pack includes Eshin ratmen of every rank, each of whom has a specific role in the operation. Though they are not told as much, it is the task of the Night Runners to distract and die, but they are still sufficiently trained and equipped to pose a real danger to the foe. Gutter Runners are veterans entrusted to wreak havoc in accordance with their masters’ designs. Deadliest are the Deathmasters: nigh-on supernaturally capable assassins, each a master of shadowy techniques and vicious martial styles. When an especially challenging mission beckons, the vaunted Deathmaster Crixxit may deign to lead a kill-pack. Clad in a cloak of living umbra and wielding blades coated in liquid warpstone poisons, Crixxit is amongst the few Eshin assassins who lets his name be known far and wide. Partially this is because he revels in his infamy and how it grants him his pick of contracts, and partially it is for the terror that accompanies any whisper of his coming. This Spearhead army consists of the following units: General Deathmaster Crixxit Units 1 Deathmaster 5 Gutter Runners 5 Gutter Runners 10 Night Runners Each unit of Gutter Runners has 1 Bomb Rat token.",
+  "spearhead_name": "Crixxit's Kill-Pack"
+ },
+ {
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Crixxit's Kill-Pack > Battle Traits",
+  "text": "Once Per Turn (Army), Any Combat Phase CLOAKED IN SHADOW : By the time enemies have uncovered a band of Skaven assassins, the ratmen are already in place to strike. Declare: Pick a friendly HERO to use this ability. Then, pick a different friendly unit that has 2 or more models to be the target. Effect: Make a shadow-travel roll of D6. On a 3+, remove the HERO using this ability from the battlefield and set them up again wholly within 6\" of the target. They can be set up in combat with any enemy units that are already in combat.",
+  "spearhead_name": "Crixxit's Kill-Pack"
+ },
+ {
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Crixxit's Kill-Pack > Regiment Abilities",
+  "text": "Pick 1 of the following regiment abilities. Once Per Battle (Army), Your Movement Phase WAY OF THE SKITTERING SHADE : It is said that a soul marked for death is never more than a few feet from lurking Eshin agents. Declare: Pick a friendly unit that is wholly within 6\" of a battlefield edge to be the target. Effect: Remove the target from the battlefield and set it up again wholly within 3\" of a battlefield edge and more than 6\" from all enemy units. Once Per Battle (Army), Any Combat Phase WAY OF THE FIENDISH CLAW : Veteran Deathmasters are experts in many wicked martial arts that harness their natural twitchy agility. Declare: Pick a friendly HERO to be the target. Effect: The target has STRIKE-FIRST for the rest of the turn.",
+  "spearhead_name": "Crixxit's Kill-Pack"
+ },
+ {
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Crixxit's Kill-Pack > Enhancements",
+  "text": "Give your general 1 of the following enhancements. Passive MURDEROUS ACROBATICS : Glowing eyes locked on his target, Crixxit deftly weaves past and leaps across any who would impede him. Effect: When your general uses the ‘ Charge ’ ability, they can pass through enemy models. Passive JUST ANOTHER SHADOW : Crixxit is adept at stalking unseen until the moment to strike arrives. Effect: While your general is wholly within the combat range of a friendly unit that has 3 or more models, your general has WARD ( 4+ ) . Passive MASTER OF SHADOWS : Swathed in darkness, Crixxit can slip in and out of the gloom with ease, his victims’ cooling corpses the only sign of his passing. Effect: When your general uses the ‘ Cloaked in Shadow ’ ability, add 1 to the shadow-travel roll. Any Combat Phase DEATH SCREECH : When needs must, Crixxit can unleash a deafening screech to stun foes. Declare: Pick an enemy unit within 6\" of your general to be the target. Effect: Roll a dice. On a 3+, for the rest of the turn, subtract 1 from hit rolls for the target’s attacks.",
+  "spearhead_name": "Crixxit's Kill-Pack"
+ },
+ {
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Crixxit's Kill-Pack > Warscrolls",
+  "text": "• SPEARHEAD WARSCROLL • Deathmaster Crixxit 7\" 6 5+ 2 5+ Rumours abound regarding Crixxit’s ability to haunt any shadow, breach any chamber and reach any quivering target. Most of these are spread by Crixxit himself, for when a target is afraid, they are vulnerable. While in the employ of Be’lakor, Crixxit brought about the end of a Silver Tower – one of the legendary floating fortresses of Tzeentch – by detonating warpstone bombs in the heart of its portal chamber. Doing so solidified his legend and earned him the semi-sentient Shadowblood Cloak. Now Crixxit stalks Embergard, bloodying his blades on any who would unite the shaken defenders. • SPEARHEAD WARSCROLL • Deathmaster Crixxit MELEE WEAPONS Atk Hit Wnd Rnd Dmg The Blades of Thirteen Cuts [ Crit (Mortal) ] The Blades of Thirteen Cuts Crit (Mortal) 13 2+ 4+ 1 1 Your Hero Phase GO-GO, HUNT THEM DOWN : Crixxit dispatches his Gutter Runners to pounce on unsuspecting prey. Declare: Pick a visible friendly Gutter Runners unit wholly within 12\" of this unit to be the target. Then, roll a dice. Effect: On a 3+, add 1 to charge rolls for the target for the rest of the turn KEYWORDS HERO , INFANTRY , WARD ( 5+ ) • SPEARHEAD WARSCROLL • Deathmaster 7\" 5 5+ 2 6+ Deathmasters are singularly adept killers, the pride of the Clans Eshin. A significant part of their training centres around suppressing the naturally self interested Skaven mindset and honing the ability to set aside their own ambitions for the sake of the mission – at least, so much as any ratman can. Skulking unseen, Deathmasters wait for their target to let down their guard before striking with great acrobatic ferocity, wielding an array of esoteric weapons such as warpstone throwing stars and weeping blades, which can kill with the lightest scratch.",
+  "spearhead_name": "Crixxit's Kill-Pack"
+ },
+ {
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Crixxit's Kill-Pack > Warscrolls",
+  "text": "ferocity, wielding an array of esoteric weapons such as warpstone throwing stars and weeping blades, which can kill with the lightest scratch. Trying to land a hit on a Deathmaster is like trying to strike darkness – and when their kill is made, they vanish into the gathering gloom like a wraith. • SPEARHEAD WARSCROLL • Deathmaster MELEE WEAPONS Atk Hit Wnd Rnd Dmg Weeping Blade [ Anti- HERO (+1 Rend) , Crit (Mortal) ] Weeping Blade Anti- HERO (+1 Rend) , Crit (Mortal) 5 3+ 4+ 1 D3 Passive SHADOWY KILLERS : Ulguan illusions and other tools of misdirection shroud Deathmasters in perpetual darkness, keeping them from harm. Effect: If the unmodified hit roll for an attack that targets this unit is 1-4, the attack fails and the attack sequence ends. KEYWORDS HERO , INFANTRY , WARD ( 6+ ) • SPEARHEAD WARSCROLL • Gutter Runners 7\" 1 6+ 1 6+ Gutter Runners are shadowy death squads in service to the Clans Eshin. These ratmen are claw-picked for their skills of stealth and ambush, for the Eshin maintain that promotion must be earned through merit rather than spur-of-themoment coups. Of course, a Skaven who can assassinate a troublesome rival or superior without compromising the mission at hand is likely to earn the approval of their masters. Trained in unique combat arts, Gutter Runners are deadly closequarters opponents, wielding lethal poisons and an array of rat-borne explosives to disorient and devastate foes.",
+  "spearhead_name": "Crixxit's Kill-Pack"
+ },
+ {
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Crixxit's Kill-Pack > Warscrolls",
+  "text": "Gutter Runners are deadly closequarters opponents, wielding lethal poisons and an array of rat-borne explosives to disorient and devastate foes. • SPEARHEAD WARSCROLL • Gutter Runners MELEE WEAPONS Atk Hit Wnd Rnd Dmg Eshin Specialist Blades [ Crit (Mortal) ] Eshin Specialist Blades Crit (Mortal) 3 3+ 4+ 1 1 Once Per Turn (Army), Your Charge Phase BOMB RATS : Many Gutter Runners are experts in the use of improvised explosives, using skittering Bomb Rats to rush the enemy and detonate amongst them in a burst of warpstone-fuelled fury. Declare: You can only use this ability if this unit has a Bomb Rat token . Pick an enemy unit within 9\" of this unit to be the target. Then, roll a dice. Effect: On a 3+, inflict 1 mortal damage on the target. On a 1-2, remove this unit’s Bomb Rat token from the battlefield. KEYWORDS INFANTRY , REINFORCEMENTS , WARD ( 6+ ) • SPEARHEAD WARSCROLL • Night Runners 7\" 1 6+ 1 6+ Night Runners are the lowliest acolytes of the Clans Eshin, seen as an entirely disposable asset by their masters. Often their fate is to be hurled into the enemy’s path and provide a distraction with their messy deaths, allowing more adroit killers to carry out their subtle missions amongst the mayhem. Still, Night Runners are trained and equipped to a level beyond their equivalents in the other Great Clans. Wielding shuriken, slings and poisoned blades, they can overwhelm isolated prey, while the smoke bombs they carry allow the most capable among them to slip away before retribution arrives.",
+  "spearhead_name": "Crixxit's Kill-Pack"
+ },
+ {
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Crixxit's Kill-Pack > Warscrolls",
+  "text": "blades, they can overwhelm isolated prey, while the smoke bombs they carry allow the most capable among them to slip away before retribution arrives. • SPEARHEAD WARSCROLL • Night Runners RANGED WEAPONS Rng Atk Hit Wnd Rnd Dmg Slings and Poisoned Stars [ Shoot in Combat , Crit (Auto-wound) ] Slings and Poisoned Stars Shoot in Combat , Crit (Auto-wound) 10\" 2 4+ 4+ - 1 MELEE WEAPONS Atk Hit Wnd Rnd Dmg Poisoned Blades [ Crit (Mortal) ] Poisoned Blades Crit (Mortal) 2 4+ 5+ - 1 Once Per Turn (Army), Any Combat Phase SMOKE BOMBS : The Clans Eshin use smoke bombs to cause confusion and disorientate the enemy. Declare: This unit can only use this ability if it is in combat . Roll a dice. Effect: On a 4+, this unit can immediately use the ‘ Retreat ’ ability as if it were your movement phase. KEYWORDS INFANTRY , REINFORCEMENTS , WARD ( 6+ )",
+  "spearhead_name": "Crixxit's Kill-Pack"
+ },
+ {
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Warpspark Clawpack",
+  "text": "Skaven society is formed of competing clans, each believing that they possess the finest means of destroying the surface dwellers – and that every other clan is out to undermine them. On this latter assumption, they are entirely correct. It takes the Grey Seers, prophets of the Great Horned Rat, to bind the forces of competing clans into something approaching a unified force. Of course, Grey Seers inevitably have their own nefarious agendas, but the retinues and clawpacks they command remain immensely dangerous. Warpspark Clawpacks are formed when the teeming multitudes of the Clans Verminus are wielded alongside the volatile war machines of the Clans Skryre. Clanrats emerge from hidden caverns and gnawholes, making up for their natural cowardice with a violent frenzy. The Clanrats, however, ultimately serve to die at a Grey Seer’s discretion and provide an opportunity for devastating Skryre technology to be brought to bear. Stormfiends are towering warbeasts with weapons grafted to their limbs, able to bludgeon foes up close or blast them apart at range. For raw power, however, nothing can match the Warp Lightning Cannon. Amongst the most feared weapons of the Skryre clans, they are unreliable tools – but should one discharge a crackling bolt at full power, the target’s doom is assured. This Spearhead army consists of the following units: General Grey Seer Units 3 Stormfiends 1 Warp Lightning Cannon 10 Clanrats 10 Clanrats",
+  "spearhead_name": "Warpspark Clawpack"
+ },
+ {
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Warpspark Clawpack > Battle Traits",
+  "text": "Once Per Phase, Enemy Movement Phase ALWAYS THREE CLAWSTEPS AHEAD : The best-laid plans of the Skaven never go awry (or so they claim). Declare: Pick a friendly unit that is not in combat . Effect: That unit can use the ‘ Normal Move ’ ability as if it were your movement phase.",
+  "spearhead_name": "Warpspark Clawpack"
+ },
+ {
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Warpspark Clawpack > Regiment Abilities",
+  "text": "Pick 1 of the following regiment abilities. Once Per Battle, Reaction: Opponent declared an ATTACK ability and targeted your Stormfiends unit WARPSTONE-LACED ARMOUR : Lurid green lightning begins to crackle across the armour of the Stormfiends, momentarily deflecting any blows levelled at them. Used By: Your Stormfiends unit Effect: Your Stormfiends unit has WARD ( 5+ ) for the rest of the turn. Passive ENDLESS SWARM OF RATS : From the many gnawholes that encircle the battlefield, more and more verminkin swarm forth without cease. Effect: When a friendly Clanrats unit uses its ‘Seething Swarm’ ability, you can return D6 slain models to that unit instead of D3.",
+  "spearhead_name": "Warpspark Clawpack"
+ },
+ {
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Warpspark Clawpack > Enhancements",
+  "text": "Give your general 1 of the following enhancements. Passive SKILLED MANIPULATOR : This Grey Seer is particularly devious and self-serving, deftly ensuring that their minions are always conveniently positioned between themselves and potential threats. Effect: Your general has WARD ( 4+ ) while they are within 1\" of any friendly Clanrats units. Once Per Battle, Any Combat Phase CAGE OF WARP LIGHTNING : A ‘gift’ to the Grey Seer from the Clans Skryre, when this unstable device works correctly, it can momentarily trap its victims in a prison of thrashing galvanic tendrils. Declare: Pick a visible enemy unit within 6\" of your general and roll a dice. Effect: On a 2+, the enemy unit has STRIKE-LAST this phase. On a 1, inflict 1 mortal damage on your general. Your Hero Phase SKITTERLEAP : The Grey Seer vanishes in a puff of foul-smelling smoke, reappearing elsewhere on the battlefield an eye-blink later. Declare: Make a casting roll of 2D6. Effect: On a 6+, remove your general from the battlefield and set them up again on the battlefield more than 6\" from all enemy units. They cannot use MOVE abilities in the following movement phase. Any Combat Phase SCURRY AWAY : This Grey Seer is a staunch believer in the Skaven philosophy that prudent cowardice is a virtue, and they do not think twice about scampering to safety when things look to be going south. Effect: Roll a dice. On a 3+, this unit can immediately use the ‘ Retreat ’ ability as if it were your movement phase. If it does so, no mortal damage is inflicted on it.",
+  "spearhead_name": "Warpspark Clawpack"
+ },
+ {
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Warpspark Clawpack > Warscrolls",
+  "text": "• SPEARHEAD WARSCROLL • Grey Seer 6\" 5 6+ 2 Grey Seers are marked out from their minions not only by their pale fur and curling horns but also by their ability to wield the withering magics of the Great Horned Rat. They serve as the executors of their terrible god’s will amongst the clans – though this does not prevent them from pursuing their own schemes as a matter of course. Able to handle warpstone with greater ease than fellow ratmen, a Grey Seer will use all manner of relics to try and glean an advantage, all while using their sorcery and innate cunning to undermine and drag down enemies and rivals alike. • SPEARHEAD WARSCROLL • Grey Seer MELEE WEAPONS Atk Hit Wnd Rnd Dmg Warpstone Staff Warpstone Staff 3 4+ 4+ 1 D3 Your Hero Phase WILL OF THE HORNED RAT : None among the Skaven clans may defy the commands of a Grey Seer – openly, at least… Declare: Pick a friendly unit wholly within 13\" of this unit to be the target, then roll a dice. Effect: On a 3+, add the roll to the target’s control score until the start of your next turn. Your Hero Phase WITHER : The Grey Seer hurls a glowing green globe of magical energy at the foe. Anyone touched by the globe starts to shrivel and wither away. Declare: Pick a visible enemy unit within 13\" of this unit to be the target, then make a casting roll of 2D6. Effect: On a 6+, inflict D3 mortal damage on the target. KEYWORDS HERO , WIZARD , INFANTRY • SPEARHEAD WARSCROLL • Clanrats 6\" 1 5+ 1 Clanrats form the verminous masses of Skavendom, an endless sea of filthy fangs, rusty blades and red eyes filled with malice. They are spite made manifest, seeking to advance their own position while leaving rivals – which is everyone – to a grisly fate.",
+  "spearhead_name": "Warpspark Clawpack"
+ },
+ {
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Warpspark Clawpack > Warscrolls",
+  "text": "They are spite made manifest, seeking to advance their own position while leaving rivals – which is everyone – to a grisly fate. Clanrats are utterly expendable to their masters, herded forwards in chittering swarms to slow an enemy and die upon their blades. Yet though Clanrats are craven by nature, they can be overcome by a terrible frenzy in battle – and should one fall, there are always more where they came from… • SPEARHEAD WARSCROLL • Clanrats MELEE WEAPONS Atk Hit Wnd Rnd Dmg Rusty Blade Rusty Blade 2 4+ 5+ - 1 End of Any Turn SEETHING SWARM : Sweeping forward in a chittering mass, Clanrats overwhelm their enemies with their seemingly limitless numbers, biting, stabbing, screeching and trampling their own fallen beneath their bloody claws. Effect: You can return D3 slain models to this unit. KEYWORDS INFANTRY , REINFORCEMENTS • SPEARHEAD WARSCROLL • Stormfiends 6\" 6 4+ 2 Stormfiends represent the flesh-crafting arts of the Clans Moulder and the warped weaponsmithing of the Clans Skryre brought together in dreadful symbiosis. They are hulking brutes implanted with all manner of weapons, from rotary ratling cannons and windlaunchers that hurl globes of poison gas to wrecking-ball clubs and shock gauntlets capable of sparking fierce chain reactions. To operate these devices is beyond the intellect of the typical Rat Ogor, and so each Stormfiend has grafted to them a ghoulish and withered ‘brain-rat’ that makes up the difference. Yet the Stormfiends’ duties are simple enough – bring blasting, crushing death to the enemies of the Skaven.",
+  "spearhead_name": "Warpspark Clawpack"
+ },
+ {
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Warpspark Clawpack > Warscrolls",
+  "text": "Yet the Stormfiends’ duties are simple enough – bring blasting, crushing death to the enemies of the Skaven. • SPEARHEAD WARSCROLL • Stormfiends RANGED WEAPONS Rng Atk Hit Wnd Rnd Dmg Ratling Cannons Ratling Cannons 15\" 3D6 4+ 3+ 1 1 Windlaunchers Windlaunchers 15\" 3 4+ 3+ 2 D3 MELEE WEAPONS Atk Hit Wnd Rnd Dmg Shock Gauntlets Shock Gauntlets 4 4+ 2+ 1 2 Clubbing Blows Clubbing Blows 4 4+ 2+ - 2 This unit has 1 Stormfiend armed with Shock Gauntlets, 1 Stormfiend armed with Windlaunchers and Clubbing Blows, and 1 Stormfiend armed with Ratling Cannons and Clubbing Blows. Passive SHOCK GAUNTLETS : Sometimes the electrical discharge created by a pair of shock gauntlets triggers a series of linked explosions. Effect: Each time an attack made with this unit’s Shock Gauntlets scores a critical hit , that attack scores D6 hits instead of 1 (make a wound roll for each hit). KEYWORDS INFANTRY • SPEARHEAD WARSCROLL • Warp Lightning Cannon 3\" 8 4+ 2 Warp Lightning Cannons are perhaps the most infamous wonder-weapons of the Clans Skryre. Channelling volatile energies through a chunk of potent warpstone, they unleash blasts of ruinous energies that can reduce targets to ash. Warp Lightning Cannons are unpredictable creations, prone to shorting out or catastrophically overtaxing themselves at inopportune moments. When operating at maximum capacity, however, a Warp Lightning Cannon can stop a gargant in its tracks.",
+  "spearhead_name": "Warpspark Clawpack"
+ },
+ {
+  "faction": "Skaven",
+  "faction_slug": "skaven",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Warpspark Clawpack > Warscrolls",
+  "text": "When operating at maximum capacity, however, a Warp Lightning Cannon can stop a gargant in its tracks. • SPEARHEAD WARSCROLL • Warp Lightning Cannon RANGED WEAPONS Rng Atk Hit Wnd Rnd Dmg Warp Lightning Blast Warp Lightning Blast 20\" 2D6 4+ See below MELEE WEAPONS Atk Hit Wnd Rnd Dmg Crew's Teeth and Knives Crew's Teeth and Knives D6 4+ 5+ - 1 Passive WARP LIGHTNING BLAST : A Warp Lightning Cannon fires massive bolts of warp lightning that disintegrate any who are struck by them. Effect: Each attack made with this weapon in a single phase must target the same enemy unit. Each hit inflicts 1 mortal damage on the target and the attack sequence ends. KEYWORDS WAR MACHINE noindex /noindex noindex",
+  "spearhead_name": "Warpspark Clawpack"
+ }
+]

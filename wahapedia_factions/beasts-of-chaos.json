@@ -1,0 +1,106 @@
+[
+ {
+  "faction": "Beasts of Chaos",
+  "faction_slug": "beasts-of-chaos",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "",
+  "text": "/noindex In the wildest corners of every realm, the Beasts of Chaos gather for war. They are anarchy given form, monstrous amalgams of animal and man intent on tearing down the wonders of civilisation and reducing the Mortal Realms to ruin. Birthed from the warping taint of Chaos and imbued with bestial fury, they stampede towards their foes in vast herds, leaving only horror and devastation in their wake. This page contains all of the rules you need to field your Beasts of Chaos miniatures on the battlefields of the Mortal Realms, from a host of exciting faction rules to a range of warscrolls. The rules are split into the following sections:"
+ },
+ {
+  "faction": "Beasts of Chaos",
+  "faction_slug": "beasts-of-chaos",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Traits",
+  "text": "Beasts of Chaos armies can use the following abilities: Deployment Phase MASTERS OF THE WILDERNESS : The wild lands of the Mortal Realms are the territory of the Beasts of Chaos, and they have dwelt in these places for longer than can be remembered. Declare: Pick a friendly BEASTS OF CHAOS unit that has not been deployed. Effect: Set up that unit in reserve in ambush . It has now been deployed. Designer’s Note: Any number of friendly BEASTS OF CHAOS units can start the battle in reserve – even your entire Beasts of Chaos army! KEYWORDS DEPLOY Your Movement Phase BEASTHERD AMBUSH : As the beasts close upon their foes, horn-blasts sound in every direction, signalling the launch of a deadly ambush. Declare: Pick a friendly BEASTS OF CHAOS unit that is in ambush . Effect: Set up that unit on the battlefield wholly within 9\" of a battlefield edge and more than 9\" from all enemy units. For the rest of the turn, add 1 to charge rolls for that unit. Once Per Turn (Army), Your Hero Phase RITUALS OF RUIN : The mightiest of the beastmen worship the power of primeval Chaos, slaughtering and devouring in order to be blessed with strength or to force their opponents into throes of primal savagery. Effect: Pick 1 of the following effects: Warping Curse: Pick an enemy unit within 12\" of a friendly BEASTS OF CHAOS HERO or, if there is a friendly BEASTS OF CHAOS HERO in reserve, within 12\" of a battlefield edge to be the target. Then, roll a D3. On a 2+, inflict an amount of mortal damage on the target equal to the roll. Brand of Wild Fury: Pick a friendly BEASTS OF CHAOS unit wholly within 12\" of a friendly BEASTS OF CHAOS HERO or, if there is a friendly BEASTS OF CHAOS HERO in reserve, wholly within 12\" of a battlefield edge to be the target. Then, roll a dice."
+ },
+ {
+  "faction": "Beasts of Chaos",
+  "faction_slug": "beasts-of-chaos",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Traits",
+  "text": "Then, roll a dice. On a 2+, the target has WARD ( 6+ ) for the rest of the turn. Bestial Instinct: Pick a friendly BEASTS OF CHAOS unit wholly within 12\" of a friendly BEASTS OF CHAOS HERO or, if there is a friendly BEASTS OF CHAOS HERO in reserve, wholly within 12\" of a battlefield edge to be the target. Then, roll a dice. On a 2+, add 1 to wound rolls for the target’s combat attacks for the rest of the turn."
+ },
+ {
+  "faction": "Beasts of Chaos",
+  "faction_slug": "beasts-of-chaos",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations",
+  "text": "You can pick 1 of the following battle formations for a Beasts of Chaos army. Each battle formation grants a different ability you can use in the battle. BATTLE PROFILE Name Points Almighty Beastherd 0 Hungering Warherd 0 Marauding Brayherd 0 Thunderscorn Stormherd 0"
+ },
+ {
+  "faction": "Beasts of Chaos",
+  "faction_slug": "beasts-of-chaos",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Almighty Beastherd",
+  "text": "Passive ARCH-DESPOILERS : The rampaging creatures of the beastherds despise all aspects of civilisation, and they will tear down monuments with their bare hands if necessary. Effect: Add 1 to hit rolls for combat attacks made by friendly BEASTS OF CHAOS units that target an enemy unit that is contesting an objective you do not control."
+ },
+ {
+  "faction": "Beasts of Chaos",
+  "faction_slug": "beasts-of-chaos",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Hungering Warherd",
+  "text": "End of Any Turn BLOODGREED : Those beastmen in the throes of the bloodgreed who sate their cursed hunger for flesh are all but impossible to put down. Declare: Pick each friendly WARHERD unit that used a FIGHT ability this turn to be the targets. Effect: Heal (3) each target."
+ },
+ {
+  "faction": "Beasts of Chaos",
+  "faction_slug": "beasts-of-chaos",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Marauding Brayherd",
+  "text": "Once Per Turn (Army), Reaction: You declared a CHARGE ability for a friendly BRAYHERD unit FIENDS OF THE WILDS : To the blasting of brayhorns come the roaming brayherds, stampeding from all directions to tear the enemy asunder. Effect: Change one of the dice in the charge roll to a 4."
+ },
+ {
+  "faction": "Beasts of Chaos",
+  "faction_slug": "beasts-of-chaos",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Thunderscorn Stormherd",
+  "text": "Your Hero Phase RAGING STORM : Lightning arcs down to the battlefield, imbuing the Thunderscorn with renewed vigour and smiting their enemies with lethal crackling energy. Declare: Pick each friendly THUNDERSCORN unit on the battlefield to be the friendly targets, then pick each enemy unit in combat with any friendly THUNDERSCORN units to be the enemy targets. Effect: Heal (1) each friendly target. Then, roll a D3 for each enemy target, if any. On a 2+, inflict an amount of mortal damage on the enemy target equal to the roll."
+ },
+ {
+  "faction": "Beasts of Chaos",
+  "faction_slug": "beasts-of-chaos",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Heroic Traits > Alphabeast Instincts",
+  "text": "HERO only BATTLE PROFILE Name Points DEATH-GRIP 0 BESTIAL CUNNING 0 PROPAGATOR OF RUIN 0 Once Per Turn, Reaction: Opponent declared a SHOOT ability that targeted a friendly Beasts of Chaos unit DEATH-GRIP : As the enemy brings their firepower to bear, this general urges their kin to stay within claw’s grasp of their assailants. Effect: If that friendly BEASTS OF CHAOS unit is not in combat and is wholly within 18\" of this unit, after the SHOOT ability has been resolved, that friendly unit can move 2D6\". It can move into combat. Your Movement Phase BESTIAL CUNNING : Bestial warlords might lack the tactical nous of trained soldiers, but there are few creatures more adept at sniffing out an enemy’s weakness and violently exploiting it. Declare: Pick up to 3 friendly BEASTS OF CHAOS units wholly within 12\" of this unit that were set up this turn using the ‘ Beastherd Ambush ’ ability to be the targets. Effect: Each target can immediately move D3\". The targets cannot move into combat during any part of that move. Passive PROPAGATOR OF RUIN : This general seethes with anarchic power and with their every action seeks to promulgate the majesty of Chaos. Effect: While this unit is on the battlefield, you can use the ‘ Rituals of Ruin ’ ability twice per turn in your hero phase instead of once per turn. You cannot pick the same effect more than once per turn."
+ },
+ {
+  "faction": "Beasts of Chaos",
+  "faction_slug": "beasts-of-chaos",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Artefacts of Power > Anarchic Relics",
+  "text": "HERO only BATTLE PROFILE Name Points SLITHERWRACK HELM 0 GNARLSTAFF OF MORGHUR 0 BRAYBLAST TRUMPET 0 Passive SLITHERWRACK HELM : This war-helm was fashioned from the skull of an infamous toad dragon; its pure repulsiveness causes enemies to retch and reel, rendering them helpless in their disgust. Effect: Subtract 1 from charge rolls for enemy units while they are within 12\" of this unit. Your Hero Phase GNARLSTAFF OF MORGHUR : Infused with the corrupting taint of the Shadowgave, the hideous mewling sounds emitted by this staff unmake the arcane wards of the enemy. Declare: Pick a visible enemy unit within 12\" of this unit to be the target. Effect: Roll a dice. On a 2+, ward rolls cannot be made for the target for the rest of the turn. Your Movement Phase BRAYBLAST TRUMPET : Carved from the bone of a Shaggoth, the thunderous blasts of this horn draw the true children of Chaos towards it. Declare: Pick a friendly non- UNIQUE BEASTS OF CHAOS INFANTRY or non- CAVALRY unit that started the battle with 2 or more models and that has been destroyed to be the target. Effect: Roll a dice. On a 4+, set up a replacement unit with half the number of models from the target unit (rounding up) wholly within 12\" of a battlefield edge and more than 9\" from all enemy units."
+ },
+ {
+  "faction": "Beasts of Chaos",
+  "faction_slug": "beasts-of-chaos",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Spell Lore",
+  "text": "BATTLE PROFILE Name Points Lore of the Twisted Wilds 0"
+ },
+ {
+  "faction": "Beasts of Chaos",
+  "faction_slug": "beasts-of-chaos",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Spell Lore > Lore of the Twisted Wilds",
+  "text": "Your Hero Phase 7 VILETIDE : A seemingly ceaseless wave of bile, gore and writhing insects crashes into the enemy. Declare: Pick a friendly BEASTS OF CHAOS WIZARD to cast this spell, pick a visible enemy unit within 12\" of them to be the target, then make a casting roll of 2D6. Effect: Inflict D3 mortal damage on the target. In addition, until the start of your next turn, the target cannot use commands . KEYWORDS SPELL, UNLIMITED Your Hero Phase 8 VICIOUS STRANGLETHORNS : Twisting, thorn-covered vines erupt from the undergrowth to ensnare the foe. Declare: Pick a friendly BEASTS OF CHAOS WIZARD to cast this spell, pick a visible enemy unit within 12\" of them to be the target, then make a casting roll of 2D6. Effect: Until the start of your next turn: Halve the target’s Move characteristic. Subtract 1 from the number of dice rolled when making charge rolls for the target, to a minimum of 1. KEYWORDS SPELL Your Hero Phase 7 DEVOLVE : Delving into the minds of their enemies, the shaman magnifies the savage and animalistic parts of their foes’ psyches until they are little more than growling beasts. Declare: Pick a friendly BEASTS OF CHAOS WIZARD to cast this spell, pick a visible enemy non- HERO unit within 12\" of them to be the target, then make a casting roll of 2D6. Effect: Until the start of your next turn: The target unit has a maximum control score of 1. The target cannot use commands . Each time the target moves, if the caster is on the battlefield, the target must end that move no further from the caster than it was at the start of the move. KEYWORDS SPELL"
+ },
+ {
+  "faction": "Beasts of Chaos",
+  "faction_slug": "beasts-of-chaos",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Manifestation Lore > Bestial Manifestations",
+  "text": "Your Hero Phase 7 SUMMON WILDFIRE TAURUS : Wisps of flame develop into a roaring, charging beast of black smoke and wildfire. Declare: If there is not a friendly Wildfire Taurus on the battlefield, pick a friendly BEASTS OF CHAOS WIZARD to cast this spell, then make a casting roll of 2D6. Effect: Set up a Wildfire Taurus wholly within 18\" of the caster and more than 9\" from all enemy units. KEYWORDS SUMMON, SPELL Your Hero Phase 7 SUMMON RAVENING DIREFLOCK : Dark feathers borne on the wind coalesce to form the terrible shapes of the Ravening Direflock. Declare: If there is not a friendly Ravening Direflock on the battlefield, pick a friendly BEASTS OF CHAOS WIZARD to cast this spell, then make a casting roll of 2D6. Effect: Set up a Ravening Direflock wholly within 18\" of the caster and more than 9\" from all enemy units. A Ravening Direflock has 3 parts that must each be set up within 1\" of at least 1 other part. KEYWORDS SUMMON, SPELL Your Hero Phase 6 SUMMON DOOMBLAST DIRGEHORN : Drawn from beneath the earth, animal bones are fused into the shape of a giant horn. Declare: If there is not a friendly Doomblast Dirgehorn on the battlefield, pick a friendly BEASTS OF CHAOS WIZARD to cast this spell, then make a casting roll of 2D6. Effect: Set up a Doomblast Dirgehorn wholly within 18\" of the caster. KEYWORDS SUMMON, SPELL noindex /noindex noindex"
+ }
+]

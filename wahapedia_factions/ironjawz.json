@@ -1,0 +1,432 @@
+[
+ {
+  "faction": "Ironjawz",
+  "faction_slug": "ironjawz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "",
+  "text": "/noindex The warclans of the orruks are a big green fist that slams into the guts of the Mortal Realms with each new day. Followers of Gorkamorka, the god of destructive, primal violence, they fight purely for the savage joy of fighting. Ironjaw and Bonesplitter alike are caught up in a tidal wave of violence that smashes entire civilisations to rubble. This page contains all of the rules you need to field your Ironjawz miniatures on the battlefields of the Mortal Realms, from a host of exciting faction rules to a range of warscrolls. The rules are split into the following sections:"
+ },
+ {
+  "faction": "Ironjawz",
+  "faction_slug": "ironjawz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Designers’ Commentary > Battletome: Orruk Warclans",
+  "text": "Q: When using the ‘ Notorious Bosses ’ ability, can I give a target a heroic trait that another unit already has? A: No. Q: Can each part of the Foot of Gork use the ‘Wandering Destruction’ ability each turn? A: No. This is a single manifestation with multiple parts, so it can only use that ability once in each turn. Q: In the ‘Ironjawz Bigmob’ Spearhead army, are the Brute Ragerz set up during the deployment phase? A: Yes. Only the Brutes are not set up on the battlefield during the deployment phase. The Brute Ragerz are a different unit type, so are set up normally. Q: When using the ‘ Mightiest Destroyers ’ ability, can I pick a second target if there is a Megaboss on Maw-Krusha on the battlefield? A: No. The ability specifies the unit name, so only a Megaboss unit is eligible. Q: Is damage inflicted on a unit that finished a move within 6\" of a trampled by Gork terrain feature damage inflicted by a PRAYER ability? A: Yes."
+ },
+ {
+  "faction": "Ironjawz",
+  "faction_slug": "ironjawz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Traits",
+  "text": "Ironjawz armies can use the following abilities: Once Per Turn (Army), Any Hero Phase MIGHTY DESTROYERS : The Ironjawz won’t let anything get between them and a good scrap. Declare: Pick a friendly IRONJAWZ unit that was not set up this turn to be the target. Effect: The target can move up to 3\". It can move into combat. If it was in combat at the start of the move, it must end that move in combat. ‘Once Per Turn (Army), Your Charge Phase IRONJAWZ WAAAGH! : With a roar that shakes the battlefield, the Ironjawz charge as one, eager to crack skulls. Declare: Pick a friendly IRONJAWZ HERO to be the target. You cannot pick the same HERO to be the target of this ability more than once per battle. Effect: For the rest of the turn, the following effects apply to friendly IRONJAWZ units while they are wholly within 18\" of the target: Add 1 to charge rolls for those units. Add 1 to the Attacks characteristic of those units’ melee weapons. KEYWORDS WAAAGH!"
+ },
+ {
+  "faction": "Ironjawz",
+  "faction_slug": "ironjawz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations",
+  "text": "You can pick 1 of the following battle formations for a Ironjawz army. Each battle formation grants a different ability you can use in the battle. BATTLE PROFILE Name Points Ironjawz Brawl 0 Weirdfist 0 Ironfist 0 Grunta Stampede 0 Brutefist 0 Bigsnikkaz 0"
+ },
+ {
+  "faction": "Ironjawz",
+  "faction_slug": "ironjawz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Ironjawz Brawl",
+  "text": "Passive NATURAL DISASTER : A mass of heavily armoured orruks and their bulky beasts of war, an Ironjawz Brawl hits the enemy line like a landslide if it gains enough momentum, leaving a trail of carnage and blazing ruin in its wake. Effect: If you make an unmodified charge roll of 8+ for a friendly non- HERO IRONJAWZ unit, add 1 to the Attacks characteristic of that unit’s melee weapons for the rest of the turn."
+ },
+ {
+  "faction": "Ironjawz",
+  "faction_slug": "ironjawz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Weirdfist",
+  "text": "Passive SPIRIT OF GORK : The roiling Waaagh! energy that emanates from the Weirdfist shamans fills nearby Ironjawz with the fighting spirit and hardiness of Gork. Effect: Friendly IRONJAWZ INFANTRY units have WARD ( 6+ ) while they are wholly within 12\" of any friendly IRONJAWZ WIZARDS or PRIESTS ."
+ },
+ {
+  "faction": "Ironjawz",
+  "faction_slug": "ironjawz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Ironfist",
+  "text": "Passive SMASHIN’ AND BASHIN’ : The orruks of an Ironfist won’t be outdone by each other – when one mob duffs up the enemy, it inspires others to show them how to do it properly! Effect: The first time each turn that an enemy unit is destroyed by a FIGHT ability used by a friendly IRONJAWZ unit, add 1 to hit rolls for combat attacks made by the next friendly IRONJAWZ unit that is picked to use a FIGHT ability for the rest of the turn."
+ },
+ {
+  "faction": "Ironjawz",
+  "faction_slug": "ironjawz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Grunta Stampede",
+  "text": "Passive ’ERE WE COME! : Once a grunta stampede gets going and the hogs are all riled up, there are few forces in the realms with the power to halt its momentum. Effect: Add the number of enemy units that have been destroyed this battle to the Move characteristic of friendly Gore-gruntas and MAW-GRUNTA units, to a maximum of +4."
+ },
+ {
+  "faction": "Ironjawz",
+  "faction_slug": "ironjawz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Brutefist",
+  "text": "Once Per Battle Round (Army), Any Hero Phase MIGHTIEST DESTROYERS : Wherever the Megabosses lead from the front lines, the Ironjawz surge forward as an unstoppable tide of green muscle and heavy armour plates. Effect: If there are any friendly Megabosses on the battlefield, for the rest of the turn, you can pick another eligible unit to be a second target when using the ‘ Mighty Destroyers ’ ability. If there are no friendly Megabosses on the battlefield, roll a dice. On a 3+, for the rest of the turn, you can pick another eligible unit to be a second target when using the ‘Mighty Destroyers’ ability."
+ },
+ {
+  "faction": "Ironjawz",
+  "faction_slug": "ironjawz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Bigsnikkaz",
+  "text": "Once Per Turn (Army), Any Combat Phase DUFF UP DA BIG THING : The ladz get ready to bash some uppity git who thinks that being bigger than an orruk gives them some kind of advantage. Declare: Pick a friendly IRONJAWZ unit to be the target. Effect: For the rest of the turn, add 1 to wound rolls for the target’s combat attacks that target an enemy unit that has a Health characteristic greater than its own."
+ },
+ {
+  "faction": "Ironjawz",
+  "faction_slug": "ironjawz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Heroic Traits > Brutal Warlords",
+  "text": "HERO only BATTLE PROFILE Name Points AN EYE FOR DA FIGHT 0 MEGA BOSSY 0 HULKING BRUTE 0 Reaction: You declared the ‘ Redeploy ’ command for a friendly IRONJAWZ unit wholly within 12\" of this unit AN EYE FOR DA FIGHT : This orruk is among the most dangerous of their brutal kind: one who instinctively understands the flow of battle and knows just where the best fights are likely to kick off. Effect: If you roll a 1-3 when determining the distance that unit can move, you can use a value of 4 instead. Passive MEGA BOSSY : This boss’s booming voice constantly rings out across the battlefield, ‘encouraging’ their ladz to get krumpin’. Effect: If this unit charged this turn, for the rest of the turn, add 1 to charge rolls for friendly IRONJAWZ units while they are wholly within 18\" of this unit. Any Charge Phase HULKING BRUTE : Even by orruk standards, this boss is huge, and he is ever eager to throw his immense weight around in battle. Declare: If this unit charged this turn, pick an enemy unit within 1\" of it to be the target. Effect: Roll a D3. On a 2+, inflict an amount of mortal damage on the target equal to the roll. If this unit’s unmodified charge roll this turn was 8+, roll a D6 instead of a D3."
+ },
+ {
+  "faction": "Ironjawz",
+  "faction_slug": "ironjawz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Artefacts of Power > Da Boss’s Hoard",
+  "text": "HERO only BATTLE PROFILE Name Points TROPHY SKULLS 0 ARMOUR OF GORK 0 AMBERBONE WHETSTONE 0 Passive TROPHY SKULLS : Festooned with the skulls of those who crossed them, be they ferocious beast or mighty warrior, there’s no doubt that this orruk means business. Effect: Add 10 to this unit’s control score. Passive ARMOUR OF GORK : This bashed-together armour is thick, heavy and possessed of its own fierce fighting spirit. Effect: This unit has WARD ( 6+ ) . Deployment Phase AMBERBONE WHETSTONE : This prized sharpening stone, laced with veins of realmstone, is found deep in the crags of Ghur. It is loved by the Ironjawz for its ability to make a weapon ‘ded sharp’. Effect: Pick 1 of this unit’s weapons. Add 1 to the Rend characteristic of that weapon for the rest of the battle."
+ },
+ {
+  "faction": "Ironjawz",
+  "faction_slug": "ironjawz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Artefacts of Power > Da Boss’s Hoard",
+  "text": "HERO only BATTLE PROFILE Name Points CHIMERIC MANTLE 0 HORN OF SHATTATUSK 20 WEIRD SKULLZ 0 Any Combat Phase CHIMERIC MANTLE : Crudely stitched together from the pelts and hides of myriad different creatures, this orruk’s ragged cloak causes beasts to recoil in fear. Declare: Pick an enemy unit in combat with this unit to be the target. Effect: For the rest of the turn, subtract D3 from the Attacks characteristic of the target’s Companion weapons while it is in combat with this unit. Reaction: You declared the ‘ Ironjawz Waaagh! ’ ability and picked this unit to be the target HORN OF SHATTATUSK : Purportedly crafted from one of the godbeast’s tusks, a blast from this horn imbues the Ironjawz’ charging beasts with the same bellicosity as their riders. Effect: For the rest of the turn, add 1 to the Attacks characteristic of Companion weapons used by friendly IRONJAWZ units while they are wholly within 18\" of this unit. Your Shooting Phase WEIRD SKULLZ : Originally belonging to Weirdnobs who died of ‘unknown causes’, these caved-in skulls exude Waaagh! energy that can give nearby foes pounding headaches, making it difficult for them to focus. Declare: Pick a visible enemy unit within 18\" of this unit to be the target. Effect: Roll a dice. If the target is within 12\" of this unit, add 1 to the roll. On a 4+: Inflict 1 mortal damage on the target. Subtract 1 from the target’s power level until the start of your next turn."
+ },
+ {
+  "faction": "Ironjawz",
+  "faction_slug": "ironjawz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Monstrous Traits",
+  "text": "Monstrous Traits are enhancements that can only be given to MONSTERS . A unit can only have 1 Monstrous Trait. BATTLE PROFILE Name Points BIG ’UN 0 MAD ’UN 0 FAST ’UN 0 Passive BIG ’UN : This beast is noticeably more muscular and krumpier than others of its kind. Effect: Add 1 to the Rend characteristic of this unit’s Companion weapons. Once Per Turn (Army), Any Combat Phase MAD ’UN : Once this crazed beast starts its rampage, it will keep going until everything nearby has been smashed into a red paste. Declare: If this unit charged this turn, pick an enemy unit in combat with it to be the target. Effect: Roll a D3. On a 2+, inflict an amount of mortal damage on the target equal to the roll. If any models are slain by this ability, after those models are removed from the battlefield, if this unit is still in combat, this unit can immediately use this ability again. KEYWORDS RAMPAGE Once Per Battle, Your Hero Phase FAST ’UN : This beast lurches forward at a speed that would take anyone by surprise. Effect: If this unit was not set up this turn, it can use the ‘ Normal Move ’ ability as if it were your movement phase."
+ },
+ {
+  "faction": "Ironjawz",
+  "faction_slug": "ironjawz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Monstrous Traits > Brutal Beasts",
+  "text": "( IRONJAWZ MONSTER only) BATTLE PROFILE Name Points BIG ’UN 10 FAST ’UN 10 ANGRY ’UN 10 Passive BIG ’UN : This beast is noticeably more muscular and krumpier than others of its kind. Effect: Add 1 to the Rend characteristic of this unit’s Companion weapons. Once Per Battle, Your Hero Phase FAST ’UN : The beast lurches forward at a speed that would take anyone by surprise. Effect: If this unit was not set up this turn, it can use the ‘ Normal Move ’ ability as if it were your movement phase. Any Charge Phase ANGRY ’UN : Particularly irascible, this beast takes its rage out on anything that gets in its way. Declare: If this unit charged this turn, pick a visible enemy unit within 1\" of it to be the target. Effect: Roll a number of dice equal to your fury level . For each 3+, inflict 1 mortal damage on the target."
+ },
+ {
+  "faction": "Ironjawz",
+  "faction_slug": "ironjawz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Spell Lore",
+  "text": "BATTLE PROFILE Name Points Lore of the Weird 0"
+ },
+ {
+  "faction": "Ironjawz",
+  "faction_slug": "ironjawz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Spell Lore > Lore of the Weird",
+  "text": "Your Hero Phase 6 BASH ’EM LADZ! : Pulsing waves of Waaagh! energy radiate from the shaman, boosting the fighting prowess of nearby Ironjawz. Declare: Pick a friendly IRONJAWZ WIZARD to cast this spell, pick a visible friendly IRONJAWZ unit wholly within 12\" of them to be the target, then make a casting roll of 2D6. Effect: The target’s melee weapons have Crit (2 Hits) until the start of your next turn.’ KEYWORDS SPELL, UNLIMITED Your Hero Phase 6 MIGHTY ’EADBUTT : The shaman headbutts the air, projecting a wave of green energy that seeks out enemies, especially spell-flingas, to nut. Declare: Pick a friendly IRONJAWZ WIZARD to cast this spell, pick a visible enemy unit within 18\" of them to be the target, then make a casting roll of 2D6. Effect: Inflict D3 mortal damage on the target. If the target is a WIZARD , inflict 3 mortal damage on the target instead. KEYWORDS SPELL Your Hero Phase 7 DA GREAT BIG GREEN HAND OF GORK : A ghostly green hand picks up a mob of Ironjawz and plonks them back down where they are most needed. Declare: Pick a friendly IRONJAWZ WIZARD to cast this spell, pick a visible friendly unit wholly within 12\" of them and not in combat to be the target, then make a casting roll of 2D6. Effect: Remove the target from the battlefield and set it up again wholly within 24\" of the caster and more than 9\" from all enemy units. KEYWORDS SPELL"
+ },
+ {
+  "faction": "Ironjawz",
+  "faction_slug": "ironjawz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Prayer Lore > Warbeats",
+  "text": "Your Hero Phase 4 GET ’EM BEAT : A pounding rhythm is played by the Warchanter, inspiring nearby Ironjawz to wreak destruction and ruin upon their enemies. Declare: Pick a friendly IRONJAWZ PRIEST to chant this prayer, pick a visible friendly IRONJAWZ unit wholly within 12\" of them to be the target, then make a chanting roll of D6. Effect: For the rest of the turn, add 1 to charge rolls for the target. In addition, if the chanting roll was 8+, add 1 to the number of dice rolled when making charge rolls for the target, to a maximum of 3. KEYWORDS PRAYER, UNLIMITED Your Hero Phase 4 FIXIN’ BEAT : The Warchanter pounds a restorative rhythm that gives the ladz a second wind. Declare: Pick a friendly IRONJAWZ PRIEST to chant this prayer, pick a visible friendly IRONJAWZ unit wholly within 12\" of them to be the target, then make a chanting roll of D6. Effect: Heal (D6) the target. If the chanting roll was 8+, HEAL ( D3+3 ) the target instead. KEYWORDS PRAYER Your Hero Phase 5 KILLA BEAT : The Warchanter drums a thumping beat that causes raw Waaagh! energy to course through the weapons of the orruks. Declare: Pick a friendly IRONJAWZ PRIEST to chant this prayer, pick a visible friendly IRONJAWZ unit wholly within 12\" of them to be the target, then make a chanting roll of D6. Effect: AAdd 1 to the Damage characteristic of the target’s melee weapons until the start of your next turn. If the chanting roll was 10+, you can pick another eligible unit to be a second target. KEYWORDS PRAYER"
+ },
+ {
+  "faction": "Ironjawz",
+  "faction_slug": "ironjawz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Manifestation Lore",
+  "text": "BATTLE PROFILE Name Points Manifestations of Gorkamorka 0"
+ },
+ {
+  "faction": "Ironjawz",
+  "faction_slug": "ironjawz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Manifestation Lore > Manifestations of Gorkamorka",
+  "text": "Your Hero Phase 7 SUMMON FOOT OF GORK : Stamping a furiously belligerent beat, the shaman dares Gork himself to stomp the battlefield flat. Declare: If there is not a friendly Foot of Gork on the battlefield, pick a friendly IRONJAWZ WIZARD to cast this spell, then make a casting roll of 2D6. Effect: Set up a Foot of Gork wholly within 12\" of the caster, visible to them and more than 9\" from all enemy units. A Foot of Gork has 2 parts that must be set up within 9\" of each other. KEYWORDS SPELL, SUMMON Your Hero Phase 5 SUMMON MORKSPIT MARSH : The shaman summons a cruel, glowing swamp that channels memories of Gorkamorka’s past brawls. Declare: If there is not a friendly Morkspit Marsh on the battlefield, pick a friendly IRONJAWZ WIZARD to cast this spell, then make a casting roll of 2D6. Effect: Set up a Morkspit Marsh wholly within 18\" of the caster and visible to them. KEYWORDS SPELL, SUMMON Your Hero Phase 5 SUMMON GORK-ROARA : The shaman summons a leering visage of Gorkamorka that spills forth Waaagh! power. Declare: If there is not a friendly Gork-Roara on the battlefield, pick a friendly IRONJAWZ WIZARD to cast this spell, then make a casting roll of 2D6. Effect: Set up a Gork-Roara wholly within 12\" of the caster, visible to them and more than 9\" from all enemy units. KEYWORDS SPELL, SUMMON Army of Renown"
+ },
+ {
+  "faction": "Ironjawz",
+  "faction_slug": "ironjawz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Big Waaagh!",
+  "text": "When you pick the Ironjawz or Kruleboyz faction for your army, you can choose for it to be a Big Waaagh! Army of Renown . If you do so, use the faction rules on these pages instead of your chosen faction rules. For each regiment you include in a Big Waaagh! Army of Renown that is led by an IRONJAWZ HERO , you must include a regiment that is led by a KRULEBOYZ HERO and vice versa. Every unit in your army must be drawn from the units listed in the roster options box below. All units in your army gain the BIG WAAAGH! keyword. ROSTER OPTIONS Any IRONJAWZ units Any KRULEBOYZ units You cannot include Regiments of Renown You cannot include faction terrain KRULEBOYZ HEROES included in this Army of Renown can only include KRULEBOYZ units in their regiment, and IRONJAWZ HEROES included in this Army of Renown can only include IRONJAWZ units in their regiment. If your army includes Kragnos, the End of Empires , he can include either KRULEBOYZ units or IRONJAWZ units in his regiment (but not both), and he counts as a Hero from that faction for the purposes of needing to have one regiment led by an IRONJAWZ HERO for each regiment led by a KRULEBOYZ HERO and vice versa."
+ },
+ {
+  "faction": "Ironjawz",
+  "faction_slug": "ironjawz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Big Waaagh! > Battle Traits",
+  "text": "Once Per Battle, Deployment Phase NOTORIOUS BOSSES : It takes orruks of propa might and kunnin’ to keep a Big Waaagh! in line. Declare: Pick up to 1 friendly non- UNIQUE BIG WAAAGH! IRONJAWZ HERO and up to 1 friendly non- UNIQUE BIG WAAAGH! KRULEBOYZ HERO that do not have a heroic trait to be the targets. Effect: Give each target 1 heroic trait from the Big Waaagh! heroic traits. Designer’s Note: These heroic traits are given to the targets during the deployment phase , not during army composition . Once Per Turn, Your Hero Phase THE POWER OF THE WAAAGH! : The power of Gorkamorka reaches a climax of violent energy when orruks gather as a Big Waaagh!. Declare: Pick up to 1 friendly BIG WAAAGH! IRONJAWZ unit and up to 1 friendly BIG WAAAGH! KRULEBOYZ unit to be the targets. Effect: The targets have the POWER OF THE WAAAGH! keyword for the rest of the battle round. Passive POSSESSED BY THE POWER OF THE WAAAGH! : When a Waaagh! really gets going, the orruks become a terrifying force to be reckoned with. Effect: While a friendly unit has the POWER OF THE WAAAGH! keyword: If that unit has the IRONJAWZ keyword, add 1 to run rolls and charge rolls for that unit. If that unit has the KRULEBOYZ keyword, that unit’s attacks score critical hits on unmodified hit rolls of 5+. Once Per Turn, Your Movement Phase RALLY THE WARCLANS : With a great bellow, the boss encourages a mob from the seemingly endless hordes to get stuck in. Declare: If your general is on the battlefield, pick a friendly BIG WAAAGH! unit that started the battle with 3 or more models and that has been destroyed to be the target. Effect: Set up a replacement unit with half the number of models from the target unit (rounding up) wholly within 12\" of your general and more than 9\" from all enemy units."
+ },
+ {
+  "faction": "Ironjawz",
+  "faction_slug": "ironjawz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Big Waaagh! > Heroic Traits",
+  "text": "HERO only Passive TAKIN’ NAMES : The best way to keep your position at the head of a rowdy orruk horde is by duffing up anyone who looks like a challenge. Effect: If an enemy HERO is destroyed by this unit, this unit has the POWER OF THE WAAAGH! keyword for the rest of the battle. Once Per Battle, Your Hero Phase A PROPER SNEAK : When they get their Mork muscles flexin’, this boss can even get the Ironjawz moving with a semblance of stealth. Declare: You can use this ability if this unit has the POWER OF THE WAAAGH! keyword and a friendly unit has not used a BRUTAL KUNNIN’ ability this turn. Effect: For the rest of the battle round, friendly BIG WAAAGH! units have WARD ( 5+ ) while they are wholly within 12\" of this unit. KEYWORDS BRUTAL KUNNIN’ Once Per Battle, Your Hero Phase DA OLD ONE-TWO : This boss and their boyz are the masters at piling on the pain. Declare: You can use this ability if this unit has the POWER OF THE WAAAGH! keyword and a friendly unit has not used a BRUTAL KUNNIN’ ability this turn. Effect: For the rest of the battle round, friendly BIG WAAAGH! units’ melee weapons have CRIT (2 HITS) while they are wholly within 12\" of this unit. KEYWORDS BRUTAL KUNNIN’ Once Per Battle, Your Hero Phase GET KRUMPIN’! : Watching this boss go to town on an unfortunate target gets the mobs under their command well up for a brawl. Declare: You can use this ability if this unit has the POWER OF THE WAAAGH! keyword and a friendly unit has not used a BRUTAL KUNNIN’ ability this turn. Effect: For the rest of the battle round, add 1 to wound rolls for combat attacks made by friendly BIG WAAAGH! units while they are wholly within 12\" of this unit. KEYWORDS BRUTAL KUNNIN’"
+ },
+ {
+  "faction": "Ironjawz",
+  "faction_slug": "ironjawz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Big Waaagh! > Artefacts of Power",
+  "text": "HERO only Passive DA SNEAKY STAB-SLAB : This simple slab of metal is bound by kunnin’ enchantments that turn the force of an enemy’s blows back against them. Effect: Each time you make an unmodified save roll of 6 for a combat attack that targets this unit, inflict 1 mortal damage on the attacking unit after the FIGHT ability has been resolved."
+ },
+ {
+  "faction": "Ironjawz",
+  "faction_slug": "ironjawz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Big Waaagh! > Manifestation Lore",
+  "text": "Your Hero Phase 7 SUMMON FOOT OF GORK : Stamping a furiously belligerent beat, the shaman dares Gork himself to stomp the battlefield flat. Declare: If there is not a friendly Foot of Gork on the battlefield, pick a friendly BIG WAAAGH! WIZARD to cast this spell, then make a casting roll of 2D6. Effect: Set up a Foot of Gork wholly within 12\" of the caster, visible to them and more than 9\" from all enemy units. A Foot of Gork has 2 parts that must be set up within 9\" of each other. KEYWORDS SPELL, SUMMON"
+ },
+ {
+  "faction": "Ironjawz",
+  "faction_slug": "ironjawz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Big Waaagh! > Prayer Lore",
+  "text": "Your Hero Phase 4 UNSTOPPABLE WAAAGH!-BEATS : Warchanter’s manic percussion spreads a frenzy to their Gorkish and Morkish mates. Declare: Pick a friendly BIG WAAAGH! PRIEST to chant this prayer, pick a visible friendly non- HERO BIG WAAAGH! INFANTRY unit that is in combat and wholly within 12\" of them to be the target, then make a chanting roll of D6. Effect: The target can use 2 FIGHT abilities this turn. After the first is used, however, the target has STRIKE-LAST for the rest of the turn. If the chanting roll was 10+, you can pick another eligible unit to be a second target. KEYWORDS PRAYER"
+ },
+ {
+  "faction": "Ironjawz",
+  "faction_slug": "ironjawz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Big Waaagh! > Spell Lore",
+  "text": "Your Hero Quest 7 TWO HEADZ AS ONE : Shamans conveying the Twin-Headed God’s will spur the ladz to commit acts of kunnin’ brutality – or brutal kunnin’ – as necessary. Declare: Pick a friendly BIG WAAAGH! WIZARD to cast this spell, pick a visible friendly BIG WAAAGH! INFANTRY unit wholly within 12\" of them to be the target, then make a casting roll of 2D6. Effect: If the target is an IRONJAWZ unit, until the start of your next turn, add 3 to the target’s control score while it is wholly within 12\" of any friendly KRULEBOYZ units. If the target is a KRULEBOYZ unit, until the start of your next turn, add 2\" to the target’s Move characteristic while it is wholly within 12\" of any friendly IRONJAWZ units. KEYWORDS SPELL, UNLIMITED"
+ },
+ {
+  "faction": "Ironjawz",
+  "faction_slug": "ironjawz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Ironsunz",
+  "text": "When you pick the Ironjawz faction for your army, you can choose for it to be an Ironsunz Army of Renown. If you do so, use the faction rules on these pages instead of the Ironjawz faction rules. Every unit in your army must be drawn from the units listed in the roster options box below. All units in your army gain the IRONSUNZ keyword. ROSTER OPTIONS 0-1 Dakkbad Grotkicker Megaboss Warchanter Weirdnob Shaman Brutes Brute Ragerz Weirdbrute Wrekkaz 0-1 Tyrant (Kagruk the Kin-eater) 0-1 Ogor Gluttons (Tarkan Ogors) You cannot include Regiments of Renown In addition to the above, for each unit of Brutes , Brute Ragerz or Weirdbrute Wrekkaz on your army roster, you can pick 1 of each of the following units: Ardboy Big Boss Ardboyz Maw-grunta Gougers Maw-grunta with Hakkin’ Krew Gore-gruntas"
+ },
+ {
+  "faction": "Ironjawz",
+  "faction_slug": "ironjawz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Ironsunz > Battle Traits",
+  "text": "Passive 'UP AND AT ’EM!' : The Ironsunz love battle in all its forms and are always raring to get into the fight. Effect: When making run rolls for friendly IRONSUNZ units, if you roll a 1-2, you can use a value of 3 instead. Once Per Turn (Army), Your Movement Phase 'LET’S TRY DIS...' : Ironsunz are willing to try all manner of otherwise un-orruky tactics, provided it gets them into the fight. Declare: Pick a friendly IRONSUNZ INFANTRY unit wholly within 3\" of a terrain feature and not in combat to be the target. Effect: Remove the target from the battlefield and set it up again wholly within 6\" of a battlefield edge and more than 9\" from all enemy units. Once Per Turn (Army), End of Any Turn KEEP ON SMASHIN' : Once one fight is over, it's time to get stuck into the next one. Declare: Pick a friendly IRONSUNZ unit that destroyed an enemy unit this turn to be the target. Effect: The target can move 3\". It can end that move in combat . If the enemy unit that was destroyed was a MONSTER , the target can move 6\" instead of 3\". KEYWORDS RAMPAGE Once Per Battle (Army), Your Charge Phase IRONSUNZ WAAAGH! : An almighty roar sweeps across the battlefield, empowering the Ironsunz to fight all the harder. Declare: Pick a friendly IRONSUNZ HERO to use this ability, then pick each friendly IRONSUNZ unit wholly within 18\" of them to be the targets. Dakkbad Grotkicker must be picked to use this ability ifhe is on the battlefield. Effect: For the rest of the turn: Melee weapons used by the targets have Anti- MONSTER (+1 Rend) The targets cannot be picked as the target of RAMPAGE abilities. The targets can use CHARGE abilities even if they used a RUN ability in the same turn. KEYWORDS WAAAGH!"
+ },
+ {
+  "faction": "Ironjawz",
+  "faction_slug": "ironjawz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Ironsunz > Artefacts of Power",
+  "text": "Non- OGOR IRONSUNZ HERO only Passive SOULKRUMPA : A relic looted from the underworld of Hallost, this mace is especially good at killing things that won't stay dead. Declare: Pick an enemy unit that had any damage points allocated to it this turn by this unit’s combat attacks to be the target. Effect: For the rest of the battle: The target cannot be healed. Slain models cannot be returned to the target unit."
+ },
+ {
+  "faction": "Ironjawz",
+  "faction_slug": "ironjawz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Ironsunz > Heroic Traits",
+  "text": "Non- OGOR IRONSUNZ HERO only Any Combat Phase SEEN DAT BEFORE : This battle-hardened boss has faced every fighting technique known in the Mortal Realms. Declare: Pick an enemy unit in combat with this unit to be the target. Effect: Roll a dice. Add 1 to the roll if the target charged this turn. On a 3+, for the rest of the turn, the target’s weapons cannot be affected by weapon abilities other than the Companion weapon ability."
+ },
+ {
+  "faction": "Ironjawz",
+  "faction_slug": "ironjawz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Ironsunz > Spell Lore",
+  "text": "Your Hero Quest 6 BRUTAL TROOF : The shaman prods around the rather simple minds of a group of Ironsunz warriors, hoping to enhance their fighting prowess. Declare: Pick a friendly IRONSUNZ WIZARD to cast this spell, pick a visible friendly IRONSUNZ unit wholly within 12\" of them to be the target, then make a casting roll of 2D6. Effect: Until the start of your next turn, add 1 to wound rolls for the target’s attacks if it charged in the same turn or if it is in combat with an enemy unit that charged in the same turn. KEYWORDS SPELL, UNLIMITED Your Hero Quest 7 ANIMOSITY : A familiar feeling to the orruks. Time to return it with interest to their enemies. Declare: Pick a friendly IRONSUNZ WIZARD to cast this spell, pick a visible enemy unit within 18\" of them to be the target, then make a casting roll of 2D6. Effect: Until the start of your next turn, each time the target uses an ability, roll a dice. On a 3+, inflict 1 mortal damage on the target after that ability has been resolved. KEYWORDS SPELL Your Hero Quest 4 MORK’S MELEE MIRACLE : The longer the fighting continues, the more powerful this shaman’s spell becomes. Declare: Pick a friendly IRONSUNZ WIZARD to cast this spell, pick a visible friendly IRONSUNZ unit wholly within 12\" of them to be the target, then make a casting roll of 2D6, subtracting the current battle round number from the roll. Effect: Until the start of your next turn, add the number of the current battle round to the Attacks characteristic of the target’s melee weapons. KEYWORDS SPELL"
+ },
+ {
+  "faction": "Ironjawz",
+  "faction_slug": "ironjawz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Ironsunz > Manifestation Lore",
+  "text": "Your Hero Phase 7 SUMMON FOOT OF GORK : Stamping a furiously belligerent beat, the shaman dares Gork himself to stomp the battlefield flat. Declare: If there is not a friendly Foot of Gork on the battlefield, pick a friendly IRONSUNZ WIZARD to cast this spell, then make a casting roll of 2D6. Effect: Set up a Foot of Gork wholly within 12\" of the caster, visible to them and more than 9\" from all enemy units. A Foot of Gork has 2 parts that must be set up within 9\" of each other. KEYWORDS SPELL, SUMMON"
+ },
+ {
+  "faction": "Ironjawz",
+  "faction_slug": "ironjawz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Ironsunz > Prayer Lore",
+  "text": "Your Hero Phase 4 GHURISH BEAT : The Warchanter settles into a nostalgic rhythm that reminds the Ironsunz of home. Declare: Pick a friendly IRONSUNZ PRIEST to chant this prayer, pick a visible terrain feature within 12\" of them to be the target, then make a chanting roll of D6. Effect: Until the start of your next turn, enemy units cannot be set up within 9\" of the target terrain feature. If the chanting roll was 9+, you can pick 2 eligible terrain features to be the targets instead of 1. KEYWORDS PRAYER, UNLIMITED Your Hero Phase 4 KRUMPIN’ BEAT : The furious pounding of the Warchanter’s beat painfully reverberates through the heads of their enemies. Declare: Pick a friendly IRONSUNZ PRIEST to chant this prayer, pick a visible enemy unit within 18\" of them to be the target, then make a chanting roll of D6. Effect: Inflict D3 damage on the target. In addition, if the chanting roll was 8+ inflict D3 damage on each enemy unit within 3\" of the target. KEYWORDS PRAYER Your Hero Phase 4 IRONSUNZ BEAT : Rising to a walloping crescendo, the Ironsunz signature beat is heard in every corner of the battlefield. Declare: Pick a friendly IRONSUNZ PRIEST to chant this prayer, pick a visible friendly unit wholly within 12\" of them to be the target, then make a chanting roll ofD6. Effect: Until the start of your next turn: Add 1 to the Damage characteristic of the target’s melee weapons for attacks that target an enemy unit whose Health characteristic is lower than the target’s. Add 1 to the Rend characteristic of the target’s melee weapons for attacks that target an enemy unit whose Health characteristic is the same as or greater than the target’s."
+ },
+ {
+  "faction": "Ironjawz",
+  "faction_slug": "ironjawz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Ironsunz > Prayer Lore",
+  "text": "of the target’s melee weapons for attacks that target an enemy unit whose Health characteristic is the same as or greater than the target’s. If the chanting roll was 10+, until the start of your next turn, add 1 to the Rend characteristic and Damage characteristic of the target’s melee weapons instead. KEYWORDS PRAYER Army of Renown"
+ },
+ {
+  "faction": "Ironjawz",
+  "faction_slug": "ironjawz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Krazogg’s Grunta Stampede",
+  "text": "When you pick the Ironjawz faction for your army, you can choose for it to be a Krazogg’s Grunta Stampede Army of Renown . If you do so, use the faction rules on this page instead of the Ironjawz faction rules. Every unit in your army must be drawn from the units listed in the roster options box below. All units in your army gain the GRUNTA STAMPEDE keyword. ROSTER OPTIONS You cannot include Regiments of Renown Maw-grunta Gougers Gore-gruntas Maw-grunta with Hakkin’ Krew Tuskboss on Maw-grunta"
+ },
+ {
+  "faction": "Ironjawz",
+  "faction_slug": "ironjawz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Krazogg’s Grunta Stampede > Battle Traits",
+  "text": "End of the First Battle Round INCESSANT DRIVE : As the Stampede moves ever faster, they accrue more and more power and momentum. Effect: Add 1 to the momentum scores of friendly MAW-GRUNTA units. Once Per Battle (Army), Deployment Phase FAST AND FURIOUS : Riders of the Grunta Stampedes compete to be the first to slam into the enemy, urging their porcine steed on with kicks, curses and much incoherent bellowing Declare: Pick a friendly non- HERO GRUNTA STAMPEDE unit to be the target. Effect: The target can immediately use the ‘ Normal Move ’ ability as if it were your movement phase. Passive MONSTROUS MOMENTUM : The longer the Grunta Stampede goes on, the more it picks up speed… Effect: Add the current battle round number to the Move characteristic of friendly GRUNTA STAMPEDE units. Once Per Turn (Army), Any Charge Phase EATIN’ ON DA HOOF : Maw-gruntas have mastered the art of feeding on the move, snatching up unlucky victims and mashing them between their oversized teeth as they hurtle onwards. Declare: Pick a friendly GRUNTA STAMPEDE MONSTER that has not used a RAMPAGE ability this turn to use this ability, then pick a visible enemy unit in combat with it to be the target. Effect: Roll a dice and add the momentum score of the unit using this ability to the roll. If the result exceeds the target’s Health characteristic, 1 model in the target unit is slain. KEYWORDS RAMPAGE Once Per Battle (Army), Deployment Phase WALL OF HOGFLESH : It is no easy thing to pick your target when the ground is shaking and several dozen tonnes of ironclad meat are thundering in your direction. Declare: Pick a friendly GRUNTA STAMPEDE HERO to be the target."
+ },
+ {
+  "faction": "Ironjawz",
+  "faction_slug": "ironjawz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Krazogg’s Grunta Stampede > Battle Traits",
+  "text": "Declare: Pick a friendly GRUNTA STAMPEDE HERO to be the target. Effect: For the rest of the battle, subtract 1 from hit rolls for shooting attacks that target that HERO while it is wholly within 6\" of a friendly non- HERO GRUNTA STAMPEDE unit. Once Per Battle (Army), Your Charge Phase GRUNTA WAAAGH! : Just before the stampede crashes headlong into the enemy lines, the Tuskboss bellows a mighty ‘Waaagh!’, encouraging the ladz and their steeds cause as much carnage as possible with their impact. Declare: Pick a friendly GRUNTA STAMPEDE HERO to be the target. Effect: For the rest of the turn, the following effects apply to friendly GRUNTA STAMPEDE units while they are wholly within 18\" of the target: You can re-roll charge rolls for those units. Add 1 to the Attacks characteristic of those units’ Maw-grunta’s Trotters. Roll a D6 instead of a D3 when determining the amount of mortal damage inflicted by the ‘Goregrunta Charge’ ability of those units."
+ },
+ {
+  "faction": "Ironjawz",
+  "faction_slug": "ironjawz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Krazogg’s Grunta Stampede > Heroic Traits",
+  "text": "HERO only Passive TROPHY HUNTA : This heavily scarred orruk is always on the lookout for the largest and most ferocious beasts of the realms. After all, their skulls make the flashiest trophies! Effect: This unit’s Pig-hakka has ANTI-MONSTER ( + 1 REND) and ANTI-WAR MACHINE ( + 1 REND) ."
+ },
+ {
+  "faction": "Ironjawz",
+  "faction_slug": "ironjawz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Krazogg’s Grunta Stampede > Artefacts of Power",
+  "text": "HERO only Reaction: You declared a command for a friendly GRUNTA STAMPEDE unit wholly within 18\" of this unit DA BOOM SKULL : The Waaagh! magic imbued within this grunta skull amplifies the bearer’s voice into a thunderous roar that shakes the battlefield. Effect: Pick an enemy unit in combat with that friendly unit to be the target and roll a D3. On a 2+, inflict an amount of mortal damage on the target equal to the roll. Army of Renown"
+ },
+ {
+  "faction": "Ironjawz",
+  "faction_slug": "ironjawz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Zoggrok’s Ironmongerz",
+  "text": "When you pick the Ironjawz faction for your army, you can choose for it to be a Zoggrok’s Ironmongerz Army of Renown . If you do so, use the faction rules on these pages instead of the Ironjawz faction rules. Every unit in your army must be drawn from the units listed in the roster options below. All units in your army gain the ZOGGROK’S IRONMONGERZ keyword. ROSTER OPTIONS Zoggrok Anvilsmasha (must be included and must be your general ) IRONJAWZ INFANTRY HEROES Non- HERO IRONJAWZ INFANTRY units You cannot include Regiments of Renown"
+ },
+ {
+  "faction": "Ironjawz",
+  "faction_slug": "ironjawz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Zoggrok’s Ironmongerz > Battle Traits",
+  "text": "Passive LEGENDARY VANDALS : Zoggrok’s Ironmongerz have inherited their boss’s taste for crushing not only their enemies but also their edifices and artifice too. Effect: Melee weapons used by friendly ZOGGROK’S IRONMONGERZ units have ANTI-FACTION TERRAIN ( + 1 REND) and ANTI-WAR MACHINE ( + 1 REND) . Once Per Turn (Army), End of Any Turn INTO DA BREACH! : Zoggrok’s ladz live for the moment when it’s time to storm the enemy gates with every ounce of ferocity they can muster. Declare: Pick a friendly ZOGGROK’S IRONMONGERZ unit that is more than 9\" from any enemy units and had any damage points allocated to it this turn. Effect: That unit can move D6\". It cannot pass through the combat ranges of enemy units. It cannot end that move in combat. Passive IRONCLAD SCRUMS : Ardboyz share Zoggrok’s brutally pragmatic views on war, enough to advance on a fortress wall or artillery battery in some sort of defensive formation. Effect: Friendly ZOGGROK’S IRONMONGERZ Ardboyz units with 3 or more models have WARD ( 5+ ) while they are wholly within 12\" of a different friendly ZOGGROK’S IRONMONGERZ Ardboyz unit with 3 or more models. Passive SHIELD OF SCRAP AND MUSCLE : Zoggrok’s boyz believe it’s better to die fighting than to let anything distract their surly boss while he’s engaged in his destructive craft. After all, they’d suffer the consequences… Effect: While a friendly Zoggrok Anvilsmasha is within the combat range of a friendly Ardboyz unit: That Zoggrok Anvilsmasha has WARD ( 4+ ) . Each time you make a successful ward roll for that Zoggrok Anvilsmasha , allocate 1 damage point to a friendly Ardboyz unit within its combat range after the damage sequence has been resolved (ward rolls cannot be made for those damage points)."
+ },
+ {
+  "faction": "Ironjawz",
+  "faction_slug": "ironjawz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Zoggrok’s Ironmongerz > Heroic Traits",
+  "text": "HERO only Passive OI! BACK TO IT! : A harsh bark from Zoggrok or his enforcers can put steel into the spine of any orruk. Effect: If a friendly ZOGGROK’S IRONMONGERZ Ardboyz or Brutes unit wholly within 12\" of this unit uses the ‘ Rally ’ command, you can make 3 additional rally rolls of D6."
+ },
+ {
+  "faction": "Ironjawz",
+  "faction_slug": "ironjawz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Zoggrok’s Ironmongerz > Artefacts of Power",
+  "text": "HERO only Passive DA GREAT WOLLOPA : Infused with the arcane indignation of the Waaagh!, da Great Wollopa is good for krumpin’ whatever needs krumpin’. Effect: If any damage points are allocated to an enemy unit by attacks made by this unit, that enemy unit is krump’d until the start of your next turn. While a unit is krump’d : Subtract 1 from save rolls for that unit. Ignore positive modifiers to save rolls for that unit."
+ },
+ {
+  "faction": "Ironjawz",
+  "faction_slug": "ironjawz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Zoggrok’s Ironmongerz > Spell Lore",
+  "text": "Your Hero Phase 7 THE GREEN GOD’S HAMMER : At the urging of the Weirdnobs, Waaagh! energy surrounding the Ironmongerz pounds like a hammer on an anvil. Declare: Pick a friendly ZOGGROK’S IRONMONGERZ WIZARD to cast this spell, pick a visible friendly ZOGGROK’S IRONMONGERZ INFANTRY unit wholly within 12\" of them to be the target, then make a casting roll of 2D6. Effect: Until the start of your next turn, add 1 to the number of dice rolled when making charge rolls for the target, to a maximum of 3. KEYWORDS SPELL, UNLIMITED"
+ },
+ {
+  "faction": "Ironjawz",
+  "faction_slug": "ironjawz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Zoggrok’s Ironmongerz > Prayer Lore",
+  "text": "Your Hero Phase 5 GET ’EM, GORK! : The bellowing and pounding of an Ironmongerz Warchanter can see Gork’s divine belligerence unleashed upon enemy battlements. Declare: Pick a friendly ZOGGROK’S IRONMONGERZ PRIEST to chant this prayer, then make a chanting roll of D6. Effect: If the chanting roll was 5-9, pick a visible terrain feature wholly within 12\" of the chanter. If the chanting roll was 10+, pick a visible terrain feature wholly within 18\" of the chanter instead. That terrain feature is trampled by Gork for the rest of the battle. Roll a D3 each time an enemy unit ends a move within 6\" of a terrain feature that is trampled by Gork . On a 2+, inflict an amount of mortal damage on that enemy unit equal to the roll. KEYWORDS PRAYER, UNLIMITED"
+ },
+ {
+  "faction": "Ironjawz",
+  "faction_slug": "ironjawz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Zoggrok’s Ironmongerz > Manifestation Lore",
+  "text": "Your Hero Phase 5 SUMMON GORK-ROARA : The shaman summons a leering visage of Gorkamorka that spills forth Waaagh! power. Declare: If there is not a friendly Gork-Roara on the battlefield, pick a friendly ZOGGROK’S IRONMONGERZ WIZARD to cast this spell, then make a casting roll of 2D6. Effect: Set up a Gork-Roara wholly within 12\" of the caster, visible to them and more than 9\" from all enemy units. KEYWORDS SPELL, SUMMON"
+ },
+ {
+  "faction": "Ironjawz",
+  "faction_slug": "ironjawz",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Ironjawz Bigmob",
+  "text": "Bigmobs are loose but effective formations assembled when a Megaboss decides to leave something battered and brutalised on a whim. They may serve as the start of a burgeoning Waaagh! or form from the remnants of one, or else they may simply be a group of orruks that have wandered into the orbit of a warleader in pursuit of action. All that’s needed for a Bigmob to form is an Ironjaw to decide they fancy a brawl and a handful of ladz to follow their lead. The Megaboss leading a Bigmob is joined by whichever of their boyz can keep up. Usually, these are Ragerz: swaggering berserkers who have discarded much of their armour to reach the best kills first. Ardboyz often tag along as well. These are sent to lay claim to far-flung points of the battlefield, partially because they fight well on the defence but also because it stops the boss from having to hear their militaristic grumbling. An awful, flesh-mangling din rings out whenever a Bigmob gets stuck in, one that carries far and sees Brute mobs get drawn to the clamour. Infuriated at missing the start of the fun, these orruks are in a hurry to get stuck in. The force of their glowering can see smaller enemies who’d otherwise try and waylay them shrink away in dread. This Spearhead army consists of the following units: GENERAL Megaboss UNITS 3 Brute Ragerz 5 Ardboyz 5 Ardboyz 5 Brutes",
+  "spearhead_name": "Ironjawz Bigmob"
+ },
+ {
+  "faction": "Ironjawz",
+  "faction_slug": "ironjawz",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Ironjawz Bigmob > Battle Traits",
+  "text": "Your Brutes are not set up during the deployment phase. Instead, from the third battle round onwards, they can use the following ability: Your Movement Phase 'ERE WE GO! : The din of battle draws in Ironjawz from leagues around. Effect: Set up this unit anywhere on the battlefield more than 6\" from all enemy units. KEYWORDS CORE Once Per Turn (Army), Any Hero Phase MIGHTY DESTROYERS : The Ironjawz won’t let anything get between them and a good scrap. Declare: Pick a friendly unit that was not set up this turn to be the target. Effect: The target can move up to 3\". It can move into combat . If it was in combat at the start of the move, it must end that move in combat.",
+  "spearhead_name": "Ironjawz Bigmob"
+ },
+ {
+  "faction": "Ironjawz",
+  "faction_slug": "ironjawz",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Ironjawz Bigmob > Regiment Abilities",
+  "text": "Pick 1 of the following regiment abilities. Passive NATURAL DISASTER : A mass of heavily armoured orruks hit an enemy line like a landslide if they gain enough momentum, leaving a trail of carnage and blazing ruin in their wake. Effect: If you make an unmodified charge roll of 8+ for a friendly unit, add 1 to the Attacks characteristic of that unit’s melee weapons for the rest of the turn. Once Per Battle, Reaction: You declared the ‘ Mighty Destroyers ’ ability A PROPER RUCKUS : Delighted by the scrap before them, the orruks barge and jostle their way into the fray. Effect: All friendly units on the battlefield that were not set up this turn are the targets of that ability instead.",
+  "spearhead_name": "Ironjawz Bigmob"
+ },
+ {
+  "faction": "Ironjawz",
+  "faction_slug": "ironjawz",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Ironjawz Bigmob > Enhancements",
+  "text": "Give your general 1 of the following enhancements. Passive AMBERSTONE WHETSTONE : This prized sharpening stone, laced with veins of realmstone, is found deep in the crags of Ghur. It is loved by the Ironjawz for its ability to make a weapon ‘ded sharp’. Effect: The Rend characteristic of your general’s melee weapons is 2. Passive ARMOUR OF GORK : This bashed-together armour is thick, heavy and possessed of its own fierce fighting spirit. Effect: Your general has WARD ( 6+ ) . Passive TROPHY SKULLS : Festooned with the skulls of those who crossed them, be they ferocious beast or mighty warrior, there’s no doubt that this orruk means business. Effect: Your general’s Control characteristic is 5. Passive MEGA BOSSY : This boss’s booming voice rings out across the battlefield, ‘encouraging’ their ladz to get krumpin’. Effect: If this unit charged this turn, for the rest of the turn, add 1 to charge rolls for friendly units while they are wholly within 12\" of this unit.",
+  "spearhead_name": "Ironjawz Bigmob"
+ },
+ {
+  "faction": "Ironjawz",
+  "faction_slug": "ironjawz",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Ironjawz Bigmob > Warscrolls",
+  "text": "• SPEARHEAD WARSCROLL • Megaboss 4\" 8 3+ 2 Clad in layers of thick iron and wielding massive weapons, Megabosses lead the charge of the Ironjawz warclans. The very act of fighting empowers these barbarous warlords. Once in the midst of combat, they are almost impossible to slay. • SPEARHEAD WARSCROLL • Megaboss MELEE WEAPONS Atk Hit Wnd Rnd Dmg Boss-choppa Boss-choppa 8 4+ 2+ 1 2 Your Hero Phase GET STUCK IN, LADZ : The roared commands issued by a Megaboss encourage the Ironjawz under their command to fight all the harder. Declare: Pick a friendly unit wholly within 12\" of this unit to be the target. Effect: Roll a dice. On a 2+, add 1 to the Attacks characteristic of the target’s melee weapons until the start of your next turn. KEYWORDS HERO , INFANTRY • SPEARHEAD WARSCROLL • Brutes 4\" 3 3+ 1 Charging into battle with joyous bellows, Brutes seek out the largest enemies to batter into submission. Wearing the thickest armour and wielding huge weapons, they enjoy nothing more than dishing out a good and proper bashing. • SPEARHEAD WARSCROLL • Brutes MELEE WEAPONS Atk Hit Wnd Rnd Dmg Brute Weapons Brute Weapons 3 4+ 3+ 1 2 Passive YOU MESSIN'? : Most beings with half an ounce of common sense swiftly wither under the furious gaze of an orruk Brute who has marked their territory. Effect: Enemy models with a Health characteristic of 1 or 2 cannot contest objectives while they are in combat with this unit. KEYWORDS INFANTRY • SPEARHEAD WARSCROLL • Brute Ragerz 4\" 3 5+ 1 Taking up huge, two-handed weapons and eschewing the armour typically worn by Brutes, Brute Ragerz hurl themselves at the biggest and meanest foes. Having previously suffered a humiliating defeat in battle, they are determined to prove just how ’ard they really are.",
+  "spearhead_name": "Ironjawz Bigmob"
+ },
+ {
+  "faction": "Ironjawz",
+  "faction_slug": "ironjawz",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Ironjawz Bigmob > Warscrolls",
+  "text": "Having previously suffered a humiliating defeat in battle, they are determined to prove just how ’ard they really are. • SPEARHEAD WARSCROLL • Brute Ragerz MELEE WEAPONS Atk Hit Wnd Rnd Dmg Rager Weapons Rager Weapons 3 4+ 2+ 1 2 Passive UNLEASHED RAGE : Brute Ragerz waste no time in venting their pent-up rage when they get within striking distance of the foe. Effect: This unit has STRIKE-FIRST if it charged in the same turn. KEYWORDS INFANTRY , REINFORCEMENTS • SPEARHEAD WARSCROLL • Ardboyz 4\" 2 3+ 1 Mobs of Ardboyz plough into the fray to the sound of booming war drums and the clatter of heavy iron plate. Each Ardboy is a ferocious, battle-scarred fighter, smashing their way through the ranks of the enemy with a variety of crude but deadly weapons. • SPEARHEAD WARSCROLL • Ardboyz MELEE WEAPONS Atk Hit Wnd Rnd Dmg Choppa or Stikka [ Anti-charge (+1 Rend) ] Choppa or Stikka Anti-charge (+1 Rend) 2 4+ 3+ 1 1 Any Combat Phase SHIELD BASH : The shields carried by Ardboyz are great slabs of iron festooned with spikes and metal teeth, making them deadly weapons in their own right. Declare: Pick an enemy unit within 1\" of this unit to be the target. Effect: Make a shield bash roll of D6 for each model in this unit that is within 3\" of the target. For each 6, inflict 1 mortal damage on the target. KEYWORDS INFANTRY noindex /noindex noindex",
+  "spearhead_name": "Ironjawz Bigmob"
+ }
+]

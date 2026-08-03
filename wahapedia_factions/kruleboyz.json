@@ -1,0 +1,338 @@
+[
+ {
+  "faction": "Kruleboyz",
+  "faction_slug": "kruleboyz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "",
+  "text": "/noindex The warclans of the orruks are a big green fist that slams into the guts of the Mortal Realms with each new day. Followers of Gorkamorka, the god of destructive, primal violence, they fight purely for the savage joy of fighting. Ironjaw and Bonesplitter alike are caught up in a tidal wave of violence that smashes entire civilisations to rubble. This page contains all of the rules you need to field your Kruleboyz miniatures on the battlefields of the Mortal Realms, from a host of exciting faction rules to a range of warscrolls. The rules are split into the following sections:"
+ },
+ {
+  "faction": "Kruleboyz",
+  "faction_slug": "kruleboyz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Designers’ Commentary > Battletome: Orruk Warclans",
+  "text": "Q: When using the ‘ Notorious Bosses ’ ability, can I give a target a heroic trait that another unit already has? A: No. Q: Can each part of the Foot of Gork use the ‘Wandering Destruction’ ability each turn? A: No. This is a single manifestation with multiple parts, so it can only use that ability once in each turn. Q: Can I use the ‘Drag ’Em Out’ ability to remove an enemy INFANTRY HERO from garrisoning a faction terrain feature? A: Yes."
+ },
+ {
+  "faction": "Kruleboyz",
+  "faction_slug": "kruleboyz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Traits",
+  "text": "Kruleboyz armies can use the following abilities: Passive DIRTY TRICKS : Kruleboyz will use whatever devious means they can to gain the upper hand over the foe. Effect: The effect of a DIRTY TRICK ability is only applied if you make a successful dirty trick roll. The success of a dirty trick roll depends on the number of DIRTY TRICK abilities your army has already used this battle round. Dirty Trick Dirty Trick Roll First 2+ Second 3+ Third 4+ Fourth or subsequent 5+ Once Per Turn (Army), Any Charge Phase LETHAL SURPRISE : As the enemy charges into the Kruleboyz line, little do they know that they have been lured into a series of cunningly concealed traps. Declare: Pick an enemy unit that charged this turn and is in combat with any friendly KRULEBOYZ units to be the target, then make a dirty trick roll. Effect: Inflict D3 mortal damage on the target. In addition, for the rest of the turn, the target’s weapons cannot be affected by the Charge (+1 Damage) weapon ability. KEYWORDS DIRTY TRICK Once Per Turn (Army), Any Hero Phase VENOM-ENCRUSTED WEAPONS : These weapons are smeared with a lethal mix of toxins extracted from poison sludge, venomous swamp creatures and spit. Declare: Pick a friendly KRULEBOYZ INFANTRY unit to be the target, then make a dirty trick roll. Effect: Until the start of your next turn, the target’s attacks score critical hits on unmodified hit rolls of 5+. KEYWORDS DIRTY TRICK Once Per Turn (Army), Any Hero Phase SNEAKY SNEAKIN’ : Cloying swamp-mists mask the Kruleboyz’ movements. Declare: Pick a friendly KRULEBOYZ INFANTRY unit that has 10 or fewer models, is not in combat and has not been the target of a DIRTY TRICK ability this turn to be the target, then make a dirty trick roll."
+ },
+ {
+  "faction": "Kruleboyz",
+  "faction_slug": "kruleboyz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Traits",
+  "text": "10 or fewer models, is not in combat and has not been the target of a DIRTY TRICK ability this turn to be the target, then make a dirty trick roll. Effect: Remove the target from the battlefield and set it up again wholly within 3\" of a terrain feature and more than 9\" from all enemy units. KEYWORDS DIRTY TRICK Once Per Turn (Army), Any Combat Phase NOISY RACKET : After a sustained barrage of hurled insults and the clanging of weapons on shields, the Kruleboyz have driven some of their foes to distraction. Declare: Pick an enemy unit in combat with any friendly KRULEBOYZ units to be the target, then make a dirty trick roll. Effect: The target has STRIKE-LAST for the rest of the turn. KEYWORDS DIRTY TRICK"
+ },
+ {
+  "faction": "Kruleboyz",
+  "faction_slug": "kruleboyz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations",
+  "text": "You can pick 1 of the following battle formations for a Kruleboyz army. Each battle formation grants a different ability you can use in the battle. BATTLE PROFILE Name Points Kruleboyz Klaw 0 Light Finga 0 Middul Finga 0 Trophy Finga 0 Swamphorde Bullies 0 Badmouthing Baiterz 0"
+ },
+ {
+  "faction": "Kruleboyz",
+  "faction_slug": "kruleboyz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Kruleboyz Klaw",
+  "text": "Passive SWAMP SHROUD : Before the warriors of a Kruleboyz Klaw strike, the shamans enact a mighty ritual to smother the battlefield in a thick, stinky mist that conceals them from the enemy. Effect: Friendly KRULEBOYZ units that are wholly within 3\" of a terrain feature are not visible to enemy units that are more than 12\" away from them."
+ },
+ {
+  "faction": "Kruleboyz",
+  "faction_slug": "kruleboyz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Light Finga",
+  "text": "Passive DED SNEAKY : Comprised of hobgrots and ‘yoofs’, the ladz of the Light Finga are in charge of ‘nikkin’ stuff and are skilled at sneaking up on the enemy. Effect: You can use the ‘ Sneaky Sneakin’ ’ DIRTY TRICK ability twice per turn instead of only once per turn."
+ },
+ {
+  "faction": "Kruleboyz",
+  "faction_slug": "kruleboyz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Middul Finga",
+  "text": "Your Shooting Phase FAR-KILLA BOLTS : The many Deffspikerz of the Middul Finger often keep a limited supply of bolts fletched with bog-shryke feathers, which give their shots that extra bit of distance when needed. Declare: Pick up to 3 friendly Man-skewer Boltboyz or Beast-skewer Killbow units to be the targets. Effect: For the rest of the turn, add 3\" to the Range characteristic of the targets’ ranged weapons."
+ },
+ {
+  "faction": "Kruleboyz",
+  "faction_slug": "kruleboyz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Trophy Finga",
+  "text": "Passive MEANEST BEASTS : The warbeasts ridden by the orruks of the Trophy Finga are particularly foul and belligerent specimens of their kind. Effect: Companion weapons used by friendly KRULEBOYZ units have Crit (2 Hits) ."
+ },
+ {
+  "faction": "Kruleboyz",
+  "faction_slug": "kruleboyz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Swamphorde Bullies",
+  "text": "Once Per Turn (Army), Any Combat Phase GANGIN’ UP : These orruks like to overwhelm their enemies with a flurry of strikes from all directions interspersed with sneaky stabs and low blows. Declare: Pick a friendly KRULEBOYZ unit to be the target. That unit must be in combat with an enemy unit that is in combat with another friendly KRULEBOYZ unit. Kragnos cannot be picked to be the target. Effect: For the rest of the turn, add 1 to the Attacks characteristic of the target’s melee weapons."
+ },
+ {
+  "faction": "Kruleboyz",
+  "faction_slug": "kruleboyz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Badmouthing Baiterz",
+  "text": "Once Per Turn (Army), Your Shooting Phase KRULE MOCKERY : These orruks have perfected the art of hurling biting insults at the enemy to taunt them and lure them into hidden traps. Declare: Pick a friendly KRULEBOYZ unit to be the Insult Hurla , pick a visible enemy unit within 18\" of it to be the target, then make a dirty trick roll. Effect: Until the start of your next turn, each time the target uses a MOVE ability and does not end that move closer to the Insult Hurla than it was at the start of that move, inflict D6 mortal damage on the target after that MOVE ability has been resolved. KEYWORDS DIRTY TRICK"
+ },
+ {
+  "faction": "Kruleboyz",
+  "faction_slug": "kruleboyz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Heroic Traits > Kunnin’ Warlords",
+  "text": "HERO only BATTLE PROFILE Name Points BACKSTABBA 0 SLIPPERY SKUMBAG 0 EGOMANIAK 0 End of Any Turn BACKSTABBA : When their enemy’s back is turned, this boss has no qualms about sticking a dagger in it. Declare: Pick an enemy HERO in combat with both this unit and another friendly KRULEBOYZ unit to be the target. Effect: Inflict D3 mortal damage on the target. Add 1 to the mortal damage inflicted for each friendly KRULEBOYZ unit in combat with the target in addition to the first two KRULEBOYZ units. Any Combat Phase SLIPPERY SKUMBAG : This wily boss has mastered the art of the feint, breaking away from fights that aren’t going his way and then coming back for another go when the odds are in his favour. Effect: If this unit is in combat, roll a dice. On a 3+, it can immediately use the ‘ Retreat ’ ability as if it were your movement phase without any mortal damage being inflicted on it. Passive EGOMANIAK : This self-important boss is willing to use anyone to protect their own hide. Effect: While this unit is within the combat range of a friendly non- HERO KRULEBOYZ INFANTRY unit: This unit has WARD ( 4+ ) . Each time you make a successful ward roll for this unit, allocate 1 damage point to a friendly non- HERO KRULEBOYZ INFANTRY unit within this unit’s combat range after the damage sequence for this unit has been resolved (ward rolls cannot be made for those damage points)."
+ },
+ {
+  "faction": "Kruleboyz",
+  "faction_slug": "kruleboyz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Artefacts of Power > Krule Artefacts",
+  "text": "HERO only BATTLE PROFILE Name Points MORK’S EYE PEBBLE 0 SWAMP STAFF 0 EYE-BITER ASH 0 Once Per Battle, Reaction: Opponent declared an ATTACK ability MORK’S EYE PEBBLE : When rubbed, this dark-grey rock produces a swirling bank of thick fog that protects the bearer and their allies from harm. Effect: For the rest of the turn, friendly KRULEBOYZ units have WARD ( 5+ ) while they are wholly within 12\" of this unit. Passive SWAMP STAFF : Hewn from a root of an ancient bogwood, this gnarled staff grants its bearer mastery over the swamps and can be used to ward off enemy magics. Effect: If this unit is not a non- WIZARD , it can use the ‘ Unbind ’ ability as if it had WIZARD ( 1 ) . Otherwise, add 1 to this unit’s power level . Once Per Battle, Any Combat Phase EYE-BITER ASH : Stored in a heatproof pouch, this strange ash never stops smouldering. The bearer can cast it at a foe, creating a blistering ash cloud that blinds the targets and causes them terrible pain. Declare: Pick an enemy unit in combat with this unit to be the target. Effect: Subtract 1 from hit rolls and wound rolls for the target’s attacks for the rest of the turn."
+ },
+ {
+  "faction": "Kruleboyz",
+  "faction_slug": "kruleboyz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Artefacts of Power > Krule Artefacts",
+  "text": "HERO only BATTLE PROFILE Name Points TATTERMASK 0 SPELL IN A RATTLE 0 WOGGLY BOGSTIKK 0 Passive TATTERMASK : Patched together from assorted flaps of flayed skin, this enchanted mask has the unsurprisingly off-putting effect of turning the wearer’s bellows into keening cries for help in the native tongues of nearby enemies. Effect: If the unmodified hit roll for an attack that targets this unit is 1-3, that attack fails and the attack sequence ends. Once Per Battle, Any Hero Phase SPELL IN A RATTLE : With a shake of this unassuming, knobbly rattle, the bearer releases the spell stored within. Effect: This unit can use a non- SUMMON SPELL ability from a spell lore you picked during army composition as if it had WIZARD ( 1 ) . Instead of making a casting roll for that spell, the casting roll is 9 and cannot be modified. That spell cannot be unbound . Your Hero Phase WOGGLY BOGSTIKK : Plucked from the grasp of a bogdrowned shaman, this gnarled staff can turn the earth beneath a foe’s feet into acidic slime. Declare: Pick a visible enemy unit within 12\" of this unit to be the target. Effect: Roll a dice. If the roll exceeds the target’s Control characteristic, inflict an amount of mortal damage on the target equal to the roll."
+ },
+ {
+  "faction": "Kruleboyz",
+  "faction_slug": "kruleboyz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Monstrous Traits",
+  "text": "Monstrous Traits are enhancements that can only be given to MONSTERS . BATTLE PROFILE Name Points MEAN ’UN 0 SNEAKY ’UN 0 TOUGH ’UN 0 Passive MEAN ’UN : This beast is a kunnin’ and ruthless predator, targeting vulnerable areas and vital spots with a hunter’s eye. Effect: Add 1 to hit rolls for attacks made with this unit’s Companion weapons. Once Per Battle, Enemy Hero Phase SNEAKY ’UN : This beast prefers to sneak up on its prey and skulk off when the going gets tough, traits its Kruleboyz masters darkly approve of. Effect: This unit can use the ‘ Normal Move ’ or ‘ Retreat ’ ability as if it were your movement phase. In addition, no mortal damage is inflicted on this unit by RETREAT abilities this phase. Passive TOUGH ’UN : This beast has endured the lash of its cruel masters for many a season, which has inured it to pain. Effect: Subtract 1 from the Rend characteristic of weapons used for attacks that target this unit."
+ },
+ {
+  "faction": "Kruleboyz",
+  "faction_slug": "kruleboyz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Monstrous Traits > Kunnin’ Creatures",
+  "text": "Monstrous Traits are unique enhancements that can only be given to MONSTERS . A unit can only have 1 Monstrous Trait. ( KRULEBOYZ MONSTER only) BATTLE PROFILE Name Points SPITTIN’ ’UN 20 SLY ’UN 10 QUICK ’UN 20 Passive SPITTIN’ ’UN : This beast has specialised glands that allow it to spit corrosive saliva that can burn flesh and eat through armour. The more riled up the creature is, the greater the volume of spittle it produces. Effect: This unit is armed with the ranged weapon below, where X is equal to your fury level . RANGED WEAPONS Rng Atk Hit Wnd Rnd Dmg Caustic Saliva 12\" X 4+ 3+ 2 D3 RANGED WEAPONS Rng Atk Hit Wnd Rnd Dmg Caustic Saliva 12\" X 4+ 3+ 2 D3 Once Per Battle, End of Any Turn SLY ’UN : Whether covered in mud or submerged in a mire, this brute emerges from the muck with little warning, ready to ambush the enemy. Effect: Remove this unit from the battlefield and set it up again on the battlefield more than 9\" from all enemy units. Passive QUICK ’UN : Getting the drop on this hot‑tempered creature is nigh on impossible. Effect: Add half your fury level (rounding up) to run rolls and charge rolls for this unit."
+ },
+ {
+  "faction": "Kruleboyz",
+  "faction_slug": "kruleboyz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Spell Lore",
+  "text": "BATTLE PROFILE Name Points Lore of the Swamp 0"
+ },
+ {
+  "faction": "Kruleboyz",
+  "faction_slug": "kruleboyz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Spell Lore > Lore of the Swamp",
+  "text": "Your Hero Phase 5 DA BLACK PIT : The shaman taps his staff on the ground. Forking out from that spot, and surging towards a nearby foe, the earth turns into a noisome quagmire that sucks victims below its surface to their doom. Declare: Pick a friendly KRULEBOYZ WIZARD to cast this spell, pick a visible enemy unit within 18\" of them to be the target, then make a casting roll of 2D6. Effect: Roll a dice for each model in the target unit. For each 6, inflict 1 mortal damage on the target. KEYWORDS SPELL, UNLIMITED Your Hero Phase 7 CHOKING MIST : The shaman summons a cloud of corrosive vapour that scorches the lungs of any caught within it. Declare: Pick a friendly KRULEBOYZ WIZARD to cast this spell, pick a visible enemy unit within 12\" of them to be the target, then make a casting roll of 2D6. Effect: Subtract 1 from the Attacks characteristic of the target’s weapons until the start of your next turn. KEYWORDS SPELL Your Hero Phase 6 MORK’S KUNNIN’ : The shaman channels the raw power of Mork to imbue their allies with uncanny cunning so they might evade enemy blows. Declare: Pick a friendly KRULEBOYZ WIZARD to cast this spell, pick a visible friendly KRULEBOYZ unit wholly within 12\" of them, then make a casting roll of 2D6. Effect: Until the start of your next turn, add 1 to save rolls for the target. KEYWORDS SPELL"
+ },
+ {
+  "faction": "Kruleboyz",
+  "faction_slug": "kruleboyz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Manifestation Lore",
+  "text": "BATTLE PROFILE Name Points Manifestations of Gorkamorka 0"
+ },
+ {
+  "faction": "Kruleboyz",
+  "faction_slug": "kruleboyz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Manifestation Lore > Manifestations of Gorkamorka",
+  "text": "Your Hero Phase 7 SUMMON FOOT OF GORK : Stamping a furiously belligerent beat, the shaman dares Gork himself to stomp the battlefield flat. Declare: If there is not a friendly Foot of Gork on the battlefield, pick a friendly KRULEBOYZ WIZARD to cast this spell, then make a casting roll of 2D6. Effect: Set up a Foot of Gork wholly within 12\" of the caster, visible to them and more than 9\" from all enemy units. A Foot of Gork has 2 parts that must be set up within 9\" of each other. KEYWORDS SPELL, SUMMON Your Hero Phase 5 SUMMON GORK-ROARA : The shaman summons a leering visage of Gorkamorka that spills forth Waaagh! power. Declare: If there is not a friendly Gork-Roara on the battlefield, pick a friendly KRULEBOYZ WIZARD to cast this spell, then make a casting roll of 2D6. Effect: Set up a Gork-Roara wholly within 12\" of the caster, visible to them and more than 9\" from all enemy units. KEYWORDS SPELL, SUMMON Your Hero Phase 5 SUMMON MORKSPIT MARSH : The shaman summons a cruel, glowing swamp that channels memories of Gorkamorka’s past brawls. Declare: If there is not a friendly Morkspit Marsh on the battlefield, pick a friendly KRULEBOYZ WIZARD to cast this spell, then make a casting roll of 2D6. Effect: Set up a Morkspit Marsh wholly within 18\" of the caster and visible to them. KEYWORDS SPELL, SUMMON Army of Renown"
+ },
+ {
+  "faction": "Kruleboyz",
+  "faction_slug": "kruleboyz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Big Waaagh!",
+  "text": "When you pick the Ironjawz or Kruleboyz faction for your army, you can choose for it to be a Big Waaagh! Army of Renown . If you do so, use the faction rules on these pages instead of your chosen faction rules. For each regiment you include in a Big Waaagh! Army of Renown that is led by an IRONJAWZ HERO , you must include a regiment that is led by a KRULEBOYZ HERO and vice versa. Every unit in your army must be drawn from the units listed in the roster options box below. All units in your army gain the BIG WAAAGH! keyword. ROSTER OPTIONS Any IRONJAWZ units Any KRULEBOYZ units You cannot include Regiments of Renown You cannot include faction terrain KRULEBOYZ HEROES included in this Army of Renown can only include KRULEBOYZ units in their regiment, and IRONJAWZ HEROES included in this Army of Renown can only include IRONJAWZ units in their regiment. If your army includes Kragnos, the End of Empires , he can include either KRULEBOYZ units or IRONJAWZ units in his regiment (but not both), and he counts as a Hero from that faction for the purposes of needing to have one regiment led by an IRONJAWZ HERO for each regiment led by a KRULEBOYZ HERO and vice versa."
+ },
+ {
+  "faction": "Kruleboyz",
+  "faction_slug": "kruleboyz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Big Waaagh! > Battle Traits",
+  "text": "Once Per Battle, Deployment Phase NOTORIOUS BOSSES : It takes orruks of propa might and kunnin’ to keep a Big Waaagh! in line. Declare: Pick up to 1 friendly non- UNIQUE BIG WAAAGH! IRONJAWZ HERO and up to 1 friendly non- UNIQUE BIG WAAAGH! KRULEBOYZ HERO that do not have a heroic trait to be the targets. Effect: Give each target 1 heroic trait from the Big Waaagh! heroic traits. Designer’s Note: These heroic traits are given to the targets during the deployment phase , not during army composition . Once Per Turn, Your Hero Phase THE POWER OF THE WAAAGH! : The power of Gorkamorka reaches a climax of violent energy when orruks gather as a Big Waaagh!. Declare: Pick up to 1 friendly BIG WAAAGH! IRONJAWZ unit and up to 1 friendly BIG WAAAGH! KRULEBOYZ unit to be the targets. Effect: The targets have the POWER OF THE WAAAGH! keyword for the rest of the battle round. Passive POSSESSED BY THE POWER OF THE WAAAGH! : When a Waaagh! really gets going, the orruks become a terrifying force to be reckoned with. Effect: While a friendly unit has the POWER OF THE WAAAGH! keyword: If that unit has the IRONJAWZ keyword, add 1 to run rolls and charge rolls for that unit. If that unit has the KRULEBOYZ keyword, that unit’s attacks score critical hits on unmodified hit rolls of 5+. Once Per Turn, Your Movement Phase RALLY THE WARCLANS : With a great bellow, the boss encourages a mob from the seemingly endless hordes to get stuck in. Declare: If your general is on the battlefield, pick a friendly BIG WAAAGH! unit that started the battle with 3 or more models and that has been destroyed to be the target. Effect: Set up a replacement unit with half the number of models from the target unit (rounding up) wholly within 12\" of your general and more than 9\" from all enemy units."
+ },
+ {
+  "faction": "Kruleboyz",
+  "faction_slug": "kruleboyz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Big Waaagh! > Heroic Traits",
+  "text": "HERO only Passive TAKIN’ NAMES : The best way to keep your position at the head of a rowdy orruk horde is by duffing up anyone who looks like a challenge. Effect: If an enemy HERO is destroyed by this unit, this unit has the POWER OF THE WAAAGH! keyword for the rest of the battle. Once Per Battle, Your Hero Phase A PROPER SNEAK : When they get their Mork muscles flexin’, this boss can even get the Ironjawz moving with a semblance of stealth. Declare: You can use this ability if this unit has the POWER OF THE WAAAGH! keyword and a friendly unit has not used a BRUTAL KUNNIN’ ability this turn. Effect: For the rest of the battle round, friendly BIG WAAAGH! units have WARD ( 5+ ) while they are wholly within 12\" of this unit. KEYWORDS BRUTAL KUNNIN’ Once Per Battle, Your Hero Phase DA OLD ONE-TWO : This boss and their boyz are the masters at piling on the pain. Declare: You can use this ability if this unit has the POWER OF THE WAAAGH! keyword and a friendly unit has not used a BRUTAL KUNNIN’ ability this turn. Effect: For the rest of the battle round, friendly BIG WAAAGH! units’ melee weapons have CRIT ( 2 HITS) while they are wholly within 12\" of this unit. KEYWORDS BRUTAL KUNNIN’ Once Per Battle, Your Hero Phase GET KRUMPIN’! : Watching this boss go to town on an unfortunate target gets the mobs under their command well up for a brawl. Declare: You can use this ability if this unit has the POWER OF THE WAAAGH! keyword and a friendly unit has not used a BRUTAL KUNNIN’ ability this turn. Effect: For the rest of the battle round, add 1 to wound rolls for combat attacks made by friendly BIG WAAAGH! units while they are wholly within 12\" of this unit. KEYWORDS BRUTAL KUNNIN’"
+ },
+ {
+  "faction": "Kruleboyz",
+  "faction_slug": "kruleboyz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Big Waaagh! > Artefacts of Power",
+  "text": "HERO only Passive DA SNEAKY STAB-SLAB : This simple slab of metal is bound by kunnin’ enchantments that turn the force of an enemy’s blows back against them. Effect: Each time you make an unmodified save roll of 6 for a combat attack that targets this unit, inflict 1 mortal damage on the attacking unit after the FIGHT ability has been resolved."
+ },
+ {
+  "faction": "Kruleboyz",
+  "faction_slug": "kruleboyz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Big Waaagh! > Spell Lore",
+  "text": "Your Hero Quest 7 TWO HEADZ AS ONE : Shamans conveying the Twin-Headed God’s will spur the ladz to commit acts of kunnin’ brutality – or brutal kunnin’ – as necessary. Declare: Pick a friendly BIG WAAAGH! WIZARD to cast this spell, pick a visible friendly BIG WAAAGH! INFANTRY unit wholly within 12\" of them to be the target, then make a casting roll of 2D6. Effect: If the target is an IRONJAWZ unit, until the start of your next turn, add 3 to the target’s control score while it is wholly within 12\" of any friendly KRULEBOYZ units. If the target is a KRULEBOYZ unit, until the start of your next turn, add 2\" to the target’s Move characteristic while it is wholly within 12\" of any friendly IRONJAWZ units. KEYWORDS SPELL, UNLIMITED"
+ },
+ {
+  "faction": "Kruleboyz",
+  "faction_slug": "kruleboyz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Big Waaagh! > Prayer Lore",
+  "text": "Your Hero Phase 4 UNSTOPPABLE WAAAGH!-BEATS : Warchanter’s manic percussion spreads a frenzy to their Gorkish and Morkish mates. Declare: Pick a friendly BIG WAAAGH! PRIEST to chant this prayer, pick a visible friendly non- HERO BIG WAAAGH! INFANTRY unit that is in combat and wholly within 12\" of them to be the target, then make a chanting roll of D6. Effect: The target can use 2 FIGHT abilities this turn. After the first is used, however, the target has STRIKE-LAST for the rest of the turn. If the chanting roll was 10+, you can pick another eligible unit to be a second target. KEYWORDS PRAYER"
+ },
+ {
+  "faction": "Kruleboyz",
+  "faction_slug": "kruleboyz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Big Waaagh! > Manifestation Lore",
+  "text": "Your Hero Phase 7 SUMMON FOOT OF GORK : Stamping a furiously belligerent beat, the shaman dares Gork himself to stomp the battlefield flat. Declare: If there is not a friendly Foot of Gork on the battlefield, pick a friendly BIG WAAAGH! WIZARD to cast this spell, then make a casting roll of 2D6. Effect: Set up a Foot of Gork wholly within 12\" of the caster, visible to them and more than 9\" from all enemy units. A Foot of Gork has 2 parts that must be set up within 9\" of each other. KEYWORDS SPELL, SUMMON Army of Renown"
+ },
+ {
+  "faction": "Kruleboyz",
+  "faction_slug": "kruleboyz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Murkvast Menagerie",
+  "text": "When you pick the Kruleboyz faction for your army, you can choose for it to be a Murkvast Menagerie Army of Renown . If you do so, use the faction rules on these pages instead of the Kruleboyz faction rules. Every unit in your army must be drawn from the units listed in the roster options box below. All units in your army gain the MURKVAST MENAGERIE keyword. ROSTER OPTIONS Swampboss Skumdrekk (must be included and must be your general ) Snatchaboss on Sludgeraker Beast Killaboss on Corpse-rippa Vulcha Breaka-boss on Mirebrute Troggoth Marshcrawla Sloggoth For every KRULEBOYZ HERO MONSTER you include, you can include a Swampcalla Shaman and Pot-grot For every KRULEBOYZ HERO MONSTER you include, you can include a non- HERO KRULEBOYZ INFANTRY unit. You cannot include Regiments of Renown You cannot include faction terrain"
+ },
+ {
+  "faction": "Kruleboyz",
+  "faction_slug": "kruleboyz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Murkvast Menagerie > Battle Traits",
+  "text": "Passive CRAWLY SWARM : The beasts of the Murkvast Menagerie are riddled with parasites and other gnashing creepy crawlies. Effect: Subtract 1 from hit rolls for combat attacks that target friendly MURKVAST MENAGERIE units while they are wholly within 12\" of a friendly MURKVAST MENAGERIE MONSTER that has not charged this turn. Once Per Turn (Army), Any Combat Phase PROPA GRISLY : Covered in grotesque insect swarms and trained to enact frightening carnage, the monsters of the Murkvast Menagerie leave a gory mess wherever they go. Declare: Pick a friendly MURKVAST MENAGERIE MONSTER unit that has not used any RAMPAGE abilities this turn to use this ability. Then, pick an enemy unit in combat with it to be the target. Effect: Roll a number of dice equal to the Health characteristic of that MURKVAST MENAGERIE MONSTER . For each 6+, inflict 1 mortal damage on the target. After this ability has been resolved, this unit cannot use any other RAMPAGE abilities for the rest of the turn. KEYWORDS RAMPAGE Once Per Turn (Army), Your Movement Phase AFTER IT, LADZ! : When Skumdrekk’s ladz set their sights on their prey, they do not let up. Declare: Pick a friendly MURKVAST MENAGERIE MONSTER unit that was not set up this turn to be the target. Effect: The target can move up to 3\". It can move into combat. If it was in combat at the start of the move, it must end that move in combat."
+ },
+ {
+  "faction": "Kruleboyz",
+  "faction_slug": "kruleboyz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Murkvast Menagerie > Heroic Traits",
+  "text": "HERO only Passive GRIM DIET : Having ridden out the mind-breaking shudders that stem from biting down on poisonous bog-bugs, this orruk is largely blind to pain. Effect: This unit has WARD ( 5+ ) ."
+ },
+ {
+  "faction": "Kruleboyz",
+  "faction_slug": "kruleboyz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Murkvast Menagerie > Artefacts of Power",
+  "text": "HERO only Once Per Battle, Your Hero Phase SKINWRIGGLA LARVAE : Taken from the marshes of Chitinia, these venomous and swiftly multiplying bugs will infest every nook and cranny they can. Declare: Pick an objective within 6\" of this unit to be infested with bugs for the rest of the battle. Effect: While an enemy unit is contesting an objective that is infested with bugs: Subtract 3 from that unit’s control score. Ignore positive modifiers to that unit’s control score."
+ },
+ {
+  "faction": "Kruleboyz",
+  "faction_slug": "kruleboyz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Murkvast Menagerie > Spell Lore",
+  "text": "Your Hero Phase 7 MORKISH MIST : Conjuring a slithering mist from rents in the earth, the shaman cloaks their advancing mobs. Declare: Pick a friendly MURKVAST MENAGERIE WIZARD to cast this spell, pick a visible friendly MURKVAST MENAGERIE INFANTRY unit wholly within 12\" of them to be the target, then make a casting roll of 2D6. Effect: Until the start of your next turn, the target has WARD ( 5+ ) . KEYWORDS SPELL, UNLIMITED"
+ },
+ {
+  "faction": "Kruleboyz",
+  "faction_slug": "kruleboyz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Murkvast Menagerie > Manifestation Lore",
+  "text": "Your Hero Phase 7 SUMMON FOOT OF GORK : Stamping a furiously belligerent beat, the shaman dares Gork himself to stomp the battlefield flat. Declare: If there is not a friendly Foot of Gork on the battlefield, pick a friendly MURKVAST MENAGERIE WIZARD to cast this spell, then make a casting roll of 2D6. Effect: Set up a Foot of Gork wholly within 12\" of the caster, visible to them and more than 9\" from all enemy units. A Foot of Gork has 2 parts that must be set up within 9\" of each other. KEYWORDS SPELL, SUMMON"
+ },
+ {
+  "faction": "Kruleboyz",
+  "faction_slug": "kruleboyz",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Swampskulka Gang",
+  "text": "As far as Kruleboyz are concerned, fighting fair is an idiotic concept. Swampskulka Gangs exemplify the cruelly underhanded approach to warfare so beloved of these orruks, for their entire purpose is to leave the enemy agonised, hobbled and helpless. Under the wily guidance of a Killaboss, they stalk their victims through the wilds of the realms for days, waiting for the perfect moment to launch a murderous ambush. The first the Kruleboyz’ chosen quarry knows of their fate is when dozens of barbed missiles come whistling out of the murk to sink into their flesh, as chortling Boltboyz relish their victims’ shocked horror. Anything that looks big enough to cause the orruks serious bother is dealt with by an oversized harpoon hurled by a Beast-skewer Killbow. As the enemy reels in the face of this deadly hail, the Killaboss charges into their midst atop his Great Gnashtoof mount, seeking gory trophies to prove his kunnin’. Following closely behind come lanky orruk warriors, led by a Murknob brandishing a foul-smelling and loudly bellowing Belcha-banna. These Gutrippaz stomp forwards to fall upon the stricken foe, spilling intestines and poking out eyes with their venom-dripping weapons – while keeping a few prisoners alive to torment at their leisure, of course. This Spearhead army consists of the following units: General Killaboss on Great Gnashtoof Units 1 Murknob with Belcha‑banna 3 Man-skewer Boltboyz 5 Gutrippaz 5 Gutrippaz 1 Beast-skewer Killbow",
+  "spearhead_name": "Swampskulka Gang"
+ },
+ {
+  "faction": "Kruleboyz",
+  "faction_slug": "kruleboyz",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Swampskulka Gang > Battle Traits",
+  "text": "Once Per Battle, Any Combat Phase KRULEBOYZ WAAAGH! : In typically Morky fashion, Kruleboyz wait until they have the enemy surrounded before calling a Waaagh! – and when they do, the enemy’s fate is usually sealed. Declare: Pick your general to use this ability, then pick another friendly unit wholly within 12\" of them to be the target. Effect: Your general and the target have STRIKE-FIRST this phase.",
+  "spearhead_name": "Swampskulka Gang"
+ },
+ {
+  "faction": "Kruleboyz",
+  "faction_slug": "kruleboyz",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Swampskulka Gang > Regiment Abilities",
+  "text": "Pick 1 of the following regiment abilities. Start of the First Battle Round COVERED IN MUD : After some ‘hard finkin’, a group of orruks decides to slather themselves in muck so they can sneak up on the unwitting enemy. Declare: Pick a friendly unit to use this ability. Effect: In this battle, that unit is not visible to enemy models that are more than 12\" away from it. Passive NOISY RACKET : On the eve of battle, the Kruleboyz make sure the enemy receives no respite as their war drums and rattle-skulls ring out into the night. Effect: Subtract 1 from wound rolls for attacks made by enemy units in the first battle round.",
+  "spearhead_name": "Swampskulka Gang"
+ },
+ {
+  "faction": "Kruleboyz",
+  "faction_slug": "kruleboyz",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Swampskulka Gang > Enhancements",
+  "text": "Give your general 1 of the following enhancements. Passive EGOMANIAK : This self-important boss is willing to use anyone to protect his own hide. Effect: If any other friendly units are within your general’s combat range , before you allocate a damage point to your general, roll a dice. On a 4+, you must allocate that damage point to one of those units instead. Once Per Turn, Your Hero Phase KUNNIN' PLAN : This devious Killaboss likes to feign retreat to draw their prey into a deadly trap. Declare: Pick a friendly unit wholly within 12\" of your general. Effect: If that unit uses a RETREAT ability this turn, no mortal damage is inflicted on it and it can still use SHOOT and/or CHARGE abilities later in the turn. Once Per Battle, Enemy Movement Phase MORK'S EYE PEBBLE : When rubbed, this darkgrey rock produces a swirling bank of thick fog that protects the bearer and their allies from harm. Effect: In the next shooting phase, friendly units have WARD ( 5+ ) while they are wholly within 12\" of your general. Once Per Battle, Any Combat Phase EYE-BITER ASH : Stored in a heat-proof pouch, this strange ash never stops smouldering. The bearer can cast it at a foe, creating a cloud of blistering ash that blinds the targets and causes them terrible pain. Declare: Pick an enemy unit in combat with your general and roll a dice. Effect: On a 1-4, subtract 1 from hit rolls for attacks made by that unit for the rest of the phase. On a 5+, subtract 1 from hit rolls for attacks made by that unit for the rest of the battle.",
+  "spearhead_name": "Swampskulka Gang"
+ },
+ {
+  "faction": "Kruleboyz",
+  "faction_slug": "kruleboyz",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Swampskulka Gang > Warscrolls",
+  "text": "• SPEARHEAD WARSCROLL • Killaboss on Great Gnashtoof 10\" 10 3+ 2 Killabosses are cunning warlords well used to using their ‘thinkin’ muscles’ to guide their fellow orruks in ambushes and traps. With a string of victories under their belts, they have won something akin to trust from their minions, who stick to the plan even when things get nasty. They take great pride in procuring the vilest and most malicious monsters to serve as their war-mounts, and few are as deadly as the Great Gnashtoof. This wiry canine killer is as swift as it is foul-tempered, capable of navigating the slimy homelands of the Kruleboyz with ease. When it finds its prey, it leaps upon them with an ear-splitting howl that seems to come from two directions at once. • SPEARHEAD WARSCROLL • Killaboss on Great Gnashtoof MELEE WEAPONS Atk Hit Wnd Rnd Dmg Jagged Boss-stikka [ Crit (Mortal) ] Jagged Boss-stikka Crit (Mortal) 4 3+ 3+ 1 2 Gnashtoof’s Bone-crushing Fangs [ Companion ] Gnashtoof’s Bone-crushing Fangs Companion 5 4+ 3+ 1 2 Your Hero Phase ALL PART OF DA PLAN : Kruleboyz tend to be very impressed by a Killaboss’s kunnin’ feats – so long as the boss has a plan, they are willing to face down even the most unlikely odds. Declare: Pick a friendly unit wholly within 9\" of this unit to be the target. You cannot pick this unit. Effect: Add 3 to the target’s control score until the start of your next turn. KEYWORDS HERO , CAVALRY • SPEARHEAD WARSCROLL • Murknob with Belcha-banna 5\" 6 4+ 5 Murknobs are champions amongst the Kruleboyz, and they revel in taking the heads of their adversaries – honestly or otherwise. They alone are granted the honour of carrying the Belcha-bannas into battle, foul relics with all manner of strange powers.",
+  "spearhead_name": "Swampskulka Gang"
+ },
+ {
+  "faction": "Kruleboyz",
+  "faction_slug": "kruleboyz",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Swampskulka Gang > Warscrolls",
+  "text": "They alone are granted the honour of carrying the Belcha-bannas into battle, foul relics with all manner of strange powers. When the enemy close in, these uncanny standards belch a revolting miasma that can make even the toughest foe collapse in agony. • SPEARHEAD WARSCROLL • Murknob with Belcha-banna MELEE WEAPONS Atk Hit Wnd Rnd Dmg Murknob Cleaver [ Crit (Mortal) ] Murknob Cleaver Crit (Mortal) 4 4+ 3+ 1 2 Any Combat Phase BREATH OF THE MIRE-DRAKES : Belcha-bannas are typically built around the severed tongue of a mire-drake, creatures so vile that even after death, their remains belch forth clouds of soul-shrivelling gas. Declare: Roll a dice for each enemy unit in combat with this unit. Effect: On a 1, nothing happens. On a 2-5, inflict 1 mortal damage on that enemy unit. On a 6, inflict D3 mortal damage on that unit. KEYWORDS HERO , INFANTRY • SPEARHEAD WARSCROLL • Man-skewer Boltboyz 5\" 2 5+ 1 Man-skewer Boltboyz wield crossbows powerful enough to take down a charging warhorse with a single shot. Even minor wounds inflicted by these weapons soon turn gangrenous and foul thanks to the poisons that the orruks smear over every projectile. • SPEARHEAD WARSCROLL • Man-skewer Boltboyz RANGED WEAPONS Rng Atk Hit Wnd Rnd Dmg Man-skewer Crossbow [ Crit (Auto-wound) ] Man-skewer Crossbow Crit (Auto-wound) 18\" 2 4+ 3+ 1 2 MELEE WEAPONS Atk Hit Wnd Rnd Dmg Jaggedy Blade [ Crit (Mortal) ] Jaggedy Blade Crit (Mortal) 1 4+ 3+ - 1 Passive PICK 'EM OFF : Boltboyz prefer to remain stationary to fire carefully aimed shots. Effect: Add 1 to hit rolls for this unit’s shooting attacks if has not used a MOVE ability this turn.",
+  "spearhead_name": "Swampskulka Gang"
+ },
+ {
+  "faction": "Kruleboyz",
+  "faction_slug": "kruleboyz",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Swampskulka Gang > Warscrolls",
+  "text": "Effect: Add 1 to hit rolls for this unit’s shooting attacks if has not used a MOVE ability this turn. KEYWORDS INFANTRY • SPEARHEAD WARSCROLL • Gutrippaz 5\" 2 5+ 1 Gutrippaz form the slimy heart of the Kruleboyz, stalking forwards behind their leering skareshields. These mobs of sadistic greenskins are known for their vicious kunnin’ and the spiteful amusement they find in laying low the enemy with their wicked, venom-laced weapons. Even their appearance is honed to intimidate and confuse the foe. • SPEARHEAD WARSCROLL • Gutrippaz MELEE WEAPONS Atk Hit Wnd Rnd Dmg Wicked Hacka [ Crit (Mortal) ] Wicked Hacka Crit (Mortal) 2 4+ 3+ - 1 Any Combat Phase SCARE TAKTIKZ : Gutrippaz use all manner of means to unnerve and intimidate their foes. Effect: Roll a dice. On a 3+, subtract 1 from hit rolls for attacks that target this unit this phase. This ability has no effect on attacks made by HEROES . KEYWORDS INFANTRY • SPEARHEAD WARSCROLL • Beast-skewer Killbow 5\" 5 5+ 2 Orruks are not renowned for their ability to shoot straight, but the Kruleboyz known as ‘Big Shots’ understand the benefit of maiming your prey from as far away as possible. Beast-skewer Killbows are designed to take down the realms’ mightiest monsters, and the oversized missiles they hurl can indeed punch through several inches of armoured hide or bone plating with ease. Such is the force with which these missiles strike home that they can also impale several man-sized targets at once.",
+  "spearhead_name": "Swampskulka Gang"
+ },
+ {
+  "faction": "Kruleboyz",
+  "faction_slug": "kruleboyz",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Swampskulka Gang > Warscrolls",
+  "text": "Such is the force with which these missiles strike home that they can also impale several man-sized targets at once. • SPEARHEAD WARSCROLL • Beast-skewer Killbow RANGED WEAPONS Rng Atk Hit Wnd Rnd Dmg Beast-skewer Bolts [ Crit (Auto-wound) ] Beast-skewer Bolts Crit (Auto-wound) 24\" 2 4+ 2+ 2 D6 MELEE WEAPONS Atk Hit Wnd Rnd Dmg Jaggedy Blades [ Crit (Mortal) ] Jaggedy Blades Crit (Mortal) 2 4+ 3+ - 1 Passive SKEWERED : Beast-skewer bolts are designed to inflict horrendous wounds on monstrous quarry. Effect: The Damage characteristic of this unit’s Beast-skewer Bolts is 6 instead of D6 if the target is a MONSTER . KEYWORDS WAR MACHINE noindex /noindex noindex",
+  "spearhead_name": "Swampskulka Gang"
+ }
+]

@@ -1,0 +1,3342 @@
+[
+ {
+  "id": "Lyrior-Uthralle-Warden-of-Ymetrica",
+  "name": "Lyrior Uthralle Warden of Ymetrica",
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "grand_alliance": "Order",
+  "move": "14\"",
+  "health": "7",
+  "save": "3+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Daemonbane",
+    "range": "",
+    "attacks": "2",
+    "hit": "2+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Anti- DAEMON (+1 Rend) , Charge (+1 Damage)"
+    ]
+   },
+   {
+    "name": "Lyrior’s Sword",
+    "range": "",
+    "attacks": "5",
+    "hit": "2+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Charge (+1 Damage) , Crit (Mortal)"
+    ]
+   },
+   {
+    "name": "Farael’s Horns and Claws",
+    "range": "",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "CHAMPION OF THE LORD PHOENIX ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While a visible friendly VANARI unit is wholly within 12\" of this unit: You are treated as having 1 additional instance of Varinor, Rune of Strength depicted on your battle scripture for the purposes of the abilities on that unit’s warscroll. If that unit is picked to be a target of the ‘ Depict Rune ’ ability, you can apply the enhanced effects of that ability to that unit as if you had an instance of Varinor, Rune of Strength depicted on your battle scripture ."
+   },
+   {
+    "name": "FOCUSED FURY ",
+    "timing": "Your Hero Phase",
+    "declare": "Make a casting roll of 2D6. Add 2 to the roll if this unit is in combat .",
+    "effect": "This unit has STRIKE-FIRST for the rest of the turn."
+   }
+  ],
+  "keywords": [
+   "UNIQUE",
+   "HERO",
+   "WIZARD ( 1 )",
+   "CAVALRY",
+   "ORDER",
+   "LUMINETH REALM‑LORDS",
+   "AELF",
+   "VANARI"
+  ],
+  "unit_size": 1,
+  "points": 260,
+  "base_size": "90 × 52mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Lumineth Paragon , Any LUMINETH REALM-LORDS"
+ },
+ {
+  "id": "Vanari-Lord-Regent-on-Lightcourser",
+  "name": "Vanari Lord Regent on Lightcourser",
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "grand_alliance": "Order",
+  "move": "14\"",
+  "health": "7",
+  "save": "3+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Regent’s Sword",
+    "range": "",
+    "attacks": "5",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Crit (Mortal)"
+    ]
+   },
+   {
+    "name": "Lightcourser’s Horns and Claws",
+    "range": "",
+    "attacks": "3",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "LEAD THE CHARGE ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "You can re-roll charge rolls for friendly LUMINETH REALM-LORDS units while they are wholly within 6\" of this unit."
+   },
+   {
+    "name": "PUREST AETHERQUARTZ ",
+    "timing": "Once Per Battle, Your Hero Phase",
+    "declare": "",
+    "effect": "For the rest of the turn, add 1 to hit rolls for this unit’s attacks and subtract 1 from hit rolls for attacks that target this unit."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "CAVALRY",
+   "ORDER",
+   "LUMINETH REALM‑LORDS",
+   "AELF",
+   "VANARI"
+  ],
+  "unit_size": 1,
+  "points": 150,
+  "base_size": "90 × 52mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Lumineth Paragon , 0-1 Ydrilan Riverblades , Any VANARI Notes: Previously Vanari Lord Regent"
+ },
+ {
+  "id": "Alarith-Stonemage",
+  "name": "Alarith Stonemage",
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "5",
+  "save": "4+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Staff of the High Peaks",
+    "range": "",
+    "attacks": "3",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "STRENGTH OF STONE ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "Pick a visible friendly Alarith Stoneguard unit wholly within 12\" of this unit to be the target.",
+    "effect": "For the rest of the turn: Add 1 to the Rend characteristic of the target’s melee weapons. The target cannot make pile-in moves ."
+   },
+   {
+    "name": "RAISE THE EARTH ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick an objective within 18\" of this unit to be the target, then make a casting roll of 2D6.",
+    "effect": "Until the start of your next turn, each time a non- FLY unit (friendly or enemy) that is contesting the target objective uses a MOVE ability, inflict D6 mortal damage on that unit after that ability has been resolved."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "WIZARD ( 1 )",
+   "INFANTRY",
+   "ALARITH",
+   "ORDER",
+   "LUMINETH REALM‑LORDS",
+   "AELF"
+  ],
+  "unit_size": 1,
+  "points": 120,
+  "base_size": "40mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Ydrilan Riverblades , Any Vanari Auralan Wardens , Any ALARITH"
+ },
+ {
+  "id": "Ellania-and-Ellathor-Eclipsian-Warsages",
+  "name": "Ellania and Ellathor Eclipsian Warsages",
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "10",
+  "save": "4+",
+  "control": "4",
+  "ward": "5+",
+  "ranged_weapons": [
+   {
+    "name": "Blazing Sunbolt",
+    "range": "12\"",
+    "attacks": "3",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": [
+     "Crit (Auto-wound)"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Altairi",
+    "range": "",
+    "attacks": "5",
+    "hit": "2+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": []
+   },
+   {
+    "name": "Dianaer",
+    "range": "",
+    "attacks": "2",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "EQUAL PRODIGIES ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick whether Ellania will take the lead or Ellathor will take the lead.",
+    "effect": "If Ellania takes the lead, until the start of your next turn, add 1 to this unit’s power level and it has WARD ( 4+ ) . If Ellathor takes the lead, until the start of your next turn, add the current battle round number to the Damage characteristic of Altairi."
+   },
+   {
+    "name": "SUDDEN TRANSLOCATION ",
+    "timing": "End of Any Turn",
+    "declare": "This unit can only use this ability if any enemy models were slain this turn by this unit’s combat attacks .",
+    "effect": "Heal (D6) this unit. Then, remove it from the battlefield and set it up again on the battlefield more than 9\" from all enemy units."
+   },
+   {
+    "name": "TOTAL ECLIPSE ",
+    "timing": "Your Hero Phase",
+    "declare": "Make a casting roll of 2D6.",
+    "effect": "Until the start of your next turn, the first time an enemy unit within 18\" of this unit uses a command , unless your opponent spends 1 additional command point, the command has no effect, it still counts as having been used and the command points spent to use the command are still lost."
+   }
+  ],
+  "keywords": [
+   "UNIQUE",
+   "HERO",
+   "WIZARD ( 1 )",
+   "INFANTRY",
+   "WARD ( 5+ )",
+   "ORDER",
+   "LUMINETH REALM‑LORDS",
+   "AELF",
+   "SCINARI",
+   "VANARI"
+  ],
+  "unit_size": 1,
+  "points": 310,
+  "base_size": "40mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Lumineth Paragon , Any LUMINETH REALM-LORDS"
+ },
+ {
+  "id": "Hurakan-Windmage",
+  "name": "Hurakan Windmage",
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "grand_alliance": "Order",
+  "move": "12\"",
+  "health": "5",
+  "save": "5+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Windblast Vortex",
+    "range": "12\"",
+    "attacks": "1",
+    "hit": "2+",
+    "wound": "3+",
+    "rend": "2",
+    "damage": "D3",
+    "abilities": [
+     "Shoot in Combat"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Aspiragillum",
+    "range": "",
+    "attacks": "3",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "WINDLEAP ",
+    "timing": "Once Per Battle (Army), Your Movement Phase",
+    "declare": "Pick up to 3 friendly HURAKAN unit wholly within 12\" of this unit to be the targets.",
+    "effect": "For the rest of the turn, each target can use a RUN ability and still use SHOOT and/or CHARGE abilities later in the turn."
+   },
+   {
+    "name": "TRANSPORTING VORTEX ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick a visible friendly LUMINETH REALM-LORDS unit wholly within 12\" of this unit and not in combat to be the target, then make a casting roll of 2D6.",
+    "effect": "Remove the target from the battlefield and set it up again on the battlefield more than 9\" from all enemy units."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "WIZARD ( 1 )",
+   "INFANTRY",
+   "FLY",
+   "ORDER",
+   "LUMINETH REALM‑LORDS",
+   "AELF",
+   "HURAKAN"
+  ],
+  "unit_size": 1,
+  "points": 140,
+  "base_size": "60 × 35mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Ydrilan Riverblades , Any Vanari Auralan Wardens , Any HURAKAN"
+ },
+ {
+  "id": "Scinari-Calligrave",
+  "name": "Scinari Calligrave",
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "5",
+  "save": "5+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Calligrave Blade",
+    "range": "",
+    "attacks": "3",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "REALMSCRIBE ",
+    "timing": "Once Per Battle (Army), Reaction: You declared the ‘ Depict Rune ’ ability",
+    "declare": "",
+    "effect": "Replace 1 instance of a rune on your battle scripture with 1 of the following: Varinor, Rune of Strength Ydriliqi, Rune of the River Alaithi, Rune of the Mountain Oreali, Rune of the Wind"
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "WIZARD ( 1 )",
+   "INFANTRY",
+   "ORDER",
+   "LUMINETH REALM‑LORDS",
+   "AELF",
+   "SCINARI"
+  ],
+  "unit_size": 1,
+  "points": 130,
+  "base_size": "32mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Ydrilan Riverblades , Any Vanari Auralan Wardens , Any Vanari Bladelords"
+ },
+ {
+  "id": "Scinari-Cathallar",
+  "name": "Scinari Cathallar",
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "5",
+  "save": "6+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Despairing Touch",
+    "range": "",
+    "attacks": "3",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "-",
+    "damage": "D3",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "DARKNESS OF THE SOUL ",
+    "timing": "Once Per Turn (Army), Your Hero Phase",
+    "declare": "Pick a visible enemy unit within 18\" of this unit to be the target.",
+    "effect": "Roll a dice. On a 3+, the target cannot use commands until the start of your next turn."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "WIZARD ( 1 )",
+   "INFANTRY",
+   "ORDER",
+   "LUMINETH REALM‑LORDS",
+   "AELF",
+   "SCINARI"
+  ],
+  "unit_size": 1,
+  "points": 130,
+  "base_size": "32mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Ydrilan Riverblades , Any Vanari Auralan Wardens , Any Vanari Bladelords"
+ },
+ {
+  "id": "Scinari-Enlightener",
+  "name": "Scinari Enlightener",
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "5",
+  "save": "5+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Crescent Staff",
+    "range": "12\"",
+    "attacks": "3",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": [
+     "Shoot in Combat"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Enlightener Blade",
+    "range": "",
+    "attacks": "3",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "RUNE OF ENTHLAI ",
+    "timing": "Once Per Turn (Army), Reaction: You declared an UNLIMITED SPELL ability for this unit",
+    "declare": "",
+    "effect": "If that spell is successfully cast, roll a dice. On a 4+, after resolving the effect of that spell, this unit can immediately cast that spell a second time using the same casting roll . Do not count the second spell towards the number of SPELL abilities this unit can use this turn."
+   },
+   {
+    "name": "CLARITY OF THOUGHT ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick a visible friendly LUMINETH REALM-LORDS INFANTRY unit wholly within 12\" of this unit to be the target, then make a casting roll of 2D6.",
+    "effect": "Until the start of your next turn, attacks that target that friendly unit cannot score critical hits (treat them as regular hits instead)."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "WIZARD ( 2 )",
+   "INFANTRY",
+   "ORDER",
+   "LUMINETH REALM‑LORDS",
+   "AELF",
+   "SCINARI"
+  ],
+  "unit_size": 1,
+  "points": 180,
+  "base_size": "32mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Ydrilan Riverblades , Any Vanari Auralan Wardens , Any Vanari Bladelords"
+ },
+ {
+  "id": "Scinari-Loreseeker",
+  "name": "Scinari Loreseeker",
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "5",
+  "save": "4+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Eclipsian Staff",
+    "range": "12\"",
+    "attacks": "3",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": [
+     "Shoot in Combat"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Loreseeker Blade",
+    "range": "",
+    "attacks": "5",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Crit (Mortal)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "INDEPENDENT OPERATIVE ",
+    "timing": "Once Per Battle (Army), Deployment Phase",
+    "declare": "",
+    "effect": "Remove this unit from the battlefield and set it up again on the battlefield more than 9\" from all enemy units."
+   },
+   {
+    "name": "ARCANE DISCOVERY ",
+    "timing": "Once Per Battle (Army), Your Movement Phase",
+    "declare": "Pick a non- FACTION TERRAIN terrain feature within 3\" of this unit to be the target.",
+    "effect": "For the rest of the battle, add 1 to casting rolls for units (friendly and enemy) while they are within 3\" of the target."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "WIZARD ( 1 )",
+   "INFANTRY",
+   "ORDER",
+   "LUMINETH REALM‑LORDS",
+   "AELF",
+   "SCINARI"
+  ],
+  "unit_size": 1,
+  "points": 130,
+  "base_size": "32mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Ydrilan Riverblades , Any Vanari Auralan Wardens , Any Vanari Bladelords"
+ },
+ {
+  "id": "The-Light-of-Eltharion",
+  "name": "The Light of Eltharion",
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "7",
+  "save": "3+",
+  "control": "2",
+  "ward": "4+",
+  "ranged_weapons": [
+   {
+    "name": "Searing Darts of Light",
+    "range": "12\"",
+    "attacks": "3",
+    "hit": "2+",
+    "wound": "3+",
+    "rend": "2",
+    "damage": "D3",
+    "abilities": [
+     "Shoot in Combat"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Fangsword of Eltharion",
+    "range": "",
+    "attacks": "5",
+    "hit": "2+",
+    "wound": "3+",
+    "rend": "3",
+    "damage": "3",
+    "abilities": [
+     "Crit (2 Hits)"
+    ]
+   },
+   {
+    "name": "Celennari Blade",
+    "range": "",
+    "attacks": "2",
+    "hit": "2+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "3",
+    "abilities": [
+     "Anti- HERO (+1 Rend) , Anti- MONSTER (+1 Rend)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "SUPREME SWORDMASTER ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Ignore negative modifiers to hit rolls and wound rolls for this unit’s attacks."
+   },
+   {
+    "name": "VALOROUS INTERVENTION ",
+    "timing": "Any Combat Phase",
+    "declare": "This unit cannot use this ability if it is in combat . Pick a friendly LUMINETH REALM-LORDS unit that is in combat to be the target.",
+    "effect": "Remove this unit from the battlefield and set it up again within 1\" of the target, within 1\" of an enemy unit and in combat. This unit has charged ."
+   }
+  ],
+  "keywords": [
+   "UNIQUE",
+   "HERO",
+   "INFANTRY",
+   "WARD ( 4+ )",
+   "ORDER",
+   "LUMINETH REALM‑LORDS",
+   "AELF"
+  ],
+  "unit_size": 1,
+  "points": 300,
+  "base_size": "50mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Lumineth Paragon , Any LUMINETH REALM-LORDS Notes: This HERO can join an eligible regiment as a Lumineth Paragon ."
+ },
+ {
+  "id": "Vanari-Bannerblade",
+  "name": "Vanari Bannerblade",
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "5",
+  "save": "4+",
+  "control": "5",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Bannerblade’s Sword",
+    "range": "",
+    "attacks": "5",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Crit (Mortal)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "WORLD BANNER ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While a visible friendly LUMINETH REALM-LORDS unit is wholly within 12\" of this unit, it can use the ‘ Rally ’ command even if it is in combat ."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "INFANTRY",
+   "ORDER",
+   "LUMINETH REALM‑LORDS",
+   "AELF",
+   "VANARI"
+  ],
+  "unit_size": 1,
+  "points": 130,
+  "base_size": "40mm",
+  "can_be_reinforced": false,
+  "regiment_options": "Any VANARI Notes: This HERO can join an eligible regiment as a Lumineth Paragon ."
+ },
+ {
+  "id": "Vanari-Lord-Regent",
+  "name": "Vanari Lord Regent",
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "5",
+  "save": "4+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Regent’s Sword",
+    "range": "",
+    "attacks": "5",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Crit (Mortal)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "SHINING EXAMPLE ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Each time a friendly LUMINETH REALM-LORDS unit wholly within 12\" of this unit uses the ‘ Rally ’ command, you can make 3 additional rally rolls of D6."
+   },
+   {
+    "name": "WALL OF BLADES ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "Pick a friendly Vanari Auralan Wardens unit wholly within 12\" of this unit to be the wall of blades. Then, pick an enemy unit in combat with the wall of blades to be the target.",
+    "effect": "Roll a dice for each model in the wall of blades that is within 3\" of the target. For each 5+, inflict 1 mortal damage on the target."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "INFANTRY",
+   "ORDER",
+   "LUMINETH REALM‑LORDS",
+   "AELF",
+   "VANARI"
+  ],
+  "unit_size": 1,
+  "points": 110,
+  "base_size": "90 × 52mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Ydrilan Riverblades , Any VANARI Notes: This HERO can join an eligible regiment as a Lumineth Paragon ."
+ },
+ {
+  "id": "Scourge-of-Aqshy-Alarith-Stonemage",
+  "name": "Scourge of Aqshy Alarith Stonemage",
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "5",
+  "save": "4+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Staff of the High Peaks",
+    "range": "",
+    "attacks": "3",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "ELEMENTAL ENDURANCE ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "If this unit is picked to be a target of the ‘ Depict Rune ’ ability, for the rest of that battle round, when resolving the damage sequence for a friendly LUMINETH REALM-LORDS unit while it is wholly within 12\" of this unit, if you spend rage dice as part of the ‘ Fight Through the Pain ’ ability, remove 1 damage point from that unit’s damage pool on a 2+ instead of a 3+"
+   },
+   {
+    "name": "EARTH’S GRIP ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick a visible enemy unit that has no more than 1 model and is within 18\" of this unit to be the target, then make a casting roll of 2D6.",
+    "effect": "For the rest of the battle, the target is gripped until this unit is destroyed, the target breaks free or you pick a different target for this spell. While the target is gripped , each time it uses a MOVE ability, your opponent must roll a dice as a reaction and add their fury level to the roll. On a 7+, the target breaks free . Otherwise, that MOVE ability has no effect."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "WIZARD ( 1 )",
+   "INFANTRY",
+   "ALARITH",
+   "ORDER",
+   "LUMINETH REALM‑LORDS",
+   "AELF"
+  ],
+  "unit_size": 1,
+  "points": 150,
+  "base_size": "40mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Ydrilan Riverblades , Any Vanari Auralan Wardens , Any ALARITH Notes: This unit is legal for Matched Play for battles fought using the General’s Handbook 2026-27 battlepack."
+ },
+ {
+  "id": "Scourge-of-Aqshy-Scinari-Loreseeker",
+  "name": "Scourge of Aqshy Scinari Loreseeker",
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "5",
+  "save": "4+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Eclipsian Staff",
+    "range": "12\"",
+    "attacks": "3",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": [
+     "Shoot in Combat"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Loreseeker Blade",
+    "range": "",
+    "attacks": "5",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Crit (Mortal)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "ARCANE NULLIFICATION ",
+    "timing": "Once Per Turn (Army), Your Hero Phase",
+    "declare": "Pick a visible enemy HERO within 12\" of this unit to be the target.",
+    "effect": "If this unit is in combat with the target, the corresponding effect below applies until the start of your next turn. Otherwise, roll a dice. On a 3+, the corresponding effect below applies until the start of your next turn: Holder of Forbidden Treasures: If the target has an artefact of power , that artefact of power has no effect. An Insignificant Underling: If the target does not have an artefact of power, other than the Companion weapon ability, weapon abilities for the target’s combat attacks have no effect."
+   },
+   {
+    "name": "LEASHED FURY ",
+    "timing": "Once Per Turn (Army), End of Any Turn",
+    "declare": "",
+    "effect": "If your opponent’s fury level is lower than yours, they must increase their fury level by 1, to a maximum of 7. Then, for the rest of the turn: Each time this unit is picked to use the ‘ Eruption of Fury ’ ability, if you spend 1 rage dice as part of that ability, it counts as 3 rage dice . This unit can be picked to use the ‘Eruption of Fury’ ability even if you have already used it this turn."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "WIZARD ( 1 )",
+   "INFANTRY",
+   "ORDER",
+   "LUMINETH REALM‑LORDS",
+   "AELF",
+   "SCINARI"
+  ],
+  "unit_size": 1,
+  "points": 160,
+  "base_size": "32mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Ydrilan Riverblades , Any Vanari Auralan Wardens , Any Vanari Bladelords Notes: This unit is legal for Matched Play for battles fought using the General’s Handbook 2026-27 battlepack."
+ },
+ {
+  "id": "Scourge-of-Ghyran-The-Light-of-Eltharion",
+  "name": "Scourge of Ghyran The Light of Eltharion",
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "6",
+  "save": "3+",
+  "control": "2",
+  "ward": "4+",
+  "ranged_weapons": [
+   {
+    "name": "Searing Darts of Light",
+    "range": "12\"",
+    "attacks": "3",
+    "hit": "2+",
+    "wound": "3+",
+    "rend": "2",
+    "damage": "D3",
+    "abilities": []
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Fangsword of Eltharion",
+    "range": "",
+    "attacks": "5",
+    "hit": "2+",
+    "wound": "3+",
+    "rend": "3",
+    "damage": "3",
+    "abilities": [
+     "Crit (2 Hits)"
+    ]
+   },
+   {
+    "name": "Celennari Blade",
+    "range": "",
+    "attacks": "2",
+    "hit": "2+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "3",
+    "abilities": [
+     "Anti- HERO (+1 Rend) , Anti- MONSTER (+1 Rend)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "SUPREME SWORDMASTER ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Ignore negative modifiers to hit rolls and wound rolls for this unit’s attacks. In addition, ignore negative modifiers to the characteristics of this unit’s melee weapons."
+   },
+   {
+    "name": "ETERNAL LIGHT ",
+    "timing": "Reaction: Passive",
+    "declare": "",
+    "effect": "If this unit is destroyed and if a friendly LUMINETH REALMLORDS WIZARD successfully casts a SUMMON spell, instead of resolving the effect of that SUMMON spell, you can set up a replacement unit for this unit more than 9\" from all enemy units and wholly within 12\" of the unit that used that SUMMON spell. This ability is still in effect even if this unit is not on the battlefield."
+   }
+  ],
+  "keywords": [
+   "UNIQUE",
+   "HERO",
+   "INFANTRY",
+   "WARD ( 4+ )",
+   "ORDER",
+   "LUMINETH REALM‑LORDS",
+   "AELF"
+  ],
+  "unit_size": 1,
+  "points": 280,
+  "base_size": "50mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Lumineth Paragon , Any LUMINETH REALM-LORDS Notes: This HERO can join an eligible regiment as a Lumineth Paragon . This unit is legal for Matched Play for battles fought using the General’s Handbook 2025-26 battlepack."
+ },
+ {
+  "id": "Scourge-of-Ghyran-Vanari-Bannerblade",
+  "name": "Scourge of Ghyran Vanari Bannerblade",
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "5",
+  "save": "3+",
+  "control": "5",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Bannerblade’s Sword",
+    "range": "",
+    "attacks": "5",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Crit (Mortal)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "DEFEND THE BANNER ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Add 1 to save rolls for friendly VANARI INFANTRY units while they are contesting the same objective as this unit."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "INFANTRY",
+   "ORDER",
+   "LUMINETH REALM‑LORDS",
+   "AELF",
+   "VANARI"
+  ],
+  "unit_size": 1,
+  "points": 140,
+  "base_size": "40mm",
+  "can_be_reinforced": false,
+  "regiment_options": "Any VANARI Notes: This HERO can join an eligible regiment as a Lumineth Paragon . This unit is legal for Matched Play for battles fought using the General’s Handbook 2025-26 battlepack."
+ },
+ {
+  "id": "Thyrielle-s-Zephyrites-1",
+  "name": "Thyrielle’s Zephyrites",
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "grand_alliance": "Order",
+  "move": "7\"",
+  "health": "3",
+  "save": "5+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Slipstream Bow",
+    "range": "12\"",
+    "attacks": "3",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Crit (Auto-wound)"
+    ]
+   },
+   {
+    "name": "Windblast",
+    "range": "12\"",
+    "attacks": "1",
+    "hit": "2+",
+    "wound": "3+",
+    "rend": "2",
+    "damage": "D3",
+    "abilities": [
+     "Shoot in Combat"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Zephyrite Weapons",
+    "range": "",
+    "attacks": "1",
+    "hit": "4+",
+    "wound": "4+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "MASTERS OF THE ZEPHYR ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "This unit’s Tzul is a token . After setting up this unit on the battlefield for the first time, place its Tzul next to it. While this unit’s Tzul is next to it, it has Fly . While this unit’s Thyrielle is on the battlefield, it has WIZARD ( 1 ) ."
+   },
+   {
+    "name": "ONE WITH THE WIND ",
+    "timing": "Your Movement Phase",
+    "declare": "Pick an enemy INFANTRY or CAVALRY unit that this unit passed across this phase to be the target.",
+    "effect": "Place this unit’s Tzul next to the target."
+   },
+   {
+    "name": "THE LIVING GALE ",
+    "timing": "Any Shooting Phase",
+    "declare": "Pick an enemy unit with this unit’s Tzul next to it to be the target.",
+    "effect": "Place this unit’s Tzul next to this unit. You can move the target up to D3\". Then, if this unit is within 6\" of the target, you can move this unit up to D6\". It cannot end that move in combat . Add 2\" to the distance each unit can move for each instance of Oreali, Rune of the Wind depicted on your battle scripture . Designer’s Note: If your opponent would prefer to move their own models, pre-measure the distance and indicate where they should move their models to"
+   }
+  ],
+  "keywords": [
+   "UNIQUE",
+   "HERO",
+   "INFANTRY",
+   "CHAMPION",
+   "ORDER",
+   "LUMINETH REALM‑LORDS",
+   "HURAKAN",
+   "AELF"
+  ],
+  "unit_size": 4,
+  "points": 190,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Archmage-Teclis-and-Celennar-Spirit-of-Hysh",
+  "name": "Archmage Teclis and Celennar, Spirit of Hysh",
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "grand_alliance": "Order",
+  "move": "10\"",
+  "health": "16",
+  "save": "4+",
+  "control": "10",
+  "ward": "5+",
+  "ranged_weapons": [
+   {
+    "name": "Lunar Staff",
+    "range": "12\"",
+    "attacks": "1",
+    "hit": "2+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "D3+3",
+    "abilities": []
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Sword of Teclis",
+    "range": "",
+    "attacks": "2",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "2",
+    "damage": "D3",
+    "abilities": [
+     "Crit (Mortal)"
+    ]
+   },
+   {
+    "name": "Celennar’s Moonbright Talons",
+    "range": "",
+    "attacks": "5",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "2",
+    "damage": "3",
+    "abilities": [
+     "Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "BATTLE DAMAGED",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit has 10 or more damage points, the Attacks characteristic of Celennar’s Moonbright Talons is 3."
+   },
+   {
+    "name": "AURA OF CELENNAR ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Add 1 to casting rolls and banishment rolls for friendly LUMINETH REALM-LORDS WIZARDS while they are wholly within 12\" of this unit. In addition, this unit can use Spell abilities from the Lore of Hysh , the Lore of the Awakened Realms and the warscrolls of all friendly LUMINETH REALM-LORDS WIZARDS on the battlefield."
+   },
+   {
+    "name": "ARCHMAGE ",
+    "timing": "Once Per Turn, Your Hero Phase",
+    "declare": "",
+    "effect": "Pick 1 of the following: Magical Supremacy: Instead of making a casting roll for the next SPELL ability used by this unit this turn, you can use a value of 12 for the roll that cannot be modified. Drain Power: Pick a visible enemy WIZARD or PRIEST within 18\" of this unit to be the target. Subtract 1 from the target’s power level , to a minimum of 0, until the start of your next turn."
+   },
+   {
+    "name": "THE LIGHT OF TRUTH ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick any number of different visible enemy units within 18\" of this unit to be the targets, then make a casting roll of 2D6.",
+    "effect": "Inflict D3 mortal damage on each target."
+   },
+   {
+    "name": "DISCS OF THE AELEMENTIRI ",
+    "timing": "Once Per Battle (Army), Start of Battle Round",
+    "declare": "You cannot use this ability in the first battle round.",
+    "effect": "Depict a rune of your choice on your battle scripture . Designer’s Note: This allows you to have that rune depicted earlier in the battle scripture for the purposes of other abilities. Do not resolve the effect of the ‘ Depict Rune ’ ability as part of this ability."
+   }
+  ],
+  "keywords": [
+   "WARMASTER",
+   "UNIQUE",
+   "HERO",
+   "MONSTER",
+   "WIZARD ( 4 )",
+   "FLY",
+   "WARD ( 5+ )",
+   "ORDER",
+   "LUMINETH REALM‑LORDS",
+   "AELF"
+  ],
+  "unit_size": 1,
+  "points": 640,
+  "base_size": "160mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Lumineth Paragon , Any LUMINETH REALM-LORDS"
+ },
+ {
+  "id": "Avalenor-The-Stoneheart-King",
+  "name": "Avalenor The Stoneheart King",
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "16",
+  "save": "3+",
+  "control": "5",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Geomantic Blast",
+    "range": "12\"",
+    "attacks": "1",
+    "hit": "3+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "D6",
+    "abilities": [
+     "Shoot in Combat"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Firestealer Hammers",
+    "range": "",
+    "attacks": "6",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "4",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "BATTLE DAMAGED",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit has 10 or more damage points, the Attacks characteristic of its Firestealer Hammers is 4."
+   },
+   {
+    "name": "CALL OF THE MOUNTAINS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While a visible friendly ALARITH unit is wholly within 12\" of this unit: You are treated as having 1 additional instance of Alaithi, Rune of the Mountain depicted on your battle scripture for the purposes of the abilities on that unit’s warscroll. If that unit is picked to be a target of the ‘ Depict Rune ’ ability, you can apply the enhanced effects of that ability to that unit as if you had an instance of Alaithi, Rune of the Mountain depicted on your battle scripture ."
+   },
+   {
+    "name": "WITH THE FORCE OF A LANDSLIDE ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Add 1 to the Attacks characteristic of this unit’s Firestealer Hammers for each instance of Alaithi, Rune of the Mountain depicted on your battle scripture ."
+   },
+   {
+    "name": "UNBREAKABLE BULWARK ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "If this unit did not charge this turn, pick an enemy unit in combat with it to be the target.",
+    "effect": "Roll a dice. On a 3+, for the rest of the turn, while that enemy unit is in combat with this unit, all attacks made by models in that enemy unit within this unit’s combat range must target this unit."
+   }
+  ],
+  "keywords": [
+   "UNIQUE",
+   "HERO",
+   "MONSTER",
+   "ALARITH",
+   "ORDER",
+   "LUMINETH REALM‑LORDS"
+  ],
+  "unit_size": 1,
+  "points": 400,
+  "base_size": "100mm",
+  "can_be_reinforced": false,
+  "regiment_options": "Any ALARITH , Any VANARI , 0-1 Lumineth Paragon"
+ },
+ {
+  "id": "Sevireth-Lord-of-the-Seventh-Wind",
+  "name": "Sevireth Lord of the Seventh Wind",
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "grand_alliance": "Order",
+  "move": "18\"",
+  "health": "10",
+  "save": "4+",
+  "control": "5",
+  "ward": "5+",
+  "ranged_weapons": [
+   {
+    "name": "Enathrai, the Howling Death",
+    "range": "15\"",
+    "attacks": "4",
+    "hit": "2+",
+    "wound": "3+",
+    "rend": "3",
+    "damage": "3",
+    "abilities": [
+     "Shoot in Combat"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Swirling Shards",
+    "range": "",
+    "attacks": "6",
+    "hit": "2+",
+    "wound": "4+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": [
+     "Crit (Mortal)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "CALL OF THE WINDS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While a visible friendly HURAKAN unit is wholly within 12\" of this unit: You are treated as having 1 additional instance of Oreali, Rune of the Wind depicted on your battle scripture for the purposes of the abilities on that unit’s warscroll. If that unit is picked to be a target of the ‘ Depict Rune ’ ability, you can apply the enhanced effects of that ability to that unit as if you had an instance of Oreali, Rune of the Wind depicted on your battle scripture ."
+   },
+   {
+    "name": "SPIRIT OF THE WIND ",
+    "timing": "Once Per Turn (Army), Any Shooting Phase",
+    "declare": "",
+    "effect": "If this unit used a SHOOT ability this phase, this unit can move D6\". Add 2 to the roll for each instance of Oreali, Rune of the Wind depicted on your battle scripture . It cannot end that move in combat ."
+   },
+   {
+    "name": "SEARING DESERT WINDS ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "Pick up to 3 visible enemy units within 6\" of this unit to be the targets.",
+    "effect": "Roll a D3 for each target. On a 2+, inflict an amount of mortal damage on the target equal to the roll and subtract 1 from wound rolls for the target’s attacks for the rest of the turn."
+   }
+  ],
+  "keywords": [
+   "UNIQUE",
+   "HERO",
+   "MONSTER",
+   "FLY",
+   "WARD ( 5+ )",
+   "ORDER",
+   "LUMINETH REALM‑LORDS",
+   "HURAKAN"
+  ],
+  "unit_size": 1,
+  "points": 350,
+  "base_size": "60mm",
+  "can_be_reinforced": false,
+  "regiment_options": "Any VANARI , Any HURAKAN , 0-1 Lumineth Paragon"
+ },
+ {
+  "id": "Hurakan-Windchargers",
+  "name": "Hurakan Windchargers",
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "grand_alliance": "Order",
+  "move": "14\"",
+  "health": "3",
+  "save": "4+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Windcharger Bow",
+    "range": "12\"",
+    "attacks": "3",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Anti- CAVALRY (+1 Rend) , Crit (Auto-wound)"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Windcharger Blade",
+    "range": "",
+    "attacks": "1",
+    "hit": "4+",
+    "wound": "4+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": []
+   },
+   {
+    "name": "Treerunner’s Claws",
+    "range": "",
+    "attacks": "2",
+    "hit": "5+",
+    "wound": "3+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": [
+     "Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "GUIDED BY THE WINDS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While you have 2 or more instances of Oreali, Rune of the Wind depicted on your battle scripture , add 6\" to the Range characteristic of this unit’s Windcharger Bows ."
+   }
+  ],
+  "keywords": [
+   "CAVALRY",
+   "CHAMPION",
+   "STANDARD BEARER ( 1/5 )",
+   "ORDER",
+   "LUMINETH REALM‑LORDS",
+   "AELF",
+   "HURAKAN"
+  ],
+  "unit_size": 5,
+  "points": 170,
+  "base_size": "60 × 35mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Vanari-Dawnriders",
+  "name": "Vanari Dawnriders",
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "grand_alliance": "Order",
+  "move": "14\"",
+  "health": "3",
+  "save": "4+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Dawnrider Lance and Blade",
+    "range": "",
+    "attacks": "2",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Charge (+1 Damage) , Crit (Mortal)"
+    ]
+   },
+   {
+    "name": "Stallions’ Dashing Hooves",
+    "range": "",
+    "attacks": "2",
+    "hit": "5+",
+    "wound": "3+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": [
+     "Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "DAWNRIDER CHARGE ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Add 1 to the Rend characteristic of this unit’s Dawnrider Lances and Blades if it charged in the same turn."
+   }
+  ],
+  "keywords": [
+   "CAVALRY",
+   "CHAMPION",
+   "STANDARD BEARER ( 1/5 )",
+   "ORDER",
+   "LUMINETH REALM‑LORDS",
+   "AELF",
+   "VANARI"
+  ],
+  "unit_size": 5,
+  "points": 200,
+  "base_size": "60 × 35mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Alarith-Stoneguard",
+  "name": "Alarith Stoneguard",
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "grand_alliance": "Order",
+  "move": "5\"",
+  "health": "2",
+  "save": "4+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Stoneguard Hammers",
+    "range": "",
+    "attacks": "2",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "FORTITUDE OF THE EARTH ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While you have 2 or more instances of Alaithi, Rune of the Mountain depicted on your battle scripture , this unit’s Save characteristic is 3+."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "CHAMPION",
+   "STANDARD BEARER ( 1/5 )",
+   "ALARITH",
+   "ORDER",
+   "LUMINETH REALM‑LORDS",
+   "AELF"
+  ],
+  "unit_size": 5,
+  "points": 130,
+  "base_size": "32mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Vanari-Auralan-Sentinels",
+  "name": "Vanari Auralan Sentinels",
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "1",
+  "save": "5+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Auralan Bow",
+    "range": "18\"",
+    "attacks": "2",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Crit (Auto-wound)"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Sentinel Blade",
+    "range": "",
+    "attacks": "1",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "LOFTED SHOTS ",
+    "timing": "Your Shooting Phase",
+    "declare": "",
+    "effect": "For the rest of the turn, add 6\" to the Range characteristic of this unit’s Auralan Bows but subtract 1 from hit rolls for this unit’s shooting attacks ."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "CHAMPION",
+   "ORDER",
+   "LUMINETH REALM‑LORDS",
+   "AELF",
+   "VANARI"
+  ],
+  "unit_size": 10,
+  "points": 150,
+  "base_size": "32mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Vanari-Auralan-Wardens",
+  "name": "Vanari Auralan Wardens",
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "1",
+  "save": "4+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Warden Pike and Blade",
+    "range": "",
+    "attacks": "2",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": [
+     "Anti-charge (+1 Rend) , Crit (Mortal)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "ANTICIPATED STRIKE ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "If this unit has not charged this turn, ignore the effect of the Charge (+1 Damage) ability for combat attacks made by enemy units that target this unit."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "CHAMPION",
+   "ORDER",
+   "LUMINETH REALM‑LORDS",
+   "AELF",
+   "VANARI"
+  ],
+  "unit_size": 10,
+  "points": 120,
+  "base_size": "32mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Vanari-Bladelords",
+  "name": "Vanari Bladelords",
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "2",
+  "save": "4+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Sunmetal Blade",
+    "range": "",
+    "attacks": "3",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Crit (Mortal)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "GUARDIANS OF THE SCINARI ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While any friendly SCINARI HEROES are wholly within this unit’s combat range , both this unit and those friendly units have WARD ( 5+ ) ."
+   },
+   {
+    "name": "MASTERS OF COMBAT ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Add 1 to the Rend characteristic of this unit’s Sunmetal Blades for each instance of Varinor, Rune of Strength depicted on your battle scripture ."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "CHAMPION",
+   "ORDER",
+   "LUMINETH REALM‑LORDS",
+   "AELF",
+   "VANARI"
+  ],
+  "unit_size": 5,
+  "points": 150,
+  "base_size": "32mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Ydrilan-Riverblades",
+  "name": "Ydrilan Riverblades",
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "grand_alliance": "Order",
+  "move": "7\"",
+  "health": "1",
+  "save": "5+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Ythara Darts",
+    "range": "10\"",
+    "attacks": "2",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": [
+     "Shoot in Combat"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Ydrilan Blades",
+    "range": "",
+    "attacks": "2",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "TRAVEL THE WATERWAYS ",
+    "timing": "Once Per Turn (Army), Your Movement Phase",
+    "declare": "",
+    "effect": "Remove this unit from the battlefield and set it up again on the battlefield wholly within 6\" of a battlefield edge and more than 9\" from all enemy units. If you picked to depict Ydriliqi, Rune of the River on your battle scripture this battle round, you can instead set up this unit anywherecon the battlefield more than 9\" from all enemy units."
+   },
+   {
+    "name": "RELENTLESS AS THE DRIVING CURRENT ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "",
+    "effect": "If this unit is in combat , it can move 2D6\". It can pass through models in enemy units but must end that move in combat."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "CHAMPION",
+   "ORDER",
+   "LUMINETH REALM‑LORDS",
+   "AELF",
+   "YDRILAN"
+  ],
+  "unit_size": 10,
+  "points": 150,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Myari-s-Purifiers",
+  "name": "Myari’s Purifiers",
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "3",
+  "save": "5+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Auralan Bow",
+    "range": "18\"",
+    "attacks": "2",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Crit (Auto-wound)"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Purifier Weapons",
+    "range": "",
+    "attacks": "2",
+    "hit": "2+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "MYARI LIGHTCALLER ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit’s Myari Lightcaller is on the battlefield, it has WIZARD ( 1 ) and the SCINARI keyword."
+   },
+   {
+    "name": "DAZZLING LIGHT ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick an objective that you do not control that is within 18\" of and visible to this unit’s Myari Lightcaller , then make a casting roll of 2D6.",
+    "effect": "Until the start of your next turn, subtract 1 from hit rolls for attacks made by enemy units that are contesting that objective."
+   }
+  ],
+  "keywords": [
+   "UNIQUE",
+   "INFANTRY",
+   "CHAMPION",
+   "ALARITH",
+   "ORDER",
+   "LUMINETH REALM‑LORDS",
+   "AELF",
+   "VANARI"
+  ],
+  "unit_size": 4,
+  "points": 130,
+  "base_size": "32mm",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Alarith-Spirit-of-the-Mountain",
+  "name": "Alarith Spirit of the Mountain",
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "14",
+  "save": "3+",
+  "control": "5",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Geomantic Blast",
+    "range": "12\"",
+    "attacks": "1",
+    "hit": "3+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "D6",
+    "abilities": [
+     "Shoot in Combat"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Stoneheart Worldhammer",
+    "range": "",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "5",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "BATTLE DAMAGED",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit has 10 or more damage points, the Attacks characteristic of its Stoneheart Worldhammer is 3."
+   },
+   {
+    "name": "WITH THE FORCE OF A LANDSLIDE ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Add 1 to the Attacks characteristic of this unit’s Stoneheart Worldhammer for each instance of Alaithi, Rune of the Mountain depicted on your battle scripture ."
+   },
+   {
+    "name": "RAIN OF STONE ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "Pick an enemy unit in combat with this unit to be the target.",
+    "effect": "Roll a D3. Add 2 to the roll if the target charged this turn. On a 2+, inflict an amount of mortal damage on the target equal to the roll."
+   }
+  ],
+  "keywords": [
+   "MONSTER",
+   "ALARITH",
+   "ORDER",
+   "LUMINETH REALM‑LORDS"
+  ],
+  "unit_size": 1,
+  "points": 310,
+  "base_size": "100mm",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Hurakan-Spirit-of-the-Wind",
+  "name": "Hurakan Spirit of the Wind",
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "grand_alliance": "Order",
+  "move": "18\"",
+  "health": "8",
+  "save": "4+",
+  "control": "5",
+  "ward": "5+",
+  "ranged_weapons": [
+   {
+    "name": "Bow of the Wind’s Vengeance",
+    "range": "15\"",
+    "attacks": "4",
+    "hit": "2+",
+    "wound": "3+",
+    "rend": "2",
+    "damage": "2",
+    "abilities": [
+     "Anti- MONSTER (+1 Rend) , Shoot in Combat"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Swirling Shards",
+    "range": "",
+    "attacks": "6",
+    "hit": "2+",
+    "wound": "4+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": [
+     "Crit (Mortal)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "HUNTERS OF MAJESTIC BEASTS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "The Damage characteristic of this unit’s Bow of the Wind’s Vengeance is 3 for attacks that target MONSTERS ."
+   },
+   {
+    "name": "SPIRIT OF THE WIND ",
+    "timing": "Once Per Turn (Army), Any Shooting Phase",
+    "declare": "",
+    "effect": "If this unit used a SHOOT ability this phase, this unit can move D6\". Add 2 to the roll for each instance of Oreali, Rune of the Wind depicted on your battle scripture . It cannot end that move in combat ."
+   },
+   {
+    "name": "HURRICANE WINDS ",
+    "timing": "Once Per Turn (Army), Any Shooting Phase",
+    "declare": "Pick an enemy unit that had any damage points allocated to it this turn by this unit’s shooting attacks to be the target.",
+    "effect": "Roll a dice. On a 3+, the target has STRIKE-LAST for the rest of the turn."
+   }
+  ],
+  "keywords": [
+   "MONSTER",
+   "FLY",
+   "WARD ( 5+ )",
+   "ORDER",
+   "LUMINETH REALM‑LORDS",
+   "HURAKAN"
+  ],
+  "unit_size": 1,
+  "points": 270,
+  "base_size": "60mm",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Vanari-Starshard-Ballista",
+  "name": "Vanari Starshard Ballista",
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "5",
+  "save": "5+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Starshard Bolts",
+    "range": "24\"",
+    "attacks": "4",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Anti- MONSTER (+1 Rend) , Crit (2 Hits)"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Crew’s Arming Swords",
+    "range": "",
+    "attacks": "2",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "SCRYHAWKS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Add 6\" to the Range characteristic of this unit’s Starshard Bolts while it is wholly within 12\" of any friendly Vanari Auralan Sentinels units."
+   },
+   {
+    "name": "BLINDING BOLTS ",
+    "timing": "Once Per Turn (Army), Any Shooting Phase",
+    "declare": "Pick an enemy unit that was targeted by all of this unit’s shooting attacks this phase to be the target.",
+    "effect": "Roll a dice. Add 1 to the roll if the target is a MONSTER . On a 3+, subtract 1 from hit rolls for the target’s attacks for the rest of the turn."
+   }
+  ],
+  "keywords": [
+   "WAR MACHINE",
+   "ORDER",
+   "LUMINETH REALM‑LORDS",
+   "VANARI"
+  ],
+  "unit_size": 1,
+  "points": 100,
+  "base_size": "80mm",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Shrine-Luminor",
+  "name": "Shrine Luminor",
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "grand_alliance": "Order",
+  "move": "-",
+  "health": "12",
+  "save": "3+",
+  "control": "-",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "CLEANSING RITUALS ",
+    "timing": "Once Per Turn, Reaction: You declared a SPELL ability for a LUMINETH REALM-LORDS unit wholly within 12\" of this terrain feature",
+    "declare": "",
+    "effect": "While this terrain feature has a Shrine Guardian, you can re-roll the casting roll for that spell."
+   },
+   {
+    "name": "SHRINE GUARDIAN ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this terrain feature has a Shrine Guardian: This terrain feature has a Move characteristic of 6\" and can use non- command non- CHARGE MOVE abilities as if it were a unit. It cannot end a MOVE ability within the combat range of an enemy unit. The Shrine Guardian cannot use MOVE abilities and remains on this terrain feature each time it moves. Instead of measuring range and visibility to the Shrine Guardian, measure to this terrain feature instead. All attacks that would target the Shrine Guardian target this terrain feature instead. If this terrain feature is destroyed, before removing it from the battlefield, inflict D3 mortal damage on the Shrine Guardian. Then, set up the Shrine Guardian on the battlefield wholly within 3\" of this terrain feature and not in combat . That unit is no longer a Shrine Guardian. If it is not possible to set up the Shrine Guardian, it is slain."
+   },
+   {
+    "name": "ENTER THE SHRINE ",
+    "timing": "Your Hero Phase",
+    "declare": "If this terrain feature does not have a Shrine Guardian, pick a friendly LUMINETH REALM‐LORDS INFANTRY HERO within 3\" of it and not in combat to be the target.",
+    "effect": "Place the target on this terrain feature. The target is now a Shrine Guardian (see ‘Shrine Guardian’)."
+   },
+   {
+    "name": "EXIT THE SHRINE ",
+    "timing": "Your Movement Phase",
+    "declare": "",
+    "effect": "If this terrain feature has a Shrine Guardian that was not placed on it this turn, set up the Shrine Guardian on the battlefield wholly within 6\" of this terrain feature and not in combat . That unit is no longer a Shrine Guardian."
+   }
+  ],
+  "keywords": [
+   "FACTION TERRAIN",
+   "FLY",
+   "ORDER",
+   "LUMINETH REALM‑LORDS"
+  ],
+  "unit_size": 1,
+  "points": 0,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Hyshian-Twinstones",
+  "name": "Hyshian Twinstones",
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Crackling Energy",
+    "range": "",
+    "attacks": "2D6",
+    "hit": "4+",
+    "wound": "4+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "RESERVOIR OF POWER ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Each time a unit (friendly or enemy) successfully casts a spell while it is within 12\" of this MANIFESTATION , give this MANIFESTATION 1 arcane charge point . This MANIFESTATION can have a maximum of 6 arcane charge points ."
+   },
+   {
+    "name": "RELEASE ARCANE CHARGE ",
+    "timing": "Once Per Turn (Army), Reaction: You declared a SPELL or UNBIND ability for a LUMINETH REALM-LORDS WIZARD within 3\" of this MANIFESTATION",
+    "declare": "",
+    "effect": "Add this MANIFESTATION arcane charge points to the casting roll or unbinding roll . Then, reset this MANIFESTATION 's arcane charge points to 0."
+   }
+  ],
+  "keywords": [
+   "MANIFESTATION",
+   "ENDLESS SPELL",
+   "WARD ( 6+ )",
+   "ORDER",
+   "LUMINETH REALM‑LORDS"
+  ],
+  "unit_size": null,
+  "points": null,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Rune-of-Petrification",
+  "name": "Rune of Petrification",
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "TURN TO STONE ",
+    "timing": "Any Hero Phase",
+    "declare": "",
+    "effect": "Roll a D3 for each enemy unit within 6\" of this MANIFESTATION . On a 2+, inflict an amount of mortal damage on that enemy unit equal to the roll. If an enemy unit has at least 3 mortal damage inflicted on it by this ability this turn, it has STRIKE-LAST for the rest of the turn."
+   }
+  ],
+  "keywords": [
+   "MANIFESTATION",
+   "ENDLESS SPELL",
+   "WARD ( 6+ )",
+   "ORDER",
+   "LUMINETH REALM‑LORDS"
+  ],
+  "unit_size": null,
+  "points": null,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Sanctum-of-Amyntok",
+  "name": "Sanctum of Amyntok",
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "SIGIL OF YNGRA ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While a friendly unit with a Health characteristic of 10 or less is wholly inside the ring formed by this MANIFESTATION : That unit is not visible to enemy units that are not within its combat range . Enemy abilities that would target that unit must target this MANIFESTATION instead."
+   },
+   {
+    "name": "MULTIPLE PARTS",
+    "timing": "",
+    "declare": "",
+    "effect": "When a number of damage points equal to this MANIFESTATION ’s Health characteristic are allocated to it, this MANIFESTATION is destroyed and all its parts are removed from play"
+   }
+  ],
+  "keywords": [
+   "MANIFESTATION",
+   "ENDLESS SPELL",
+   "WARD ( 6+ )",
+   "ORDER",
+   "LUMINETH REALM‑LORDS"
+  ],
+  "unit_size": null,
+  "points": null,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Bloodthirsty-Shiver",
+  "name": "Bloodthirsty Shiver",
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "HUNT OF THE BLOODTHIRSTY SHIVER ",
+    "timing": "Your Hero Phase",
+    "declare": "",
+    "effect": "If both units in this Regiment of Renown are within each other’s combat range , pick 1 of the following effects to apply until the start of your next turn: Evasive Approach: While both units in this Regiment of Renown are within each other’s combat range, subtract 1 from hit rolls for attacks that target them. Ferocious Attack: While both units in this Regiment of Renown are within each other’s combat range, their Allopex’s Ferocious Bites have Crit (2 Hits) ."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 300,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Bundo-Whalebiter",
+  "name": "Bundo Whalebiter",
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "DEAD CUNNING, FOR A GARGANT ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "",
+    "effect": "For the rest of the turn, add 1 to the Attacks characteristic of this unit’s weapons. Then, roll a dice. On a 4+, this unit has STRIKE-LAST for the rest of the turn."
+   },
+   {
+    "name": "TIMBERRRRR! ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "When the MEGA-GARGANT in this regiment of renown is slain, before removing it from play, the players must roll off . The winner picks a point on the battlefield within 3\" of that model. Inflict D3 mortal damage on each unit (friendly and enemy) within 3\" of that point that has a lower Health characteristic than that model."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 450,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Cogfort-Raiders",
+  "name": "Cogfort Raiders",
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [],
+  "keywords": [],
+  "unit_size": null,
+  "points": 450,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Outlaw-Conqueror-Cogfort",
+  "name": "Outlaw Conqueror Cogfort",
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "25",
+  "save": "3+",
+  "control": "10",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Realmscorcher Flame Cannon",
+    "range": "18\"",
+    "attacks": "6D6",
+    "hit": "2+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Anti- INFANTRY (+1 Rend)"
+    ]
+   },
+   {
+    "name": "Crew’s Leadshotters",
+    "range": "12\"",
+    "attacks": "6",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": [
+     "Shoot in Combat"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Crushing Iron Feet",
+    "range": "",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "4",
+    "abilities": [
+     "Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "BATTLE DAMAGED",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit has 10 or more damage points: The Attacks characteristic of its Crushing Iron Feet is 3. It has a Control characteristic of 5."
+   },
+   {
+    "name": "EVERYONE ABOARD! ",
+    "timing": "Deployment Phase",
+    "declare": "Pick up to 1 friendly INFANTRY HERO and up to 1 friendly non- reinforced , non- HERO INFANTR y unit that have not been deployed.",
+    "effect": "Set up those units in reserve as this unit’s passengers . They have now been deployed."
+   },
+   {
+    "name": "THIS IS YOUR STOP, MAGGOTS! ",
+    "timing": "Once Per Battle, Any Charge Phase",
+    "declare": "Pick this unit’s passengers to be the targets.",
+    "effect": "Set up each target wholly within 6\" of this unit and more than 9\" from all enemy units. In addition, the targets’ melee weapons have Charge (+1 Damage) for the rest of the turn."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "WAR MACHINE",
+   "ORDER"
+  ],
+  "unit_size": null,
+  "points": null,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Drekki-s-Privateers",
+  "name": "Drekki’s Privateers",
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "CRUISING INTO POSITION ",
+    "timing": "Deployment Phase",
+    "declare": "Pick all units in this Regiment of Renown that have not been deployed.",
+    "effect": "Set up all of those units in reserve plying the winds. They have now been deployed."
+   },
+   {
+    "name": "YOU CALL IT YOURS, I CALL IT MINE ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Add 1 to hit rolls and wound rolls for shooting attacks made by units in this Regiment of Renown that target an enemy unit that is within 6\" of an enemy unit that has an enhancement."
+   },
+   {
+    "name": "DAREDEVIL DEPLOYMENT ",
+    "timing": "Your Movement Phase",
+    "declare": "Pick the Arkanaut Frigate in this Regiment of Renown to use this ability if it is plying the winds.",
+    "effect": "Set up the Arkanaut Frigate anywhere on the battlefield more than 9\" from all enemy units. Then, set up all other units in this Regiment of Renown wholly within 6\" of the Arkanaut Frigate and more than 9\" from all enemy units."
+   },
+   {
+    "name": "THE GOOD SHIP AELSLING ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "The Aelsling in this Regiment of Renown has a Health characteristic of 17 instead of 14."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 500,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Drycha-s-Talons",
+  "name": "Drycha’s Talons",
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "BITTER ROOTS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "If they do not otherwise have one, terrain features have a friendly overgrown token while they are contested by a Spite-Revenants unit in this Regiment of Renown ."
+   },
+   {
+    "name": "CONCEALED IN THE SHADOWS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While they are wholly within 3\" of a terrain feature , the Spite-Revenants units in this Regiment of Renown are not visible to enemy units more than 12\" away from them."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 360,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Elthwin-s-Thorns",
+  "name": "Elthwin’s Thorns",
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "GOSSAMID CHAMPION ",
+    "timing": "Your Shooting Phase",
+    "declare": "Pick the Arch-Revenant in this Regiment of Renown to use this ability, the pick a visible enemy unit within 12\" of them to be the target.",
+    "effect": "Until the start of your next turn, subtract X from charge rolls for the target, where X is the number of damage points allocated to the target this phase by shooting attacks made by the Gossamid Archers unit in the Regiment of Renown, to a maximum of 6."
+   },
+   {
+    "name": "FLIGHT OF THE ZEPHYRSPITES ",
+    "timing": "Once Per Turn (Army), Your Shooting Phase",
+    "declare": "",
+    "effect": "If both units in this Regiment of Renown are within each other’s combat range and neither unit is in combat , roll a dice. On a 3+, remove both units from the battlefield, then set them up again within each other’s combat range, wholly within 3\" of a terrain feature and more than 9\" from all enemy units."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 220,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Exile-Scavengers",
+  "name": "Exile Scavengers",
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "AN EYE FOR LOOT ",
+    "timing": "Deployment Phase",
+    "declare": "This ability must be used to deploy this Regiment of Renown .",
+    "effect": "Set up the units in this Regiment of Renown in reserve studying the battlefield . They have now been deployed."
+   },
+   {
+    "name": "SWOOP IN ",
+    "timing": "Your Movement Phase",
+    "declare": "Pick the Grundstok Gunhauler in this Regiment of Renown to use this ability if it is studying the battlefield .",
+    "effect": "Set up the Grundstok Gunhauler on the battlefield more than 6\" from all enemy units that have an artefact of power and more than 9\" from all other enemy units. Then, set up all other units in this Regiment of Renown wholly within 3\" of the Grundstok Gunhauler and more than 6\" from all enemy units."
+   },
+   {
+    "name": "WHAT’S YOURS IS MINE ",
+    "timing": "Once Per Turn (Army), Your Combat Phase",
+    "declare": "Pick an enemy unit in combat with a unit in this Regiment of Renown to be the target. Then, pick an artefact of power the target has.",
+    "effect": "Roll a dice. Add 1 to the roll for each unit in this Regiment of Renown that is in combat with the target. On a 6+, the target no longer has that artefact of power."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 410,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Heroes-of-The-Jade-Abbey",
+  "name": "Heroes of The Jade Abbey",
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "STRONGER TOGETHER ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While each unit in this Regiment of Renown is wholly within 6\" of each other unit in this Regiment of Renown, add 1 to the Attacks characteristic of melee weapons used by units in this Regiment of Renown."
+   },
+   {
+    "name": "WATERS OF THE EVERSPRING ",
+    "timing": "End of Any Turn",
+    "declare": "",
+    "effect": "Heal (1) each unit in this Regiment of Renown."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": null,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Khinerai-Death-Flight",
+  "name": "Khinerai Death Flight",
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "FIERCE COMPETITION ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Each time a unit in this Regiment of Renown uses an ability and any enemy models were slain by that ability, after that ability has been resolved, the unit that used that ability is pre-eminent and the other unit in this Regiment of Renown is overlooked . Weapons used by an overlooked unit in this Regiment of Renown have Crit (Auto-wound) ."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 240,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Mask-of-the-Deceiver",
+  "name": "Mask of the Deceiver",
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [],
+  "keywords": [],
+  "unit_size": null,
+  "points": 170,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Mask-of-The-Deceiver-1",
+  "name": "Mask of The Deceiver",
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "grand_alliance": "Order",
+  "move": "5\"",
+  "health": "6",
+  "save": "5+",
+  "control": "2",
+  "ward": "5+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "The Trickster’s Staff",
+    "range": "",
+    "attacks": "3",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "MASKED IN PLAIN SIGHT ",
+    "timing": "Deployment Phase",
+    "declare": "This unit must be deployed using this ability.",
+    "effect": "Set up this unit in reserve incognito . It has now been deployed. Friendly incognito units are destroyed at the end of the fifth battle round and not at the start of the fourth battle round"
+   },
+   {
+    "name": "BAIT AND SWITCH ",
+    "timing": "Any Hero Phase",
+    "declare": "This unit can use this ability if it is incognito . Pick this unit and a friendly INFANTRY HERO to be the targets. One target must be incognito and the other must be on the battlefield.",
+    "effect": "Set up the incognito target wholly within 6\" of the other target and not in combat . Then, remove the other target from the battlefield and set it up in reserve incognito . If this unit is destroyed, before removing it from play, set up the friendly incognito unit wholly within 6\" of a battlefield edge and not in combat."
+   },
+   {
+    "name": "FORCEFUL COMMAND ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick a visible friendly unit wholly within 12\" of this unit to be the target, then make a casting roll of 2D6.",
+    "effect": "Until the start of your next turn: The target cannot use MOVE abilities. The target’s melee weapons have Anti-charge (+1 Rend) ."
+   }
+  ],
+  "keywords": [
+   "UNIQUE",
+   "HERO",
+   "WIZARD ( 2 )",
+   "INFANTRY",
+   "WARD ( 5+ )",
+   "CHAOS",
+   "DISCIPLES OF TZEENTCH",
+   "DAEMON"
+  ],
+  "unit_size": null,
+  "points": null,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Namarti-Shore-Raid",
+  "name": "Namarti Shore Raid",
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "IN THE SHADOW OF THE ETHERSEA ",
+    "timing": "Deployment Phase",
+    "declare": "This ability must be used to deploy this Regiment of Renown .",
+    "effect": "Set up the units in this Regiment of Renown in reserve in the ethersea . They have now been deployed."
+   },
+   {
+    "name": "LAUNCH THE ATTACK ",
+    "timing": "Your Movement Phase",
+    "declare": "Pick each unit in this Regiment of Renown that is in the ethersea .",
+    "effect": "Set up each unit on the battlefield wholly within 7\" of a battlefield edge, more than 9\" from all enemy units and within the combat range of another unit in this Regiment of Renown. Then, each unit can immediately move D3\". The units cannot move into combat during any part of that move."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 270,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Norgrimm-s-Rune-Throng",
+  "name": "Norgrimm’s Rune Throng",
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "WRATH AND RUIN ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick the Runelord in this Regiment of Renown to chant this prayer, pick a visible enemy unit within 18\" of them to be the target, then make a chanting roll of D6.",
+    "effect": "Roll 6 dice. If the chanting roll was 8+, roll 9 dice instead. For each 5+, inflict 1 mortal damage on the target. If 3 or more damage points are allocated to the target as a result of those dice rolls, ignore positive modifiers to save rolls for the target until the start of your next turn."
+   },
+   {
+    "name": "RUNE OF RESTORED HEARTH ",
+    "timing": "Once Per Battle (Army), Your Hero Phase",
+    "declare": "",
+    "effect": "If the Runelord in the Regiment of Renown is contesting an objective , for the rest of the battle, units in this Regiment of Renown have WARD ( 5+ ) while they are contesting that objective."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 330,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Reinholt-s-Sharpshooters",
+  "name": "Reinholt’s Sharpshooters",
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "FRIENDLY COMPETITION ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Add 1 to hit rolls for shooting attacks made by non- HERO units in this Regiment of Renown if any enemy models were slain by shooting attacks made by non- HERO units in this Regiment of Renown in the same turn."
+   },
+   {
+    "name": "CASTLE UP! ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While a non- HERO unit in this Regiment of Renown is within the combat range of and visible to this Regiment of Renown’s HERO , those units are under orders ."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 400,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Rogue-Engine",
+  "name": "Rogue Engine",
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [],
+  "keywords": [],
+  "unit_size": null,
+  "points": 470,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Outlaw-Cannonade-Cogfort-1",
+  "name": "Outlaw Cannonade Cogfort",
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "25",
+  "save": "3+",
+  "control": "10",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Godbreaker Cannon",
+    "range": "24\"",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "4",
+    "abilities": []
+   },
+   {
+    "name": "Breacher Cannon",
+    "range": "12\"",
+    "attacks": "6",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Anti- INFANTRY (+1 Rend)"
+    ]
+   },
+   {
+    "name": "Crew’s Leadshotters",
+    "range": "12\"",
+    "attacks": "6",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": [
+     "Shoot in Combat"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Crushing Iron Feet",
+    "range": "",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "4",
+    "abilities": [
+     "Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "BATTLE DAMAGED",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit has 10 or more damage points: The Attacks characteristic of its Crushing Iron Feet is 3. It has a Control characteristic of 5."
+   },
+   {
+    "name": "MERCENARY ATTITUDES ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick another friendly NON-UNIQUE unit wholly within 12\" of this unit to be the target.",
+    "effect": "Pick 1 of the following effects to apply until the start of your next turn and while the target is wholly within 12\" of this unit: You can re-roll run rolls for the target. Add 1 to charge rolls for the target. The target cannot be targeted by shooting attacks . Add 1 to wound rolls for the target’s combat attacks . Add 10 to the target’s control score ."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "WAR MACHINE",
+   "ORDER"
+  ],
+  "unit_size": null,
+  "points": null,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Saviours-of-Cinderfall",
+  "name": "Saviours of Cinderfall",
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "SIGMAR’S JUSTICE ",
+    "timing": "Once Per Battle (Army), Deployment Phase",
+    "declare": "Pick an enemy unit to be marked for justice . You can pick a unit that is in reserve .",
+    "effect": "For the rest of the battle, add 1 to wound rolls for combat attacks made by units in this Regiment of Renown that target a unit that is marked for justice ."
+   },
+   {
+    "name": "DUTY BOUND ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While every model in the same unit in the Regiment of Renown is contesting the same objective , add 1 to save rolls and ward rolls for that unit."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 290,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Sky-Port-Profiteers",
+  "name": "Sky-Port Profiteers",
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "SUPPLIES DONT COME CHEAP ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick a visible terrain feature within 18\" of the Codewright in this Regiment of Renown . Each friendly unit wholly within 3\" of that terrain feature is a target.",
+    "effect": "Roll a D3 for each target. On a 2+, Heal (X) the target, where X is an amount equal to the roll."
+   },
+   {
+    "name": "NO ONE RIDES FOR FREE ",
+    "timing": "Your Movement Phase",
+    "declare": "Pick a friendly INFANTRY unit with up to 10 models that is wholly within 9\" of the Codewright in this Regiment of Renown and not in combat to be the target.",
+    "effect": "Remove the target from the battlefield, then set it up again on the battlefield more than 9\" from all enemy units."
+   },
+   {
+    "name": "LONG-RANGE SUPPORT ",
+    "timing": "Your Shooting Phase",
+    "declare": "Pick an objective within 15\" of the Codewright in this Regiment of Renown and that no friendly units are contesting . Each unit contesting that objective is a target.",
+    "effect": "Roll a dice for each target. If the roll exceeds the target’s Health characteristic, inflict an amount of mortal damage on the target equal to the roll."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 350,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "The-Crimson-Lash",
+  "name": "The Crimson Lash",
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "SITE OF SLAUGHTER ",
+    "timing": "Once Per Battle (Army), Deployment Phase",
+    "declare": "",
+    "effect": "Pick an objective wholly outside friendly territory. That objective is considered by you to be the amphitheatre ."
+   },
+   {
+    "name": "FINISHING MOVES ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While each model in a unit in this Regiment of Renown is contesting the amphitheatre : That unit’s melee weapons have Crit (Mortal) . If you control the amphitheatre , if the unmodified hit roll or wound roll for an attack that targets that unit is a 1-4, the attack fails and the attack sequence ends."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 220,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "The-Horizon-Seekers",
+  "name": "The Horizon Seekers",
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "HUNTER’S COHESION ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Each time this Regiment of Renown’s Lord-Aquilor uses its ’Ride the Winds Aetheric’ ability, you can pick all units in this Regiment of Renown that are not in combat to be the targets. In addition, add 1 to hit rolls for attacks made by this Regiment of Renown’s Lord-Aquilor and VANGUARD-PALLADORS units that target a HUNTED enemy unit. Designer’s Note: See the ’Astral Compass’ ability on the Vanguard-Hunters warscroll to see how an enemy unit can become Hunted."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 500,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "The-Twisted-Branch",
+  "name": "The Twisted Branch",
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "SEARCHING FOR REMEDIES ",
+    "timing": "Deployment Phase",
+    "declare": "",
+    "effect": "Remove each unit in this Regiment of Renown from the battlefield and set them up again wholly within 6\" of a terrain feature and more than 9\" from all enemy units."
+   },
+   {
+    "name": "SOOTHING PULSE ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick the Branchwych in this Regiment of Renown to cast this spell, pick a visible friendly unit wholly within 12\" of them to be the target, then make a casting roll of 2D6.",
+    "effect": "Heal (3) the target."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 210,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Valnir-s-Stormwing",
+  "name": "Valnir’s Stormwing",
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "HOUR OF RETRIBUTION ",
+    "timing": "Once Per Battle (Army), Your Hero Phase",
+    "declare": "",
+    "effect": "For the rest of the turn: Add 1 to wound rolls for attacks made by units in this Regiment of Renown . Add 1 to save rolls for units in this Regiment of Renown."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 350,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Ven-Denst-s-Hounds",
+  "name": "Ven Denst’s Hounds",
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "SPELL HUNTERS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While both units in this Regiment of Renown are within each other’s combat range , enemy MANIFESTATIONS cannot be set up within 12\" of either of those units."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 230,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Fjori-s-Flamebearers",
+  "name": "Fjori’s Flamebearers",
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "TOE TO TOE ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Subtract 10 from the control scores of enemy MONSTERS while they are in combat with any units in this Regiment of Renown ."
+   },
+   {
+    "name": "GRIMNIR’S DEFIANCE ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Units in this Regiment of Renown cannot be picked to be the target of RAMPAGE abilities used by enemy units."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 420,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Gotrek-Gurnisson",
+  "name": "Gotrek Gurnisson",
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [],
+  "keywords": [],
+  "unit_size": null,
+  "points": 320,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Gotrek-Gurnisson",
+  "name": "Gotrek Gurnisson",
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "grand_alliance": "Order",
+  "move": "4\"",
+  "health": "8",
+  "save": "5+",
+  "control": "2",
+  "ward": "3+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Zangrom-az",
+    "range": "",
+    "attacks": "8",
+    "hit": "2+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "3",
+    "abilities": [
+     "Crit (Mortal)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "UNSTOPPABLE BATTLE FURY ",
+    "timing": "Any Combat Phase",
+    "declare": "",
+    "effect": "is unit can use 2 FIGHT abilities this phase. After the first is used, however, this unit has STRIKE-LAST for the rest of the turn."
+   },
+   {
+    "name": "‘I’LL GET THERE MYSELF!’ ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "This unit cannot be set up in reserve and cannot be targeted by abilities that would remove it from the battleeld."
+   }
+  ],
+  "keywords": [
+   "UNIQUE",
+   "INFANTRY",
+   "HERO",
+   "WARD ( 3+ )",
+   "ORDER",
+   "DUARDIN"
+  ],
+  "unit_size": null,
+  "points": null,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Nurgle-s-Gift",
+  "name": "Nurgle’s Gift",
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "INCUBATION PERIOD ",
+    "timing": "Deployment Phase",
+    "declare": "This ability must be used to deploy this Regiment of Renown .",
+    "effect": "Set up the units in this Regiment of Renown in reserve festering within . They have now been deployed."
+   },
+   {
+    "name": "BURSTING WITH LIFE ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "If a friendly non- NURGLE’S GIFT unit would be destroyed, before the last model is removed from play, roll a dice. Add 1 to the roll for each other friendly non- NURGLE’S GIFT unit that has been destroyed this battle. On a 5+, pick a friendly unit that is festering within and set it up wholly within 6\" of that model. It can be set up in combat ."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 180,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Snerk-s-Trogg-Fer-Hire",
+  "name": "Snerk’s Trogg-Fer-Hire",
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "GO DAT WAY! ",
+    "timing": "Your Charge Phase",
+    "declare": "Pick the Dankhold Troggoth in this Regiment of Renown to be the target if it is within 12\" of the Loonboss in this Regiment of Renown.",
+    "effect": "For the rest of the turn, the target can still use CHARGE abilities even if it used a RETREAT ability in the same turn."
+   },
+   {
+    "name": "TAKTIKAL COWERING ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While the Loonboss in this Regiment of Renown is within the combat range of the Dankhold Troggoth in this Regiment of Renown: That Loonboss has WARD ( 4+ ) . Each time you make a successful ward roll for that Loonboss , allocate 1 damage point to that Dankhold Troggoth after the damage sequence for that Loonboss has been resolved (ward rolls cannot be made for those damage points)."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 220,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Stumblefoot-Gargant",
+  "name": "Stumblefoot Gargant",
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "PROJECTILE VOMIT ",
+    "timing": "Once Per Turn (Army), Your Shooting Phase",
+    "declare": "Pick this unit to use this ability if it has not used a RAMPAGE ability this turn. Then, pick a point on the battlefield within 6\" of this unit and pick all other units (friendly and enemy) within 3\" of that point to be the targets.",
+    "effect": "Roll a D3 for each target. On a 2+, inflict an amount of mortal damage on that target equal to the roll."
+   },
+   {
+    "name": "BELLOWING MOCKERY ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "Pick this unit to use this ability if it has not used a RAMPAGE ability this turn, then pick an enemy unit within this unit’s combat range to be the target.",
+    "effect": "Roll a dice. On a 3+, subtract 1 from hit rolls for the target’s attacks for the rest of the turn."
+   },
+   {
+    "name": "WHAT’RE YOU LOOKIN’ AT? ",
+    "timing": "Once Per Turn (Army), Any Charge Phase",
+    "declare": "Pick this unit to use this ability if it charged this turn and has not used a RAMPAGE ability this turn. Then, pick an enemy unit within 9\" of this unit to be the target.",
+    "effect": "Roll 2D6. This unit can move a number of inches equal to the roll. It can pass through enemy models and must end that move in combat with the target."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 140,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "The-Blacktalons",
+  "name": "The Blacktalons",
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "JUSTICE WILL BE SERVED ",
+    "timing": "Once Per Battle (Army), Any Combat Phase",
+    "declare": "Pick the Neave Blacktalon in this Regiment of Renown to be the target if it is in combat with an enemy HERO .",
+    "effect": "The target can use 2 FIGHT abilities this phase. Each time it does so, if it is in combat with an enemy HERO , all of its attacks must target an enemy HERO . In addition, after the first FIGHT ability is used, the target has STRIKE-LAST for the rest of the turn."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 320,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ }
+]

@@ -1,0 +1,336 @@
+[
+ {
+  "faction": "Fyreslayers",
+  "faction_slug": "fyreslayers",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "",
+  "text": "/noindex From flame-filled holds and deep mountain vaults, the Fyreslayers march out to war. Brash and unforgiving, they charge into battle shouting fierce war cries and wielding finely honed axes, the power of the mighty warrior-god Grimnir flowing into them from glittering golden runes hammered into their ruddy flesh. This page contains all of the rules you need to field your Fyreslayers miniatures on the battlefields of the Mortal Realms, from a host of exciting faction rules to a range of warscrolls. The rules are split into the following sections:"
+ },
+ {
+  "faction": "Fyreslayers",
+  "faction_slug": "fyreslayers",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Designers’ Commentary > Faction Pack: Fyreslayers",
+  "text": "Q: Can more than one Scourge of Ghyran Auric Runeson on Magmadroth pick the same Auric Runefather on Magmadroth as the target of their ‘Fire, Blood and Vengeance’? A: Yes. That Runefather had a big family."
+ },
+ {
+  "faction": "Fyreslayers",
+  "faction_slug": "fyreslayers",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Traits",
+  "text": "Fyreslayers armies can use the following abilities: Once Per Battle (Army), Start of Any Turn RUNE OF FURY : The rune of fury grants the Fyreslayers a portion of their god’s battle rage. Effect: You can only use this ability if you have not used any UR-GOLD RUNE abilities this battle round. For the rest of the battle round, friendly FYRESLAYERS units have STRIKE-FIRST while they are in combat with an enemy unit that charged in the same turn. KEYWORDS UR-GOLD RUNE Once Per Battle (Army), Your Shooting Phase RUNE OF FARSIGHT : Empowered by this rune, the Fyreslayers hurl their throwing axes into the enemy with devastating accuracy. Declare: You can only use this ability if you have not used any UR-GOLD RUNE abilities this battle round. Pick any number of enemy units that are within 10\" of and visible to any friendly FYRESLAYERS units to be the targets. Effect: Roll a D3 for each target. On a 2+, inflict an amount of mortal damage on the target equal to the roll. In addition, for the rest of the battle round, ranged weapons, including Companion weapons, used by friendly FYRESLAYERS units have Crit (2 Hits) . KEYWORDS UR-GOLD RUNE Once Per Battle (Army), Any Hero Phase RUNE OF FIERY DETERMINATION : A sliver of Grimnir’s awesome resolve courses through the Fyreslayers. Effect: You can only use this ability if you have not used any UR-GOLD RUNE abilities this battle round. Friendly FYRESLAYERS units have WARD ( 5+ ) for the rest of the battle round. KEYWORDS UR-GOLD RUNE Once Per Battle (Army), Your Movement Phase RUNE OF RELENTLESS ZEAL : The hearts of the Fyreslayers swell with a fiery conviction that sees them bear down upon the foe with surprising swiftness. Effect: You can only use this ability if you have not used any UR-GOLD RUNE abilities this battle round."
+ },
+ {
+  "faction": "Fyreslayers",
+  "faction_slug": "fyreslayers",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Traits",
+  "text": "Effect: You can only use this ability if you have not used any UR-GOLD RUNE abilities this battle round. For the rest of the battle round, friendly FYRESLAYERS units can use CHARGE abilities even if they used a RUN ability in the same turn. KEYWORDS UR-GOLD RUNE Once Per Battle (Army), Any Combat Phase RUNE OF SEARING HEAT : The edges of the Fyreslayers’ weapons glow with the heat of the forge. Effect: You can only use this ability if you have not used any UR-GOLD RUNE abilities this battle round. Melee weapons used by friendly FYRESLAYERS units have Crit (Mortal) for the rest of the battle round. KEYWORDS UR-GOLD RUNE"
+ },
+ {
+  "faction": "Fyreslayers",
+  "faction_slug": "fyreslayers",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations",
+  "text": "You can pick 1 of the following battle formations for a Fyreslayers army. Each battle formation grants a different ability you can use in the battle. BATTLE PROFILE Name Points Warrior Kinband 0 Scales of Vulcatrix 20 Forge Brethren 0 Lords of the Lodge 0"
+ },
+ {
+  "faction": "Fyreslayers",
+  "faction_slug": "fyreslayers",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Warrior Kinband",
+  "text": "Passive BERSERK KINDRED : Filled with the fierce fighting spirit of Grimnir, the Warrior Kinband hurls itself at the foe. In their fury, they wield their glinting fyresteel axes so quickly that they appear as a blazing blur. Effect: Add 1 to wound rolls for combat attacks made by friendly FYRESLAYERS INFANTRY units that charged in the same turn."
+ },
+ {
+  "faction": "Fyreslayers",
+  "faction_slug": "fyreslayers",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Scales of Vulcatrix",
+  "text": "Passive ANCIENT BLOODLINES : Among the most elite formations of the Fyreslayers are the mighty Scales of Vulcatrix. The proud and majestic Magmadroths in this formation are as venerated as those of their lodge’s royal family. Effect: Add 2 to the Health characteristic of friendly MAGMADROTH units."
+ },
+ {
+  "faction": "Fyreslayers",
+  "faction_slug": "fyreslayers",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Forge Brethren",
+  "text": "Passive BULWARK OF MOLTEN STONE : Shrouded in the shimmering heat of the forge-temple, the Forge Brethren direct their magmapikes to form blazing barricades of lava with sustained volleys of fire, before returning to blasting their enemies to ash. Effect: Add 1 to save rolls for friendly FYRESLAYERS INFANTRY units while they are wholly within friendly territory."
+ },
+ {
+  "faction": "Fyreslayers",
+  "faction_slug": "fyreslayers",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Lords of the Lodge",
+  "text": "Passive MARTIAL PRIDE AND STUBBORN WILL : The Lords of the Lodge burn with a rage tempered by sacred oaths of war. Effect: Add 3 to the control scores of friendly FYRESLAYERS HEROES . In addition, the control scores of FYRESLAYERS HEROES cannot be modified by enemy abilities."
+ },
+ {
+  "faction": "Fyreslayers",
+  "faction_slug": "fyreslayers",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Heroic Traits > Inheritance of Grimnir",
+  "text": "HERO only BATTLE PROFILE Name Points BLOOD OF THE BERZERKER 0 ASH-BEARD 20 FIERCELY COMPETITIVE 0 Passive BLOOD OF THE BERZERKER : In this noble duardin is fiery aggression given form. Effect: Add 1 to charge rolls for friendly FYRESLAYERS units while they are wholly within 12\" of this unit. Passive ASH-BEARD : So great is this priest’s mastery of magmic energies that they smoulder eternally with Grimnir’s power. Effect: If this unit is not a PRIEST , they have PRIEST ( 1 ) . If this unit was already a PRIEST , add 1 to this unit’s chanting rolls . Passive FIERCELY COMPETITIVE : This leader is incredibly stubborn and won’t back down from even the boldest of challenges. Effect: If this unit is in combat with an enemy unit that has STRIKE-FIRST , this unit has STRIKE-FIRST . If this unit is in combat with an enemy unit that uses the ‘ All-out Attack ’ command, add 1 to hit rolls for this unit’s attacks for the rest of the turn."
+ },
+ {
+  "faction": "Fyreslayers",
+  "faction_slug": "fyreslayers",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Artefacts of Power > Heirlooms of the Lodge",
+  "text": "HERO only BATTLE PROFILE Name Points ASH-CLOUD RUNE 20 DRAUGHT OF THE FINEST MAGMALT 0 DROTH-HELM 30 Once Per Battle, Enemy Hero Phase ASH-CLOUD RUNE : The bearer of this rune can call down a column of soot that blankets the battlefield. Effect: Until the start of your next turn, friendly INFANTRY units cannot be targeted by shooting attacks while they are wholly within 12\" of this unit. Once Per Battle, Any Combat Phase DRAUGHT OF THE FINEST MAGMALT : A single draught of this fiery beverage sends shivers of energy surging through a Fyreslayer from toes to crest. Effect: Add 3 to the Attacks characteristic of this unit’s melee weapons for the rest of the turn. Passive DROTH-HELM : This ancient helm is said to have been worn by the first Zharrgrim priest to tame a Magmadroth. Effect: Add 1 to hit rolls for Companion weapons used by friendly FYRESLAYERS units while they are wholly within 12\" of this unit."
+ },
+ {
+  "faction": "Fyreslayers",
+  "faction_slug": "fyreslayers",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Prayer Lore",
+  "text": "BATTLE PROFILE Name Points Vulkyn Gifts 0 Zharrgrim Blessings 0 Vulkyn Gifts 0"
+ },
+ {
+  "faction": "Fyreslayers",
+  "faction_slug": "fyreslayers",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Prayer Lore > Zharrgrim Blessings",
+  "text": "Your Hero Phase 4 PRAYER OF ASH : Borne on a gust of hot forge-winds, a circle of ash settles around the priest’s allies, protecting them from harm. Declare: Pick a friendly FYRESLAYERS PRIEST to chant this prayer, pick a visible friendly FYRESLAYERS unit wholly within 12\" of them to be the target, then make a chanting roll of D6. Effect: Subtract 1 from wound rolls for attacks that target that friendly unit until the start of your next turn. If the chanting roll was 8+, also subtract 1 from the Rend characteristic of attacks that target that friendly unit until the start of your next turn. KEYWORDS PRAYER, UNLIMITED Your Hero Phase 4 PRAYER OF GRIMNIR’S FURY : A red rage fills the hearts of those blessed by this furious benediction. Declare: Pick a friendly FYRESLAYERS PRIEST to chant this prayer, pick a visible friendly FYRESLAYERS INFANTRY HERO wholly within 12\" of them to be the target, then make a chanting roll of D6. Effect: The target can use 2 FIGHT abilities this turn. After the first is used, however, the target has STRIKE-LAST for the rest of the turn. If the chanting roll was 8+, also add 1 to wound rolls for the target’s combat attacks for the rest of the turn. KEYWORDS PRAYER Your Hero Phase 4 WRATH OF VULCATRIX : The priest sets the runes pressed into a Magmadroth’s hide ablaze, and the colossal beast roars with fury. Declare: Pick a friendly FYRESLAYERS PRIEST to chant this prayer, pick a visible friendly MAGMADROTH unit wholly within 12\" of them to be the target, then make a chanting roll of D6. Effect: For the rest of the turn, the ‘Battle Damaged’ ability has no effect on the target and add 1 to the Attacks characteristic of the target’s Companion weapons."
+ },
+ {
+  "faction": "Fyreslayers",
+  "faction_slug": "fyreslayers",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Prayer Lore > Zharrgrim Blessings",
+  "text": "rest of the turn, the ‘Battle Damaged’ ability has no effect on the target and add 1 to the Attacks characteristic of the target’s Companion weapons. If the chanting roll was 8+, for the rest of the turn, add 1 to the Attacks characteristic of the target’s Companion weapons for every 4 damage points the target has instead. KEYWORDS PRAYER"
+ },
+ {
+  "faction": "Fyreslayers",
+  "faction_slug": "fyreslayers",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Prayer Lore > Vulkyn Gifts",
+  "text": "Your Hero Phase 3 ICHOR OF THE UR-SALAMANDER : The Magmadroth’s blood is blessed with the legendary lethality of its godbeast forebear. Declare: Pick a friendly FYRESLAYERS PRIEST to chant this prayer, pick a visible friendly FYRESLAYERS MONSTER wholly within 12\" of them to be the target, then make a chanting roll of D6. Effect: Until the start of your next turn, if any damage points were inflicted on an enemy unit by the target’s ‘Volcanic Blood’ ability, after the damage sequence has been resolved, inflict 3 mortal damage on that enemy unit. If the chanting roll was 6+, inflict D3+3 mortal damage instead. KEYWORDS PRAYER, UNLIMITED Your Hero Phase 4 FURY OF VULCATRIX : Eyes blazing white-hot, the priest fills their allies with the rage of the Ur-Salamander. Declare: Pick a friendly FYRESLAYERS PRIEST to chant this prayer, pick a visible friendly FYRESLAYERS unit wholly within 12\" of them to be the target, then make a chanting roll of D6. Effect: Add 1 to hit rolls for the target’s combat attacks , including those made with Companion weapons, until the start of your next turn. In addition, if the chanting roll was 8+, add 2 to the Attacks characteristic of the target’s Companion weapons until the start of your next turn. KEYWORDS PRAYER Your Hero Phase 5 BLAZING IMPETUS : The priest bellows a prayer that causes sparks to fly from their mouth, causing nearby Fyreslayers to leap into battle. Declare: Pick a friendly FYRESLAYERS PRIEST to chant this prayer, pick a visible friendly FYRESLAYERS unit wholly within 12\" of them and that was not set up this turn to be the target, then make a chanting roll of D6. Effect: The target can use the ‘ Normal Move ’ ability as if it were your movement phase."
+ },
+ {
+  "faction": "Fyreslayers",
+  "faction_slug": "fyreslayers",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Prayer Lore > Vulkyn Gifts",
+  "text": "Effect: The target can use the ‘ Normal Move ’ ability as if it were your movement phase. If the chanting roll was 10+, you can pick another eligible unit to be a second target. KEYWORDS PRAYER"
+ },
+ {
+  "faction": "Fyreslayers",
+  "faction_slug": "fyreslayers",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Prayer Lore > Vulkyn Gifts",
+  "text": "Your Hero Phase 3 ICHOR OF THE UR‑SALAMANDER : The priest blesses the warriors’ blood with the legendary lethality of Vulcatrix herself Declare: Pick a friendly FYRESLAYERS PRIEST to chant this prayer, pick a visible friendly FYRESLAYERS unit wholly within 12\" of them to be the target, then make a chanting roll of D6. Effect: If the chanting roll was 6+, you can pick another eligible unit to be a second target. Until the start of your next turn: If the target is a MAGMADROTH , each time its ‘Volcanic Blood’ ability would inflict 1 mortal damage on an enemy unit, inflict D3 mortal damage instead. If the target is a non- MAGMADROTH unit, each time you make an unmodified save roll of 1 for a combat attack that targets that unit, inflict 1 mortal damage on the attacking unit after the FIGHT ability has been resolved. KEYWORDS PRAYER, UNLIMITED Your Hero Phase 4 FURY OF VULCATRIX : Eyes blazing white-hot, the priest fills their allies with the rage of the Ur-Salamander. Declare: Pick a friendly FYRESLAYERS PRIEST to chant this prayer, pick a visible friendly FYRESLAYERS unit wholly within 12\" of them to be the target, then make a chanting roll of D6. Effect: Add 1 to hit rolls for the target’s combat attacks , including those made with Companion weapons, until the start of your next turn. In addition, if the chanting roll was 8+, add 1 to the Attacks characteristic of the target’s melee weapons, including Companion weapons, until the start of your next turn. KEYWORDS PRAYER Your Hero Phase 5 BLAZING IMPETUS : The priest bellows a prayer, sparks fly from their mouth and nearby Fyreslayers leap into battle."
+ },
+ {
+  "faction": "Fyreslayers",
+  "faction_slug": "fyreslayers",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Prayer Lore > Vulkyn Gifts",
+  "text": "KEYWORDS PRAYER Your Hero Phase 5 BLAZING IMPETUS : The priest bellows a prayer, sparks fly from their mouth and nearby Fyreslayers leap into battle. Declare: Pick a friendly FYRESLAYERS PRIEST to chant this prayer, pick a visible friendly Fyreslayers unit wholly within 12\" of them to be the target, then make a chanting roll of D6. Effect: If the chanting roll was 10+, you can pick another eligible unit to be a second target. Each target can use the ‘ Normal Move ’ or ‘ Retreat ’ ability as if it were your movement phase. KEYWORDS PRAYER"
+ },
+ {
+  "faction": "Fyreslayers",
+  "faction_slug": "fyreslayers",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Manifestation Lore",
+  "text": "BATTLE PROFILE Name Points Magmic Invocations 0"
+ },
+ {
+  "faction": "Fyreslayers",
+  "faction_slug": "fyreslayers",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Manifestation Lore > Magmic Invocations",
+  "text": "Your Hero Phase 4 SUMMON RUNIC FYREWALL : At the command of a Zharrgrim priest, a Runic Fyrewall can be raised from the fiery chasms far beneath their sootstained feet. Glinting with runes, this scintillating barrier of gold and flame bars the enemy’s path and protects the flanks of the Fyreslayers’ fyrds as they press ever forward. Declare: If there is not a friendly Runic Fyrewall on the battlefield, pick a friendly FYRESLAYERS PRIEST to chant this prayer, then make a chanting roll of D6. Effect: Set up a Runic Fyrewall wholly within 12\" of the chanter and visible to them. KEYWORDS SUMMON, PRAYER Your Hero Phase 4 SUMMON ZHARRGRON FLAME-SPITTER : By concentrating their magmic powers, a Zharrgrim priest can summon forth fiery heat from the bowels of the realm. With a rumble and a crack, an angry geyser opens up in the earth, bombarding the foe with molten death. Declare: If there is not a friendly Zharrgron Flame-spitter on the battlefield, pick a friendly FYRESLAYERS PRIEST to chant this prayer, then make a chanting roll of D6. Effect: Set up a Zharrgron Flame-spitter wholly within 12\" of the chanter and visible to them. KEYWORDS PRAYER, SUMMON Your Hero Phase 6 SUMMON MOLTEN INFERNOTH : An elemental manifestation that personifies the blazing wrath of Vulcatrix, a Molten Infernoth can be drawn to battle by a Zharrgrim priest. Bursting out of the realm’s crust, the ferocious entity lumbers across the battlefield, inspiring Fyreslayers while blasting the enemy with raging torrents of lava. Declare: If there is not a friendly Molten Infernoth on the battlefield, pick a friendly FYRESLAYERS PRIEST to chant this prayer, then make a chanting roll of D6."
+ },
+ {
+  "faction": "Fyreslayers",
+  "faction_slug": "fyreslayers",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Manifestation Lore > Magmic Invocations",
+  "text": "is not a friendly Molten Infernoth on the battlefield, pick a friendly FYRESLAYERS PRIEST to chant this prayer, then make a chanting roll of D6. Effect: Set up a Molten Infernoth wholly within 12\" of the chanter, visible to them and more than 9\" from all enemy units. KEYWORDS SUMMON, PRAYER"
+ },
+ {
+  "faction": "Fyreslayers",
+  "faction_slug": "fyreslayers",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Marks of Vulcatrix > Mark of Vulcatrix",
+  "text": "Marks of Vulcatrix are enhancements that can only be given to MAGMADROTHS . BATTLE PROFILE Name Points INCANDESCENT BLAZE 0 THICKENED SCALES 0 PEERLESS LINEAGE 0 Once Per Battle, Your Shooting Phase INCANDESCENT BLAZE : As the rune branded into the side of this Magmadroth ignites, the beast vomits forth a tide of flames hot enough to melt reinforced steel. Effect: For the rest of the turn: Double the Attacks characteristic of this unit’s Roaring Fyrestream . This unit’s Roaring Fyrestream has a Damage characteristic of 3. Passive THICKENED SCALES : This beast’s hide is so tough that blades bend upon contact and conventional missiles simply bounce off it. Effect: Subtract 1 from the Rend characteristic of weapons used for attacks that target this unit. Reaction: You declared a RAMPAGE ability for this unit PEERLESS LINEAGE : This beast is of a mighty pedigree, even more regal and powerful than its potent kin. Effect: You can pick another eligible unit to be a second target of that RAMPAGE ability. If the ability requires a roll, you must roll for each target."
+ },
+ {
+  "faction": "Fyreslayers",
+  "faction_slug": "fyreslayers",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Marks of Vulcatrix > Mark of Vulcatrix",
+  "text": "Marks of Vulcatrix are enhancements that can only be given to MAGMADROTHS . A unit can only have 1 Mark of Vulcatrix. BATTLE PROFILE Name Points THICKENED SCALES 20 AUREATE HIDE 0 INTENSE FYRESTREAM 10 Passive THICKENED SCALES : This beast’s hide is so tough that blades bend upon contact and conventional missiles simply bounce off it. Effect: Subtract 1 from the Rend characteristic of weapons used for attacks that target this unit. Reaction: You declared a FIGHT ability for this unit AUREATE HIDE : This Magmadroth is revered by the Zharrgrim priesthood for its glittering scales, which evoke the divine essence of Grimnir. Effect: After that FIGHT ability has been resolved, if any enemy models were slain by that FIGHT ability, you can pick a visible friendly FYRESLAYERS PRIEST wholly within 12\" of this unit. Give that PRIEST D3 ritual points . Any Shooting Phase INTENSE FYRESTREAM : The potency of this beast’s scalding breath is incomparable, melting both nearby and distant foes into blackened slurry. Effect: Spend 1 rage dice . If your opponent’s fury level is lower than yours, they must increase their fury level by 1, to a maximum of 7. Then, for the rest of the turn: Add X \" to the Range characteristic and X to the Attacks characteristic of this unit’s Companion ranged weapons, where X is equal to your fury level . This unit’s Companion ranged weapons have Shoot in Combat . Army of Renown"
+ },
+ {
+  "faction": "Fyreslayers",
+  "faction_slug": "fyreslayers",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Lofnir Drothkeepers",
+  "text": "When you pick the Fyreslayers faction for your army, you can choose for it to be a Lofnir Drothkeepers Army of Renown . If you do so, use the faction rules on these pages instead of the Fyreslayers faction rules. Every unit in your army must be drawn from the units listed in the roster options box below. All units in your army gain the DROTHKEEPERS keyword. ROSTER OPTIONS Auric Runefather on Magmadroth Auric Runesmiter on Magmadroth Auric Runeson on Magmadroth Auric Runemaster Auric Runesmiter Auric Runeson Vulkyn Flameseekers You cannot include Regiments of Renown or faction terrain REGIMENT OPTIONS DROTHKEEPERS AURIC RUNESON and AURIC RUNESMITER units can be added to regiments led by a DROTHKEEPERS AURIC RUNEFATHER ON MAGMADROTH ."
+ },
+ {
+  "faction": "Fyreslayers",
+  "faction_slug": "fyreslayers",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Lofnir Drothkeepers > Battle Traits",
+  "text": "Passive DARING TAMERS : Vulkyn Flameseekers are professional corrallers of huge, wild creatures. Effect: Enemy MONSTERS have STRIKE-LAST while they are in combat with 2 or more friendly DROTHKEEPERS Vulkyn Flameseekers units. Reaction: You declared a non-Charge MOVE ability for a friendly MAGMADROTH SKILLED DROTHWRANGLERS : Only Lofnir Drothkeepers are bold enough to grab a charging Magmadroth’s saddle straps and be carried into battle. Effect: Pick a friendly Vulkyn Flameseekers unit and/or a friendly DROTHKEEPERS INFANTRY HERO that are not in combat and are wholly within 6\" of the MAGMADROTH to be the targets. Units that have hitched a lift this turn (see below) cannot be targets. Remove the targets from the battlefield. After the MAGMADROTH ends its move, you must set up each target on the battlefield, wholly within 6\" of the MAGMADROTH and not in combat. The targets have hitched a lift . Units that hitched a lift cannot use CHARGE abilities in the same turn. Once Per Turn (Army), Any Combat Phase FEROCIOUS HEAT : The hero stirs the rage of their Magmadroth, stoking its smouldering aura to such heights that it burns through arcane wards and enchantments. Declare: Pick a friendly DROTHKEEPERS MONSTER that has not used a RAMPAGE ability this turn to use this ability, then pick an enemy unit in combat with it to be the target. Effect: Roll a dice. On a 3+, ward rolls cannot be made for the target for the rest of the turn. KEYWORDS RAMPAGE Once Per Turn (Army), Any Combat Phase REARING STRIKE : The Magmadroth raises itself up and comes crashing down on its prey, itsclaws lacerating flesh and its sheer weight cruising bones and metal."
+ },
+ {
+  "faction": "Fyreslayers",
+  "faction_slug": "fyreslayers",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Lofnir Drothkeepers > Battle Traits",
+  "text": ": The Magmadroth raises itself up and comes crashing down on its prey, itsclaws lacerating flesh and its sheer weight cruising bones and metal. Declare: Pick a friendly DROTHKEEPERS MONSTER that has not used a RAMPAGE ability this turn to use this ability, then pick an enemy unit in combat with it to be the target. Effect: Roll 2 dice. Add 2 to each roll if the target is a Monster. For each 5+, inflict D3 mortal damage on the target. KEYWORDS RAMPAGE Once Per Turn (Army), Any Combat Phase SEARING CLAWS : A Magmadroth’s claws radiate such intense heat that they can melt steel. Even if an enemy is not slain by a raking blow, their armour will be left pitted and useless. Declare: Pick a friendly DROTHKEEPERS MONSTER that has not used a RAMPAGE ability this turn to use this ability, then pick an enemy unit in combat with it to be the target. Effect: Roll a dice. On a 3+, for the rest of the turn, add 1 to the Rend characteristic of Companion melee weapons used for attacks that target that enemy unit. KEYWORDS RAMPAGE"
+ },
+ {
+  "faction": "Fyreslayers",
+  "faction_slug": "fyreslayers",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Lofnir Drothkeepers > Heroic Traits",
+  "text": "HERO only Passive RAISED AROUND BEASTS : This general knows the precise weak points of the mightiest creatures of the Mortal Realms. Effect: The melee weapons of friendly NON-MONSTER units have Anti- MONSTER (+1 Rend) while they are wholly within 9\" of this unit."
+ },
+ {
+  "faction": "Fyreslayers",
+  "faction_slug": "fyreslayers",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Lofnir Drothkeepers > Artefacts of Power",
+  "text": "HERO only Passive MASTERY OVER MONSTERS : This ur-gold icon identifies the bearer as an authority on behemoths and an expert at breaking their will. Effect: While this unit is contesting an objective , enemy MONSTERS contesting that objective each have a maximum control score of 2."
+ },
+ {
+  "faction": "Fyreslayers",
+  "faction_slug": "fyreslayers",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Lofnir Drothkeepers > Prayer Lore",
+  "text": "Your Hero Phase 4 BREATH OF VULCATRIX : Fyreslayer priests awaken the divine energy within this Magmadroth’s boiling blood, causing the creature to unleash a torrent of sacred flame. Declare: Pick a friendly DROTHKEEPERS PRIEST to chant this prayer, pick a visible friendly DROTHKEEPERS MAGMADROTH wholly within 12\" of them to be a target, then make a chanting roll of D6. Effect: Until the start of your next turn, the Damage characteristic of the target’s Roaring Fyrestream is 3 instead of D3. KEYWORDS PRAYER, UNLIMITED"
+ },
+ {
+  "faction": "Fyreslayers",
+  "faction_slug": "fyreslayers",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Lofnir Drothkeepers > Manifestation Lore",
+  "text": "Your Hero Phase 6 SUMMON MOLTEN INFERNOTH : An elemental manifestation that personifies the blazing wrath of Vulcatrix, a Molten Infernoth can be drawn to battle by a Zharrgrim priest. Bursting out of the realm’s crust, the ferocious entity lumbers across the battlefield, inspiring Fyreslayers while blasting the enemy with raging torrents of lava. Declare: If there is not a friendly Molten Infernoth on the battlefield, pick a friendly DROTHKEEPERS PRIEST to chant this prayer, then make a chanting roll of D6. Effect: Set up a Molten Infernoth wholly within 12\" of the chanter, visible to them and more than 9\" from all enemy units. KEYWORDS SUMMON, PRAYER"
+ },
+ {
+  "faction": "Fyreslayers",
+  "faction_slug": "fyreslayers",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Duardin Ascendant",
+  "text": "When you pick the Fyreslayers, Kharadron Overlords or Cities of Sigmar faction for your army, you can choose it to be a Duardin Ascendant Army of Renown . If you do so, use the faction rules on these pages instead of the Fyreslayers, Kharadron Overlords or Cities of Sigmar faction rules. Every unit in your army must be drawn from the units listed in the organisation below. All units in your army gain the DUARDIN ASCENDANT keyword. ROSTER OPTIONS Grombrindal (must be include and must be your general } Any ORDER DUARDIN unit REGIMENT OPTIONS You cannot include Regiments of Renown You cannot include MANIFESTATIONS You cannot include faction terrain"
+ },
+ {
+  "faction": "Fyreslayers",
+  "faction_slug": "fyreslayers",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Duardin Ascendant > Battle Traits",
+  "text": "Passive DUARDRAZHAL : Grombrindal's goal is no less than the reunification of all the scattered, noble duardin nations. Effect: Friendly DUARDIN ASCENDANT units are unified while they are wholly within 12\" of at least 1 FYRESLAYERS , 1 KHARADRON OVERLORDS and 1 CITIES OF SIGMAR DUARDIN unit. Once Per Turn (Army), Your Hero Phase 'AS THE ANCESTORS INTENDED!' : To stand with far-flung kin in hours of crisis bolsters every duardin preacher. Declare: Pick a friendly unified DUARDIN ASCENDANT PRIEST to be the target. Effect: Add 1 to chanting rolls for the target for the rest of the turn. Once Per Turn (Army), Your Shooting Phase 'PAH! NOW THIS IS A SHOT...' : Duardin gunners of every creed never miss an opportunity to show their superior craft before their kin. Declare: Pick a friendly unified DUARDIN ASCENDANT INFANTRY unit to be the target. Effect: Add 1 to the Attacks characteristic of the target’s ranged weapons for the rest of the turn . Once Per Turn (Army), Your Charge Phase 'AS ONE, KINFOLK!' : The children of the ancestor gods surge across the field as one mighty throng. Declare: Pick up to 3 friendly unified DUARDIN ASCENDANT INFANTRY units to be the targets. Effect: For the rest of the turn, add 1 to the number of dice rolled when making charge rolls for the targets, to a maximum of 3. Once Per Turn (Army), Any Comhat Phase 'SETTLE EVERY GRUDGE! KHAZUK!' : When fighting as one, the duardin are a red-handed force of raw vengeance. Declare: Pick a friendly unified DUARDIN ASCENDANT INFANTRY unit to be the target. Effect: Add 1 to the Attacks characteristic of the target’s melee weapons for the rest of the turn."
+ },
+ {
+  "faction": "Fyreslayers",
+  "faction_slug": "fyreslayers",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Duardin Ascendant > Heroic Traits",
+  "text": "HERO only Passive TIRELESS PURPOSE : This duardin lord shares Grombrindal's vision for their people, and their fervour is infectious. Effect: Each time a friendly DUARDIN ASCENDANT INFANTRY unit wholly within 12\" of this unit uses the ' Normal Move ' ability, add 2\" to the distance that unit can move as part of that ability."
+ },
+ {
+  "faction": "Fyreslayers",
+  "faction_slug": "fyreslayers",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Duardin Ascendant > Artefacts of Power",
+  "text": "HERO only Once Per Battle, Your Hero Phase VALAYAN HEARTH-BANNER : Wrought in the image of she who guards hold and hearth, this runic standard is a salve to even severe wounds - for those who believe. Declare: Pick each friendly unified DUARDIN ASCENDANT unit on the battlefield to be the targets. Effect: Heal (D3) each target."
+ },
+ {
+  "faction": "Fyreslayers",
+  "faction_slug": "fyreslayers",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Duardin Ascendant > Prayer Lore",
+  "text": "Your Hero Phase 4 SPIRIT OF THE WHITE DWARF : When Grombrindal takes the field, even the most sceptical Kharadron cannot help but feel a flicker of divine awe. Declare: Pick a friendly DUARDIN ASCENDANT PRIEST to chant this prayer, pick a visible friendly DUARDIN ASCENDANT unit within 18\" of them to be the target, then make a chanting roll of D6. Effect: The target is unified until the start of your next turn. If the chanting roll was 8+, you can pick 2 targets instead of 1. KEYWORDS PRAYER, UNLIMITED Your Hero Phase 4 OATH OF RESTORATION : All that which once belonged to the duardin will be theirs anew - so swear those who hold faith in Grombrindal. Declare: Pick a friendly DUARDIN ASCENDANT PRIEST to chant this prayer, pick a visible objective within 18\" of them that is contest ed by 2 or more friendly unified units to be the target, then make a chanting roll of D6. Effect: Until the start of your next turn, friendly DUARDIN ASCENDANT units have WARD ( 6+ ) while they have any models contesting the target. If the chanting roll was 7+, friendly DUARDIN ASCENDANT units have WARD ( 5+ ) while they have any models contesting the target instead. KEYWORDS PRAYER"
+ },
+ {
+  "faction": "Fyreslayers",
+  "faction_slug": "fyreslayers",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Saga Axeband",
+  "text": "All Fyreslayers long for their name to echo forever in the heroic legends of their lodge, remembered as a byword for martial skill and boldness. Saga Axebands are wandering groups of Berzerkers in search of such glory. They are guided on their journey by a Battlesmith who bears witness to their deeds and who will one day honour the worthiest in the Hall of Fyre, thus preserving their tale for all time. There is little subtlety to an Axeband’s war-making. These doughty duardin scorn danger and lack the patience to let battle come to them. Vulkite Berzerkers have a tendency to charge head-first at whatever threat presents itself, relying upon their natural hardiness and the god-given power stamped into their flesh to keep them alive while they carve their foes into smoking chunks of meat. As the fighting rages, the Axeband’s Battlesmith bellows tales of long-dead heroes that died in a manner befitting true offspring of Grimnir. In so doing, they incite their companions to ever more magnificent deeds, setting their runes ablaze with fervour. A band of Hearthguard Berzerkers forms an honour guard around the Battlesmith, their two-handed weapons lopping off the heads of any foe not cut down by their ward. This Spearhead army consists of the following units: General Battlesmith Units 5 Hearthguard Berzerkers 5 Vulkite Berzerkers 5 Vulkite Berzerkers 5 Vulkite Berzerkers 5 Vulkite Berzerkers",
+  "spearhead_name": "Saga Axeband"
+ },
+ {
+  "faction": "Fyreslayers",
+  "faction_slug": "fyreslayers",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Saga Axeband > Battle Traits",
+  "text": "Once Per Battle Round, Start of Your Turn AWAKEN THE RUNES : In battle, a Fyreslayer’s ur-gold runes are awakened, filling them with the blazing power of Grimnir. Declare: Pick 1 of the ur-gold runes from the ur-gold runes table, then make an activation roll of D6. Each urgold rune can only be activated once per battle. Effect: On a 1-5, the rune’s standard effect applies. On a 6, the rune’s enhanced effect applies as well. The effects last until the start of your next turn. UR-GOLD RUNES RUNE OF FURY Standard: Add 1 to hit rolls for combat attacks made by friendly units. Enhanced: In addition, add 1 to the Attacks characteristic of your units’ melee weapons. RUNE OF SEARING HEAT Standard: Add 1 to the Rend characteristic of your units’ melee weapons. Enhanced: In addition, add 1 to the Damage characteristic of your units’ melee weapons. RUNE OF FIERY DETERMINATION Standard: Your units have WARD ( 5+ ) . Enhanced: In addition, add 1 to save rolls for friendly units. RUNE OF RELENTLESS ZEAL Standard: Add 2\" to the Move characteristic of your units. Enhanced: In addition, add 2 to charge rolls for your units.",
+  "spearhead_name": "Saga Axeband"
+ },
+ {
+  "faction": "Fyreslayers",
+  "faction_slug": "fyreslayers",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Saga Axeband > Regiment Abilities",
+  "text": "Pick 1 of the following regiment abilities. Once Per Battle, Start of the First Battle Round MAGMIC TUNNELS : Tunnels carved by runic magic enable a band of Fyreslayers to attack from an unseen quarter. Effect: Pick up to 2 friendly units. Remove them from the battlefield and set them up again anywhere on the battlefield more than 6\" from all enemy units. Once Per Turn (Army), Your Shooting Phase FYRESTEEL THROWING AXES : These sidearms are deadly when hurled at close range. Declare: Pick any number of friendly units that are not in combat and are within 10\" of any enemy units. Effect: For each of those units, pick a visible enemy unit within 10\" of it and roll a dice. On a 4+, inflict D3 mortal damage on that enemy unit.",
+  "spearhead_name": "Saga Axeband"
+ },
+ {
+  "faction": "Fyreslayers",
+  "faction_slug": "fyreslayers",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Saga Axeband > Enhancements",
+  "text": "Give your general 1 of the following enhancements. Start of Any Turn TOO STUBBORN TO DIE : Long in the beard, your general shrugs off wounds that would fell a lesser duardin. Effect: Heal (D3) your general. Your Hero Phase HORN OF GRIMNIR : Inlaid with powerful runes of ur-gold, a blast from this horn inspires those bloody and bruised to continue the fight. Declare: Pick your general to use this ability if they are not in combat . Effect: Roll a dice for each friendly unit on the battlefield that has any slain models . On a 3+, you can return 1 slain model to that unit. Passive SPIRIT OF GRIMNIR : The very presence of your general sets ur-gold ablaze. Effect: You can re-roll activation rolls you make for the ‘Ur-gold Runes’ ability (see Battle Traits ). Passive POWERFUL PRESENCE : With a roaring voice and mighty displays of strength, your general is an imposing figure upon the battlefield. Effect: Add 3 to your general’s control score .",
+  "spearhead_name": "Saga Axeband"
+ },
+ {
+  "faction": "Fyreslayers",
+  "faction_slug": "fyreslayers",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Saga Axeband > Warscrolls",
+  "text": "• SPEARHEAD WARSCROLL • Battlesmith 4\" 5 5+ 5 6+ Battlesmiths are war-skalds and icon bearers who memorialise the glorious history of the Fyreslayers through the force of their oratory. As skilled in combat as any of their kin, they keep their sacred icons aloft in the midst of war, rallying their brethren with the image of their grim-faced god. As they fight, the Battlesmiths recite the histories of the lodge, inspiring nearby Fyreslayers to ever greater deeds. • SPEARHEAD WARSCROLL • Battlesmith MELEE WEAPONS Atk Hit Wnd Rnd Dmg Ancestral Battle-axe Ancestral Battle-axe 5 3+ 3+ 1 2 Passive ICON OF GRIMNIR : The Battlesmith raises his icon of Grimnir, inspiring his allies so that they fight until the bitter end. Effect: Add 1 to save rolls for friendly units while they are wholly within 12\" of this unit. Once Per Battle, Any Hero Phase PLANT THE ICON : The Battlesmith slams the pommel of his icon into the earth, setting the urgold runes of nearby allies ablaze. Effect: For the rest of the turn, friendly units have WARD ( 5+ ) while they are wholly within 12\" of this unit. KEYWORDS HERO , INFANTRY , WARD ( 6+ ) • SPEARHEAD WARSCROLL • Hearthguard Berzerkers 4\" 2 6+ 1 6+ Hearthguard Berzerkers are the chosen champions of the lodge, assigned the sacred task of protecting its dynastic rulers and most prestigious figures with a near-supernatural determination. Masterful warriors skilled in the use of the more exotic armaments within their lodge’s armoury, they wreak devastation among the enemy’s ranks, their flamestrike poleaxes cleaving, bludgeoning and burning foes all at once.",
+  "spearhead_name": "Saga Axeband"
+ },
+ {
+  "faction": "Fyreslayers",
+  "faction_slug": "fyreslayers",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Saga Axeband > Warscrolls",
+  "text": "their lodge’s armoury, they wreak devastation among the enemy’s ranks, their flamestrike poleaxes cleaving, bludgeoning and burning foes all at once. • SPEARHEAD WARSCROLL • Hearthguard Berzerkers MELEE WEAPONS Atk Hit Wnd Rnd Dmg Flamestrike Poleaxe [ Crit (Mortal) ] Flamestrike Poleaxe Crit (Mortal) 2 3+ 3+ 1 2 Passive DUTY UNTO DEATH : Hearthguard Berzerkers are sworn to protect their lodge and its masters until their dying breath. Effect: While your general is wholly within this unit’s combat range , both this unit and your general have WARD ( 5+ ) . KEYWORDS INFANTRY , WARD ( 6+ ) • SPEARHEAD WARSCROLL • Vulkite Berzerkers 4\" 2 6+ 1 6+ Skilled and fearless, Vulkite Berzerkers wielding twin fyresteel axes make up the core of Fyreslayer fyrds. Determined to prove their valour to the lodge, they will risk their lives in pursuit of glory without a second thought. As their ur-gold runes blaze, they become ever more ferocious, the power and fiery rage of Grimnir coursing through their bodies. • SPEARHEAD WARSCROLL • Vulkite Berzerkers MELEE WEAPONS Atk Hit Wnd Rnd Dmg Fyresteel Handaxes [ Anti-charge (+1 Rend) ] Fyresteel Handaxes Anti-charge (+1 Rend) 2 4+ 3+ 1 1 Passive WHIRLWIND OF DESTRUCTION : With the light of Grimnir burning in their eyes, these impetuous warriors hurl themselves into the fray. Effect: Add 1 to the Attacks characteristic of this unit’s melee weapons if it charged in the same turn. KEYWORDS INFANTRY , WARD ( 6+ ) noindex /noindex noindex",
+  "spearhead_name": "Saga Axeband"
+ }
+]

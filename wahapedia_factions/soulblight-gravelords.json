@@ -1,0 +1,432 @@
+[
+ {
+  "faction": "Soulblight Gravelords",
+  "faction_slug": "soulblight-gravelords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "",
+  "text": "/noindex Beneath the pallid yet strangely beguiling appearance of a Soulblight vampire lies an inhuman terror that forever lusts after the taste of blood. Impossibly strong and preternaturally skilled in necromantic sorceries, they lead their resurrected legions against the living, fighting a relentless war in service to their monstrous hunger. This page contains all of the rules you need to field your Soulblight Gravelords miniatures on the battlefields of the Mortal Realms, from a host of exciting faction rules to a range of warscrolls. The rules are split into the following sections:"
+ },
+ {
+  "faction": "Soulblight Gravelords",
+  "faction_slug": "soulblight-gravelords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Traits",
+  "text": "Soulblight Gravelords armies can use the following abilities: Once Per Battle (Army), Deployment Phase ANCIENT BURIAL SITES : Across the Mortal Realms stand time-worn mausoleums and barrows, housing the remains of the long dead. Effect: If there is a friendly Cursed Sepulchre on the battlefield, you can set up up to 2 additional Cursed Sepulchres on the battlefield. The first must be set up more than 3\" from all units, objectives and other terrain features . The second must be set up wholly outside enemy territory and more than 3\" from all units, objectives and other terrain features. Designer’s Note: The original Cursed Sepulchre is set up in Step 1 of the deployment phase using the ‘ Deploy Faction Terrain ’ ability. This ability allows you to set up a second and third such terrain feature and is used in Step 3 of the deployment phase, after armies have been deployed. Deployment Phase THE UNQUIET DEAD : Animated by necromancy, the undead rise from their graves, balefire eyes blazing with dark purpose. Declare: Pick a friendly DEATHRATTLE or DEADWALKERS unit that has not been deployed. Effect: Set up that unit in reserve in the grave . It has now been deployed. You cannot set up more friendly units in the grave than there are on the battlefield. KEYWORDS DEPLOY Your Movement Phase THE RISING DEAD : Clawing their way through the soil and rock, more undead warriors join the fight. Declare: Pick a friendly unit that is in the grave. Effect: Set up that unit wholly within 6\" of a friendly Cursed Sepulchre and more than 9\" from all enemy units, or wholly within 6\" of the edge of the battlefield, wholly within friendly territory and more than 9\" from all enemy units."
+ },
+ {
+  "faction": "Soulblight Gravelords",
+  "faction_slug": "soulblight-gravelords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Traits",
+  "text": "9\" from all enemy units, or wholly within 6\" of the edge of the battlefield, wholly within friendly territory and more than 9\" from all enemy units. Once Per Turn (Army), Any Hero Phase DEATHLY INVOCATION : Skilled wielders of death magic can summon hordes of undead. Declare: Pick a friendly SOULBLIGHT GRAVELORDS HERO to use this ability, then pick up to 3 friendly DEATHRATTLE or DEADWALKERS units wholly within 12\" of that HERO to be the targets. Effect: For each target: If the target is damaged, Heal (3) the target. If the target is not damaged, return a number of slain models to it with a combined Health characteristic of up to 3. Once Per Battle Round (Army), Any Movement Phase ENDLESS LEGIONS : To the Gravelords, the dead are mere chattel to be raised and expended. Declare: Pick a friendly non- UNIQUE DEATHRATTLE or DEADWALKERS unit that started the battle with 2 or more models and that has been destroyed to be the target. Effect: Set up a replacement unit with half the number of models from the target unit (rounding up) wholly within 12\" of a friendly SOULBLIGHT GRAVELORDS HERO or wholly within 6\" of a friendly Cursed Sepulchre . It must be set up more than 9\" from all enemy units. If it is your movement phase, you can set up the replacement unit more than 3\" from all enemy units instead of more than 9\", but if you set it up within 9\" of any enemy units, it cannot use CHARGE abilities this turn. Once Per Turn (Army), End of Any Turn THE HUNGER : Soulblight vampires are revitalised by feasting upon the blood of their foes. Declare: Pick each friendly VAMPIRE unit that used a FIGHT ability this turn to be the targets. Effect: Heal (D3) each target. Heal (2D3) the target instead if it destroyed an enemy unit this turn using a FIGHT ability."
+ },
+ {
+  "faction": "Soulblight Gravelords",
+  "faction_slug": "soulblight-gravelords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations",
+  "text": "You can pick 1 of the following battle formations for a Soulblight Gravelords army. Each battle formation grants a different ability you can use in the battle. BATTLE PROFILE Name Points Legion of Shyish 0 Deathstench Drove 0 Bacchanal of Blood 0 Deathmarch 0 Legions of Ulfenkarn 0 Cryptmasters 0 Skinshifters 0"
+ },
+ {
+  "faction": "Soulblight Gravelords",
+  "faction_slug": "soulblight-gravelords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Legion of Shyish",
+  "text": "Passive HORROR UNENDING : The never-ending waves of deathly minions summoned by a Legion of Shyish shatter all hopes of victory for those who stand against them. Effect: You can pick 1 additional target when using the ‘ Deathly Invocation ’ ability."
+ },
+ {
+  "faction": "Soulblight Gravelords",
+  "faction_slug": "soulblight-gravelords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Deathstench Drove",
+  "text": "Once Per Turn (Army), End of Any Turn DRAGGED DOWN AND TORN APART : Hordes of shambling Deadwalker Zombies flow around and over their victims like a rotten tide, bearing them to the ground through sheer weight of numbers before tearing them limb from limb. Declare: Pick up to 3 friendly DEADWALKERS units in combat to be the targets. Effect: For each target: Make a pile-in move . Then, pick an enemy unit in combat with the target and roll a D3. On a 2+, inflict an amount of mortal damage on that enemy unit equal to the roll."
+ },
+ {
+  "faction": "Soulblight Gravelords",
+  "faction_slug": "soulblight-gravelords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Bacchanal of Blood",
+  "text": "Passive ARISTOCRACY OF THE NIGHT : These vampires are expected to excel in all martial and mystical disciplines. Effect: Add 1 to casting rolls for friendly VAMPIRE units that are not in combat and add 1 to wound rolls for combat attacks made by friendly VAMPIRE units that charged in the same turn."
+ },
+ {
+  "faction": "Soulblight Gravelords",
+  "faction_slug": "soulblight-gravelords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Deathmarch",
+  "text": "Passive TIDE OF BONES AND BLADES : The relentless advance of these skeletal undead can overwhelm even the most tenacious resistance. Effect: Add 1 to the Rend characteristic of melee weapons used by friendly DEATHRATTLE units that charged in the same turn for attacks that target a unit that has fewer models than the attacking unit."
+ },
+ {
+  "faction": "Soulblight Gravelords",
+  "faction_slug": "soulblight-gravelords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Legions of Ulfenkarn",
+  "text": "Currently, the rules in battletome supplement are still legal for use in competitive play. However, on 1 June 2026, these rules will move over to Warhammer Legends. This means that they will no longer be legal for competitive play. Passive WARDENS OF THE WOLF : The might of Ulfenkarn marches forth from the shattered city, its graves emptied to bolster the tides of endless dead, as the howls of feral vampires echo across the battlefield. Effect: Each time 1 or more slain models are returned to a friendly SOULBLIGHT GRAVELORDS INFANTRY or BEASTS unit wholly within 12\" of a friendly Belladamma Volga , Radukar the Wolf , Radukar the Beast , Ivya Volga , Lady Annika , Kritza , Torgillius the Chamberlain , Gorslav the Gravekeeper or Watch Captain Halgrim , add 1 to the number of slain models returned to that unit."
+ },
+ {
+  "faction": "Soulblight Gravelords",
+  "faction_slug": "soulblight-gravelords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Cryptmasters",
+  "text": "Once Per Turn (Army), Your Hero Phase UNHOLY SITE : Some gravesites have witnessed such horrors that the death magic suffusing them makes them even more difficult to cleanse of the undead’s influence. Declare: Pick a friendly Cursed Sepulchre to be the target. Effect: The target has WARD ( 4+ ) until the start of your next turn."
+ },
+ {
+  "faction": "Soulblight Gravelords",
+  "faction_slug": "soulblight-gravelords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Skinshifters",
+  "text": "Once Per Turn (Army), Your Hero Phase THE SPEED OF DEATH : Many vampires are capable of swiftly traversing nearly any terrain by assuming a different form or through the application of the sheer bestial strength and agility granted them by their curse. Declare: Pick a friendly INFANTRY VAMPIRE HERO to be the target. Effect: The target can move up to 12\" and has FLY when it does so. It cannot end that move in combat ."
+ },
+ {
+  "faction": "Soulblight Gravelords",
+  "faction_slug": "soulblight-gravelords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Heroic Traits > The Cursed Bloodlines",
+  "text": "HERO only BATTLE PROFILE Name Points LASH OF THE SIRE 20 UNBENDING WILL 0 UNHINGED RAMPAGER 0 Your Hero Phase LASH OF THE SIRE : Such is the domineering force of this undead overlord’s willpower that it can imbue nearby vassals with sudden impetus. Declare: Pick another friendly SOULBLIGHT GRAVELORDS unit within this unit’s combat range to be the target. Effect: Roll a dice. On a 2+: If the target is not in combat, it can move D6\" but cannot move into combat during any part of that move. If the target is in combat, it can make a pile-in move . Your Hero Phase UNBENDING WILL : This immortal tyrant and their minions are a force of unliving conquest like no other. Declare: Pick a friendly DEATHRATTLE or DEADWALKERS unit that has 2 or more models and is wholly within 12\" of this unit to be the target. Effect: Add D6 to the target’s control score for the rest of the turn. Passive UNHINGED RAMPAGER : This creature’s bestial hunger sees them close on the foe without hesitation. Effect: You can re-roll charge rolls for this unit in your charge phase."
+ },
+ {
+  "faction": "Soulblight Gravelords",
+  "faction_slug": "soulblight-gravelords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Heroic Traits > Undying Tyrants",
+  "text": "HERO only BATTLE PROFILE Name Points IMMORTAL EGO 0 FRIGHTENING VITALITY 0 A WASTREL AND A VAGABOND 0 Passive IMMORTAL EGO : Few mortals would claim to be the mightiest slayer in the Mortal Realms or to have a peerless mastery of the blade, given the existence of gods, daemons, demigods and more besides. Effect: Each phase, you can re-roll 1 hit roll , 1 wound roll and 1 save roll for this unit. Passive FRIGHTENING VITALITY : This deathless champion is an undead juggernaut, capable of a type of regeneration that is rare even amongst the ranks of the unliving. Effect: Each time an ability would heal exactly 1 or 2 of this unit’s damage points, heal 3 damage points instead. Passive A WASTREL AND A VAGABOND : This spiteful creature is an embarrassment to their undead peers: perhaps a vampire fallen from favour, a wight who failed in their duty to their king, or a Necromancer who pushed their luck one time too many. Regardless of the reason, they seem to have an affinity with the basest undead minions. Effect: While a friendly Deadwalker Zombies or Deathrattle Skeletons unit is wholly within 12\" of this unit: Add 2 to run rolls for that unit. Add 3\" to the distance that unit can move when it piles in."
+ },
+ {
+  "faction": "Soulblight Gravelords",
+  "faction_slug": "soulblight-gravelords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Heroic Traits > The Cursed Bloodlines",
+  "text": "HERO only BATTLE PROFILE Name Points IMMORTAL EGO 0 FURIOUS ENDINGS 0 ETERNAL THRALL 0 Passive IMMORTAL EGO : Few mortals would claim to be the mightiest slayer in the Mortal Realms or to have a peerless mastery of the blade, given the existence of gods, daemons, demigods and more besides. Effect: Each phase, you can re-roll 1 hit roll , 1 wound roll and 1 save roll for this unit. Passive FURIOUS ENDINGS : This being can harness the power created when Shyishan and Aqshian magics mingle, which often occurs when arcane manifestations meet their end in the Bright Realm. Effect: Each time a MANIFESTATION within 12\" of this unit is removed from play, gain 1 rage dice . Deployment Phase ETERNAL THRALL : Such is this warlord’s notoriety that they have acquired something of a cult following. One of their most ardent supporters is renowned in their own right, and they bask in the adulation of this follower the most. Declare: Pick another friendly non- UNIQUE SOULBLIGHT GRAVELORDS INFANTRY HERO to be the target. Effect: For the rest of the battle, while the target is on the battlefield: If this unit is a Necromancer , add 1 to this unit’s power level . If this unit is a VAMPIRE , add 1 to unbinding rolls for this unit. If this unit is DEATHRATTLE , ignore the first damage point that would be allocated to this unit in each phase."
+ },
+ {
+  "faction": "Soulblight Gravelords",
+  "faction_slug": "soulblight-gravelords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Artefacts of Power > Deathly Heirlooms",
+  "text": "HERO only BATTLE PROFILE Name Points TERMINUS CLOCK 0 SHARD OF NIGHT 0 AMULET OF GRAVES 0 Your Hero Phase TERMINUS CLOCK : Created by a mad clockwright of Ulfenkarn, this bizarre cogwork piece ticks without rhyme or reason. Whenever its eclectic count ends, however, the power of magic seems to deaden across the field. Effect: Roll a dice. On a 3+, until the start of your next turn, subtract 1 from casting rolls for enemy WIZARDS while they are within 18\" of this unit. Passive SHARD OF NIGHT : This undead lord’s armour was crafted using elements of an abyssal stalker and grants the bearer that awful creature’s shadowy aura. Effect: Ignore modifiers to save rolls for shooting attacks that target this unit (positive and negative). Once Per Battle, Your Hero Phase AMULET OF GRAVES : The bearer of this amulet can call upon a long-dead soul in Shyish, manifesting their final resting place onto the battlefield in a storm of necromantic energy. Effect: If there are fewer than 3 friendly Cursed Sepulchres on the battlefield, set up a Cursed Sepulchre on the battlefield more than 9\" from all enemy units, more than 1\" from all friendly units and more than 3\" from all objectives and other terrain features ."
+ },
+ {
+  "faction": "Soulblight Gravelords",
+  "faction_slug": "soulblight-gravelords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Spell Lore",
+  "text": "BATTLE PROFILE Name Points Lore of Undeath 0"
+ },
+ {
+  "faction": "Soulblight Gravelords",
+  "faction_slug": "soulblight-gravelords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Spell Lore > Lore of Undeath",
+  "text": "Your Hero Phase 7 VILE TRANSFERENCE : The caster siphons the animus from nearby enemies and uses it to restore their deathless form. Declare: Pick a friendly SOULBLIGHT GRAVELORDS WIZARD to cast this spell, pick a visible enemy unit within 18\" of them to be the target, then make a casting roll of 2D6. Effect: Roll a number of dice equal to the number of models in the target unit. For each 6, inflict 1 mortal damage on that unit. If any enemy models were slain by this spell, Heal (D3) the caster. KEYWORDS SPELL, UNLIMITED Your Hero Phase 7 PRISON OF GRIEF : Victims of this curse relive their tragedies, their will to fight replaced by overwhelming self-pity. Declare: Pick a friendly SOULBLIGHT GRAVELORDS WIZARD to cast this spell, pick a visible enemy unit within 12\" of them to be the target, then make a casting roll of 2D6. Effect: The target has STRIKE-LAST until the start of your next turn. KEYWORDS SPELL Your Hero Phase 7 WASTE AWAY : The wizard causes the muscles of the foe to atrophy, robbing them of their strength. Declare: Pick a friendly SOULBLIGHT GRAVELORDS WIZARD to cast this spell, pick a visible enemy unit within 12\" of them to be the target, then make a casting roll of 2D6. Effect: For the rest of the turn, subtract 1 from the Damage characteristic of the target’s melee weapons. KEYWORDS SPELL"
+ },
+ {
+  "faction": "Soulblight Gravelords",
+  "faction_slug": "soulblight-gravelords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Origins of terrifying Folk Tales",
+  "text": "Origins of Terrifying Folk Tales are unique enhancements that can be given to non- HERO SOULBLIGHT GRAVELORDS INFANTRY units. A unit can only have 1 Origin of Terrifying Folk Tales. BATTLE PROFILE Name Points THE EMPTY GRAVEYARD 10 THE NEVER-DEAD 10 THE INCARNADINE KILLERS 10 Deployment Phase THE EMPTY GRAVEYARD : Folks tell of a cemetery where the day after a mass funeral, each newly filled burial plot was found empty, with footprints leading away from them into the wilds… Effect: Remove this unit from the battlefield and set it up again more than 9\" from all enemy units and either wholly within 7\" of a terrain feature or wholly within 7\" of the battlefield edge. This unit cannot use MOVE abilities in the first turn of the first battle round. Any Hero Phase THE NEVER-DEAD : It is said that there is a rampaging band of warriors who yearn for the sweet release of death, but as punishment for transgressions past, Elder Bones refuses to let them die. Effect: Spend 1 rage dice . If your opponent’s fury level is lower than yours, they must increase their fury level by 1, to a maximum of 7. Then, for the rest of the turn, each time you make an unmodified save roll of 5+ for an attack that targets this unit, the attack fails and the attack sequence ends. End of Any Turn THE INCARNADINE KILLERS : Beware the Incarnadine Killers, for they are cursed with an insatiable lust for slaughter. Do not think that distance shall keep you safe; should you spy their bloodied forms upon the horizon one moment, their blades will be lodged in your throat the next. Effect: If this unit is not in combat and an enemy unit was destroyed by its combat attacks this turn, this unit can move up to D6\". It can end that move in combat ."
+ },
+ {
+  "faction": "Soulblight Gravelords",
+  "faction_slug": "soulblight-gravelords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Manifestation Lore",
+  "text": "BATTLE PROFILE Name Points Manifestations of the Grave 0"
+ },
+ {
+  "faction": "Soulblight Gravelords",
+  "faction_slug": "soulblight-gravelords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Manifestation Lore > Manifestations of the Grave",
+  "text": "Your Hero Phase 7 SUMMON HAND OF NAGASH : From out a yawning portal looms a colossal skeletal arm, infused to its cursed marrow with the magic of Shyish. Declare: If there is not a friendly Hand of Nagash on the battlefield, pick a friendly SOULBLIGHT GRAVELORDS WIZARD to cast this spell, then make a casting roll of 2D6. Effect: Set up a Hand of Nagash wholly within 12\" of and visible to the caster and more than 9\" from all enemy units. KEYWORDS SUMMON, SPELL Your Hero Phase 6 SUMMON SANGUINE SWARM : The skies darken as screeching swarms of spectral bats descend upon the battlefield, hungry for blood. Declare: If there is not a friendly Sanguine Swarm on the battlefield, pick a friendly SOULBLIGHT GRAVELORDS WIZARD to cast this spell, then make a casting roll of 2D6. Effect: Set up a Sanguine Swarm wholly within 12\" of and visible to the caster and more than 9\" from all enemy units. A Sanguine Swarm spell has 2 parts that must be set up within 9\" of each other. KEYWORDS SUMMON, SPELL Your Hero Phase 6 SUMMON UNHOLY RELIQUARY : Pulled forth from the underworlds, the remains of a long perished vampire rises from the ground amidst a vortex of death magic. Declare: If there is not a friendly Unholy Reliquary on the battlefield, pick a friendly SOULBLIGHT GRAVELORDS WIZARD to cast this spell, then make a casting roll of 2D6. Effect: Set up an Unholy Reliquary wholly within 18\" of the caster, visible to them and more than 3\" from all enemy units. KEYWORDS SUMMON, SPELL Army of Renown"
+ },
+ {
+  "faction": "Soulblight Gravelords",
+  "faction_slug": "soulblight-gravelords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Barrow Legion",
+  "text": "When you pick the Soulblight Gravelords faction for your army, you can choose it to be a Barrow Legion Army of Renown . If you do so, use the faction rules in this section instead of the Soulblight Gravelords faction rules. Every unit in your army must be drawn from the units listed in the roster options below. All units in your army gain the BARROW LEGION keyword. Wight King and Wight King on Skeletal Steed units in your army gain WARMASTER . ROSTER OPTIONS Any DEATHRATTLE units You cannot include Regiments of Renown"
+ },
+ {
+  "faction": "Soulblight Gravelords",
+  "faction_slug": "soulblight-gravelords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Barrow Legion > Battle Traits",
+  "text": "Once Per Battle, Deployment Phase THE ROYAL CRYPT : These crumbling ruins marks the ancient holdings of a powerful wight. Declare: This ability must be used instead of the ‘ Deploy Faction Terrain Feature’ ability. Effect: Set up 3 Cursed Sepulchres wholly within friendly territory, each within ½\" of any of the others and more than 3\" from all objectives and other terrain features . After you have done so, they have been deployed and they are considered to be a single Cursed Sepulchre terrain feature that has a Health characteristic of 24 instead of 8. KEYWORDS DEPLOY TERRAIN Passive GRAVE SENTINELS : Unwavering in their eternal vigilance, the deathly warriors of this legion’s overlord guard his ancient resting place. Effect: The melee weapons used by friendly BARROW LEGION units have Anti-charge (+1 Rend) while they are wholly within 9\" of a friendly Cursed Sepulchre . Passive ALL TO DUST : Acting as a conduit to the Shyish Nadir, the death magic that swirls around this barrow legion’s tomb causes trespassers to atrophy and their armour to corrode under the weight of ages. Effect: In the third and subsequent battle rounds, while a friendly Cursed Sepulchre is on the battlefield, subtract 1 from save rolls for enemy units. Once Per Battle, Deployment Phase GIFTS TO THE PETTY KINGDOMS : To each of his vassal kingdoms, this legion’s monarch bestowed a gift bearing a curse that bound them to his service for evermore. Declare: Pick up to 2 friendly non- UNIQUE BARROW LEGION HEROES that do not have an artefact of power to be the targets (you can pick units in reserve ). Effect: Give each target 1 artefact of power from the ‘Barrow Legion’ Army of Renown rules."
+ },
+ {
+  "faction": "Soulblight Gravelords",
+  "faction_slug": "soulblight-gravelords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Barrow Legion > Battle Traits",
+  "text": "Effect: Give each target 1 artefact of power from the ‘Barrow Legion’ Army of Renown rules. Designer’s Note: These artefacts of power are given to the HEROES during the deployment phase , not during army composition . Once Per Battle Round (Army), Any Movement Phase ENDLESS LEGIONS OF BONE : When the Deathrattle armies are roused to war, their numbers are unending. Declare: Pick a friendly non- UNIQUE BARROW LEGION unit that has been destroyed to be the target. Effect: Set up a replacement unit with half the number of models from the target unit (rounding up) wholly within 12\" of a friendly BARROW LEGION HERO or wholly within 6\" of a friendly Cursed Sepulchre . It must be set up more than 9\" from all enemy units. If it is your movement phase, you can set up the replacement unit more than 3\" from all enemy units instead of more than 9\", but if you set it up within 9\" of any enemy units, it cannot use CHARGE abilities this turn."
+ },
+ {
+  "faction": "Soulblight Gravelords",
+  "faction_slug": "soulblight-gravelords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Barrow Legion > Heroic Traits",
+  "text": "Your Movement Phase RESTLESS TYRANT : The skeletal warriors under this one’s command are driven ever forward. Declare: Pick a friendly BARROW LEGION unit wholly within 12\" of this unit to be the target. Effect: Add 2\" to the target’s Move characteristic for the rest of the turn. End of Any Turn SPIRIT-EATER : The souls of slain enemies are drawn into this king of undeath, imbuing him with unholy might. Effect: If any models were slain by your general this turn, Heal (D6) your general. Deployment Phase LORD OF THE ARCANE AEGIS : Even in undeath, this wight still recalls all manner of warding cantrips to protect his forces from the enemy. Effect: Pick 1 of the following keywords: INFANTRY CAVALRY MONSTER BEAST For the rest of the battle, each time an attack targets this unit, if the attacking unit has the keyword you picked, an unmodified save roll of 4+ for that attack is always successful."
+ },
+ {
+  "faction": "Soulblight Gravelords",
+  "faction_slug": "soulblight-gravelords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Barrow Legion > Artefacts of Power",
+  "text": "Passive RING OF STRICKEN SOULS : Violet clouds swirl within the Shyishan amethyst set in this ring, which grants the bearer uncanny protection. Effect: This unit has WARD ( 5+ ) . Once Per Turn, Any Hero Phase CROWN OF COLD COMMAND : This eldritch crown compels this king’s warriors from ages past to rise from their graves and fight once more. Declare: Pick a friendly BARROW LEGION unit wholly within 12\" of this unit to be the target. Effect: Roll a dice. On a 3+: If the target is damaged, Heal (3) the target. If the target is not damaged, return a number of slain models to it with a combined Health characteristic of up to 3. Once Per Battle, End of Any Turn CRYPT DAGGER : Foul sorcery flickers and dances across the ancient iron of this cursed blade, and its bite can bring instant death. Declare: Pick an enemy HERO in combat with this unit to be the target. Effect: Inflict D6 mortal damage on the target. Passive GRAVE-SAND PENDANT : When shattered, the Shyishan realmstone within this talisman can forestall the bearer’s final destruction, granting them one last chance to claim revenge. Effect: If this unit would be destroyed, before removing it from play, roll a dice. On a 3+, this unit is not destroyed and any remaining damage points inflicted on it have no effect. Then, Heal (1) this unit. This unit cannot use this ability again for the rest of the battle. Once Per Battle, Any Combat Phase AMULET OF NIGHTMARES : The nightmares of the bearer, who endures a torturous existence trapped in their mouldering undead form, are projected into the minds of the living by this onyx talisman. Declare: Pick an enemy unit within 9\" of this unit to be the target. Effect: Roll a dice. On a 2+, the target has STRIKE-LAST this phase. Army of Renown"
+ },
+ {
+  "faction": "Soulblight Gravelords",
+  "faction_slug": "soulblight-gravelords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Knights of the Crimson Keep",
+  "text": "When you pick the Soulblight Gravelords faction for your army, you can choose it to be a Knights of the Crimson Keep Army of Renown . If you do so, use the faction rules in this section instead of the Soulblight Gravelords faction rules. Every unit in your army must be drawn from the units listed in the roster options below. All units in your army gain the CRIMSON KEEP keyword. ROSTER OPTIONS Prince Vhordrai (if included, must be general ) Vampire Lord on Nightmare Steed Blood Knights Revenant Draconith Fell Bats You cannot include Regiments of Renown or faction terrain"
+ },
+ {
+  "faction": "Soulblight Gravelords",
+  "faction_slug": "soulblight-gravelords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Knights of the Crimson Keep > Battle Traits",
+  "text": "Deployment Phase THE CRIMSON KEEP : None can predict where the Crimson Keep will manifest next, but wherever it appears, the slaughter its occupants will wreak will be total. Declare: Pick a friendly CRIMSON KEEP unit that has not been deployed. Effect: Set up that unit in reserve in the Crimson Keep . It has now been deployed. You cannot set up more friendly units in the Crimson Keep than there are on the battlefield. KEYWORDS DEPLOY Your Charge Phase 1 CARVE A BLOODY PATH : With unstoppable force, a wedge of Blood Knights punches through the enemy’s lines leaving a trail of broken foes in their wake. Declare: Pick a friendly Blood Knights unit that is in combat to use this ability. Effect: That unit can use a CHARGE ability even though it is in combat and even if it has already used a CHARGE ability this turn. Once Per Battle (Army), Any Movement Phase FROM A QUARTER UNSEEN : Prince Vhordrai has mastered the art of trapping the foe between his main force and reserves that sally forth from the Crimson Keep at his signal. Declare: You cannot use this ability in the first battle round. Pick each friendly unit that is in the Crimson Keep to be the targets. Effect: Set up each target wholly within 9\" of the battlefield edge and more than 9\" from all enemy units. If you set up any units using this ability in the third or a subsequent battle round, do not spend any command points when using the ‘ Carve a Bloody Path ’ command this turn. Once Per Turn (Army), Any Combat Phase BLOOD RAMPAGE : The nightmarish behemoths that roost among the upper spires of the Crimson Keep tear through the enemy’s ranks, sending bloody chunks and gore flying in all directions."
+ },
+ {
+  "faction": "Soulblight Gravelords",
+  "faction_slug": "soulblight-gravelords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Knights of the Crimson Keep > Battle Traits",
+  "text": "that roost among the upper spires of the Crimson Keep tear through the enemy’s ranks, sending bloody chunks and gore flying in all directions. Declare: Pick a friendly CRIMSON KEEP MONSTER that is in combat and has not used any RAMPAGE abilities this turn to use this ability, then pick an enemy unit in combat with it to be the target. Effect: This unit can make a move of 2D6\". It must end that move in combat with the target unit. Then, roll a dice. If the roll exceeds the target unit’s Health characteristic, 1 model in the target unit is slain. After this ability has been resolved, this unit cannot use RAMPAGE abilities for the rest of the turn. KEYWORDS RAMPAGE"
+ },
+ {
+  "faction": "Soulblight Gravelords",
+  "faction_slug": "soulblight-gravelords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Knights of the Crimson Keep > Heroic Traits",
+  "text": "Any Combat Phase IMMORTAL DEDICATION : Having spent centuries in undeath honing their martial skill, this Gravelord is a master of combat. Effect: This unit receives D3 martial prowess tokens . Each martial prowess token can be spent to do 1 of the following: Re-roll a hit roll for this unit. Re-roll a wound roll for this unit. Re-roll a save roll for this unit. At the start of the next turn, remove all this unit’s martial prowess tokens ."
+ },
+ {
+  "faction": "Soulblight Gravelords",
+  "faction_slug": "soulblight-gravelords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Knights of the Crimson Keep > Artefacts of Power",
+  "text": "Once Per Battle, End of Any Turn CHALICE OF THE BLOOD DRAGON : Said to have been possessed by the Crimson Keep’s first castellan, this chalice can be drained to renew a vampire’s vigour. Effect: Heal (3D3) this unit."
+ },
+ {
+  "faction": "Soulblight Gravelords",
+  "faction_slug": "soulblight-gravelords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Knights of the Crimson Keep > Spell Lore",
+  "text": "Your Hero Phase 7 SIPHON STRENGTH : The vampire draws on the life essence of the enemy to flood their limbs with strength and heighten their senses. Declare: Pick a friendly CRIMSON KEEP WIZARD to cast this spell, pick a visible enemy unit within 18\" of them to be the target, then make a casting roll of 2D6. Effect: Inflict D3 mortal damage on the target. For the rest of the turn, add 1 to hit rolls for attacks made by the caster. KEYWORDS SPELL, UNLIMITED Your Hero Phase 7 DEATHLY GALE : A foul wind carrying a stench of death and decay races across the battlefield, speeding the charge of the Knights of the Crimson Keep. Declare: Pick a friendly CRIMSON KEEP WIZARD to cast this spell, pick a visible friendly CRIMSON KEEP unit wholly within 12\" of them to be the target, then make a casting roll of 2D6. Effect: For the rest of the turn, add 1 to the number of dice rolled when making charge rolls for the target, to a maximum of 3. KEYWORDS SPELL Your Hero Phase 7 AWAKENED FURY : At the sorcerer’s gesture, hooves are wreathed in balefire and monstrous talons grow elongated and wickedly sharp. Declare: Pick a friendly CRIMSON KEEP WIZARD to cast this spell, pick a visible friendly CRIMSON KEEP unit wholly within 12\" of them to be the target, then make a casting roll of 2D6. Effect: Add 1 to the Damage characteristic of the target’s Companion melee weapons until the start of your next turn. KEYWORDS SPELL"
+ },
+ {
+  "faction": "Soulblight Gravelords",
+  "faction_slug": "soulblight-gravelords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Knights of the Crimson Keep > Manifestation Lore",
+  "text": "Your Hero Phase 6 SUMMON UNHOLY RELIQUARY : Pulled forth from the underworlds, the remains of a long perished vampire rises from the ground amidst a vortex of death magic. Declare: If there is not a friendly Unholy Reliquary on the battlefield, pick a friendly CRIMSON KEEP WIZARD to cast this spell, then make a casting roll of 2D6. Effect: Set up an Unholy Reliquary wholly within 18\" of the caster. KEYWORDS SPELL, SUMMON Army of Renown"
+ },
+ {
+  "faction": "Soulblight Gravelords",
+  "faction_slug": "soulblight-gravelords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Scions of Nulahmia",
+  "text": "When you pick the Soulblight Gravelords faction for your army, you can choose for it to be a Scions of Nulahmia Army of Renown . If you do so, use the faction rules on these pages instead of the Soulblight Gravelords faction rules. Every unit in your army must be drawn from the units listed in the roster options box below. All units in your army gain the SCIONS OF NULAHMIA keyword. ROSTER OPTIONS Sekhar, Fang of Nulahmia (must be included and must be your general ) Vampire Lord Coven Throne Bloodseeker Palanquin Dire Wolves Fell Bats Vampire Lord on Nightmare Steed You cannot include Regiments of Renown REGIMENT OPTIONS SCIONS OF NULAHMIA Vampire Lord units can be added to regiments led by a SCIONS OF NULAHMIA HERO ."
+ },
+ {
+  "faction": "Soulblight Gravelords",
+  "faction_slug": "soulblight-gravelords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Scions of Nulahmia > Battle Traits",
+  "text": "Once Per Turn (Army), Your Hero Phase THAUMIC REALIGNMENT : The seeding of deathly energies soon sees the fell winds rise… Declare: You can only use this ability if you have not used any EXQUISITE PLOT abilities this turn. Pick a friendly WIZARD to be the target. Effect: For the rest of the turn, add 1 to casting rolls for the target. In addition, at the end of this turn, if the target successfully cast any spells this turn, add 1 to its power level for the rest of the battle. KEYWORDS EXQUISITE PLOT Once Per Turn (Army), Your Hero Phase RECRUITMENT DRIVE : The butchery of a few peons yields a reserve of future ‘recruits’. Declare: You can only use this ability if you have not used any EXQUISITE PLOT abilities this turn. Pick a friendly unit to be the hunter and an enemy unit with 5 or more models to be the target. Effect: For the rest of the turn, add 1 to hit rolls for the hunter ’s combat attacks that target that enemy unit. In addition, if the target is destroyed this turn by the hunter , add 1 to the Attacks characteristic of the hunter ’s melee weapons for the rest of the battle. KEYWORDS EXQUISITE PLOT Once Per Turn (Army), Your Hero Phase SEEK WORTHY BLOOD : Only the finest ichor will suffice for the vampires of Nulahmia. It is considered an art to eviscerate an enemy champion whilst collecting as much of their blood as possible. Declare: You can only use this ability if you have not used any EXQUISITE PLOT abilities this turn. Pick a friendly unit to be the target. Effect: For the rest of the turn, the target’s weapons have Anti- HERO (+1 Rend) . In addition, if the target destroys any enemy HEROES this turn, the target’s weapons have Anti- HERO (+1 Rend) for the rest of the battle."
+ },
+ {
+  "faction": "Soulblight Gravelords",
+  "faction_slug": "soulblight-gravelords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Scions of Nulahmia > Battle Traits",
+  "text": "In addition, if the target destroys any enemy HEROES this turn, the target’s weapons have Anti- HERO (+1 Rend) for the rest of the battle. KEYWORDS EXQUISITE PLOT Once Per Turn (Army), Your Hero Phase THE QUEEN’S PRIZE : What Neferata desires, Neferata receives. Declare: You can only use this ability if you have not used any EXQUISITE PLOT abilities this turn. Pick a friendly unit to be the target. Effect: For the rest of the turn, add 5 to the target’s control score . In addition, at the end of this turn, after determining control of objectives , if the target is contesting an objective that you control and that was controlled by your opponent at the start of this turn, add 5 to the target’s control score for the rest of the battle. KEYWORDS EXQUISITE PLOT"
+ },
+ {
+  "faction": "Soulblight Gravelords",
+  "faction_slug": "soulblight-gravelords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Scions of Nulahmia > Heroic Traits",
+  "text": "HERO only Your Hero Phase KEEPER OF THE ROYAL MENAGERIE : Those vampires who maintain the bleak menageries of Nulahmia have an instinctive bond with undead beasts. Declare: Pick a friendly Dire Wolves or Fell Bats unit that has been destroyed to be the target. Effect: Set up a replacement unit with half the number of models from the target unit (rounding up) wholly within 12\" of this unit and more than 9\" from all enemy units."
+ },
+ {
+  "faction": "Soulblight Gravelords",
+  "faction_slug": "soulblight-gravelords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Scions of Nulahmia > Artefacts of Power",
+  "text": "HERO only Passive AMULET OF LEECHES : This ancient and corroded talisman allows the wielder to draw upon the necromantic energies of their minions for protection. Effect: While this unit is within the combat range of a friendly Dire Wolves or Fell Bats unit: This unit has WARD ( 5+ ) . Each time you make a successful ward roll for this unit, allocate 1 damage point to a friendly Dire Wolves or Fell Bats unit within this unit’s combat range after the damage sequence for this unit has been resolved (ward rolls cannot be made for those damage points)."
+ },
+ {
+  "faction": "Soulblight Gravelords",
+  "faction_slug": "soulblight-gravelords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Scions of Nulahmia > Spell Lore",
+  "text": "Your Hero Phase 6 INVOCATION OF NULAHMIA : This ancient spell, said to hail from the sun-blasted birthplace of necromancy, is wielded by each of Neferata’s chosen. Declare: Pick a friendly SCIONS OF NULAHMIA WIZARD to cast this spell, pick a visible friendly Dire Wolves or Fell Bats unit wholly within 18\" of them to be the target, then make a casting roll of 2D6. Effect: You can return 1 slain model to that unit. KEYWORDS SPELL, UNLIMITED Your Hero Phase 7 THRALL DRAIN : Vampires are consummate and ruthless survivors; they will gladly drain the energy of their subordinates in order to heal their own wounds. Declare: Pick a friendly SCIONS OF NULAHMIA WIZARD to cast this spell, pick a friendly unit wholly within 12\" of them to be the target, then make a casting roll of 2D6. Effect: D3 models in the target are slain. Then, remove all damage points from the caster. KEYWORDS SPELL Your Hero Phase 7 SCARLET THIRST : At the wizard’s command, a fierce compulsion to feed flares up inside the vampiric court, who eagerly await the chance to indulge their blood hunger without restraint. Declare: Pick a friendly SCIONS OF NULAHMIA WIZARD to cast this spell, then make a casting roll of 2D6. Effect: For the rest of the turn, add 1 to the Attacks characteristic of melee weapons used by friendly SCIONS OF NULAHMIA VAMPIRE units while they are wholly within 12\" of the caster. KEYWORDS SPELL"
+ },
+ {
+  "faction": "Soulblight Gravelords",
+  "faction_slug": "soulblight-gravelords",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Bloodcrave Hunt",
+  "text": "Though the great vampiric bloodlines maintain wildly different traditions of war, there is one thing they all have in common: the love of the hunt. Even those who adopt the airs and graces of noble courts struggle to keep the blood-craving beasts within them contained behind their gilded veneers. Such is the power of the Soulblight Curse that the vampiric nobility that revel in its blessings will often strike out on Bloodcrave Hunts to chase down foes to replenish their feeding supplies – or, oftentimes, just to enjoy indulging their fell urges. Each hunt is led by a Vampire Lord, who directs both members of their court and ranks of their skeletal servants alike to do their bidding. No backline leaders are these, as they would much rather revel in the carnage of battle, slashing apart enemies with their ornate weapons or taking great gulps of blood. Though they fight violently, they use this vital lifestuff to heal their own injuries as they go. An elite guard of mounted Blood Knights attends their lord, charging through enemy lines to skewer them with sword and lance. Many will bring along Vargheists to aid in the hunt, for these grotesque creatures were once members of their court as well, though having fallen to the urges of their curse, they are now good for little more than chasing and killing. Should their masters not take care of the enemy, Deathrattle Skeletons will be raised to clean up straggling footsoldiers or overwhelm their foes with sheer numbers. With their lord nearby, they can get up and resume fighting countless times after being destroyed. This Spearhead army consists of the following units: General Vampire Lord Units 10 Deathrattle Skeletons 10 Deathrattle Skeletons 5 Blood Knights 3 Vargheists",
+  "spearhead_name": "Bloodcrave Hunt"
+ },
+ {
+  "faction": "Soulblight Gravelords",
+  "faction_slug": "soulblight-gravelords",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Bloodcrave Hunt > Battle Traits",
+  "text": "DEATH'S DESCENT Vargheists swoop on their victims from on high, suddenly overwhelming them in a flurry of claws and fangs. Your Vargheists unit is not set up during the deployment phase. Instead, from the third battle round onwards, it can use the Swoop Down ability. Your Movement Phase SWOOP DOWN : The sky darkens as the Vargheists descend. Effect: Set up this unit anywhere on the battlefield more than 6\" from all enemy units. KEYWORDS CORE Passive THE HUNGER : Those who bear the Soulblight Curse constantly crave blood and are empowered by feasting upon their foes. Effect: Each time a friendly VAMPIRE unit uses a FIGHT ability , after all of its attacks have been resolved, Heal (X) that VAMPIRE unit where X is the number of damage points allocated by those attacks.",
+  "spearhead_name": "Bloodcrave Hunt"
+ },
+ {
+  "faction": "Soulblight Gravelords",
+  "faction_slug": "soulblight-gravelords",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Bloodcrave Hunt > Regiment Abilities",
+  "text": "Pick 1 of the following regiment abilities. Once Per Battle, Your Movement Phase ENDLESS LEGIONS : To the Soulblight aristocracy, the dead are mere chattel to be expended at will. Declare: Pick a friendly Deathrattle Skeletons unit that has been destroyed. Effect: You can set up a replacement unit with D6 models in friendly territory more than 6\" from enemy units. KEYWORDS CORE Any Charge Phase RUINOUS CHARGERS : The Blood Knights of this army leave a trail of destruction as they trample anything that lies between them and their prey. Declare: Pick your Blood Knights unit to use this ability if it charged this turn. Effect: Inflict D3 mortal damage on each enemy unit it passed across during that CHARGE ability.",
+  "spearhead_name": "Bloodcrave Hunt"
+ },
+ {
+  "faction": "Soulblight Gravelords",
+  "faction_slug": "soulblight-gravelords",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Bloodcrave Hunt > Enhancements",
+  "text": "Give your general 1 of the following enhancements. Once Per Battle, Reaction: You declared the ‘Skeleton Legion’ ability for a unit within 9\" of your general GRAVE-SAND SHARD : By crushing this gem of vitrified grave-sand, the Vampire Lord can draw upon a surge of death magic to reinvigorate their resurrected warriors. Effect: Add 1 to each legion roll made for that unit. Passive AURA OF NIGHT : This black leather brigandine was crafted from the hide of an abyssal stalker and grants the wearer that creature’s shadowy aura. Effect: Ignore negative modifiers to save rolls for shooting attacks that target your general . Once Per Battle, Your Movement Phase CLOUD OF BATS : Your Vampire Lord dissolves into a swarm of bats before reappearing elsewhere. Effect: Remove your general from the battlefield and set them up again anywhere on the battlefield more than 6\" from all enemy units. KEYWORDS CORE Your Hero Phase SPIRIT GALE : Your general calls forth spectral winds that tear the souls of the foe from their bodies. Declare: Make a casting roll of 2D6. Effect: On a 7+, inflict 1 mortal damage on each enemy unit on the battlefield.",
+  "spearhead_name": "Bloodcrave Hunt"
+ },
+ {
+  "faction": "Soulblight Gravelords",
+  "faction_slug": "soulblight-gravelords",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Bloodcrave Hunt > Warscrolls",
+  "text": "• SPEARHEAD WARSCROLL • Vampire Lord 6\" 5 3+ 2 6+ Vampire Lords are elder undead whose dark powers have only intensified over the long centuries. Each is a warrior to be feared, with an instinctive command of death magic. In battle, they fight with selfassurance and a cold sense of pride, knowing that at the flick of their finger they can raise more skeletal servants to overwhelm their foe or siphon the soul energies from their victims in order to live anew. Each fights with an heirloom of their vampiric bloodline, which is both an expertly crafted relic and a symbol of dread to their enemies. • SPEARHEAD WARSCROLL • Vampire Lord MELEE WEAPONS Atk Hit Wnd Rnd Dmg Dynastic War-relic Dynastic War-relic 5 3+ 3+ 1 2 Your Hero Phase VILE TRANSFERENCE : The Vampire Lord siphons the animus from nearby enemies and uses it to rejuvenate their ageless form. Declare: Pick a visible enemy unit within 6\" of this unit to be the target, then make a casting roll of 2D6. Effect: On a 6+, roll a number of dice equal to the target’s Health characteristic. For each 5+, inflict 1 mortal damage on the target and Heal (1) this unit. KEYWORDS HERO , WIZARD , INFANTRY , WARD ( 6+ ) • SPEARHEAD WARSCROLL • Vargheists 12\" 4 5+ 1 6+ The leather-winged horrors known as Vargheists are vampires who were overwhelmed by their bloody thirst. Now reduced to savage and near-uncontrollable beasts, they viciously attack any prey within reach. Though they are a common sight in hunting parties for their speed and overwhelming strength, their courtly brethren often treat them with contempt. Deep down, vampires know that they are only a few steps away from transforming into a ravening, blood-maddened Vargheist themselves.",
+  "spearhead_name": "Bloodcrave Hunt"
+ },
+ {
+  "faction": "Soulblight Gravelords",
+  "faction_slug": "soulblight-gravelords",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Bloodcrave Hunt > Warscrolls",
+  "text": "Deep down, vampires know that they are only a few steps away from transforming into a ravening, blood-maddened Vargheist themselves. • SPEARHEAD WARSCROLL • Vargheists MELEE WEAPONS Atk Hit Wnd Rnd Dmg Murderous Fangs and Talons [ Crit (2 Hits) ] Murderous Fangs and Talons Crit (2 Hits) 3 4+ 3+ 1 2 Passive THE SCENT OF GORE : The taste of hot blood on the tongue sends these abominations into a killing mania. Effect: Add 1 to wound rolls for attacks made by this unit that target a damaged unit. KEYWORDS INFANTRY , FLY , WARD ( 6+ ) • SPEARHEAD WARSCROLL • Deathrattle Skeletons 4\" 1 5+ 1 6+ Clattering forwards in formation, their yellowed skulls devoid of expression, the Deathrattle Skeletons go forth to annihilate the living. These undead automatons have no free will and are imbued only with the imperative to slay as swiftly and efficiently as possible. Even if a skeletal warrior is smashed to pieces, the horror continues – with the battlefield steeped in necromantic energies, the Deathrattle Skeleton’s bones will lock together once more as it clambers upright, ready to kill again. • SPEARHEAD WARSCROLL • Deathrattle Skeletons MELEE WEAPONS Atk Hit Wnd Rnd Dmg Ancient Weapon Ancient Weapon 2 4+ 4+ - 1 End of Any Turn SKELETON LEGION : As necromantic energies blanket the battlefield, long-dead warriors stagger to their feet once more, eye sockets aglow with killing light. Effect: You can return D3 slain models to this unit. KEYWORDS INFANTRY , WARD ( 6+ ) • SPEARHEAD WARSCROLL • Blood Knights 10\" 3 3+ 1 6+ Blood Knights are vampires obsessed with battle, and their codes of chivalric honour are warped indeed. Mounted atop imposing Nightmares, they seek out war wherever it can be found, trampling straight over lesser foes to reach the worthiest challenges.",
+  "spearhead_name": "Bloodcrave Hunt"
+ },
+ {
+  "faction": "Soulblight Gravelords",
+  "faction_slug": "soulblight-gravelords",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Bloodcrave Hunt > Warscrolls",
+  "text": "Mounted atop imposing Nightmares, they seek out war wherever it can be found, trampling straight over lesser foes to reach the worthiest challenges. They excel at mounted combat and can spear enemies through the heart in an instant with finely wrought blade or lance. Their skeletal steeds are fearsome creatures armoured from head to hoof, their savage bites and lashing kicks adding to the carnage of their rider’s charge. • SPEARHEAD WARSCROLL • Blood Knights MELEE WEAPONS Atk Hit Wnd Rnd Dmg Templar Lance or Templar Blade [ Charge (+1 Damage) ] Templar Lance or Templar Blade Charge (+1 Damage) 3 3+ 3+ 1 1 Nightmare’s Hooves and Teeth [ Companion ] Nightmare’s Hooves and Teeth Companion 3 5+ 3+ - 1 Passive RIDERS OF RUIN : Blood Knights barge through lesser foes to strike at more worthy challengers. Effect: Models in this unit can pass across enemy INFANTRY models as if this unit had FLY . KEYWORDS CAVALRY , WARD ( 6+ )",
+  "spearhead_name": "Bloodcrave Hunt"
+ },
+ {
+  "faction": "Soulblight Gravelords",
+  "faction_slug": "soulblight-gravelords",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Deathrattle Tomb Host",
+  "text": "The dead march upon the lands of the living, and they will not stop until all resistance has been crushed beneath their timeworn boots. Rank after rank of fleshless spearmen and tomb champions advance under the baleful gaze of their Wight King master, each of them driven by a soulless imperative to conquer and kill. The military might of the barrow kingdoms is exemplified by the Deathrattle Tomb Hosts. These armies are raised when a Wight King’s entire barrow kingdom is emptied for war, its undead citizenry taking up blades and spears at the unspoken command of their eternal overlord. Deathrattle Skeletons are many in number, so flushed with necromantic energy that even when shattered by an axe or hammer they can reconstitute. Broken bones knit together and skulls reattach as these passionless killing machines rise once more, and their horrified foes find themselves helplessly embroiled in a battle of attrition they cannot win. These doomed souls are easy prey for units of elite Barrow Guard and the heavy cavalry known as Barrow Knights, who charge into their exposed flanks to sow terror and death. This Spearhead army consists of the following units: General Wight King Units 10 Barrow Guard 5 Barrow Knights 10 Deathrattle Skeletons 10 Deathrattle Skeletons",
+  "spearhead_name": "Deathrattle Tomb Host"
+ },
+ {
+  "faction": "Soulblight Gravelords",
+  "faction_slug": "soulblight-gravelords",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Deathrattle Tomb Host > Battle Traits",
+  "text": "THE UNQUIET DEAD Animated by necromancy, the undead rise from their graves, balefire eyes blazing with dark purpose One of your Deathrattle Skeletons units is not set up during the deployment phase. Instead, from the third battle round onwards, it can use The Rising Dead ability. Once Per Battle (Army), Your Movement Phase THE RISING DEAD : Clawing their way through the soil and rock, more undead warriors join the fight. Effect: Set up this unit anywhere on the battlefield wholly within 3\" of a battlefield edge and more than 6\" from all enemy units. Once Per Turn (Army), Your Combat Phase AURA OF ANTIQUITY : Prolonged exposure to the necrotic energies that animate these Deathrattle warriors can cause the equipment of their foes to corrode and crumble with unnatural speed. Declare: Pick an enemy unit in combat with any friendly units to be the target. Effect: Roll a dice. On a 3+, subtract 1 from the Rend characteristic of the target’s melee weapons until the start of your next turn.",
+  "spearhead_name": "Deathrattle Tomb Host"
+ },
+ {
+  "faction": "Soulblight Gravelords",
+  "faction_slug": "soulblight-gravelords",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Deathrattle Tomb Host > Regiment Abilities",
+  "text": "Pick 1 of the following regiment abilities. Passive OVERWHELMING HORDES : The relentless advance of these skeletal undead can overwhelm even the most tenacious resistance. Effect: Add 1 to wound rolls for combat attacks made by friendly non- HERO units that target a unit that has fewer models than the attacking unit. Once Per Turn (Army), Your Hero Phase DEATHMARCH : With rusted armour clattering, the skeletons advance in eerie lockstep, unburdened by pain or doubt. Declare: Pick a friendly non- HERO unit that is not in combat to be the target. Effect: For the rest of the turn, add 1\" to the target’s Move characteristic and add 3 to its control score .",
+  "spearhead_name": "Deathrattle Tomb Host"
+ },
+ {
+  "faction": "Soulblight Gravelords",
+  "faction_slug": "soulblight-gravelords",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Deathrattle Tomb Host > Enhancements",
+  "text": "Give your general 1 of the following enhancements. Passive SHYISHAN BLADE : Sorcerous shadows dance across the deadly sharp edge of this obsidian sword. Effect: The Rend characteristic of your general ’s Baleful Tomb Blade is 2. Your Charge Phase PROPELLED BY HATE : This warrior’s insatiable urge to slaughter the enemies of Nagash drives their deathless soldiers forward with sudden haste. Declare: Pick another friendly unit wholly within 12\" of your general to be the target. Effect: You can re-roll charge rolls for the target for the rest of the turn. Passive STOLEN ANIMUS : This Wight King draws their unholy vitality from spilling blood in great measure. Effect: Each time your general scores a critical hit , Heal (2) your general after the ATTACK ability has been resolved. Once Per Battle, Any Combat Phase SOUL-DRAIN PENDANT : When the cursed words of awakening are uttered, this amethyst pendant saps the vigour of the living. Declare: Pick an enemy unit in combat with your general to be the target. Effect: Roll a dice. On a 2+, the target has STRIKE-LAST for the rest of the turn.",
+  "spearhead_name": "Deathrattle Tomb Host"
+ },
+ {
+  "faction": "Soulblight Gravelords",
+  "faction_slug": "soulblight-gravelords",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Deathrattle Tomb Host > Warscrolls",
+  "text": "• SPEARHEAD WARSCROLL • Wight King 4\" 5 3+ 2 6+ Wight Kings are deathless tyrants, ruling over barrow empires populated entirely by skeletal thralls. They exist only to dominate others, having long ago sacrificed emotion and passion on the altar of their obsessive lust for triumph. In battle, few can withstand their relentless assault. Those foolish enough to challenge their supremacy are soon hacked to pieces by the monarch’s cursed blade, a weapon capable of snuffing out a soul with a single scratch. • SPEARHEAD WARSCROLL • Wight King MELEE WEAPONS Atk Hit Wnd Rnd Dmg Baleful Tomb Blade [ Crit (Mortal) ] Baleful Tomb Blade Crit (Mortal) 5 4+ 3+ 1 2 Your Hero Phase KING OF SHAMBLING BONES : In the presence of their sovereign, the footsoldiers of the Deathrattle kingdoms assume a sliver of their former warlike vigour. Declare: Pick a friendly unit wholly within 12\" of this unit to be the target. Effect: Roll a dice. On a 2+, add 1 to hit rolls for combat attacks made by the target for the rest of the turn. KEYWORDS HERO , INFANTRY , WARD ( 6+ ) • SPEARHEAD WARSCROLL • Barrow Knights 10\" 3 4+ 1 6+ The finest warriors of a Deathrattle kingdom are granted the rank of Barrow Knight and a prestigious place at the side of their undead monarch. These skeletal cavaliers ride forth to conquer in the name of their liege, and rare are the warriors who can withstand their charge. Even if knocked from the saddle or shattered by cannonfire, these elite riders shall eventually rise again, for the oaths they have sworn will last until the end of time itself.",
+  "spearhead_name": "Deathrattle Tomb Host"
+ },
+ {
+  "faction": "Soulblight Gravelords",
+  "faction_slug": "soulblight-gravelords",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Deathrattle Tomb Host > Warscrolls",
+  "text": "or shattered by cannonfire, these elite riders shall eventually rise again, for the oaths they have sworn will last until the end of time itself. • SPEARHEAD WARSCROLL • Barrow Knights MELEE WEAPONS Atk Hit Wnd Rnd Dmg Barrow Lance [ Crit (Mortal) , Charge (+1 Damage) ] Barrow Lance Crit (Mortal) , Charge (+1 Damage) 2 4+ 3+ 1 1 Skeletal Steed’s Hooves and Teeth [ Companion ] Skeletal Steed’s Hooves and Teeth Companion 2 5+ 3+ - 1 End of Your Turn CURSED TO RISE ONCE MORE : Necrotic flames wreathe the shattered remains of an undead knight, compelling them to rejoin the battle. Effect: You can return 1 slain model to this unit. KEYWORDS CAVALRY , WARD ( 6+ ) • SPEARHEAD WARSCROLL • Deathrattle Skeletons 4\" 1 5+ 1 6+ Clattering forwards in formation, their yellowed skulls devoid of expression, the Deathrattle Skeletons go forth to annihilate the living. These undead automatons have no free will and are imbued only with the imperative to slay as swiftly and efficiently as possible. Even if a skeletal warrior is smashed to pieces, the horror continues – with the battlefield steeped in necromantic energies, the Deathrattle Skeleton’s bones will lock together once more as it clambers upright, ready to kill again. • SPEARHEAD WARSCROLL • Deathrattle Skeletons MELEE WEAPONS Atk Hit Wnd Rnd Dmg Ancient Weapon Ancient Weapon 2 4+ 4+ - 1 End of Any Turn SKELETON LEGION : As necromantic energies blanket the battlefield, long-dead warriors stagger to their feet once more, eye sockets aglow with killing light. Effect: You can return D3 slain models to this unit. KEYWORDS INFANTRY , WARD ( 6+ ) • SPEARHEAD WARSCROLL • Barrow Guard 4\" 1 4+ 1 6+ Surrounding a Wight King is a coterie of favoured praetorians, champions and housecarls: the Barrow Guard.",
+  "spearhead_name": "Deathrattle Tomb Host"
+ },
+ {
+  "faction": "Soulblight Gravelords",
+  "faction_slug": "soulblight-gravelords",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Deathrattle Tomb Host > Warscrolls",
+  "text": "WARSCROLL • Barrow Guard 4\" 1 4+ 1 6+ Surrounding a Wight King is a coterie of favoured praetorians, champions and housecarls: the Barrow Guard. These are the elite footsoldiers of the Deathrattle legions, imbued with memories of loyalties pledged and oaths of eternal service. Some favour the traditional sword and shield of a monarch’s bodyguard, while others swing huge two-handed blades to carve foes in twain. • SPEARHEAD WARSCROLL • Barrow Guard MELEE WEAPONS Atk Hit Wnd Rnd Dmg Wight Blade [ Crit (Mortal) ] Wight Blade Crit (Mortal) 2 4+ 3+ 1 1 Passive GUARDIANS OF THE KING : The Barrow Guard stand alongside the liege lord to whom they are bound. Effect: While your general is within this unit’s combat range , both this unit and your general have WARD ( 5+ ) . KEYWORDS INFANTRY , WARD ( 6+ ) noindex /noindex noindex",
+  "spearhead_name": "Deathrattle Tomb Host"
+ }
+]

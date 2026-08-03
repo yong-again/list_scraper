@@ -1,0 +1,256 @@
+[
+ {
+  "faction": "Sons of Behemat",
+  "faction_slug": "sons-of-behemat",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "",
+  "text": "/noindex Bellowing, stomping and crushing all before them, the Sons of Behemat are all but impossible to stop. Though they owe allegiance to no man, many are mercenaries, and fight all across the Mortal Realms. On the charge, a group of gargants can flatten a battleline whilst suffering only flesh wounds and the odd broken toe in return. This page contains all of the rules you need to field your Sons of Behemat miniatures on the battlefields of the Mortal Realms, from a host of exciting faction rules to a range of warscrolls. The rules are split into the following sections:"
+ },
+ {
+  "faction": "Sons of Behemat",
+  "faction_slug": "sons-of-behemat",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Designers’ Commentary > Faction Pack: Sons of Behemat",
+  "text": "Q: If a Scourge of Ghyran Kraken-eater Mega-Gargant is in reserve beneath the waves at the start of battle round 4, is it destroyed or are 6 damage points allocated to it? A: It is destroyed."
+ },
+ {
+  "faction": "Sons of Behemat",
+  "faction_slug": "sons-of-behemat",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Traits",
+  "text": "Sons of Behemat armies can use the following abilities: Passive TIMBERRRRR! : A dying gargant is a weapon of ruin in its own right, though it is anyone’s guess where their body will fall. Effect: Each time a friendly MEGA-GARGANT or GARGANT model is slain, before removing it from play, the players must roll off . The winner picks a point on the battlefield within 3\" of that model. Inflict D3 mortal damage on each unit (friendly and enemy) within 3\" of that point that has a lower Health characteristic than that model. Any Charge Phase GARGANT CHARGE : A charging gargant will flatten anyone in their path. Declare: Pick a friendly MEGA-GARGANT or GARGANT unit that charged this turn to use this ability, then pick an enemy unit that has not been picked as the target of this ability this turn and that is in combat with that unit to be the target. Effect: Inflict D3 mortal damage on the target. Designer’s Note: This ability can be used by any number of friendly MEGA-GARGANT and GARGANT units that charged in each turn. Once Per Turn (Army), Any Combat Phase EARTHSHAKING ROAR : A blast of this gargant’s hot, stinking breath delivered at volume bowls over those nearby. Declare: Pick a friendly MEGA-GARGANT or GARGANT unit that has not used a RAMPAGE ability this turn to use this ability, then pick an enemy unit in combat with it to be the target. Effect: Roll a dice. On a 3+, the target cannot use commands for the rest of the turn. KEYWORDS RAMPAGE Once Per Turn (Army), Any Combat Phase COLOSSAL SLAM : The Mega-Gargant hoicks the foe over their shoulder and slams them full force into the ground."
+ },
+ {
+  "faction": "Sons of Behemat",
+  "faction_slug": "sons-of-behemat",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Traits",
+  "text": "Once Per Turn (Army), Any Combat Phase COLOSSAL SLAM : The Mega-Gargant hoicks the foe over their shoulder and slams them full force into the ground. Declare: Pick a friendly MEGA-GARGANT that has not used a RAMPAGE ability this turn to use this ability, then pick an enemy MONSTER or WAR MACHINE that has a unit size of 1 and is within 1\" of it to be the target. Effect: Roll a dice. On a 3+, remove the target from the battlefield and set it up again within 1\" of the unit using this ability. Then, inflict D3 mortal damage on the target. KEYWORDS RAMPAGE Once Per Turn (Army), Any Combat Phase JUMP UP AND DOWN : A gargant’s massive, stomping feet are devastating against smaller opponents. Declare: Pick a friendly MEGA-GARGANT or GARGANT unit that has not used a RAMPAGE ability this turn to use this ability, then pick an enemy INFANTRY unit in combat with it to be the target. Effect: Roll a dice. On a 3+, roll a dice for each model in the target unit. If the unit using this ability is a GARGANT , inflict 1 mortal damage on the target for each 6. If it is a MEGA-GARGANT , inflict 1 mortal damage on the target for each 5+. KEYWORDS RAMPAGE"
+ },
+ {
+  "faction": "Sons of Behemat",
+  "faction_slug": "sons-of-behemat",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations",
+  "text": "You can pick 1 of the following battle formations for a Sons of Behemat army. Each battle formation grants a different ability you can use in the battle. BATTLE PROFILE Name Points Taker Tribe 0 Breaker Tribe 0 Boss Tribe 0 Stomper Tribe 0 Manskittle Mob 0 Big Toes 0"
+ },
+ {
+  "faction": "Sons of Behemat",
+  "faction_slug": "sons-of-behemat",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Taker Tribe",
+  "text": "Once Per Battle, Deployment Phase MORE STUFF FOR ME COLLECTION : These gargants are avaricious hoarders who love collecting all kinds of baubles and artefacts – even ones that are too small for them to use. Declare: Pick a friendly non- UNIQUE SONS OF BEHEMAT HERO that does not have an artefact of power. Effect: Give that HERO 1 artefact of power from ‘ Titanic Trophies ’. Designer’s Note: This artefact of power is given to the unit during the deployment phase , not during army composition ."
+ },
+ {
+  "faction": "Sons of Behemat",
+  "faction_slug": "sons-of-behemat",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Breaker Tribe",
+  "text": "Passive BESIEGING BULK : When a group of Mega-Gargants take to battle together, they are able to use each other’s enormous bulk to shelter themselves from harm. Effect: Friendly MEGA-GARGANTS have WARD ( 6+ ) while they are within the combat ranges of any other friendly MEGA-GARGANTS ."
+ },
+ {
+  "faction": "Sons of Behemat",
+  "faction_slug": "sons-of-behemat",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Boss Tribe",
+  "text": "Once Per Turn (Army), Reaction: You declared a FIGHT ability for a friendly MEGA-GARGANT BIG MOUTH : Mancrusher Gargants are used to being bossed around by the colossal Mega-Gargants. The orders they are given usually boil down to ‘hit that thing’ or ‘squish them ones there’. Used By: MEGA-GARGANT using that FIGHT ability. Effect: Pick a friendly GARGANT unit that has not used a FIGHT ability this turn and is wholly within 12\" of this unit to be the target. The target can be picked to use a FIGHT ability immediately after the FIGHT ability used by this unit has been resolved."
+ },
+ {
+  "faction": "Sons of Behemat",
+  "faction_slug": "sons-of-behemat",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Stomper Tribe",
+  "text": "Passive REVEL IN WAR : These boisterous gargants launch themselves into enemy lines, revelling in crushing the puny pipsqueaks below their feet. Effect: You can pick 2 friendly MEGA-GARGANTS or GARGANT units that have not used a RAMPAGE ability this turn to use the ‘ Jump Up and Down ’ ability instead of 1."
+ },
+ {
+  "faction": "Sons of Behemat",
+  "faction_slug": "sons-of-behemat",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Manskittle Mob",
+  "text": "Once Per Turn (Army), Your Shooting Phase STRIKE! HUR HUR! : These gargants are particularly enthusiastic participants of the game of Manskittles: seeing how many pipsqueaks they can knock down or squish by hurling bits of the landscape... or its inhabitants. Declare: Pick up to 2 friendly MEGA-GARGANT units within 3\" of any terrain features and pick any friendly GARGANT units within 3\" of any terrain features to be the targets. Effect: Double the Attacks characteristic of each target’s ranged weapons for the rest of the turn. If the target has no ranged weapons, pick an enemy unit within 12\" of the target instead and roll a D3. On a 2+, inflict an amount of mortal damage on that enemy unit equal to the roll."
+ },
+ {
+  "faction": "Sons of Behemat",
+  "faction_slug": "sons-of-behemat",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Big Toes",
+  "text": "Once Per Battle, Deployment Phase LOFTY LOUTS : Whether because they insist that they are ‘just a bit taller’ or because they are simply insufferable bullies, these Mancrusher Gargants have an authority over the other Footsloggas that is close to absolute. So long as no one bigger is around, of course. Declare: Pick a friendly Mancrusher Gargant unit to be the target. Effect: For the rest of the battle, add 1 to hit rolls for combat attacks made by friendly GARGANT units while they are wholly within 12\" of the target and not wholly within 12\" of any friendly MEGA-GARGANT units."
+ },
+ {
+  "faction": "Sons of Behemat",
+  "faction_slug": "sons-of-behemat",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Heroic Traits > Big Personalities",
+  "text": "HERO only BATTLE PROFILE Name Points FURIOUS TEMPER 0 MONSTROUSLY TOUGH 0 RABBLE ROUSER 0 Once Per Battle, Any Combat Phase FURIOUS TEMPER : Nothing can stop this Mega-Gargant when the rage of battle clouds their mind. Effect: For the rest of the turn: Add 2 to the Attacks characteristic of this unit’s melee weapons. Subtract 1 from save rolls for this unit. Passive MONSTROUSLY TOUGH : This MegaGargant is incredibly hard to kill. Effect: This unit has a Health characteristic of 40 instead of 35. Passive RABBLE ROUSER : This Mega-Gargant bellows at their kin to race forward and pummel the enemy into the dust. Effect: Add 1 to charge rolls for friendly SONS OF BEHEMAT units while they are wholly within 12\" of this unit."
+ },
+ {
+  "faction": "Sons of Behemat",
+  "faction_slug": "sons-of-behemat",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Heroic Traits > Big Personalities",
+  "text": "HERO only BATTLE PROFILE Name Points GRABBY 0 TERRIFYING HULK 0 MEGA-GRUMP 0 Passive GRABBY : If you have something this gargant wants, you won’t have it for long. Effect: Add 1 to hit rolls for this unit’s combat attacks that target an enemy unit contesting an objective you do not control . Once Per Turn, Reaction: Your opponent declared a CHARGE ability for a visible non- MONSTER enemy unit within 12\" of this unit TERRIFYING HULK : As the enemy rushes forward, a raised eyebrow and an even bigger raised club causes them to seriously re-think the choices that brought them to confront this notably fierce-looking example of gargant kind. Effect: If this unit is not in combat , roll a dice. On a 3+, you can change one of the dice in that charge roll to a 1. Passive MEGA-GRUMP : This gargant’s stubbornness and refusal to die in the face of adversity is the subject of local legend. Effect: This unit has WARD ( 5+ ) while it has 25 or more damage points."
+ },
+ {
+  "faction": "Sons of Behemat",
+  "faction_slug": "sons-of-behemat",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Artefacts of Power > Titanic Trophies",
+  "text": "HERO only BATTLE PROFILE Name Points AMBERBONE TOTEM 0 GLOWY LANTERN 0 MANTLE OF TUSK AND HORNS 10 EXTRA-CALLOUSED FEET 10 GLOWY SHIELD OF PROTECTINESS 0 KINGSLAUGHTER COWL 0 Once Per Battle, Your Charge Phase AMBERBONE TOTEM : Somewhere along the way, this gargant has picked up a totem of Ghurish realmstone. No matter how long they run for, the urge to hunt burns within them. Effect: For the rest of the turn, this unit can use CHARGE abilities even if it used a RUN ability in the same turn. Passive GLOWY LANTERN : Stolen from the aelves of Hysh after a botched alliance, this aetherquartz jar was at first carried around just because it was shiny; however, over time, it has granted this Mega-Gargant an innate power over malign sorceries. Effect: This unit can use SUMMON abilities from the manifestation lore you picked during army composition as if it had WIZARD ( 1 ) . Once Per Battle, Your Combat Phase MANTLE OF TUSK AND HORNS : Trophies taken from slain behemoths adorn the shoulders of this gargant, and through them they can channel the power of the Waaagh!. Effect: For the rest of the turn, add 1 to hit rolls for combat attacks made by friendly SONS OF BEHEMAT units while they are wholly within 12\" of this unit. Passive EXTRA-CALLOUSED FEET : This gargant has become so used to stomping on even the toughest enemies that their feet are legendary weapons in their own right. Effect: Add 1 to the Attacks characteristic, Rend characteristic and Damage characteristic of this unit’s Almighty Stomp or Almightier Stomp . Passive GLOWY SHIELD OF PROTECTINESS : While raiding a lair belonging to the ratty pipsqueaks, this gargant found a shield studded with sickly green rock – and promptly strapped it to their body."
+ },
+ {
+  "faction": "Sons of Behemat",
+  "faction_slug": "sons-of-behemat",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Artefacts of Power > Titanic Trophies",
+  "text": "a lair belonging to the ratty pipsqueaks, this gargant found a shield studded with sickly green rock – and promptly strapped it to their body. Enemies who get close sometimes have their heads explode, which is always good for a laugh. Effect: Each time you make an unmodified save roll of 6 for a combat attack that targets this unit, inflict 1 mortal damage on the attacking unit after the FIGHT ability has been resolved. Passive KINGSLAUGHTER COWL : Those who wear this blood-encrusted leather hood make it their business to crush upstart monarchs and warlords across the realms. Effect: Add 1 to the Attacks characteristic of this unit’s melee weapons while this unit is in combat with an enemy HERO ."
+ },
+ {
+  "faction": "Sons of Behemat",
+  "faction_slug": "sons-of-behemat",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Prayer Lore",
+  "text": "BATTLE PROFILE Name Points Brodd’s Bellows 0"
+ },
+ {
+  "faction": "Sons of Behemat",
+  "faction_slug": "sons-of-behemat",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Prayer Lore > Brodd’s Bellows",
+  "text": "Your Hero Phase 3 ROCK BOTTOM : The priest dulls the gargants’ already monumentally low intelligence, turning them into primal beasts that cannot feel pain. Declare: Pick a friendly SONS OF BEHEMAT PRIEST to chant this prayer, pick a visible friendly SONS OF BEHEMAT unit wholly within 12\" of them to be the target, then make a chanting roll of D6. Effect: If the chanting roll was 6+, you can pick another eligible unit to be a second target. Until the start of your next turn: Ignore the effects of the ‘Battle Damaged’ ability on each target. Each target has WARD ( 6+ ) . KEYWORDS PRAYER, UNLIMITED Your Hero Phase 4 THE TERRIBLE TOES : Yelling incomprehensibly, the priest jumps up and down. Nearby, enemies are squashed flat by invisible forces that leave massive footprints in the ground. Declare: Pick a friendly SONS OF BEHEMAT PRIEST to chant this prayer, pick a visible enemy unit within 18\" of them to be the target, then make a chanting roll of D6. Effect: Roll a dice for each model in the target unit. If the chanting roll was 8+, add 1 to the roll. For each 6+, inflict 1 mortal damage on the target. Then, if any enemy models are slain by this ability, halve the target’s Move characteristic until the start of your next turn. KEYWORDS PRAYER Your Hero Phase 5 VOCAL TECTONICS : As the priest hums a single, low note, the earth shakes and buckles around them, staggering nearby enemies. Declare: Pick a friendly SONS OF BEHEMAT PRIEST to chant this prayer, pick a visible enemy unit within 12\" of them to be the target, then make a chanting roll of D6. Effect: If the chanting roll was 10+, you can pick another eligible unit to be a second target. Until the start of your next turn, each target has STRIKE-LAST . KEYWORDS PRAYER"
+ },
+ {
+  "faction": "Sons of Behemat",
+  "faction_slug": "sons-of-behemat",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Cracked Heels",
+  "text": "Cracked Heels are unique enhancements that can be given to Mancrusher Gargants . A unit can only have 1 Cracked Heel. BATTLE PROFILE Name Points That Boy’s not Right 10 Up for It 10 Always on Guard 10 Your Hero Phase THAT BOY’S NOT RIGHT : This gargant is just plain barmy. They bellow at rocks, flap their arms like a bird and do weird little dances, all to the amusement of their bigger cousins. When the spirit of Behemat appears to answer such seemingly inane antics, that laughter is usually cut short. Effect: Roll a dice. On a 5+, this unit can use a PRAYER ability from the prayer lore you picked during army composition as if it had PRIEST ( 1 ) . Instead of making a chanting roll for that prayer, the chanting roll is 5 and cannot be modified. Passive UP FOR IT : This gargant is loud, rowdy and absolutely ready to dish out some serious damage. Effect: This unit’s melee weapons have Charge (+1 Damage) . Passive ALWAYS ON GUARD : This gargant is especially wary around their biggers and betters, for they are always expecting a quick clip on the ear from their surly bosses. Effect: This unit has WARD ( 5+ ) while it is wholly within 12\" of and visible to a friendly MEGA-GARGANT . Army of Renown"
+ },
+ {
+  "faction": "Sons of Behemat",
+  "faction_slug": "sons-of-behemat",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "King Brodd’s Stomp",
+  "text": "When you pick the Sons of Behemat faction for your army, you can choose for it to be a King Brodd’s Stomp Army of Renown . If you do so, use the faction rules on these pages instead of the Sons of Behemat faction rules. Every unit in your army must be drawn from the units listed in the roster options box below. All units in your army gain the BRODD’S STOMP keyword. ROSTER OPTIONS King Brodd (must be included and must be your general ) GARGANT units You cannot include Regiments of Renown MEGA-GARGANT units"
+ },
+ {
+  "faction": "Sons of Behemat",
+  "faction_slug": "sons-of-behemat",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "King Brodd’s Stomp > Battle Traits",
+  "text": "Passive TIMBERRRRR! : A dying gargant is a weapon of ruin in its own right, though it is anyone’s guess where their body will fall. Effect: Each time a friendly MEGA‐GARGANT or GARGANT model is slain, before removing it from play, the players must roll off . The winner picks a point on the battlefield within 3\" of that model. Inflict D3 mortal damage on each unit (friendly and enemy) within 3\" of that point that has a lower Health characteristic than that model. Passive THE WORLD TITAN’S PROPHET : Brodd is a living legend amongst his towering kin, the only being in existence they would risk themselves to protect. Effect: While any other friendly BRODD’S STOMP units are within a friendly King Brodd's combat range : That friendly King Brodd has WARD ( 5+ ) . Each time you make a successful ward roll for that friendly King Brodd , allocate 1 damage point to another friendly BRODD’S STOMP unit within its combat range after the damage sequence for that friendly King Brodd has been resolved (ward rolls cannot be made for those damage points). Once Per Turn (Army), Any Shooting Phase SMASH IT ALL TO BITS : As part of his crusade of vengeance against Sigmar, Brodd has charged his gargants with the complete destruction of any settlement, outpost or inhabited terrain that they come across on their march. Declare: Pick a friendly MEGA-GARGANT that has not used a RAMPAGE ability this turn to use this ability, then pick a terrain feature within its combat range . Then, pick a visible enemy unit within 18\" of that MEGA-GARGANT to be the target. Effect: Roll a D3 for each friendly and enemy unit on the terrain feature that was picked. On a 2+, inflict an amount of mortal damage on that unit equal to the roll. After rolling for all those units, roll a dice."
+ },
+ {
+  "faction": "Sons of Behemat",
+  "faction_slug": "sons-of-behemat",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "King Brodd’s Stomp > Battle Traits",
+  "text": "On a 2+, inflict an amount of mortal damage on that unit equal to the roll. After rolling for all those units, roll a dice. On a 3+, inflict an amount of mortal damage on the target equal to the roll. KEYWORDS RAMPAGE Once Per Battle (Army), Your Charge Phase WRATH OF BRODD : When Brodd’s faithful stride into the fray, the mountains themselves tremble in terror. Declare: Pick a friendly MEGA-GARGANT that has not used a RAMPAGE ability this turn to use this ability. Effect: If the unit using this ability charged this turn, roll a dice. On a 3+, that unit can move 3D6\" but must end that move in combat. KEYWORDS RAMPAGE Once Per Turn (Army), Any Combat Phase CRAFTY CREEPERS : These mischievous critters scrabble down the limbs of their massive host when the enemy is near, pilfering the valuables of the foe. Declare: Pick a friendly MEGA-GARGANT that has not used a RAMPAGE ability this turn to use this ability. Then, pick an enemy HERO that has an artefact of power and is in combat with that MEGA-GARGANT to be the target. Effect: Roll a dice. On a 3+, the target no longer has that artefact of power. KEYWORDS RAMPAGE Once Per Turn (Army), Any Combat Phase DOUBLE STOMP : It is quite a sight to see a Mega-Gargant perform a precarious hop, bringing both enormous feet down with enough force to squash a Steam Tank flat. Declare: Pick a friendly MEGA-GARGANT that has not used a RAMPAGE ability this turn to use this ability. Effect: Roll a D6. On a 3+, for the rest of the turn, add the result to the Attacks characteristic of the Almighty Stomp or Almightier Stomp of the unit using this ability."
+ },
+ {
+  "faction": "Sons of Behemat",
+  "faction_slug": "sons-of-behemat",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "King Brodd’s Stomp > Battle Traits",
+  "text": "3+, for the rest of the turn, add the result to the Attacks characteristic of the Almighty Stomp or Almightier Stomp of the unit using this ability. KEYWORDS RAMPAGE Once Per Turn (Army), Any Combat Phase WATCH THIS! : Eager to prove themself the meanest titan around, this Mega-Gargant embarks on an ungainly – yet terrifyingly destructive – rampage. Declare: Pick a friendly MEGA-GARGANT that has not used a RAMPAGE ability this turn to use this ability, then pick an enemy unit in combat with it to be the target. Effect: If the target is a HERO , BEAST , MONSTER or WAR MACHINE , roll 6 dice. Otherwise, roll a dice for each model in the target unit. For each roll that is equal to or greater than the target’s Save characteristic, inflict 1 mortal damage on the target. The MEGA-GARGANT using this RAMPAGE has STRIKE-LAST for the rest of the turn. KEYWORDS RAMPAGE"
+ },
+ {
+  "faction": "Sons of Behemat",
+  "faction_slug": "sons-of-behemat",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "King Brodd’s Stomp > Heroic Traits",
+  "text": "HERO only Once Per Battle (Army), Reaction: You declared the ‘Wrath of Brodd’ ability for a friendly unit I CAN DO THAT BETTER : King Brodd can outmatch and overpower even the most belligerent gargants in his Stomp, proving himself the biggest bully around. Effect: This unit can use the ‘ Wrath of Brodd ’ ability immediately after the ‘Wrath of Brodd’ ability used by the other friendly unit has been resolved. This unit can do so even if it has used another RAMPAGE ability this turn."
+ },
+ {
+  "faction": "Sons of Behemat",
+  "faction_slug": "sons-of-behemat",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "King Brodd’s Stomp > Artefacts of Power",
+  "text": "HERO only Passive LUCKY SHINY HAT : Torn from the head of a defeated aelven lord – and barely large enough to be noticed – this tiny helmet somehow provides its bearer with mystical protection. Effect: This unit has WARD ( 4+ ) against damage points inflicted by SPELL and PRAYER abilities and by abilities used by MANIFESTATIONS ."
+ },
+ {
+  "faction": "Sons of Behemat",
+  "faction_slug": "sons-of-behemat",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "King Brodd’s Stomp > Prayer Lore",
+  "text": "Your Hero Phase 4 HIGH EXPECTATIONS : In an effort to sort the weak from the strong among his stomp, this Mega‑Gargant encourages his followers to match their strength by seeing how much destruction they can wreak with their bare hands. Declare: Pick a friendly BRODD’S STOMP PRIEST to chant this prayer, then make a chanting roll of D6. Effect: Until the start of your next turn, add 1 to the Attacks characteristic of melee weapons used by friendly BRODD’S STOMP units while they are wholly within 12\" of the chanter. If the chanting roll was 9+, add 2 to the Attacks characteristic instead. KEYWORDS PRAYER"
+ },
+ {
+  "faction": "Sons of Behemat",
+  "faction_slug": "sons-of-behemat",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Wallsmasher Stomp",
+  "text": "The towering progeny of the godbeast Behemat do not travel in great numbers. The more gargants, the less food, which is unacceptable to these lazy but highly destructive braggarts. Those who do roam with company form rough hierarchies known as ‘stomps’, bossed around by the biggest and strongest Mega-Gargant within their territory. On occasion, tired of living under the heel of their boss, some Mancrusher Gargants will break away to claim their own territories. Accompanied by a couple of their best lackeys, they head off into the hills in search of food – or to find some humie settlement to smash into bits. Gargants fight with little finesse or strategy, but their large size means they can simply overpower their foes regardless. One swing of their mammoth clubs or leathery feet can knock down walls or crumple a line of pike-wielding ‘pipsqueaks’. If their tiny foes scurry around out of reach, the gargant needs only to scoop up a great boulder to hurl and splatter them like bugs. Most gargants bear some kind of sack for carrying such delicacies around, as well as souvenirs to brag of their battle prowess. As the Mancrushers are of similar stature, competitions often erupt as to who can crush the most enemies. Some smaller stomps change leadership regularly based on such rowdy contests. This Spearhead army consists of the following units: General Mancrusher Gargant Units 1 Mancrusher Gargant 1 Mancrusher Gargant",
+  "spearhead_name": "Wallsmasher Stomp"
+ },
+ {
+  "faction": "Sons of Behemat",
+  "faction_slug": "sons-of-behemat",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Wallsmasher Stomp > Battle Traits",
+  "text": "BULLSTOMPER Mancrusher Mobs are led by fearsome gargants known as Bullstompers. Your general has the HERO keyword (in addition to the MONSTER keyword) but does not have the REINFORCEMENTS keyword or icon. Any Combat Phase BELLOWING ROAR : An ear-splitting bellow let loose by a Mancrusher can send the enemy battleline into disarray. Declare: Pick a friendly unit to use this ability, pick an enemy unit in combat with it to be the target, then roll a dice. Effect: On a 2+, subtract 1 from hit rolls for attacks made by the target unit this phase. Your Hero Phase 'GRAB THOSE ROCKS AND CHUCK 'EM!' : Your general commands their fellow gargants to hurl as many rocks at the enemy as they can. Declare: Pick your general to use this ability, then pick another friendly unit wholly within 12\" of them. Effect: Add 1 to the Attacks characteristic of that unit’s Throwin’ Rocks this turn.",
+  "spearhead_name": "Wallsmasher Stomp"
+ },
+ {
+  "faction": "Sons of Behemat",
+  "faction_slug": "sons-of-behemat",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Wallsmasher Stomp > Regiment Abilities",
+  "text": "Pick 1 of the following regiment abilities. Passive FOE-CHOMPERS : The Mancrushers hoist hapless enemies up into the air mid-battle, letting them tumble into their cavernous jaws before giving a mighty belch of satisfaction. Effect: Each time an enemy model is slain by a friendly unit’s ‘Stuff ’Em In Me Bag’ ability, Heal (D3) that unit. Once Per Phase (Army), Any Charge Phase EARTH-SHAKING CHARGE : The ground shakes as the colossal gargants charge head-first into the fray. Declare: Pick a friendly unit that charged this phase to use this ability, then roll a dice for each enemy unit in combat with it. Effect: On a 3+, that enemy unit has STRIKE-LAST this turn.",
+  "spearhead_name": "Wallsmasher Stomp"
+ },
+ {
+  "faction": "Sons of Behemat",
+  "faction_slug": "sons-of-behemat",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Wallsmasher Stomp > Enhancements",
+  "text": "Give your general 1 of the following enhancements. Passive MONSTROUSLY TOUGH : This greedy gargant always takes the juiciest spoils of battle and has an impressive gut as a result. Effect: Your general has a Health characteristic of 15 instead of 12. Passive LANKY GIT : This long-legged gargant strides across the battlefield at a frightening pace. Effect: When you make a charge roll for your general, roll 3D6 instead of 2D6. Passive EXTRA-BIG BAG : Made from the tattered remains of enemy banners, even more screaming warriors can be stuffed into this large and garish bag. Effect: When your general uses their ‘Stuff ’Em In Me Bag’ ability, you can pick 2 enemy units instead of 1 (roll for each). Passive FURIOUSLY TERRITORIAL : Nothing infuriates this gargant more than pipsqueaks laying claim to the lands around them. Effect: Add 1 to hit rolls for attacks made by your general that target an enemy unit that is contesting an objective you do not control .",
+  "spearhead_name": "Wallsmasher Stomp"
+ },
+ {
+  "faction": "Sons of Behemat",
+  "faction_slug": "sons-of-behemat",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Wallsmasher Stomp > Warscrolls",
+  "text": "• SPEARHEAD WARSCROLL • Mancrusher Gargant 8\" 12 5+ 10 When the earth shakes to the thunder of gargant footfalls, the Mancrushers muster for war. No longer are they aimless nomads and indulgent drunkards; now they are war-hungry terrors inspired to violence. Driven by the promise of claiming their own territories and with dreams of growing to the size of their towering kin, the Mega-Gargants, they seek out fights of spectacular violence. Though they fight primarily with hurled boulders and tree-trunk sized clubs, they are not averse to grabbing up their enemies in great meaty fists and stuffing them into a bag for later consumption. Even in death they can be lethal – more than one hero of the realms has been crushed by the toppling corpse of the very gargant they slew moments before. • SPEARHEAD WARSCROLL • Mancrusher Gargant RANGED WEAPONS Rng Atk Hit Wnd Rnd Dmg Throwin’ Rocks Throwin’ Rocks 12\" 1 5+ 2+ 2 D3 MELEE WEAPONS Atk Hit Wnd Rnd Dmg Massive Club Massive Club 4 4+ 2+ 1 2 'Eadbutt 'Eadbutt 1 4+ 2+ 2 4 Mighty Kick Mighty Kick 1 4+ 2+ 2 D3 Any Combat Phase STUFF 'EM IN ME BAG : Gargants are known to grab hapless warriors and stuff them screaming into their bags ‘for later’… Declare: Pick an enemy unit in combat with this unit to be the target, then roll a dice. Effect: If the roll is at least double the target unit’s Health characteristic, 1 model in that unit is slain. Passive TIMBER! : A dying gargant is a weapon of ruin in its own right, though it is anyone’s guess where – and on whom – their body will fall. Effect: If this model is slain, before removing it from the battlefield, the players must roll off . The winner picks a point on the battlefield up to 3\" from this model. Inflict D3 mortal damage on each enemy unit within 2\" of that point.",
+  "spearhead_name": "Wallsmasher Stomp"
+ },
+ {
+  "faction": "Sons of Behemat",
+  "faction_slug": "sons-of-behemat",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Wallsmasher Stomp > Warscrolls",
+  "text": "The winner picks a point on the battlefield up to 3\" from this model. Inflict D3 mortal damage on each enemy unit within 2\" of that point. This model is then removed from the battlefield. KEYWORDS MONSTER , REINFORCEMENTS noindex /noindex noindex",
+  "spearhead_name": "Wallsmasher Stomp"
+ }
+]

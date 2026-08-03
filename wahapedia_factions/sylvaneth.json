@@ -1,0 +1,472 @@
+[
+ {
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "",
+  "text": "/noindex They are the watchers in the wood, the gale that howls through forest canopies. They are the fury of the wild places. As changeable as the weather, as merciless as nature itself, they are the Sylvaneth, vengeful forest spirits of terrifying power, and to any who enter their lands unbidden, they are death. This page contains all of the rules you need to field your Sylvaneth miniatures on the battlefields of the Mortal Realms, from a host of exciting faction rules to a range of warscrolls. The rules are split into the following sections:"
+ },
+ {
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Designers’ Commentary > Battletome: Sylvaneth",
+  "text": "Q: What units can be replaced with Alarielle’s ‘The Goddess of Life’ ability? A: Only Alarielle. Q: `How many models are in a Kurnoth Hunters unit that has been replaced using the ‘Awaken Slumbering Spirits’ ability? A: One. Q: When using the ‘ Fury of the Forest ’ ability, can you pick a friendly unit that is in combat with an enemy unit and an enemy manifestation or faction terrain? A: Yes. Q: Does a Soulpod Grove terrain feature in the Soulpod Guardians Army of Renown still count as an Awakened Wyldwood ? A: Yes. It uses the Awakened Wyldwood warscroll and counts as a single Awakened Wyldwood for abilities. Q: Is a unit considered to be wholly within the creeping overgrowth if it is not wholly within the range of a single terrain feature with an overgrown token, but it is wholly within overlapping ranges of multiple different terrain features with overgrown tokens? A: Yes."
+ },
+ {
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Traits",
+  "text": "Sylvaneth armies can use the following abilities: Passive THE CREEPING OVERGROWTH : As children of Ghyran, the Sylvaneth are redolent with the energies of life, which cause the ambient flora to rapidly grow and spread. Effect: The creeping overgrowth is measured from each terrain feature that has a friendly overgrown token . The range of the creeping overgrowth is based on the number of friendly overgrown tokens on the battlefield as shown: Overgrown Tokens Creeping Overgrowth Range 0-2 6\" 3-5 9\" 6-8 12\" 9+ Whole battlefield Designer’s Note: Awakened Wyldwoods are your main way of generating overgrown tokens. Some unit abilities allow you to do so too. Enemy Combat Phase 1 FURY OF THE FOREST : The Sylvaneth are overcome with rage at the presence of interlopers in their sacred forest homes. Declare: Pick a friendly SYLVANETH unit wholly within the creeping overgrowth and that is in combat with only 1 enemy unit to use this ability. Effect: The unit using this ability has STRIKE-FIRST for the rest of the turn. End of Your Turn 1 THE LAND AWAKENS : The spirit-song thrums with strident aggression and the shrill lamentations of the fallen, rousing dormant forest spirits in the vicinity and drawing them to battle. Declare: Pick a friendly non- HERO REVENANT INFANTRY unit or friendly Dryads unit that has been destroyed to be the target. Effect: Set up a replacement unit with half the number of models from the target unit (rounding up) wholly within the creeping overgrowth and more than 9\" from all enemy units. Once Per Turn (Army), End of Any Turn ENDLESS GROWTH : As the land itself is roused to wrath, life energies bloom and surge, filling the Sylvaneth with renewed vigour."
+ },
+ {
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Traits",
+  "text": "End of Any Turn ENDLESS GROWTH : As the land itself is roused to wrath, life energies bloom and surge, filling the Sylvaneth with renewed vigour. Declare: Pick each friendly SYLVANETH unit that is wholly within the creeping overgrowth to be the targets. Effect: For each target, roll a D3 and pick 1 of the following effects: Heal (X) the target, where X is equal to the roll. Return a number of slain models to it with a combined Health characteristic of up to the value of the roll. Once Per Turn (Army), Your Hero Phase RECLAIMED BY NATURE : In twisting profusions of unfurling branches, shivering leaves and billowing pollen, trees that would normally take many cycles to reach maturity attain their full, bountiful potential in mere moments. Effect: If there are fewer than 3 friendly Awakened Wyldwoods on the battlefield, you can set up an Awakened Wyldwood on the battlefield more than 3\" from all objectives and enemy units, more than 12\" from all other friendly Awakened Wyldwoods and more than 1\" from all other terrain features . Once Per Turn (Army), Start of Any Turn CREEPING DREAD : The creaking of the trees and the oppressive hum of the spirit-song in their subconscious makes the enemy jumpy and distracted, causing them to hesitate and second- guess orders in the absence of clear leadership. Declare: Pick an enemy unit within the creeping overgrowth to be the target. Effect: For the rest of the turn, the first time your opponent declares a command for the target while it is not wholly within 12\" of a HERO in their army, unless your opponent spends 1 additional command point to use that command, the command has no effect, it still counts as being used and the command points spent to use the command are still lost."
+ },
+ {
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations",
+  "text": "You can pick 1 of the following battle formations for a Sylvaneth army. Each battle formation grants a different ability you can use in the battle. BATTLE PROFILE Name Points Outcasts 0 Followers of Kurnoth 0 Lords of the Clan 0 Glade Defenders 0 Wargrove of the Burgeoning 0 Wargrove of Everdusk 0"
+ },
+ {
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Outcasts",
+  "text": "Passive FEAR OF THE DEEPWOODS : The flitting shadows of lurking spites and the cruel laughter of these malicious Sylvaneth instil paranoia in the enemy; clearly they are not welcome in this place. Effect: In the ‘ Creeping Dread ’ ability, replace ‘while it is not wholly within 12\" of a HERO in their army’ with ‘while it is not wholly within 6\" of a HERO in their army’."
+ },
+ {
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Followers of Kurnoth",
+  "text": "Once Per Turn (Army), Your Hero Phase SACRED QUARRY : There can be no hunt without a quarry. Once the followers of Kurnoth have marked the enemy’s commander, they will stop at nothing until its blood stains their spears and claws. Declare: Pick a friendly SYLVANETH unit to be the target. Effect: Until the start of your next turn, add 1 to hit rolls for the target’s attacks while it is wholly within 12\" of the enemy general or an enemy WARMASTER ."
+ },
+ {
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Lords of the Clan",
+  "text": "Passive NATURE’S TITANS : The eldest beings of the glades are so saturated with the life-giving magic of Ghyran that their wounds swiftly gum up with sticky sap and seal over with knotted barkflesh. Effect: When using the ‘ Endless Growth ’ ability, do not roll a D3 for MONSTER targets. Instead, Heal (3) each of those targets."
+ },
+ {
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Glade Defenders",
+  "text": "Once Per Turn (Army), Any Hero Phase MEMORIES OF THE FALLEN : As the spirit-song resounds with the memories of the recently slain, the Sylvaneth are driven to a vengeful fury. Declare: For each friendly SYLVANETH unit or friendly Awakened Wyldwood that was destroyed in the previous turn, you can pick a friendly SYLVANETH unit to be a target. Effect: Add 1 to the Attacks characteristic of each target’s melee weapons for the rest of the turn."
+ },
+ {
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Wargrove of the Burgeoning",
+  "text": "Once Per Turn (Army), End of Your Turn WALK THE HIDDEN PATHS : Sylvaneth can draw upon the magic of the Wyldwoods to open hidden passageways across the battlefield. Declare: Pick a friendly SYLVANETH unit wholly within 12\" of a friendly Awakened Wyldwood to be the target. Effect: Remove the target from the battlefield and set it up again wholly within 12\" of another friendly Awakened Wyldwood and more than 9\" from all enemies."
+ },
+ {
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Wargrove of Everdusk",
+  "text": "Passive SPITEFUL DUSK : Within the creeping darkness of Everdusk lurk hate-filled spites that seek every opportunity to hinder the foe’s efforts to coordinate their attack. Effect: The first time each phase an enemy unit within the creeping overgrowth uses a command , inflict D3 mortal damage on that unit after that command has been resolved. If that command was a reaction, instead inflict D3 mortal damage on that unit after the ability that command was a reaction to has been resolved."
+ },
+ {
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Heroic Traits > Aspects of Renewal",
+  "text": "HERO only BATTLE PROFILE Name Points SPIRIT OF THE DARK FOREST 0 SPELLSINGER 0 REALMROOT GUIDE 0 Once Per Battle, Enemy Hero Phase SPIRIT OF THE DARK FOREST : This Sylvaneth’s grim aspect strikes atavistic terror into those who meet its gaze. Declare: Pick a visible enemy HERO to be the target. Effect: Halve the target’s Move characteristic for the rest of the turn. Passive SPELLSINGER : The magical motes of the realms are drawn to this champion like pollinating insects, enhancing their arcane aptitude. Effect: If this unit is a WIZARD , add 1 to casting rolls for this unit. If this unit is not a WIZARD , it can use the ‘ Unbind ’ ability as if it had WIZARD ( 1 ) . Once Per Battle, Your Movement Phase REALMROOT GUIDE : The spirit paths offer swift egress to this realms-wise Sylvaneth, who has an intricate knowledge of their wending ways. Declare: This unit can only use this ability if it is wholly within the creeping overgrowth . Pick this unit and up to 1 other friendly SYLVANETH unit within this unit’s combat range to be the targets. Effect: Remove the targets from the battlefield and set them up again wholly within the creeping overgrowth and more than 9\" from all enemy units."
+ },
+ {
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Artefacts of Power > Relics of Nature",
+  "text": "HERO only BATTLE PROFILE Name Points SEED OF REBIRTH 0 AMBERGLADE NECTAR 0 WYCHWOOD GLAIVE 0 Passive SEED OF REBIRTH : Should the bearer of this seed ever fall, its rejuvenating energies will grant them new life. Effect: The first time this unit would be destroyed, before removing it from play, roll a dice. On a 3+, this unit is not destroyed and any remaining damage points inflicted on it have no effect. Then, Heal (D3) this unit. Once Per Battle, Any Combat Phase AMBERGLADE NECTAR : Collected from the fearsome elder trees of Ghur, the scent of this sticky sap sends spites into a feral frenzy. Declare: Pick a visible enemy unit within 6\" of this unit to be the target. Effect: For the rest of the turn, add 1 to the Damage characteristic of Companion weapons used by friendly SYLVANETH units for attacks that target that enemy unit. End of Any Turn WYCHWOOD GLAIVE : The blade of this polearm, which glows dully with the bleak white- grey of a snow-laden sky, inflicts a bone-deep chill on those it does not slay outright. Declare: Pick an enemy unit that had any damage points allocated to it by this unit’s combat attacks this turn to be the target. Effect: Subtract 1 from save rolls for the target for the rest of the battle. This unit can use this ability even if it has been destroyed."
+ },
+ {
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Artefacts of Power > Treasures of the Warglade",
+  "text": "HERO only BATTLE PROFILE Name Points GLAMOURWEAVE 0 ACORN OF THE AGES 0 RANU’S LAMENTIRI 0 Passive GLAMOURWEAVE : The Glamourweave’s illusory enchantments both enhance the wearer’s forest camouflage and conceal their strikes when battle is joined. Effect: Each phase, you can re-roll 1 hit roll , 1 wound roll and 1 save roll for this unit. Once Per Battle, Your Hero Phase ACORN OF THE AGES : Within this unassuming acorn lies untold potential for life. Effect: While they are wholly within 12\" of this unit, friendly Awakened Wyldwoods have WARD ( 5+ ) . Once Per Turn (Army), Reaction: Opponent declared a SPELL ability for a unit within 30\" of this unit RANU’S LAMENTIRI : Even in death, Ranu lends sorcerous strength to their kin. Effect: Make an unbinding roll of 2D6. If the roll exceeds the casting roll for the spell, the spell is unbound and its effect is not resolved. Then, inflict an amount of mortal damage on the caster equal to the difference between the casting roll and the unbinding roll, to a maximum of 6. KEYWORDS UNBIND"
+ },
+ {
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Artefacts of Power > Relics of Nature",
+  "text": "You can pick an artefact from this table instead of from other Artefacts of Power tables available to this faction HERO only BATTLE PROFILE Name Points DANCING MYSTIFLIES 0 GLAMOURWEAVE 20 AMULET OF RESONANCE 0 Reaction: Opponent declared a SPELL ability for an unit within 30\" of this unit DANCING MYSTIFLIES : Their abdomens aglow with jade magic, these spites flutter across the battlefield, intercepting and absorbing arcane outbursts. In areas redolent with life energies, they have power enough to twist these captured spells and fire them back at the caster Effect: If this unit is not a WIZARD , it can use the ‘ Unbind ’ ability as if it had WIZARD ( 1 ) . Otherwise, it can use the ‘Unbind’ ability an additional time each phase. If this unit successfully unbinds the spell being reacted to and the caster is within the creeping overgrowth , inflict an amount of mortal damage on the caster equal to the difference between the casting roll and the unbinding roll , to a maximum of 6. Passive GLAMOURWEAVE : The Glamourweave’s illusory enchantments both enhance the wearer’s forest camouflage and conceal their strikes when battle is joined. Effect: Each phase, you can re-roll 1 hit roll , 1 wound roll and 1 save roll for this unit. End of Any Turn AMULET OF RESONANCE : This charm serves to amplify the spirit-song, ensuring it cuts through even the most furious tumult of battle. Effect: If this unit used the ‘ Eruption of Fury ’ ability this turn or you spent rage dice as part of the ‘ Fight Through the Pain ’ ability when resolving the damage sequence for this unit this turn, give 1 ritual point to each visible friendly SYLVANETH PRIEST wholly within 12\" of this unit."
+ },
+ {
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Spell Lore",
+  "text": "BATTLE PROFILE Name Points Lore of the Deepwood 0"
+ },
+ {
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Spell Lore > Lore of the Deepwood",
+  "text": "Your Hero Phase 6 JADE THORNS : The caster enhances the blades and claws of the Sylvaneth and their spite companions with spectral thorns that rake flesh and cause horrific ragged wounds. Declare: Pick a friendly SYLVANETH WIZARD to cast this spell, pick a visible friendly SYLVANETH unit wholly within 12\" of them to be the target, then make a casting roll of 2D6. Effect: Add 1 to wound rolls for the target’s combat attacks for the rest of the turn, including attacks made with Companion weapons. KEYWORDS SPELL, UNLIMITED Your Hero Phase 6 ZEPHYRSPITE RUSH : The caster calls on a swarm of zephyrspites to carry their allies swiftly into battle. Declare: Pick a friendly SYLVANETH WIZARD to cast this spell, pick a visible friendly SYLVANETH unit wholly within 12\" of them to be the target, then make a casting roll of 2D6. Effect: For the rest of the turn, the target can use CHARGE abilities even if it used a RUN ability in the same turn. KEYWORDS SPELL Your Hero Phase 5 GRASPING ROOTS : The caster commands the undergrowth to bind and slow the enemy. Declare: Pick a friendly SYLVANETH WIZARD to cast this spell, pick a visible enemy unit within 18\" of them to be the target, then make a casting roll of 2D6. Effect: Until the start of your next turn: The target cannot use RUN abilities. Subtract 1 from charge rolls for the target. KEYWORDS SPELL"
+ },
+ {
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Manifestation Lore",
+  "text": "BATTLE PROFILE Name Points Manifestations of the Deepwood 0"
+ },
+ {
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Manifestation Lore > Manifestations of the Deepwood",
+  "text": "Your Hero Phase 6 SUMMON GLADEWYRM : The earth splits apart as a huge serpentine form heaves itself free of the earth, its eyes blazing with jade energy. Declare: If there is not a friendly Gladewyrm on the battlefield, pick a friendly SYLVANETH WIZARD to cast this spell, then make a casting roll of 2D6. Effect: Set up a Gladewyrm wholly within 12\" of the caster, visible to them and more than 9\" from all enemy units. KEYWORDS SPELL, SUMMON Your Hero Phase 6 SUMMON VENGEFUL SKULLROOT : From the shadows comes a nightmarish form: the wretched husk of a tortured tree, the skeletal remains of past victims tangled among its writhing root mass. Declare: If there is not a friendly Vengeful Skullroot on the battlefield, pick a friendly SYLVANETH WIZARD to cast this spell, then make a casting roll of 2D6. Effect: Set up a Vengeful Skullroot wholly within 12\" of the caster, visible to them and more than 9\" from all enemy units. KEYWORDS SPELL, SUMMON Your Hero Phase 6 SUMMON SPITESWARM HIVE : The air is filled with the buzzing of a thousand wings as a swarm of iridescent insects bursts from its hive. Declare: If there is not a friendly Spiteswarm Hive on the battlefield, pick a friendly SYLVANETH WIZARD to cast this spell, then make a casting roll of 2D6. Effect: Set up a Spiteswarm Hive wholly within 12\" of the caster and visible to them. KEYWORDS SPELL, SUMMON"
+ },
+ {
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Prayer Lore",
+  "text": "BATTLE PROFILE Name Points Lore of the Spirit-Song 0"
+ },
+ {
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Prayer Lore > Lore of the Spirit-Song",
+  "text": "Your Hero Phase 4 SONG OF THE LOST : The chanter alters the spirit-song to remind the Sylvaneth of the fallen, inspiring them with heroic resolve. Declare: Pick a friendly SYLVANETH PRIEST to chant this prayer, pick a friendly SYLVANETH unit that is wholly within the creeping overgrowth or that is visible to them and wholly within 12\" of them to be the target, then make a chanting roll of D6. Effect: Until the start of your next turn, subtract 1 from wound rolls for attacks that target that friendly unit. In addition, if the chanting roll was 8+: If the target is a MONSTER , Heal (3) the target. If the target is not a MONSTER , ignore modifiers to save rolls for the target (positive and negative) until the start of your next turn. KEYWORDS PRAYER, UNLIMITED Your Hero Phase 5 SONG OF WAR : The spirit-song becomes an angry, staccato beat that awakens something primal in the Sylvaneth, seeing them crush bones and twist steel with the latent strength in their barkflesh. Declare: Pick a friendly SYLVANETH PRIEST to chant this prayer, pick a friendly SYLVANETH unit that is wholly within the creeping overgrowth or that is visible to them and wholly within 12\" of them to be the target, then make a chanting roll of D6. Effect: If the chanting roll was 10+, you can pick another eligible unit to be a second target. Until the start of your next turn, add 1 to the Rend characteristic of the target(s) melee weapons. KEYWORDS PRAYER Your Hero Phase 4 SONG OF DREAD : Discordant notes and eerie wails herald a sinister change in the spirit-song, causing the shadows to gather thick around a group of foes."
+ },
+ {
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Prayer Lore > Lore of the Spirit-Song",
+  "text": "OF DREAD : Discordant notes and eerie wails herald a sinister change in the spirit-song, causing the shadows to gather thick around a group of foes. It takes but a single misstep to discover what lurks within the dark… Declare: Pick a friendly SYLVANETH PRIEST to chant this prayer, pick an enemy unit that is wholly within the creeping overgrowth or that is visible to them and within 18\" of them to be the target, then make a chanting roll of D6. Effect: If the chanting roll was 8+, you can pick another eligible unit to be a second target. Until the start of your next turn, each time a target uses a MOVE ability and ends that move within the creeping overgrowth , inflict D3 mortal damage on that target after that MOVE ability has been resolved. KEYWORDS PRAYER"
+ },
+ {
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Aspects of the Deepwoods",
+  "text": "Aspects of the Deepwoods are unique enhancements that can only be given to non- HERO non- MONSTER SYLVANETH units. A unit can only have 1 Aspect of the Deepwoods. BATTLE PROFILE Name Points ASPECT OF HARVESTBOON 10 ASPECT OF IRONBARK 10 ASPECT OF HEARTWOOD 10 Passive ASPECT OF HARVESTBOON : These forest spirits are possessed of a youthful energy and vibrant enthusiasm. Effect: Add 2\" to this unit’s Move characteristic while it is wholly within the creeping overgrowth . Passive ASPECT OF IRONBARK : These Sylvaneth can rapidly draw forth minerals from the earth in order to grant their barkflesh greater durability. Effect: When resolving the damage sequence for this unit, if you spend rage dice as part of the ‘ Fight Through the Pain ’ ability, you can re-roll any of the dice that determine whether damage points are removed from this unit’s damage pool. After the damage sequence has been resolved, if you rolled a total of 10+ on those re-rolls, this ability has no effect for the rest of the battle Once Per Battle, Reaction: You declared the ‘ Endless Growth ’ ability ASPECT OF HEARTWOOD : Brave and true, these warriors are loyal to all Sylvaneth, regardless of glade, and seek to aid them however they can. Effect: If this unit is wholly within the creeping overgrowth , for each target of that ability that is wholly within 12\" of this unit, you can pick 1 of the following effects: When resolving that ability, roll a D6 for the target instead of a D3. If, as a result of another ability, you would Heal (3) the target instead of rolling a dice, Heal (6) the target instead. If the target is KURNOTHI , instead of rolling a D3 and picking 1 of the effects of that ability to apply to it, you can return 1 slain model to the target unit. Army of Renown"
+ },
+ {
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Lords of the Clan",
+  "text": "When you pick the Sylvaneth faction for your army, you can choose for it to be a Lords of the Clan Army of Renown . If you do so, use the faction rules on these pages instead of the Sylvaneth faction rules. Every unit in your army must be drawn from the units listed in the roster options below. All units in your army gain the LORDS OF THE CLAN keyword. ROSTER OPTIONS The Lady of Vines Any non- UNIQUE FOREST ELDERS Any KURNOTHI INFANTRY units You cannot include Regiments of Renown"
+ },
+ {
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Lords of the Clan > Battle Traits",
+  "text": "Deployment Phase DORMANT HEROES : Throughout the Age of Chaos, many forests were devastated. The spirits that inhabited them fell into deep slumber, awaiting the call to awaken and fight once more. Declare: If there are more friendly LORDS OF THE CLAN units on the battlefield than there are in reserve , pick a friendly LORDS OF THE CLAN MONSTER unit that has not been deployed. Effect: Set up that unit in reserve as a dormant forest spirit . It has now been deployed. KEYWORDS DEPLOY Once Per Turn (Army), Deployment Phase ELDER AUTHORITY : Even the trees themselves respect the authority of the Sylvaneth’s regal ancients. Declare: You can only use this ability if there is a friendly Awakened Wyldwood on the battlefield. Effect: You can set up up to 2 additional Awakened Wyldwoods on the battlefield (an Awakened Wyldwood is a single tree miniature with a crescent- shaped base). The first can be set up anywhere on the battlefield more than 3\" from all units, objectives and other terrain features . The second can be set up anywhere on the battlefield wholly outside of enemy territory and more than 3\" from all units, objectives and other terrain features. Designer’s Note: The original Awakened Wyldwood is set up in Step 1 of the deployment phase using the ’ Deploy Faction Terrain ’ ability. This ability allows you to set up a second and third such terrain feature and is used in Step 3 of the deployment phase, after armies have been deployed. Passive OUR REACH IS LONG : These heroes of old are not simply content with holding on to what they have; they would claim back all that has been lost. Effect: The creeping overgrowth (referenced by other abilities) extends 6\" from each terrain feature that has a friendly overgrown token ."
+ },
+ {
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Lords of the Clan > Battle Traits",
+  "text": "Effect: The creeping overgrowth (referenced by other abilities) extends 6\" from each terrain feature that has a friendly overgrown token . Increase this range by 1\" for each friendly LORDS OF THE CLAN unit that is wholly outside friendly territory. Enemy Movement Phase 1 ROUSED TO FURY : The presence of these powerful Sylvaneth is accompanied by booming reverberations in the spirit-song that alert powerful forest spirits to the enemy’s incursion. Declare: Pick an enemy unit within 9\" of a friendly Awakened Wyldwood to be the target. Effect: Pick 1 of the following units: A friendly LORDS OF THE CLAN unit that is in reserve as a dormant forest spirit. A friendly LORDS OF THE CLAN MONSTER that has been destroyed. Set up the unit you picked, or a replacement unit if you picked a destroyed unit, within 9\" of the target, wholly within 6\" of that friendly Awakened Wyldwood and not in combat . If you set up a replacement unit, allocate 6 damage points to it ( ward rolls cannot be made for those damage points). Then, remove that friendly Awakened Wyldwood from the battlefield."
+ },
+ {
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Lords of the Clan > Heroic Traits",
+  "text": "( HERO only) Passive ANCIENT MIGHT : Of unfathomable age, this gigantic elder Treelord pulverises all in their path. Effect: This unit can use CHARGE abilities even if it is in combat . If the charge roll is 3 or less when it does so, it does not count as having charged ."
+ },
+ {
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Lords of the Clan > Artefacts of Power",
+  "text": "( HERO only) End of Any Turn REJUVENATING COMPANIONS : Over their long life, colonies of symbiotic plants, fungi and spites have proliferated upon this hero, invigorating their barken form with nutrients, healing magic and innocent, uplifting melodies in the spirit-song. Effect: Heal (3) this unit."
+ },
+ {
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Lords of the Clan > Spell Lore",
+  "text": "Your Hero Phase 6 CALL FORTH THE FOREST : The strongest Sylvaneth wizards have a potent spiritual connection to the wyldwoods and can coax forth these eldritch copses with the proper entreaties. Declare: Pick a friendly LORDS OF THE CLAN WIZARD to cast this spell, then make a casting roll of 2D6. Effect: If there are fewer than 9 friendly Awakened Wyldwoods on the battlefield, you can set up an Awakened Wyldwood wholly within 24\" of the caster, more than 3\" from all objectives and more than 1\" from all enemy units and other terrain features . If there are 9 friendly Awakened Wyldwoods on the battlefield, Heal (3) each friendly Awakened Wyldwood instead. KEYWORDS SPELL, UNLIMITED"
+ },
+ {
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Lords of the Clan > Prayer Lore",
+  "text": "Your Hero Phase 3 SONG OF PERSISTENCE : Memories of the unwavering courage of glades past permeate the spirit-song at the Sylvaneth’s will, stirring the noble souls of their kin and inspiring them to impossible acts of endurance. Declare: Pick a friendly LORDS OF THE CLAN PRIEST to chant this prayer, pick a friendly LORDS OF THE CLAN MONSTER that is wholly within the creeping overgrowth or that is visible to them and wholly within 12\" of them to be the target, then make a chanting roll of D6. Effect: Until the start of your next turn, ignore the effect of the ‘Battle Damaged’ ability on the target. In addition, if the chanting roll was 6+, the target has WARD ( 6+ ) until the start of your next turn. KEYWORDS PRAYER, UNLIMITED"
+ },
+ {
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Lords of the Clan > Manifestation Lore",
+  "text": "Your Hero Phase 6 JADE WINDS : The caster draws ambient motes of Ghyranite magic unto them and shapes them into a form with solidity, identity and vicious intent. Declare: Pick a friendly LORDS OF THE CLAN WIZARD to cast this spell, pick 1 of the friendly MANIFESTATIONS below that is not on the battlefield, then make a casting roll of 2D6. Gladewyrm Spiteswarm Hive Vengeful Skullroot Effect: If you picked a Gladewyrm or Vengeful Skullroot , set it up wholly within 12\" of the caster, visible to them and more than 9\" from all enemy units. If you picked a Spiteswarm Hive , set it up wholly within 12\" of the caster and visible to them. KEYWORDS SPELL, SUMMON Army of Renown"
+ },
+ {
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Soulpod Guardians",
+  "text": "When you pick the Sylvaneth faction for your army, you can choose for it to be a Soulpod Guardians Army of Renown . If you do so, use the faction rules on these pages instead of the Sylvaneth faction rules. Every unit in your army must be drawn from the units listed in the roster options below. All units in your army gain the SOULPOD GUARDIANS keyword. ROSTER OPTIONS Grove Guardian Branchwych Any REVENANT units You cannot include Regiments of Renown"
+ },
+ {
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Soulpod Guardians > Battle Traits",
+  "text": "Once Per Battle (Army), Deployment Phase THE SACRED GROVES : Sentient trees abound in the sacred groves of the Sylvaneth, awakened by the bountiful magics of genesis. Declare: You must use this ability. Effect: Set up 3 Awakened Wyldwoods (an Awakened Wyldwood is a single tree miniature with a crescent-shaped base) wholly within friendly territory, more than 1\" from all other terrain features and more than 3\" from all objectives . The tips of each crescent-shaped base must touch, forming a circle. Once you have done so, for the rest of the battle, the 3 tree miniatures join to form 1 Soulpod Grove terrain feature. The area inside the circle formed by the trees is part of the terrain feature KEYWORDS DEPLOY TERRAIN Passive JADE HAVEN : The trees and spirits of a soulpod grove radiate healing magic. Effect: The Health characteristic of your Soulpod Grove is 18. The creeping overgrowth extends 12\" from your Soulpod Grove . Passive VENGEANCE FOR THE LOST : Should they witness the desecration of their sacred groves, the Sylvaneth will attack with a merciless and frenzied aggression. Effect: If your Soulpod Grove has been demolished this battle, add 2 to the Attacks characteristic of friendly SOULPOD GUARDIANS units’ melee weapons. Passive HEART OF THE FOREST : Saturated as they are with restorative power, soulpod groves and their guardians are not easily destroyed. Effect: You cannot allocate more than 10 damage points per phase to a friendly SOULPOD GUARDIANS unit while it is wholly within 12\" of your Soulpod Grove (remaining damage points inflicted on it in that phase have no effect)."
+ },
+ {
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Soulpod Guardians > Heroic Traits",
+  "text": "( HERO only) Passive DEVOTED PROTECTOR : With their final breath, the grove’s head guardian gives the last of their life energy to save their beloved haven. Effect: If this unit is destroyed while it is wholly within 12\" of your Soulpod Grove , before removing this unit from the battlefield, Heal (10) your Soulpod Grove."
+ },
+ {
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Soulpod Guardians > Artefacts of Power",
+  "text": "( HERO only) Once Per Battle, Your Movement Phase CLARIONBUDS : These flowers, nestled in the undergrowth, are easily overlooked. Should any who bear hostile intent towards the grove draw near to them, they explosively unfurl in a puff of pollen and brilliant colour. Their true worth, however, lies in the strident resonance in the spirit-song when they do so, which alerts Sylvaneth defenders to the incursion. Declare: If there is an enemy unit wholly within 12\" of your Soulpod Grove , pick up to 3 friendly SOULPOD GUARDIANS units to be the targets. Effect: Remove the targets from the battlefield and set them up again wholly within 12\" of your Soulpod Grove and more than 6\" from all enemy units."
+ },
+ {
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Soulpod Guardians > Spell Lore",
+  "text": "Your Hero Phase 7 CRADLING VINES : The caster calls upon the surrounding vegetation to envelop precious soulpods and draw them closer to the centre of the grove where they can be better protected. Declare: Pick a friendly SOULPOD GUARDIANS WIZARD to cast this spell, pick an objective within 18\" of them that has not been picked to be the target of this spell this turn to be the target, then make a casting roll of 2D6. Effect: Until the start of your next turn, add 5 to the control scores of friendly units while they are contesting the target objective. KEYWORDS SPELL, UNLIMITED"
+ },
+ {
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Soulpod Guardians > Prayer Lore",
+  "text": "Your Hero Phase 3 SONG OF VENGEANCE : The grovekeeper cries out in vengeful fury, exhorting their forest kin to strike down the invading enemy and water the soil with their lifeblood. Declare: Pick a friendly SOULPOD GUARDIANS PRIEST to chant this prayer, pick a visible friendly SOULPOD GUARDIANS unit that is wholly within 12\" of them and not in combat or that is wholly within 12\" of your Soulpod Grove to be the target, then make a chanting roll of D6. Effect: Until the start of your next turn, subtract 1 from wound rolls for attacks that target that friendly unit. In addition, if the chanting roll was 8+, pick 1 of the following effects: You can Heal (3) the target. If the target is not a MONSTER , ignore modifiers to save rolls for the target (positive and negative) until the start of your next turn. KEYWORDS PRAYER, UNLIMITED"
+ },
+ {
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Soulpod Guardians > Manifestation Lore",
+  "text": "Your Hero Phase 6 JADE WINDS : The caster draws ambient motes of Ghyranite magic unto them and shapes them into a form with solidity, identity and vicious intent. Declare: Pick a friendly SOULPOD GUARDIANS WIZARD to cast this spell, pick 1 of the friendly MANIFESTATIONS below that is not on the battlefield, then make a casting roll of 2D6. Gladewyrm Spiteswarm Hive Vengeful Skullroot Effect: If you picked a Gladewyrm or Vengeful Skullroot , set it up wholly within 12\" of the caster, visible to them and more than 9\" from all enemy units. If you picked a Spiteswarm Hive , set it up wholly within 12\" of the caster and visible to them. KEYWORDS SPELL, SUMMON Army of Renown"
+ },
+ {
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Evergreen Hunt",
+  "text": "When you pick the Sylvaneth faction for your army, you can choose for it to be a The Evergreen Hunt Army of Renown . If you do so, use the faction rules on these pages instead of the Sylvaneth faction rules. Every unit in your army must be drawn from the units listed in the roster options box below. All units in your army gain the EVERGREEN HUNT keyword. ROSTER OPTIONS Belthanos, First Thorn of Kurnoth (must be included and must be your general) Kurnoth Hunters with Greatbows Arch-Revenant Revenant Seekers Kurnoth Hunters with Greatscythes Spiterider Lancers Kurnoth Hunters with Greatswords You cannot include Regiments of Renown"
+ },
+ {
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Evergreen Hunt > Battle Traits",
+  "text": "Once Per Battle Round (Army), Start of Battle Round RHYTHM OF THE CHASE : The Evergreen Hunt relentlessly tracks its prey, skilfully manoeuvring it into a killing ground to administer a fatal blow. Declare: If there is no quarry on the battlefield, pick an enemy unit on the battlefield to be the target. Effect: The target is the quarry for the rest of the battle. Once Per Battle Round (Army), Start of Battle Round OPENING HORN BLAST : The ear-shattering peal of a hunting horn signals the coming of Kurnoth’s faithful, and foretells the bloody death of their prey. Declare: You must use this ability at the start of the battle round. Effect: Your chords are reset to 0. Then, you gain 1 chord : If a friendly Belthanos is on the battlefield. For each friendly EVERGREEN HUNT unit that is wholly within the same large quarter of the battlefield as the quarry. For each quarry destroyed so far during the battle. Passive SONG OF THE HUNT : The stirring battle-song of Kurnoth’s hunters grows in intensity with every foe slain, until the world resounds to a crescendo of deafening, harshly melodic notes. Effect: The following cumulative effects apply to friendly EVERGREEN HUNT units depending on the number of chords you have: 1 chord – Simple: Add 1 to run rolls and charge rolls for friendly units wholly within the same quarter of the battlefield as the quarry. 2 chords – Tuneful: Add 1 to hit rolls and wound rolls for friendly units’ combat attacks that target an enemy unit wholly within the same quarter of the battlefield as the quarry. 3-5 chords – Melodic: Add 1 to the Attacks characteristic of melee weapons used by friendly units while they are in combat with the quarry. 6+ chords – Mellifluous: While a friendly unit is in combat with the quarry, the quarry has STRIKE-LAST ."
+ },
+ {
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Evergreen Hunt > Battle Traits",
+  "text": "6+ chords – Mellifluous: While a friendly unit is in combat with the quarry, the quarry has STRIKE-LAST . Once Per Battle (Army), Your Hero Phase 1 A PRIZE QUARRY IS SIGHTED : When a mighty prey is sighted, the hunters of Kurnoth focus all their efforts upon taking it down, for only a successful kill will appease their master. Declare: Pick an enemy unit within 9\" of a friendly EVERGREEN HUNT unit to be the target. Effect: The target becomes the quarry for the rest of the battle. If there was already a quarry on the battlefield when you declared this ability, that unit is no longer the quarry . Once Per Turn (Army), Your Hero Phase ABUNDANT GROWTH : Lush, restorative flora blossoms and blooms in the path of the Evergreen Hunt. Declare: Pick each friendly EVERGREEN HUNT unit that is wholly within 3\" of a terrain feature to be the targets. Effect: Heal (1) each target. Once Per Turn (Army), Any Combat Phase MERCIFUL STRIKE : For those who join the divine hunt, the moment of the final, killing blow is one of momentous importance. It must be delivered swiftly and surely. Declare: Pick a friendly EVERGREEN HUNT MONSTER that has not used a RAMPAGE ability this turn to use this ability, then pick an enemy unit in combat with it to be the target. Effect: Roll a dice and add the number of damage points the target has. If the result exceeds the target’s Health characteristic, 1 model in the target unit is slain. KEYWORDS RAMPAGE"
+ },
+ {
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Evergreen Hunt > Heroic Traits",
+  "text": "HERO only Passive SAPWOOD LEADER : This young and vibrant general flourishes with the life-giving magic of the Everqueen. Effect: If you pick this unit to be a target of the ’Abundant Growth’ ability, Heal (3) this unit instead of Heal (1) ."
+ },
+ {
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Evergreen Hunt > Artefacts of Power",
+  "text": "HERO only Once Per Battle (Army), Any Hero Phase HEARTWOOD HUNTING HORN : Grown in the forests of Kurnotheal, this horn emits a melody that naturally harmonises with the song of the hunt. Effect: You gain 1 chord ."
+ },
+ {
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Spitewing Flight",
+  "text": "Ever since the restoration of the Oak of Ages Past and the Rite of Life, that grand ritual performed by Alarielle to reverse the effects of the Necroquake, the sound of huge, buzzing wings overhead has been heard across the domains of the Everqueen. Despoilers of nature have learned to dread that sound, for it often heralds the coming of a Spitewing Flight, an aerial squadron of elite Sylvaneth riders sent to destroy an emerging enemy threat. This fast-moving formation is led by an Arch-Revenant, a winged forest spirit whose experience of battle encompasses many long seasons. These superlative commanders draw upon the rich bounty of shared memories within the spirit-song to trace paths though the thickest wilds, striking wherever their quarry is weakest. Gossamid Archers open hostilities with a rain of living arrows that eat through flesh, whilst Spiterider Lancers charge forth to slay their targets with magical spears and the ripping mandibles of their beloved dragonspite mounts. Finally, Revenant Seekers swoop down in the wake of the initial strike, scattering the survivors and reaping lives with each deft strike from their gleaming sickles. This Spearhead army consists of the following units: General Arch-Revenant Units 5 Gossamid Archers 3 Spiterider Lancers 3 Revenant Seekers",
+  "spearhead_name": "Spitewing Flight"
+ },
+ {
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Spitewing Flight > Battle Traits",
+  "text": "Once Per Battle Round (Army), Start of Battle Round TARGET OF VENGEANCE : The Spitewing Flight engages one foe at a time, swooping down to annihilate them before selecting a new target. Declare: If there is no enemy quarry on the battlefield, pick an enemy unit on the battlefield to be the target. Effect: The target is the quarry for the rest of the battle. Passive AIRBORNE COHESION : These warriors fly in tight formation, their dragonspites perfectly attuned to the movements of their kin. Effect: Friendly units have a coherency range of 2\". Passive SONG OF THE HUNT : The warriors of a Spitewing Flight are energised by the increasingly harmonious notes of the spirit-song as they fight, building momentum with every defeated foe. Effect: You gain 1 chord each time an enemy quarry is destroyed. The following cumulative effects apply depending on the number of chords you have: 1 chord Simple: Add 1 to run rolls and charge rolls for friendly units while they are within 9\" of the enemy quarry . 2 chords Tuneful: Add 1 to hit rolls for friendly units’ attacks while they are within 9\" of the enemy quarry . 3+ chords Melodic: Add 1 to wound rolls for friendly units’ attacks while they are within 9\" of the enemy quarry .",
+  "spearhead_name": "Spitewing Flight"
+ },
+ {
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Spitewing Flight > Regiment Abilities",
+  "text": "Pick 1 of the following regiment abilities. Once Per Battle (Army), End of Any Turn LEAVES ON THE WIND : These warriors attack swiftly and then retreat into the cover of the canopy. Declare: Pick a friendly unit that is in combat to be the target. Effect: The target can immediately use the ‘ Retreat ’ ability as if it were your movement phase and no mortal damage is inflicted on it if it does so. Once Per Turn (Army), End of Any Turn LIFEBRINGERS : Hailing from the vast boughs of the Oak of Ages Past, the life-giving magic of Ghyran permeates the sap-blood of these warriors and their steeds, causing their wounds to heal nigh instantaneously. Effect: Heal (D3) each friendly unit.",
+  "spearhead_name": "Spitewing Flight"
+ },
+ {
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Spitewing Flight > Enhancements",
+  "text": "Give your general 1 of the following enhancements. Passive HEAD OF THE HUNT : This warrior venerates the Hunter God Kurnoth as much as Alarielle. To them, the pursuit of the prey is a sacred act. Effect: Add 1 to the Rend characteristic of your general’s melee weapons while the enemy quarry is within 9\" of and visible to them. Once Per Battle (Army), Any Hero Phase BOLD SPIRIT : Thrusting their glaive towards the foe with a strident war cry, the Arch-Revenant inspires their warriors to fight with all they have. Effect: For the rest of the turn, add 1 to wound rolls for friendly units’ combat attacks while they are within your general’s combat range . Reaction: You declared a FIGHT ability for your general ZEPHYRKIN : The bond that this Arch-Revenant has with their companion zephyrspite is so strong that they can perform hit-and-run attacks with bewildering agility. Effect: If your general charged this turn, they can move up to 2D6\" after that FIGHT ability has been resolved. They cannot end that move in combat . Passive CUNNING PURSUER : The Arch-Revenant feigns weakness, baiting the enemy into being surrounded by the swarm. Effect: While your general is in combat , add 1 to charge rolls for friendly units wholly within 12\" of them. Add 2 instead while your general is in combat with the quarry.",
+  "spearhead_name": "Spitewing Flight"
+ },
+ {
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Spitewing Flight > Warscrolls",
+  "text": "• SPEARHEAD WARSCROLL • Arch-Revenant 12\" 6 4+ 2 Arch-Revenants soar high over the battlefield, borne upon the wings of a companion zephyrspite. Swooping down to strike where the foe is most vulnerable, their majestic glaives weave a dance of death before they take flight once more, seeking out the next target to feel their wrath. • SPEARHEAD WARSCROLL • Arch-Revenant MELEE WEAPONS Atk Hit Wnd Rnd Dmg Arch-Revenant’s Glaive Arch-Revenant’s Glaive 5 3+ 4+ 1 2 Your Hero Phase HEARTWOOD HUNTING HORN : Grown in the forests of Kurnotheal, this horn emits a bold note that sends the thrill of the hunt rushing through the veins of their warriors. Declare: Pick a visible friendly unit wholly within 12\" of this unit to be the target. Effect: Until the start of your next turn, when determining which effects of the ‘ Song of the Hunt ’ ability apply to the target, you count as having 1 additional chord. KEYWORDS HERO , INFANTRY , FLY • SPEARHEAD WARSCROLL • Gossamid Archers 12\" 2 5+ 1 Gossamid Archers are afforded the power of flight by the zephyrspites that clasp their torsos. A gruesome fate awaits any struck by the shafts of these skirmishers, for the arrowheads contain voracious grubs that devour the target from within. • SPEARHEAD WARSCROLL • Gossamid Archers RANGED WEAPONS Rng Atk Hit Wnd Rnd Dmg Gossamid Bow [ Shoot in Combat ] Gossamid Bow Shoot in Combat 12\" 2 3+ 4+ 1 1 MELEE WEAPONS Atk Hit Wnd Rnd Dmg Cruel Talons Cruel Talons 1 3+ 4+ - 1 Reaction: You declared a SHOOT ability for this unit ZEPHYRSPITES : These symbiotic winged spites offer their hosts unparalleled manoeuvrability, allowing them to swiftly reposition after loosing a deadly volley. Effect: After that SHOOT ability has been resolved, this unit can move up to D6\".",
+  "spearhead_name": "Spitewing Flight"
+ },
+ {
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Spitewing Flight > Warscrolls",
+  "text": "Effect: After that SHOOT ability has been resolved, this unit can move up to D6\". It cannot move into combat during any part of that move. KEYWORDS MOVE KEYWORDS INFANTRY , FLY • SPEARHEAD WARSCROLL • Spiterider Lancers 12\" 5 4+ 2 The Spiterider Lancers are Alarielle's elite cavalry. Mounted on agile dragonspites whose bodies thrum with life magic, they deftly swoop and whirl above the battlefield before suddenly diving into a charge, striking the enemy lines with shocking force. • SPEARHEAD WARSCROLL • Spiterider Lancers MELEE WEAPONS Atk Hit Wnd Rnd Dmg Spiterider Lance [ Charge (+1 Damage) ] Spiterider Lance Charge (+1 Damage) 3 3+ 4+ 1 1 Dragonspite's Mandibles [ Companion ] Dragonspite's Mandibles Companion 3 4+ 3+ 1 2 Any Charge Phase SPITERIDER CHARGE : Lance-armed Spiteriders train to inflict the greatest damage possible on the charge, destroying chosen targets in a series of blistering attacks. Declare: If this unit charged this phase, pick a visible enemy unit within 1\" of it to be the target. Effect: Roll a D3. Add 1 to the roll if the target is the enemy quarry . On a 2+, inflict an amount of mortal damage on the target equal to the roll. KEYWORDS CAVALRY , FLY • SPEARHEAD WARSCROLL • Revenant Seekers 12\" 5 4+ 2 It is the duty of the Revenant Seekers to extract the lamentiri of Sylvaneth who fall in battle and return them to the soulpod groves. The wickedly sharp sickles they wield for this purpose are equally useful for severing the mortal threads of those who would endanger the remains of their slain kin.",
+  "spearhead_name": "Spitewing Flight"
+ },
+ {
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Spitewing Flight > Warscrolls",
+  "text": "sickles they wield for this purpose are equally useful for severing the mortal threads of those who would endanger the remains of their slain kin. • SPEARHEAD WARSCROLL • Revenant Seekers MELEE WEAPONS Atk Hit Wnd Rnd Dmg Seeker’s Sickle [ Crit (Mortal) ] Seeker’s Sickle Crit (Mortal) 3 3+ 4+ 1 1 Dragonspite's Mandibles [ Companion ] Dragonspite's Mandibles Companion 3 4+ 3+ 1 2 Any Combat Phase DEAFENING DRONE : Revenant Seekers circle over the melee, cutting throats and piercing skulls with swipes of their sickles. The buzzing roar of their dragonspites’ wings soon disorientate enemies who engage them in protracted combat. Declare: If this unit did not charge this turn, pick an enemy unit in combat with it to be the target. Effect: Roll a dice. If the roll exceeds the target’s Control characteristic, subtract 1 from the Attacks characteristic of the target’s melee weapons for the rest of the turn. KEYWORDS CAVALRY , FLY",
+  "spearhead_name": "Spitewing Flight"
+ },
+ {
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Bitterbark Copse",
+  "text": "A Bitterbark Copse is a gathering of Sylvaneth that channels the spirit-song of Alarielle’s warlike Summer Aspect to purge the enemies of natural law. They are led by a Branchwych, a vengeful creature of bark and briar that cleaves through foes with their scythe. Fiercely protective of both their forest and their kin, each Branchwych wields verdant magic that allows them to weave sundered Sylvaneth barkflesh back together or add a thorned edge to their enchanted weapons. Alongside them stride the wood-sinewed warriors of the Copse. Kurnoth Hunters fire with devastating accuracy from the back lines. They are uniquely in tune with the vibrations of the realmroots, allowing them to draw upon Alarielle’s might wherever they might be. Defending them are the Tree-Revenants, fey beings imbued with the memories of their fallen ancestors, who have ever sought to protect natural places of power. With centuries of experience to draw on, they are martial experts, able to switch between attacking and defending with natural fluidity. Each Copse is also accompanied by a Treelord, an ancient arboreal giant. Each one has lived for untold years, growing ever taller, wiser and more fearsome in battle. This Spearhead army consists of the following units: General Branchwych Units 1 Treelord 3 Kurnoth Hunters 5 Tree-Revenants",
+  "spearhead_name": "Bitterbark Copse"
+ },
+ {
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Bitterbark Copse > Battle Traits",
+  "text": "Once Per Turn, End of Any Turn LEY LINES : The Sylvaneth draw strength from natural sites of mystical power. Effect: Heal (1) each friendly unit that is within 3\" of any terrain features . Once Per Turn, End of Any Turn STRIKE AND FADE : These warriors use the spirit paths to ambush the enemy before retreating back into the shadows. Declare: Pick a friendly unit that used a FIGHT ability this turn and is within 3\" of any terrain features , then roll a dice. Effect: On a 2+, remove that unit from the battlefield and set it up again so that each model in the unit is within 3\" of any terrain features and more than 6\" from all enemy units.",
+  "spearhead_name": "Bitterbark Copse"
+ },
+ {
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Bitterbark Copse > Regiment Abilities",
+  "text": "Pick 1 of the following regiment abilities. Once Per Turn, End of Any Turn VENGEFUL SPIRITS OF THE LAND : The realm-spirits lingering around the ancient sites are roused to wrath and unleashed upon the Sylvaneth’s enemies. Declare: Pick an enemy unit that is contesting an objective and roll a dice. Effect: On a 4+, inflict D3 mortal damage on that enemy unit. Once Per Turn, Your Movement Phase WALKERS OF THE HIDDEN PATHS : These mysterious warriors walk the realmroots. Declare: Pick a friendly unit that is within 3\" of any terrain features and not in combat . Effect: Remove that unit from the battlefield and set it up again more than 6\" from all enemy units. That unit cannot use MOVE abilities for the rest of the phase.",
+  "spearhead_name": "Bitterbark Copse"
+ },
+ {
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Bitterbark Copse > Enhancements",
+  "text": "Give your general 1 of the following enhancements. Your Hero Phase REGROWTH : Your general channels an invigorating bloom of magic. Declare: Pick a visible friendly unit wholly within 18\" of your general to be the target, then make a casting roll of 2D6. Effect: On a 5+, Heal (D6) the target. Your Hero Phase TREESONG : Your general implores the spirits of the wyldwoods to guide the blades of their allies. Declare: Pick a visible friendly unit wholly within 12\" of your general to be the target, then make a casting roll of 2D6. Effect: On a 7+, add 1 to the Rend characteristic of the target unit’s melee weapons until the start of your next turn. Passive GNARLED WARRIOR : This Sylvaneth’s battlescarred hide has turned aside countless blades. Effect: Ignore negative modifiers to save rolls for your general. Passive SEED OF REBIRTH : Should its bearer ever fall, the seed will grant them new life. Effect: If your general would be destroyed, before removing them from play, roll a dice. On a 3+, your general is not destroyed and any remaining damage points inflicted on them have no effect. Then, Heal (1) your general. This unit cannot use this ability again for the rest of the battle.",
+  "spearhead_name": "Bitterbark Copse"
+ },
+ {
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Bitterbark Copse > Warscrolls",
+  "text": "• SPEARHEAD WARSCROLL • Branchwych 6\" 5 5+ 2 Warrior matriarchs and guardians of the Sylvaneth’s legacy, Branchwyches lead their kin to battle with blasts of sorcery and hissing swings of their scythes, even as their bittergrub familiars lash and bite their adversaries. These same weapons are used when the fighting is done to harvest the life essence and memories from the Sylvaneth’s fallen. It is the duty of the Branchwyches to revive their kin with the verdurous harmonies of Ghyran and, if they fall, to plant their lamentiri amidst the soulpod groves to allow Alarielle’s future children to inherit the feelings and experiences within them. • SPEARHEAD WARSCROLL • Branchwych MELEE WEAPONS Atk Hit Wnd Rnd Dmg Greenwood Scythe and Bittergrub Greenwood Scythe and Bittergrub 3 3+ 4+ 1 D3 Your Hero Phase VERDUROUS HARMONY : The wizard plucks reviving motes of magic from the air and uses them to renew the broken forms of fallen warriors. Declare: Pick a visible friendly unit wholly within 18\" of this unit to be the target, then make a casting roll of 2D6. Effect: On a 7+, you can return 1 slain model to the target unit. If you picked a Tree-Revenants unit, you can return D3 slain models instead of 1. KEYWORDS HERO , WIZARD , INFANTRY • SPEARHEAD WARSCROLL • Treelord 5\" 14 3+ 5 Treelords stomp towards the enemy with earth-shaking strides. Their roots burrow through the soil as fast as arrows through the air, exploding from the ground to rend and throttle, while every swing of their vast talons slaughters another swathe of foes. Each one draws upon the experience of several mortal lifespans in battle. Their sheer power and dominance of the battlefield allows smaller Sylvaneth kin to dart around them and pick apart floundering enemy formations.",
+  "spearhead_name": "Bitterbark Copse"
+ },
+ {
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Bitterbark Copse > Warscrolls",
+  "text": "Their sheer power and dominance of the battlefield allows smaller Sylvaneth kin to dart around them and pick apart floundering enemy formations. The great strength and wisdom of Treelords often sees them act as the captains and champions of each wargrove. • SPEARHEAD WARSCROLL • Treelord RANGED WEAPONS Rng Atk Hit Wnd Rnd Dmg Strangleroots [ Shoot in Combat ] Strangleroots Shoot in Combat 10\" 3 3+ 2+ 1 2 MELEE WEAPONS Atk Hit Wnd Rnd Dmg Sweeping Blows Sweeping Blows 5 4+ 2+ 1 2 Massive Impaling Talons Massive Impaling Talons 2 4+ 2+ 2 3 Passive BATTLE DAMAGED Effect: While this unit has 10 or more damage points, the Attacks characteristic of its Massive Impaling Talons is 1. Any Combat Phase GROUNDSHAKER : The earth quakes as the Treelord stamps down hard, shaking the enemy’s wits. Declare: Pick an enemy unit in combat with this unit to be the target, then roll a dice. Effect: On a 4+, the target has STRIKE-LAST this phase. KEYWORDS MONSTER • SPEARHEAD WARSCROLL • Kurnoth Hunters 5\" 5 4+ 2 Champions amongst the forest kindred, each Kurnoth Hunter is skilled in the use of a variety of enchanted weapons, among them a greatbow the size of an artillery piece. The first of these ferocious warriors was planted after Alarielle came into her summer aspect, imbuing her chosen envoys with the tenacity and strength required for war. They are particularly in tune with the realmroots, allowing them to sense the Everqueen’s will and convey orders to their kin. During battle, Kurnoth Hunters armed with bows will dig their roots into the ground and fire into the enemy’s lines tirelessly, weathering any oncoming storm.",
+  "spearhead_name": "Bitterbark Copse"
+ },
+ {
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Bitterbark Copse > Warscrolls",
+  "text": "Kurnoth Hunters armed with bows will dig their roots into the ground and fire into the enemy’s lines tirelessly, weathering any oncoming storm. • SPEARHEAD WARSCROLL • Kurnoth Hunters RANGED WEAPONS Rng Atk Hit Wnd Rnd Dmg Kurnoth Greatbow Kurnoth Greatbow 18\" 2 3+ 3+ 1 2 MELEE WEAPONS Atk Hit Wnd Rnd Dmg Vicious Claws Vicious Claws 3 3+ 3+ - 1 Passive ENVOYS OF THE EVERQUEEN : Kurnoth Hunters can channel a fraction of their goddess’s divine power through those sites that resonate with the realmroots. Effect: While this unit is contesting an objective , friendly units contesting that objective have WARD ( 6+ ) . KEYWORDS INFANTRY • SPEARHEAD WARSCROLL • Tree-Revenants 6\" 2 5+ 1 The Tree-Revenants move with flowing grace, flickering along the spirit paths to carve their way through the enemy’s ranks. Their highly ritualised way of war lends them a lethal speed and skill that few enemies can stand against. Each one has a lamentiri at their core, a seed imbued with the memories and experiences of those who came before. This allows the Tree-Revenants to accumulate multiple mortal lifetimes’ worth of martial memories, strengthened by their eternal desire to protect their homes and kin. • SPEARHEAD WARSCROLL • Tree-Revenants MELEE WEAPONS Atk Hit Wnd Rnd Dmg Enchanted Blade Enchanted Blade 2 3+ 4+ 1 1 Any Combat Phase MARTIAL MEMORIES : Tree-Revenants can draw on centuries of experience when they go to war. Effect: Pick 1 of the following effects to apply to this unit this phase: Memories of War: Add 1 to hit rolls for attacks made by this unit. Memories of Peace: Add 1 to save rolls for this unit. KEYWORDS INFANTRY , REINFORCEMENTS noindex /noindex noindex",
+  "spearhead_name": "Bitterbark Copse"
+ }
+]

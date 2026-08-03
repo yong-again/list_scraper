@@ -1,0 +1,441 @@
+[
+ {
+  "faction": "Gloomspite Gitz",
+  "faction_slug": "gloomspite-gitz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "",
+  "text": "/noindex In the dark corners of the Mortal Realms, a new power is stirring. Dripping tunnels and caverns echo to the clash of gongs, the thump of drums and the shrill war cries of massing grots. Armies of goblinoid warriors and lumbering monsters set out on the warpath, seeking to plunge the surface world into darkness for evermore. This page contains all of the rules you need to field your Gloomspite Gitz miniatures on the battlefields of the Mortal Realms, from a host of exciting faction rules to a range of warscrolls. The rules are split into the following sections:"
+ },
+ {
+  "faction": "Gloomspite Gitz",
+  "faction_slug": "gloomspite-gitz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Designers’ Commentary > Battletome: Gloomspite Gitz",
+  "text": "Q: When using the Lunar Squigs effect of ‘ Under the Light of the Bad Moon ’ or the ‘ The Moon and the Loon ’ ability to use a value of 4 for the Move characteristic of a friendly SQUIG unit, does the 4 replace the entire Move characteristic of the unit with a 4, or just the dice roll? A: It replaces the dice roll. For example, if a unit of Squig Hoppers (with a Move characteristic of D6+8\") were affected by one of these abilities, it could use a value of 4 instead of rolling the D6, resulting in a Move characteristic of 12\" (4+8\"). Q: Can the attacker choose to resolve their attacks one at a time for the Doom Diver Catapult ? If so, how does the Rend reduction apply? A: Yes. As described in the rules for the attack sequence ( 17.0 ), attacks are resolved one at a time unless you choose to use fast dice rolling . Here’s an example attack sequence for the Doom Diver Catapult : 1. The Gloomspite Gitz player successfully hits and wounds for the first attack, then their opponent makes a save roll , subtracting the Rend (3) of the weapon from the roll. 2. The Gloomspite Gitz player fails the hit roll for the second attack, re-rolls it to be successful and successfully wounds. Then, their opponent makes a save roll subtracting the now-reduced Rend (2) from the roll. 3. The third attack fails to hit and fails again after the re-roll. The Rend is now reduced to 1. 4. The fourth attacks successfully hits and wounds. The opponent of the Gloomspite Gitz player subtracts the Rend (1) from their save roll."
+ },
+ {
+  "faction": "Gloomspite Gitz",
+  "faction_slug": "gloomspite-gitz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Traits",
+  "text": "Gloomspite Gitz armies can use the following abilities: Once Per Battle Round (Army), Start of Battle Round THE FACES OF THE BAD MOON : The Bad Moon hurtles erratically around the realms in madcap orbits, empowering its worshippers and troubling all others with insane visions. Declare: You must use this ability at the start of the battle round. If multiple players are commanding a Gloomspite Gitz army, then instead, at the start of the battle round, those players roll off and only the winner declares and uses this ability this battle round. Effect: If it is the first battle round, pick the starting face of the Bad Moon ( Grinnin’ , Scowlin’ , Sulkin’ or Cacklin’ ). If it is not the first battle round, the face of the Bad Moon moves to the next face in the sequence. Once Per Turn (Army), Your Hero Phase CREEPING GLOOM : The Gloomspite Gitz seek to plunge the realms into an eternal, clammy gloaming known as the Everdank. The icky fungal growths and obscuring spore clouds that follow them are very conducive to such conditions. Declare: Pick a terrain feature to be the target. Effect: Until the start of your next turn, while friendly non- MONSTER non- WAR MACHINE GLOOMSPITE GITZ units are wholly within 3\" of that terrain feature, they are not visible to enemy units more than 9\" away Passive UNDER THE LIGHT OF THE BAD MOON : Grots are always vicious little monsters, but depending on the face of the moon, they can become an order of magnitude more dangerous. Effect: During the battle, the effects below apply to friendly GLOOMSPITE GITZ units based on the current face of the Bad Moon: Frothing Zealots: While the Bad Moon is Cacklin’ or Grinnin’ , add 5 to the control scores of friendly non- SQUIG MOONCLAN units."
+ },
+ {
+  "faction": "Gloomspite Gitz",
+  "faction_slug": "gloomspite-gitz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Traits",
+  "text": "of the Bad Moon: Frothing Zealots: While the Bad Moon is Cacklin’ or Grinnin’ , add 5 to the control scores of friendly non- SQUIG MOONCLAN units. Spiderfang Venom: While the Bad Moon is Cacklin’ or Grinnin’ , combat attacks made by friendly SPIDERFANG units score critical hits on unmodified hit rolls of 5+. This also affects Companion weapons. Moonlit Hide: While the Bad Moon is Grinnin’ or Scowlin’ , subtract 1 from the Rend characteristic of combat attacks that target friendly TROGGOTH units. Lunar Squigs: While the Bad Moon is Scowlin’ or Sulkin’ , instead of rolling the dice to determine the Move characteristic of a friendly SQUIG unit, you can use a value of 4. Sneaky Snarlfangs: While the Bad Moon is Sulkin’ or Cacklin’ , friendly GITMOB units can use CHARGE and SHOOT abilities even if they used a RETREAT ability in the same turn."
+ },
+ {
+  "faction": "Gloomspite Gitz",
+  "faction_slug": "gloomspite-gitz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations",
+  "text": "You can pick 1 of the following battle formations for a Gloomspite Gitz army. Each battle formation grants a different ability you can use in the battle. BATTLE PROFILE Name Points Gloomspite Horde 0 Troggherd 0 Squigalanche 0 Gitmob Pack 0 Sunbiter Pack 0 Gittish Tide 0"
+ },
+ {
+  "faction": "Gloomspite Gitz",
+  "faction_slug": "gloomspite-gitz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Gloomspite Horde",
+  "text": "Once Per Turn (Army), End of Your Turn SPREADING LOONACY : When the worshippers of the Bad Moon gather, the energies of the Gloomspite surge through them like a tide, sending them frothing mad. Declare: Pick up to 3 friendly non- SQUIG MOONCLAN or SPIDERFANG units in combat to be the targets. Effect: For each target: Make a pile-in move with the target. Then, pick an enemy unit in combat with the target and roll a D3. On a 2+, inflict an amount of mortal damage on that enemy unit equal to the roll."
+ },
+ {
+  "faction": "Gloomspite Gitz",
+  "faction_slug": "gloomspite-gitz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Troggherd",
+  "text": "Passive HERD HEALING : When troggoths gather in larger numbers, the sheer troggness of the herd serves as a catalyst for their regenerative abilities. Effect: Each time a friendly TROGGOTH unit uses a FIGHT ability , after that ability has been resolved, Heal (D3) that unit."
+ },
+ {
+  "faction": "Gloomspite Gitz",
+  "faction_slug": "gloomspite-gitz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Squigalanche",
+  "text": "Passive BOUNCING FURY : A veritable tide of vicious, impossibly hungry, fang-toothed monsters boing into enemy lines, biting, chewing and swallowing their victims whole. Effect: Each time a friendly SQUIG unit charges, add 1 to the Attacks characteristic of its Fang-filled Gobs , Massive Fang-filled Gobs or Huge Fang-filled Gobs for the rest of the turn."
+ },
+ {
+  "faction": "Gloomspite Gitz",
+  "faction_slug": "gloomspite-gitz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Gitmob Pack",
+  "text": "Your Movement Phase GIT AND RUN : Even as Gitmob grots flee, they won’t turn down a prime opportunity for a stabbing. Declare: Pick a friendly GITMOB unit that is in combat to use this ability. Then, you can pick an enemy unit in combat with that GITMOB unit to be the target. The same enemy unit cannot be picked to be the target of this ability more than once per phase. Effect: If you picked a target, roll a D3. On a 2+, inflict an amount of mortal damage on the target equal to the roll. Then, the unit using this ability can move a distance up to its Move characteristic. It can move through the combat ranges of enemy units but cannot end that move in combat. KEYWORDS CORE, MOVE, RETREAT"
+ },
+ {
+  "faction": "Gloomspite Gitz",
+  "faction_slug": "gloomspite-gitz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Sunbiter Pack",
+  "text": "Once Per Turn (Army), Any Combat Phase EXTRA SNAPPY : The enterprising Gitmob grots of this tribe have equipped their Snarlfangs with sunmetal tooth-caps that absorb Hyshian magic as they pelt towards the foe, giving them a nasty bite indeed. Declare: Pick up to 3 friendly GITMOB units that charged this turn to be the targets. Effect: Add 1 to the Rend characteristic of Companion weapons used by the targets for the rest of turn."
+ },
+ {
+  "faction": "Gloomspite Gitz",
+  "faction_slug": "gloomspite-gitz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Gittish Tide",
+  "text": "Once Per Turn (Army), End of Any Turn GROTS UPON GROTS : The lurking presence of the Moonclans and their constant, nerve-fraying cackling makes it difficult for the enemy to focus on their battle plans. Declare: Pick a friendly non- SQUIG MOONCLAN unit that is contesting an objective to be the target. Effect: For the rest of the turn, add 1 to the control score of the target unit for each model in that unit that is not contesting any objectives ."
+ },
+ {
+  "faction": "Gloomspite Gitz",
+  "faction_slug": "gloomspite-gitz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Heroic Traits > Blessings of the Bad Moon",
+  "text": "HERO only BATTLE PROFILE Name Points THE CLAMMY HAND 0 LOONTOUCHED 20 FIGHT ANOTHER DAY 0 Passive THE CLAMMY HAND : This boss is obviously destined for great things and can call upon vast troglodytic hordes. Effect: Each time a friendly GLOOMSPITE GITZ unit wholly within 12\" of this unit uses the ‘ Rally ’ command, you can make 3 additional rally rolls of D6. Passive LOONTOUCHED : This warlord’s magical prowess is boosted by the Bad Moon’s light. Effect: If this unit is not a WIZARD , it has WIZARD ( 1 ) . Otherwise, add 1 to casting rolls for this unit. Any Combat Phase FIGHT ANOTHER DAY : This warlord has mastered the ignoble art of striking then running away before the enemy can hit back. Effect: If this unit is in combat, roll a dice. On a 3+, this unit can immediately use the ‘ Retreat ’ ability as if it were your movement phase without any mortal damage being inflicted on it."
+ },
+ {
+  "faction": "Gloomspite Gitz",
+  "faction_slug": "gloomspite-gitz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Artefacts of Power > Troglodytic Treasures",
+  "text": "HERO only BATTLE PROFILE Name Points THE CLAMMY COWL 20 BACKSTABBER’S BLADE 0 LEERING GITSHIELD 0 Passive THE CLAMMY COWL : This enchanted hood wreathes its wearer in damp gloom, causing enemies to swing wildly at their blurred outline and weapons to slip in suddenly moistened palms. Effect: Subtract 1 from hit rolls for attacks that target this unit. Once Per Battle, End of Any Turn BACKSTABBER’S BLADE : A slitta made from pure shadow and malice, this blade always finds its victim’s weak spots. Declare: Pick an enemy HERO in combat with this unit to be the target. Effect: Roll a dice. On a 2+, inflict an amount of mortal damage on the target equal to the roll. Passive LEERING GITSHIELD : The spiteful enchantments woven into this hideous shield ensure terrible misfortune falls on any who dare attack its bearer. Effect: Each time an unmodified hit roll for an attack that targets this unit is 1, inflict 1 mortal damage on the attacking unit after the ATTACK ability has been resolved."
+ },
+ {
+  "faction": "Gloomspite Gitz",
+  "faction_slug": "gloomspite-gitz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Spell Lore",
+  "text": "BATTLE PROFILE Name Points Lore of Frazzlegit 0 Lore of the Clammy Dank 0 Lore of the Little Waaagh! 0"
+ },
+ {
+  "faction": "Gloomspite Gitz",
+  "faction_slug": "gloomspite-gitz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Spell Lore > Lore of the Clammy Dank",
+  "text": "Your Hero Phase 6 BAD PORTENTS : The caster raises their staff and loudly proclaims that other mystics have incorrectly predicted the aspect of the Bad Moon; in fact, at this time, the face of the bad moon is… Declare: Pick a friendly GLOOMSPITE GITZ WIZARD to cast this spell, then make a casting roll of 2D6. Effect: Roll a dice. On 1-2, nothing happens. On a 3-5, the face of the Bad Moon moves to the next face. On a 6, pick a new face of the Bad Moon for this battle round. KEYWORDS SPELL, UNLIMITED Your Hero Phase 7 SPORE MAWS : The caster causes the thick spores around them to coalesce into gnashing green mouths. Declare: Pick a friendly GLOOMSPITE GITZ WIZARD to cast this spell, pick up to 3 visible enemy units within 12\" of them to be the targets, then make a casting roll of 2D6. Effect: Roll a D3 for each target. On a 2+, inflict an amount of mortal damage on the target equal to the roll. KEYWORDS SPELL Your Hero Phase 7 THE HAND OF GORK : A ghostly green hand carries a mob of gitz to where they are needed. Declare: Pick a friendly GLOOMSPITE GITZ WIZARD to cast this spell, pick a visible friendly GLOOMSPITE GITZ unit wholly within 12\" of them and not in combat to be the target, then make a casting roll of 2D6. Effect: Remove the target from the battlefield and set it up again on the battlefield wholly within 24\" of the caster and more than 9\" from all enemy units. KEYWORDS SPELL"
+ },
+ {
+  "faction": "Gloomspite Gitz",
+  "faction_slug": "gloomspite-gitz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Spell Lore > Lore of Frazzlegit",
+  "text": "Your Hero Phase 6 BRIGHT FRIGHT : Sensing that the Gitz might be getting stuck in a bit beyond their depth, or maybe because they think a bit more battlefield anarchy might be in order, the caster summons a great scowling image of Glareface Frazzlegit to spook the horde into moving away from the foe. Declare: Pick a friendly GLOOMSPITE GITZ WIZARD to cast this spell, pick up to 3 friendly visible GLOOMSPITE GITZ units wholly within 12\" of them to be the targets, then make a casting roll of 2D6. Effect: Each target can immediately use a RETREAT ability as if it was your movement phase. No mortal damage is inflicted on the targets by those RETREAT abilities. KEYWORDS SPELL, UNLIMITED Your Hero Phase 6 GITSPEED : Rubbing a bit of scavenged sunmetal between his clammy palms and spitting a curse that causes his tongue to sizzle, the caster imbues nearby Gitz with a dose of sneaky swiftness. Declare: Pick a friendly GLOOMSPITE GITZ WIZARD to cast this spell, then make a casting roll of 2D6. Effect: Until the start of your next turn, add 2\" to the Move characteristic of friendly non- TROGGOTH GLOOMSPITE GITZ units while they are wholly within 12\" of this unit. KEYWORDS SPELL Your Hero Phase 6 GAZE OF GLAREFACE : The caster redirects Frazzlegit’s fearsome glare at the enemy, forcing them to shield their eyes and stumble about blindly. Declare: Pick a friendly GLOOMSPITE GITZ WIZARD to cast this spell, pick a visible enemy unit within 18\" of them to be the target, then make a casting roll of 2D6. Effect: Until the start of your next turn: The target cannot use RUN abilities. Halve the Range characteristic of the target’s ranged weapons. KEYWORDS SPELL"
+ },
+ {
+  "faction": "Gloomspite Gitz",
+  "faction_slug": "gloomspite-gitz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Spell Lore > Lore of the Little Waaagh!",
+  "text": "Your Hero Phase 6 BRIGHT FRIGHT : The shaman covers the land in a bristly slime, the hairs of which cause unbearable itching. Declare: Pick a friendly GLOOMSPITE GITZ WIZARD to cast this spell, pick an objective within 18\" of this unit to be the target, then make a casting roll of 2D6. Effect: Until the start of your next turn, subtract 1 from wound rolls for attacks made by enemy units while they are contesting the target objective. KEYWORDS SPELL, UNLIMITED Your Hero Phase 7 GITSPEED : The wizard shines with the eerie light of the Bad Moon, drawing in troglodytic hordes. Declare: Pick a friendly GLOOMSPITE GITZ WIZARD to cast this spell, then make a casting roll of 2D6. Effect: For the rest of the turn, if a friendly Bad Moon Loonshrine uses the ‘Moonclan Lairs’ ability, you can set up the replacement unit wholly within 6\" of this unit and more than 3\" from all enemy units instead of wholly within 12\" of that Bad Moon Loonshrine . KEYWORDS SPELL Your Hero Phase 6 GAZE OF GLAREFACE : Bubble-like fungal growths appear all over nearby gitz that, when popped, shoot them into the air with a wet ‘thwip’. Declare: Pick a friendly GLOOMSPITE GITZ WIZARD to cast this spell, pick a visible friendly GLOOMSPITE GITZ unit wholly within 12\" of them to be the target, then make a casting roll of 2D6. Effect: Until the start of your next turn, each time an ability inflicts damage points on the target, after the ability has been resolved, the target can move up to 3\". It can move through the combat ranges of enemy units but can only end that move in combat with units it was in combat with at the start of that move. It does not have to end the move in combat. KEYWORDS SPELL"
+ },
+ {
+  "faction": "Gloomspite Gitz",
+  "faction_slug": "gloomspite-gitz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Manifestation Lore",
+  "text": "BATTLE PROFILE Name Points Dank Manifestations 0"
+ },
+ {
+  "faction": "Gloomspite Gitz",
+  "faction_slug": "gloomspite-gitz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Manifestation Lore > Dank Manifestations",
+  "text": "Your Hero Phase 6 SUMMON MORK’S MIGHTY MUSHROOM : The shaman takes a small mushroom and hurls it with all his might. When it lands, it sprouts impossibly quickly into a gigantic skullshroom, a fungus said to grow between Mork’s own toes. Declare: If there is not a friendly Mork’s Mighty Mushroom on the battlefield, pick a friendly GLOOMSPITE GITZ WIZARD to cast this spell, then make a casting roll of 2D6. Effect: Set up a Mork’s Mighty Mushroom wholly within 12\" of the caster and visible to them. KEYWORDS SUMMON, SPELL Your Hero Phase 6 SUMMON SCUTTLETIDE : The shaman grasps a small jade amulet in which a skullback spider is imprisoned and uses it to call forth a seething mass of the trapped creature’s kin. Declare: If there is not a friendly Scuttletide on the battlefield, pick a friendly GLOOMSPITE GITZ WIZARD to cast this spell, then make a casting roll of 2D6. Effect: Set up a Scuttletide wholly within 12\" of the caster, visible to them and more than 9\" from all enemy units. KEYWORDS SUMMON, SPELL Your Hero Phase 7 SUMMON SCRAPSKUTTLE’S ARACHNACAULDRON : The shaman whistles loudly, calling the squealing, bubbling Scrapskuttle’s Arachnacauldron to their side. Declare: If there is not a friendly Scrapskuttle’s Arachnacauldron on the battlefield, pick a friendly GLOOMSPITE GITZ WIZARD to cast this spell, then make a casting roll of 2D6. Effect: Set up a Scrapskuttle’s Arachnacauldron wholly within 12\" of the caster, visible to them and more than 9\" from all enemy units. KEYWORDS SUMMON, SPELL Your Hero Phase 7 SUMMON MALEVOLENT MOON : The shaman transforms a loonstone statue into a huge glowing terror and lets it loose on the battlefield."
+ },
+ {
+  "faction": "Gloomspite Gitz",
+  "faction_slug": "gloomspite-gitz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Manifestation Lore > Dank Manifestations",
+  "text": "Your Hero Phase 7 SUMMON MALEVOLENT MOON : The shaman transforms a loonstone statue into a huge glowing terror and lets it loose on the battlefield. Declare: If there is not a friendly Malevolent Moon on the battlefield, pick a friendly GLOOMSPITE GITZ WIZARD to cast this spell, then make a casting roll of 2D6. Effect: Set up a Malevolent Moon wholly within 12\" of the caster, visible to them and more than 9\" from all enemy units. KEYWORDS SUMMON, SPELL"
+ },
+ {
+  "faction": "Gloomspite Gitz",
+  "faction_slug": "gloomspite-gitz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Special Knick-Knacks",
+  "text": "Special Knick-knacks are unique enhancements that can be given to non- HERO GLOOMSPITE GITZ units. A unit can only have 1 Special Knick-knack. BATTLE PROFILE Name Points FIZZCAP 10 SPOOFSHROOMS 10 GLITZY BITZ ROLLA 10 Once Per Battle, Any Hero Phase FIZZCAP : Upon eating this fungus, the ingester’s brain fizzes and pops, and an arcane conjuration bursts out of their mouth, usually with fatal effect. Effect: This unit can use a SUMMON SPELL ability from the manifestation lore you picked during army composition as if it had WIZARD ( 1 ) . Instead of making a casting roll for that spell, the casting roll is 12 and cannot be modified. That spell cannot be unbound . Then, if this unit is not MOONCLAN , roll a dice. On a 1-4, 1 model in this unit is automatically slain. End of Any Turn SPOOFSHROOMS : These warriors carry a large number of these light, powdery fungi, which can be hurled on the ground for a quick, bouncy getaway. Effect: Roll a dice. If this unit is GITMOB , roll D3+3 instead. This unit can move a distance in inches up to the roll. It can move through the combat ranges of enemy units but cannot end that move in combat . KEYWORDS MOVE Start of Any Turn GLITZY BITZ ROLLA : The owner of this highly polished dice often rolls it to see if today is a ‘lucky’ day. Troggoths, being as dumb as a bag of hammers, are especially susceptible to the effects. Effect: Spend 1 rage dice . If your opponent’s fury level is lower than yours, they must increase their fury level by 1, to a maximum of 7. If this unit is a non- TROGGOTH unit, add 1 to wound rolls for its attacks for the rest of the turn. If this unit is a TROGGOTH , pick 1 of the following effects to apply for the rest of the turn: Set the Damage characteristic of this unit’s Colossal Boulder Club to 6."
+ },
+ {
+  "faction": "Gloomspite Gitz",
+  "faction_slug": "gloomspite-gitz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Special Knick-Knacks",
+  "text": ", pick 1 of the following effects to apply for the rest of the turn: Set the Damage characteristic of this unit’s Colossal Boulder Club to 6. Set the Damage characteristic of this unit’s Throwin’ Boulders to 3. Set the Attacks characteristic of this unit’s Noxious Vomit to 3. Army of Renown"
+ },
+ {
+  "faction": "Gloomspite Gitz",
+  "faction_slug": "gloomspite-gitz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Da King’s Gitz",
+  "text": "When you pick the Gloomspite Gitz faction for your army, you can choose for it to be a Da King’s Gitz Army of Renown . If you do so, use the faction rules on these pages instead of the Gloomspite Gitz faction rules . Every unit in your army must be drawn from the units listed in the roster options below. All units in your army gain the KING’S GITZ keyword. ROSTER OPTIONS Skragrott, the Loonking (must be included and must be your general ) Any MOONCLAN units 0-1 Bad Moon Loonshrine 0-2 non- HERO TROGGOTH units You cannot include Regiments of Renown"
+ },
+ {
+  "faction": "Gloomspite Gitz",
+  "faction_slug": "gloomspite-gitz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Da King’s Gitz > Battle Traits",
+  "text": "Passive THE MOON AND THE LOON : The Bad Moon’s gaze frequently falls upon the Loonking and his court. Effect: While a friendly unit is wholly within 9\" of a friendly Skragrott , a friendly Malevolent Moon or a friendly Bad Moon Loonshrine : Add 5 to the control scores of friendly non- SQUIG MOONCLAN units. Instead of rolling the dice to determine the Move characteristic of a friendly SQUIG unit, you can use a value of 4. Passive DA KING’S GUARDS : Skragrott keeps a personal retinue of troggoths to protect him and favoured members of his court. Effect: While a friendly TROGGOTH unit is within the combat range of a friendly HERO : That HERO has WARD ( 4+ ) . Each time you make a successful ward roll for that HERO , allocate 1 damage point to a friendly TROGGOTH unit within that HERO ’s combat range after the damage sequence for that HERO has been resolved (ward rolls cannot be made for those damage points). Once Per Battle, Deployment Phase DA LOONKING’S COURT : The vast hoards of looted treasure held in the deepest, darkest caverns of the Loonking’s empire are legendary. Declare: Pick up to D3 friendly non- UNIQUE KING’S GITZ HEROES that do not have an enhancement. Effect: Give each HERO 1 enhancement from the ‘Da King’s Gitz’ Army of Renown rules. Designer’s Note: These enhancements are given to the HEROES during the deployment phase , not during army composition ."
+ },
+ {
+  "faction": "Gloomspite Gitz",
+  "faction_slug": "gloomspite-gitz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Da King’s Gitz > Heroic Traits",
+  "text": "HERO only Once Per Battle (Army), End of Your Turn DA KING’S ADJUTANT : This grot is tasked with cajoling as many of the Loonking’s followers into battle as possible. Declare: You cannot use this ability and the Bad Moon Loonshrine ’s ‘Moonclan Lairs’ ability in the same turn. If this unit is within 12\" of a friendly Bad Moon Loonshrine , pick a friendly non- reinforced , non- HERO , non- MONSTER KING’S GITZ unit that has been destroyed to be the target. Effect: Set up a replacement unit wholly within 12\" of a friendly Bad Moon Loonshrine and more than 3\" from all enemy units. Your Movement Phase GLAREJESTER : This grot thinks he’s the funniest in all of grotdom. Everyone else disagrees. Declare: Pick a friendly INFANTRY unit within 3\" of this unit and that is not in combat to be the target. Effect: Roll a D3. Add the roll to the distance the target can move when using MOVE abilities this phase. If the target ends a move in this phase within 3\" of this HERO , inflict an amount of mortal damage on this HERO equal to the roll."
+ },
+ {
+  "faction": "Gloomspite Gitz",
+  "faction_slug": "gloomspite-gitz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Da King’s Gitz > Artefacts of Power",
+  "text": "HERO only Deployment Phase MOONHONED SHIV : This grot is either the most or least trusted in Skragrott’s court, as the Loonking has gifted them a stabby thing that has been quenched in the light of the Bad Moon. Effect: Pick 1 of this unit’s non- Companion melee weapons. Add 1 to the Attacks characteristic of that weapon for the rest of the battle. In addition, each time this unit uses a RETREAT ability, add 1 to the Attacks characteristic of that weapon for the rest of the battle. This unit can be affected by this ability multiple times and the effects are cumulative. Passive LOONSTONE MEDALLION : The medallion hanging around this grot’s neck grants them uncanny luck, which means they must be crucial to the Loonking’s plans. It probably won’t end well for them. Effect: This unit has WARD ( 6+ ) . While this unit is contesting an objective that is not being contested by any other friendly units, it has WARD ( 5+ ) . End of Any Turn WOTNOT OF PRESTIGE : The bearer of this junk-like trinket doesn’t really know what it does. The Loonking assured them it holds great power, and they weren’t really in a position to refuse. Now the question is how to make it work… Declare: Pick a point on the battlefield within 9\" of this unit. Each visible enemy unit within 3\" of that point is a target. Effect: Roll a D3 for each target. On a 2+, inflict an amount of mortal damage on the target equal to the roll."
+ },
+ {
+  "faction": "Gloomspite Gitz",
+  "faction_slug": "gloomspite-gitz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Da King’s Gitz > Spell Lore",
+  "text": "Your Hero Phase 5 DA LOONKING’S COMMAND : With a puzzling gesture from the shaman, a greenish-yellow glow emanates from the best warriors of Da King’s Gitz, spurring them on to perform acts of even greater wickedness in Skragrott’s name. Declare: Pick a friendly KING’S GITZ WIZARD to cast this spell, pick a visible friendly unit wholly within 18\" of them to be the target, then make a casting roll of 2D6. Effect: Until the start of your next turn: Add 1 to the Attacks characteristic of melee weapons used by champions in the target unit. If the target uses the ‘ Rally ’ command, you can make 1 additional rally roll of D6. Add 1 to the target’s control score . KEYWORDS SPELL, UNLIMITED Your Hero Phase 5 RIGHT GITZ IN DA RIGHT PLACE : While fiddling with a squig-skin pouch, the wild-eyed shaman mutters gobbledegook interspersed with the name of a hated enemy. Declare: Pick a friendly KING’S GITZ WIZARD to cast this spell, pick a visible friendly unit wholly within 18\" of them to be the target, then make a casting roll of 2D6. Effect: The target’s weapons have Anti- HERO (+1 Rend) until the start of your next turn. KEYWORDS SPELL"
+ },
+ {
+  "faction": "Gloomspite Gitz",
+  "faction_slug": "gloomspite-gitz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Da King’s Gitz > Manifestation Lore",
+  "text": "Your Hero Phase 7 SUMMON MALEVOLENT MOON : The shaman transforms a loonstone statue into a huge glowing terror and lets it loose on the battlefield. Declare: If there is not a friendly Malevolent Moon on the battlefield, pick a friendly GLOOMSPITE GITZ WIZARD to cast this spell, then make a casting roll of 2D6. Effect: Set up a Malevolent Moon wholly within 12\" of the caster, visible to them and more than 9\" from all enemy units. KEYWORDS SPELL, SUMMON Army of Renown"
+ },
+ {
+  "faction": "Gloomspite Gitz",
+  "faction_slug": "gloomspite-gitz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Droggz’s Gitmob",
+  "text": "When you pick the Gloomspite Gitz faction for your army, you can choose for it to be a Droggz’s Gitmob Army of Renown . If you do so, use the faction rules below instead of the Gloomspite Gitz faction rules . Every unit in your army must be drawn from the units listed in the roster options box opposite. All units in your army gain the DROGGZ’S GITMOB keyword. ROSTER OPTIONS Droggz da Sunchompa (must be included and must be your general ) Any GITMOB units You cannot include Regiments of Renown"
+ },
+ {
+  "faction": "Gloomspite Gitz",
+  "faction_slug": "gloomspite-gitz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Droggz’s Gitmob > Battle Traits",
+  "text": "Deployment Phase GET AROUND ’EM : With a cackle, groups of Gitmob grots race off into the distance to surround and outflank the foe. Declare: Pick a friendly DROGGZ’S GITMOB unit that has not been deployed. Effect: Set up that unit in reserve outflanking the enemy . It has now been deployed. KEYWORDS DEPLOY Once Per Turn (Army), Any Combat Phase GLOWERING LIGHT : Those who are suddenly bathed in Glareface Frazzlegit’s light are momentarily stunned by his fearsome gloweriness. Declare: Pick an enemy unit in combat with a friendly DROGGZ’S GITMOB unit that has charged this turn to be the target. Effect: Roll a dice. On a 3+, for the rest of the turn, the target cannot make a pile-in move when it is picked to use a FIGHT ability . Your Movement Phase SURPRISE, YA GITZ! : When the front lines are engaged, the Gitmob flanking forces launch their ambush. Declare: Pick a friendly DROGGZ’S GITMOB unit that is outflanking the enemy . Effect: Set up that unit on the battlefield wholly within 6\" of a battlefield edge and more than 9\" from all enemy units. Once Per Turn (Army), Enemy Combat Phase DIS FIGHT’S NOT FER ME : Gitmob grots are hard to pin down in combat, whether they are riding Snarlfangs or chariots - or just not up for a fight when the odds are against them. Declare: Pick a friendly DROGGZ’S GITMOB unit that is in combat with any enemy units that charged this turn and is not in combat with any enemy units that did not charge this turn to be the target. Effect: Roll a dice. On a 4+, the target can immediately use the ‘ Retreat ’ ability as if it were your movement phase."
+ },
+ {
+  "faction": "Gloomspite Gitz",
+  "faction_slug": "gloomspite-gitz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Droggz’s Gitmob > Heroic Traits",
+  "text": "Passive STICK ’EM AND RUN : This grot might not be known for their bravery, but they're still alive - which is more than can be said for most of their rivals. Effect: Each time this unit uses a RETREAT ability or the ‘Frazzlegit’s Flame Stream’ ability, before moving this unit, pick an enemy unit in combat with it and roll a D3. On a 2+, inflict an amount of mortal damage on the target equal to the roll. Passive PLUCKY GIT : This swaggering boss radiates confidence, shouting encouragements' to the ladz and taunting the foe with obscene gestures. Confidence is a fragile thing for a grot, however... Effect: While this unit has no damage points, friendly DROGGZ’S GITMOB units have WARD ( 6+ ) while they are wholly within 9\" of this unit."
+ },
+ {
+  "faction": "Gloomspite Gitz",
+  "faction_slug": "gloomspite-gitz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Droggz’s Gitmob > Artefacts of Power",
+  "text": "( HERO only) Once Per Battle (Army), Your Shooting Phase GLAREFACE’S GRIN : When this crescent-shaped shard of metal strikes the ground, it releases the concentrated Hyshian light trapped within it. Declare: Pick a point on the battlefield within 9\" of this unit. Each visible enemy unit within 3\" of that point is a target. Effect: Roll a D3 for each target. On a 2+, inflict an amount of mortal damage on the target equal to the roll."
+ },
+ {
+  "faction": "Gloomspite Gitz",
+  "faction_slug": "gloomspite-gitz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Droggz’s Gitmob > Spell Lore",
+  "text": "Your Hero Phase 5 FRAZZLEBLAST : With a wild gesticulation, the shaman imbues the Gitmobs' weapons with Frazzlegit's burning light. Declare: Pick a friendly WIZARD to cast this spell, pick a visible friendly DROGGZ’S GITMOB unit wholly within 12\" of them to be the target, then make a casting roll of 2D6. Effect: Until the start of your next turn, the target’s melee weapons have Crit (2 Hits) . KEYWORDS SPELL, UNLIMITED"
+ },
+ {
+  "faction": "Gloomspite Gitz",
+  "faction_slug": "gloomspite-gitz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Droggz’s Gitmob > Manifestation Lore",
+  "text": "Your Hero Phase 6 SUMMON MORK’S MIGHTY MUSHROOM : The shaman takes a small mushroom and hurls it with all his might. When it lands, it sprouts impossibly quickly into a gigantic skullshroom, a fungus said to grow between Mork's own toes. Declare: If there is not a friendly Mork’s Mighty Mushroom on the battlefield, pick a friendly GLOOMSPITE GITZ WIZARD to cast this spell, then make a casting roll of 2D6. Effect: Set up a Mork’s Mighty Mushroom wholly within 12\" of the caster and visible to them. KEYWORDS SPELL, SUMMON Army of Renown"
+ },
+ {
+  "faction": "Gloomspite Gitz",
+  "faction_slug": "gloomspite-gitz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Trugg’s Troggherd",
+  "text": "When you pick the Gloomspite Gitz faction for your army, you can choose for it to be a Trugg’s Troggherd Army of Renown . If you do so, use the faction rules below instead of the Gloomspite Gitz faction rules . Every unit in your army must be drawn from the units listed in the roster options box below. All units in your army gain the TRUGG’S TROGGHERD keyword. ROSTER OPTIONS Trugg the Troggoth King (must be included and must be your general ) Dankhold Troggboss Dankhold Troggoth Fellwater Troggoths Rockgut Troggoths You cannot include Regiments of Renown or faction terrain"
+ },
+ {
+  "faction": "Gloomspite Gitz",
+  "faction_slug": "gloomspite-gitz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Trugg’s Troggherd > Battle Traits",
+  "text": "Passive HERD HEALING : When troggoths gather in larger numbers, the sheer troggness of the herd serves as a catalyst for their regenerative abilities. Effect: Each time a friendly TROGGOTH unit uses a FIGHT ability , after that ability has been resolved, Heal (D3) that unit. Passive AURA OF HAYWIRE MAGIC : Those who trudge beside the Troggoth King on his long march are imbued with the same mysterious powers their liege unwittingly channels. Effect: The effects of a friendly Trugg ’s ‘Malfunctioning Leystone’ ability affect friendly TRUGG’S TROGGHERD units anywhere on the battlefield instead of only those wholly within 12\" of that friendly Trugg . Passive MOON-TOUGHENED HIDE : The light of the Bad Moon illuminates the troggoths’ craggy hides, its madcap magic rendering them even more resilient than usual. Effect: In battle rounds 2 and 3, subtract 1 from the Rend characteristic of melee weapons used for attacks that target friendly TRUGG’S TROGGHERD units. Once Per Battle (Army), Deployment Phase LIVING LANDMARK : Despite their great size, when some troggoths lie down for a snooze, they are easy to mistake for just another part of the landscape… Declare: Pick a friendly TRUGG’S TROGGHERD unit that has not been deployed. Effect: Set up that unit in reserve as a living landmark . It has now been deployed. KEYWORDS DEPLOY Your Movement Phase BROKEN SLUMBER : Disturbed by the approach of an enemy army, dozing troggoths – presumed till now to be part of the scenery – wake up in a blurry rage, fists and clubs swinging. Declare: Pick a friendly TRUGG’S TROGGHERD unit that is a living landmark . Effect: Set up that unit anywhere on the battlefield wholly within 3\" of a terrain feature and more than 9\" from all enemy units."
+ },
+ {
+  "faction": "Gloomspite Gitz",
+  "faction_slug": "gloomspite-gitz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Trugg’s Troggherd > Heroic Traits",
+  "text": "HERO only Once Per Battle, Any Combat Phase LOONSTONE TEEF : This troggoth once jammed shards of loonstone into their gums to replace missing teeth. They have since been driven mad by a constant cackling that echoes around their skull, rendering them particularly irascible and dangerous. Effect: This unit can use 2 FIGHT abilities this phase. After the first is used, however, this unit has STRIKE-LAST for the rest of the turn."
+ },
+ {
+  "faction": "Gloomspite Gitz",
+  "faction_slug": "gloomspite-gitz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Trugg’s Troggherd > Artefacts of Power",
+  "text": "HERO only Once Per Battle, Any Movement Phase CRUNCHY SHINIES : When eaten, these glimmering crystal shards allow a troggoth to move with something approaching agility – a novel feeling for these naturally lumbering brutes. Effect: For the rest of the turn, add 3 to run rolls and charge rolls for this unit."
+ },
+ {
+  "faction": "Gloomspite Gitz",
+  "faction_slug": "gloomspite-gitz",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Snarlpack Huntaz",
+  "text": "Gitmobs are always on the hunt, whether it is for prey, territory or Frazzlegit himself. When claiming new lands for their pack, a Snarlboss will ride out ahead alongside a hand-picked scouting party known as Snarlpack Huntaz. These are often grots who have survived more than two or three battles with only a few chunks bitten off, or else riders who have yet not tried to shove a blade into their Snarlboss’s back. They strike out at high speed in a chaotic flurry of fangs, claws and spears, ready to savage all who dare oppose them. Accompanying their Snarlboss are the grot’s loyal Wolfgit Retinue, most ferocious of their pack’s riders and adept at protecting their leader with sun-charged spear and bow. Following behind come the giant wolves of the Snarlpack Cavalry, each bearing two bickering grots with great lances pointed forward on the thrust. These riders hit hard and fast, able to square up to larger foes that lone grot riders would struggle to manage. A savvy Snarlboss will also protect his rear and flanks with a few Sunsteala Wheelas, perfect for hitting fast and precisely – and for retreating just as quickly, should things go awry. This Spearhead army consists of the following units: General Snarlboss Units 2 Wolfgit Retinue 3 Snarlpack Cavalry 3 Snarlpack Cavalry 1 Sunsteala Wheela 1 Sunsteala Wheela",
+  "spearhead_name": "Snarlpack Huntaz"
+ },
+ {
+  "faction": "Gloomspite Gitz",
+  "faction_slug": "gloomspite-gitz",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Snarlpack Huntaz > Battle Traits",
+  "text": "Passive FAST AS FRAZZLEGIT : The Gitmob packs are always on the move, a speeding melange of howling Snarlfangs and cackling grots. Effect: Friendly units can use CHARGE abilities even if they used a RETREAT ability in the same turn. In addition, no mortal damage is inflicted on friendly units by RETREAT abilities.",
+  "spearhead_name": "Snarlpack Huntaz"
+ },
+ {
+  "faction": "Gloomspite Gitz",
+  "faction_slug": "gloomspite-gitz",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Snarlpack Huntaz > Regiment Abilities",
+  "text": "Pick 1 of the following regiment abilities. Once Per Battle, Deployment Phase FLANKIN' FORCE : The Snarlboss has sent some of his warriors to sneakily outflank the enemy. Effect: Pick up to 2 friendly units. Remove them from the battlefield and set them up again anywhere on the battlefield more than 6\" from all enemy units. Passive FRAZZLEBOOM : When a Sunsteala Wheela is destroyed, the metal shards hammered into it become unstable, burning nearby enemies as the Hyshian energies trapped within them are released. Effect: Each time a friendly WAR MACHINE is destroyed, before removing it from play, pick an enemy unit within 3\" of that WAR MACHINE and roll a D3. On a 2+, inflict an amount of mortal damage on that unit equal to the roll.",
+  "spearhead_name": "Snarlpack Huntaz"
+ },
+ {
+  "faction": "Gloomspite Gitz",
+  "faction_slug": "gloomspite-gitz",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Snarlpack Huntaz > Enhancements",
+  "text": "Give your general 1 of the following enhancements. Once Per Battle, Any Combat Phase KUNNIN' AS A SNARLFANG : This general knows the perfect time for the ladz to stab their enemies in the middle of a fight. Effect: For the rest of the turn, add 1 to the Rend characteristic of melee weapons used by friendly units while they are wholly within 12\" of the bearer. Once Per Battle, Enemy Movement Phase SUNSTEALA SHARD : This grot holds aloft a sliver of metal that absorbs ambient light, surrounding them in a patch of darkness that is perfect for the Gitmob to hide in. Effect: For the rest of the turn, friendly units cannot be targeted by shooting attacks while they are wholly within 6\" of this unit, unless the attacking unit is in combat with the target unit. Once Per Battle, Any Combat Phase GLARE OF FRAZZLEGIT : With a yell, the Snarlboss releases the Hyshian light captured within his jaggedy blade. Declare: Pick an enemy unit in combat with your general to be the target. Effect: Subtract 1 from hit rolls for attacks made by the target for the rest of the turn. End of Any Turn DEVIOUS BACKSTABBA : This grot has a scary number of shivs secreted about their body, and they are always ready to stab anyone who they think is too bossy. Declare: Pick an enemy HERO in combat with this unit to be the target. Effect: Roll a D3. On a 2+, inflict an amount of mortal damage on the target equal to the roll.",
+  "spearhead_name": "Snarlpack Huntaz"
+ },
+ {
+  "faction": "Gloomspite Gitz",
+  "faction_slug": "gloomspite-gitz",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Snarlpack Huntaz > Warscrolls",
+  "text": "• SPEARHEAD WARSCROLL • Snarlboss 12\" 5 5+ 2 Snarlbosses are the leaders of the Gitmobs. They prove their right to lead by somehow convincing an Alpha Snarlfang to carry them into battle – usually by demonstrating that they are much sneakier and meaner than their prospective mount. Doing so also means that the other Snarlfangs of their pack will follow their lead as they run rings around the enemy, filling them full of arrows before dashing in to finish the job when the smell of weakness is in the air. • SPEARHEAD WARSCROLL • Snarlboss MELEE WEAPONS Atk Hit Wnd Rnd Dmg Boss Loppa Boss Loppa 5 4+ 4+ 1 2 Snarlfang’s Slavering Jaws [ Companion ] Snarlfang’s Slavering Jaws Companion 2 4+ 3+ - 2 Once Per Turn (Army), Your Hero Phase GREAT SNARLIN' HOWL : The howls of this boss’s Snarlfang Alpha drive its pack into a frenzy. Declare: Pick this unit and another friendly unit within this unit’s combat range to be the targets. Effect: Roll a dice. On a 3+, add 1 to the Rend characteristic and the Attacks characteristic of the targets’ Companion melee weapons for the rest of the turn. KEYWORDS HERO , CAVALRY • SPEARHEAD WARSCROLL • Sunsteala Wheelas 12\" 6 4+ 2 The Sunsteala Wheelas favoured by the Gitmobs are built with lightweight wicker frames, allowing them to close down on the foe quickly and hit hard before deftly weaving out of combat. Their drivers favour stikkas and bows, weapons perfect for sneaky strikes from a reasonably safe distance.",
+  "spearhead_name": "Snarlpack Huntaz"
+ },
+ {
+  "faction": "Gloomspite Gitz",
+  "faction_slug": "gloomspite-gitz",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Snarlpack Huntaz > Warscrolls",
+  "text": "Their drivers favour stikkas and bows, weapons perfect for sneaky strikes from a reasonably safe distance. • SPEARHEAD WARSCROLL • Sunsteala Wheelas RANGED WEAPONS Rng Atk Hit Wnd Rnd Dmg Grot Bow Grot Bow 15\" 2 4+ 5+ - 1 MELEE WEAPONS Atk Hit Wnd Rnd Dmg Wheela Slicers and Stabbin’ Stikka Wheela Slicers and Stabbin’ Stikka 4 4+ 4+ - 1 Snarlfangs’ Slavering Jaws [ Companion ] Snarlfangs’ Slavering Jaws Companion 4 4+ 3+ - 2 Your Movement Phase CAREENING DESTRUCTION : Lurching uncontrollably across the battlefield at death-defying speed, Sunsteala Wheelas careen straight through their enemies leaving behind trails of devastation. Effect: This unit can move a distance up to its Move characteristic. It can pass through other models and the combat ranges of enemy units, but it cannot end that move in combat . Then, pick up to 1 enemy INFANTRY unit that this unit passed across during that move to be the target. Inflict D3 mortal damage on the target. Designer’s Note: This unit can use this ability even if it is in combat. KEYWORDS CORE, MOVE KEYWORDS WAR MACHINE • SPEARHEAD WARSCROLL • Snarlpack Cavalry 12\" 3 4+ 1 Giant Snarlfangs are, as the name suggests, particularly large and impressive specimens of their kind. So big are they that a pair of grots can ride a single such beast into battle, each rider guarding one of their mount’s flanks with jabs from their ‘skewas’, freeing up the Snarlfang to tear into enemies directly in front at its leisure.",
+  "spearhead_name": "Snarlpack Huntaz"
+ },
+ {
+  "faction": "Gloomspite Gitz",
+  "faction_slug": "gloomspite-gitz",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Snarlpack Huntaz > Warscrolls",
+  "text": "guarding one of their mount’s flanks with jabs from their ‘skewas’, freeing up the Snarlfang to tear into enemies directly in front at its leisure. • SPEARHEAD WARSCROLL • Snarlpack Cavalry MELEE WEAPONS Atk Hit Wnd Rnd Dmg Pointy Skewas [ Charge (+1 Damage) ] Pointy Skewas Charge (+1 Damage) 4 4+ 5+ - 1 Giant Snarlfang’s Jaws [ Companion ] Giant Snarlfang’s Jaws Companion 3 4+ 3+ - 2 Passive FRAZZLEBURNED SCRAP : After the boss, Snarlpack Cavalry often get first dibs on loot, and they have an eye for the scrap and wotsits with the best light-absorbing properties. In battle, they have learned how to unleash these energies from their weapons at just the right moment, dazzling the enemy as their charge hits home. Effect: This unit has STRIKE-FIRST if it charged in the same turn. KEYWORDS CAVALRY • SPEARHEAD WARSCROLL • Wolfgit Retinue 12\" 2 5+ 1 Those lucky grots of a Snarlboss’s retinue are often hand-picked from the least cowardly of the pack. They ride close to their leader and fend off attackers with stikkas and bows. These canny and adaptable fighters are a cut above the rest of their wolf-riding kin, and they possess an excellent sense for danger. Unfortunately for Wolfgit Retinues, they are often seen by their Snarlboss as potential rivals. Should they get too big for their boots, the boss is close enough to dispose of them at the drop of his fancy hat.",
+  "spearhead_name": "Snarlpack Huntaz"
+ },
+ {
+  "faction": "Gloomspite Gitz",
+  "faction_slug": "gloomspite-gitz",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Snarlpack Huntaz > Warscrolls",
+  "text": "Should they get too big for their boots, the boss is close enough to dispose of them at the drop of his fancy hat. • SPEARHEAD WARSCROLL • Wolfgit Retinue RANGED WEAPONS Rng Atk Hit Wnd Rnd Dmg Grot Bow Grot Bow 15\" 2 4+ 5+ - 1 MELEE WEAPONS Atk Hit Wnd Rnd Dmg Stabbin’ Stikka Stabbin’ Stikka 2 4+ 5+ - 1 Snarlfang’s Slavering Jaws [ Companion ] Snarlfang’s Slavering Jaws Companion 2 4+ 3+ - 2 1 model is armed with a Grot Bow and Snarlfang’s Slavering Jaws, and 1 model is armed with a Stabbin’ Stikka and Snarlfang’s Slavering Jaws. Passive I GOT DIS, BOSS : Wolfgitz look out for their Snarlboss in battle, if only because it makes knifin’ him later easier once he’s let his guard down. Effect: While a friendly Snarlboss is within this unit’s combat range , both this unit and that Snarlboss have WARD ( 5+ ) . KEYWORDS CAVALRY",
+  "spearhead_name": "Snarlpack Huntaz"
+ },
+ {
+  "faction": "Gloomspite Gitz",
+  "faction_slug": "gloomspite-gitz",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Bad Moon Madmob",
+  "text": "When the Bad Moon careens through the sky and the realms are bathed in its loonlight, once-craven grots pour from tunnels and caves to overrun the Mortal Realms. Empowered by their lunar deity, these Madmobs overwhelm the enemy with sheer numbers. Waves of greenskins tear down foes with shivs, spears and squigs. At their rear swaggers their Loonboss, screaming orders and threats with wild abandon. Whilst their underlings do the dying, these moon-helmeted bullies circle about, waiting for a chance to pierce an enemy’s lung or slash open a throat with their crooked glaive. At the fore come the Squig Hoppers, sailing over the battlefield with great bounces – and crushing anyone unfortunate enough to be under them when they land. While their rabid squig mounts wreak havoc behind enemy lines with their fang-filled gobs, the reeling foe faces the assault of Rockgut Troggoths wielding menhir-capped mauls. These stone-skinned creatures are so tough that it is near impossible to inflict any meaningful injuries upon them. Emboldened by these lumbering linebreakers, grot Stabbas bring up the rearguard, overwhelming any survivors with their seemingly endless numbers. Hurled nets ensnare targets and bring them to the ground, allowing the cackling grots to plunge rusty shivs into their victims’ flesh. This Spearhead army consists of the following units: General Loonboss Units 10 Moonclan Stabbas 10 Moonclan Stabbas 5 Squig Hoppers 5 Squig Hoppers 3 Rockgut Troggoths",
+  "spearhead_name": "Bad Moon Madmob"
+ },
+ {
+  "faction": "Gloomspite Gitz",
+  "faction_slug": "gloomspite-gitz",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Bad Moon Madmob > Battle Traits",
+  "text": "One of your units of Squig Hoppers is not set up during the deployment phase . Instead, from the third battle round onwards, they can use the Squigalanche ability. Your Movement Phase SQUIGALANCHE : A curious, arrhythmic pounding and cackles of wicked glee in the distance signal the approach of a mob of manic Squig Hoppers! Effect: Set up this unit wholly within your territory, wholly within 3\" of a battlefield edge and more than 6\" from all enemy units. Once Per Battle, Start of the First Battle Round UNDER THE LIGHT OF THE BAD MOON : Grots are always vicious little monsters, but when their god’s light falls upon them, they become an order of magnitude more dangerous. Declare: Pick a territory (either friendly territory or enemy territory) to be under the Light of the Bad Moon . If both players can use this ability, the players roll off and the winner picks a territory to be under the Light of the Bad Moon. The territory picked remains under the Light of the Bad Moon in the first and second battle rounds. In the third and fourth battle rounds, the other territory is under the Light of the Bad Moon. Effect: While a friendly unit is wholly within the territory that is under the Light of the Bad Moon, the appropriate effect below applies to it: Frothing Zealots: If the unit is a Moonclan Stabbas unit, add 3 to its control score . Lunar Squigs: If the unit is a Squig Hoppers unit, no mortal damage is inflicted on it when it uses Retreat abilities. Moonlit Hide: If the unit is a Rockgut Troggoths unit, add 1 to save rolls for it.",
+  "spearhead_name": "Bad Moon Madmob"
+ },
+ {
+  "faction": "Gloomspite Gitz",
+  "faction_slug": "gloomspite-gitz",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Bad Moon Madmob > Regiment Abilities",
+  "text": "Pick 1 of the following regiment abilities. Your Hero Phase THE LUNATIC HORDES : From out of caves and darkened lairs, a stream of ravening grots pours forth into the lurid light of the Bad Moon. Declare: Pick a friendly Moonclan Stabbas unit to use this ability. Effect: You can return up to D3 slain models to that unit. Once Per Battle, (Army) Your Movement Phase THE HAND OF GORK : A bizarre ritual worked before the battle calls down a ghostly green hand that can carry a mob to where they are most needed. Declare: Pick a friendly unit that is not in combat to use this ability. Effect: Remove that unit from the battlefield and set it up again more than 9\" from all enemy units. KEYWORDS CORE",
+  "spearhead_name": "Bad Moon Madmob"
+ },
+ {
+  "faction": "Gloomspite Gitz",
+  "faction_slug": "gloomspite-gitz",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Bad Moon Madmob > Enhancements",
+  "text": "Give your general 1 of the following enhancements. End of Any Turn FIGHT ANOTHER DAY : Your general has mastered the ignoble art of striking then running away before the enemy can hit back. Declare: Pick your general to use this ability if they used a FIGHT ability this turn. Effect: Your general can make a 2D6\" move but cannot end that move in combat . Passive HALLUCINOGENIC FUNGUS BREW : Stolen from the shamans of the Gobbapalooza, this potent brew makes the imbiber almost impervious to pain. However, as the battle progresses, the effects start to wear off. Effect: Your general has WARD ( 4+ ) in the first battle round, WARD ( 5+ ) in the second battle round, and WARD ( 6+ ) in the third and fourth battle rounds. Passive THE CLAMMY COWL : This enchanted hood wreathes its wearer in damp gloom, causing enemies to swing wildly at their blurred outline and weapons to slip in suddenly moistened palms. Effect: Subtract 1 from hit rolls for attacks that target your general. Once Per Battle, Enemy Movement Phase NIGHTSHADE MUSHROOM : This black-capped fungus bursts into a cloud of pitch darkness when tossed into the air. Declare: Pick a friendly unit within your general’s combat range . Effect: That unit cannot be targeted by shooting attacks in the next shooting phase.",
+  "spearhead_name": "Bad Moon Madmob"
+ },
+ {
+  "faction": "Gloomspite Gitz",
+  "faction_slug": "gloomspite-gitz",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Bad Moon Madmob > Warscrolls",
+  "text": "• SPEARHEAD WARSCROLL • Loonboss 5\" 5 4+ 2 6+ A Loonboss never fights fair, ducking and weaving around his enemies and hurling endless mobs of grots at them to wear them down, before finishing them off with a blade to the throat or between the shoulder blades. Some will don moon-shaped helms in homage to their deity, the Bad Moon, in the hopes that it will shine upon their battles and allow them to spread more madness and mayhem. Though they will lay about themselves with impressive commitment if pressed, Loonbosses prefer to lord it over their diminutive minions, urging them into the fray with ear-splitting shrieks of outrage should the grot assault falter. • SPEARHEAD WARSCROLL • Loonboss MELEE WEAPONS Atk Hit Wnd Rnd Dmg Moon-slicer Moon-slicer 5 4+ 4+ 1 D3 Your Hero Phase I'M DA BOSS : Loonbosses prefer to make their minions do all the fighting. Declare: Pick a friendly Moonclan Stabbas unit wholly within 12\" of this unit to be the target. Effect: Pick 1: Beckon the Loonatic Hordes: If the target unit is not in combat , you can return D6 slain models to it. Stab ’Em Good!: Add 1 to hit rolls for attacks made by the target unit until the start of your next turn. KEYWORDS HERO , INFANTRY , WARD ( 6+ ) • SPEARHEAD WARSCROLL • Squig Hoppers D6+8\" 2 6+ 1 Squig Hoppers bounce madly into battle, wreaking havoc on anything they collide with. Each ill-tempered squig has a cackling grot clinging to its back, who flails wildly at nearby enemies as he tries vainly to steer his weird steed. Only the most madcap of grots will attempt to enter the Squig Hoppers’ bounding ranks, for each fang-filled mount is nigh uncontrollable – its rider must simply cling to its bumpy body and hope not to be bucked off amidst the mayhem.",
+  "spearhead_name": "Bad Moon Madmob"
+ },
+ {
+  "faction": "Gloomspite Gitz",
+  "faction_slug": "gloomspite-gitz",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Bad Moon Madmob > Warscrolls",
+  "text": "for each fang-filled mount is nigh uncontrollable – its rider must simply cling to its bumpy body and hope not to be bucked off amidst the mayhem. • SPEARHEAD WARSCROLL • Squig Hoppers MELEE WEAPONS Atk Hit Wnd Rnd Dmg Slitta Slitta 2 4+ 5+ - 1 Squig’s Fang-filled Gob [ Companion ] Squig’s Fang-filled Gob Companion 3 4+ 3+ 1 1 Any Movement Phase BOING! BOING! BOING! : Squig Hoppers can cause considerable damage simply by bouncing on top of their foes as they make their way across the battlefield. Declare: Pick an enemy unit that any models in this unit passed across this phase to be the target, then roll a dice for each model in this unit that did so. Effect: For each 4+, inflict 1 mortal damage on the target. KEYWORDS CAVALRY , FLY • SPEARHEAD WARSCROLL • Moonclan Stabbas 5\" 1 5+ 1 Moonclan Stabbas form ragged ranks that advance upon the foe with gongs clanging and banners waving. Eyes filled with the madness of the Gloomspite, they pour over the enemy lines and stab wildly at everything in their path. Alone, a single grot can do little to an armoured foe, but when the Bad Moon shines and they surge forth in a never-ending horde, they can drag down warriors many times their size. • SPEARHEAD WARSCROLL • Moonclan Stabbas MELEE WEAPONS Atk Hit Wnd Rnd Dmg Stabba Stabba 2 4+ 5+ - 1 Any Combat Phase NETTERS : Moonclan grots use throwing nets to capture Cave Squigs and entangle their foes. Declare: Pick an enemy INFANTRY unit in combat with this unit to be the target. Effect: Roll a dice. On a 2+, subtract 1 from hit rolls for attacks made by the target unit this phase. KEYWORDS INFANTRY • SPEARHEAD WARSCROLL • Rockgut Troggoths 6\" 5 4+ 2 5+ Rockgut Troggoths have stony hides that are proof against blade, bolt and magical blast alike.",
+  "spearhead_name": "Bad Moon Madmob"
+ },
+ {
+  "faction": "Gloomspite Gitz",
+  "faction_slug": "gloomspite-gitz",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Bad Moon Madmob > Warscrolls",
+  "text": "• SPEARHEAD WARSCROLL • Rockgut Troggoths 6\" 5 4+ 2 5+ Rockgut Troggoths have stony hides that are proof against blade, bolt and magical blast alike. Their lumpen claws and rangy limbs have a steely strength, allowing them to wield huge but primitive clubs and hurl nearby boulders. Their leathery flesh can also regenerate with ease, rendering each beast almost impossible to kill. • SPEARHEAD WARSCROLL • Rockgut Troggoths RANGED WEAPONS Rng Atk Hit Wnd Rnd Dmg Throwin’ Boulders Throwin’ Boulders 10\" 1 5+ 2+ 2 D3 MELEE WEAPONS Atk Hit Wnd Rnd Dmg Massive Stone Maul Massive Stone Maul 2 4+ 2+ 2 3 Start of Any Turn REGENERATION : Troggoths are able to regrow injured flesh almost as quickly as it is harmed. Effect: Heal (D3) this unit. KEYWORDS INFANTRY , WARD ( 5+ ) noindex /noindex noindex",
+  "spearhead_name": "Bad Moon Madmob"
+ }
+]

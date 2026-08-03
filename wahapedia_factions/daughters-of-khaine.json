@@ -1,0 +1,480 @@
+[
+ {
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "",
+  "text": "/noindex They crave battle and seek power through bloodshed, honouring their deity with every kill. Even their closest allies shudder to witness the gory rituals that renew and reinvigorate these graceful murderers. They are the Daughters of Khaine, and to cross blades with them is to invite death. This page contains all of the rules you need to field your Daughters of Khaine miniatures on the battlefields of the Mortal Realms, from a host of exciting faction rules to a range of warscrolls. The rules are split into the following sections:"
+ },
+ {
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Traits",
+  "text": "Daughters of Khaine armies can use the following abilities: Start of First Battle Round ANOINTED RITUALIST : The skin of a worthy champion is smeared with oil and daubed with sacred blood runes, and they are granted the honour of leading those gory rituals beloved of Morathi-Khaine. Declare: If there are no friendly anointed units on the battlefield, pick a friendly non- UNIQUE DAUGHTERS OF KHAINE HERO on the battlefield to be the target. Effect: The target is anointed for the rest of the battle, even if it has been destroyed. Friendly anointed units on the battlefield treat EXALTED abilities on the warscrolls of friendly anointed units that have been destroyed as if they were on their warscrolls. Passive BLOODY SUCCESSION : As one anointed champion falls, the runes painted on their skin fade away, only to reappear upon the body of another faithful soul. Effect: Each time a friendly anointed unit is destroyed, after removing it from play, you can immediately use the ‘Anointed Ritualist’ ability as if it were the start of the first battle round. Once Per Turn (Army), Reaction: You declared a CHARGE ability for an anointed unit STRIDENT WAR CRY : As the anointed champion unleashes a piercing battle cry, her faithful rush to join her in the crucible of combat. Used By: That anointed unit. Effect: Pick a friendly non- HERO DAUGHTERS OF KHAINE unit that is not in combat , is wholly within 12\" of that anointed unit and has not charged this turn to be the target. If that anointed unit charges, after that CHARGE ability has been resolved, the target can immediately use the ‘ Charge ’ ability even if it is not your charge phase . In addition, you can re-roll charge rolls for the target for the rest of the phase."
+ },
+ {
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Traits",
+  "text": "In addition, you can re-roll charge rolls for the target for the rest of the phase. Passive BLOOD RITES : Manifold are the Khainite blood rituals, but no offering holds greater weight than the spilling of gore in a ritualistic bacchanal. Effect: Only one blood rite can be performed per unit destroyed. You perform a blood rite each time: An enemy unit is destroyed and any damage points were allocated to that unit by a friendly anointed unit’s combat attacks in the same turn. A friendly anointed unit is destroyed. A friendly unit contesting an objective you control is destroyed. An enemy unit is destroyed by a friendly DAUGHTERS OF KHAINE unit’s attacks and any models in that enemy unit were contesting an objective you do not control in the same phase. A unit (friendly or enemy) is destroyed and it was within 3\" of a Place of Power at the start of the phase. Once Per Turn (Army), End of Any Turn BLESSINGS OF KHAINE : As ever more blood is spilt in tribute, so too are the Khainites lavished with ever more blessings from their deity. Declare: You can only use this ability if you performed any blood rites this turn. Effect: Pick 1 of the following blessings that is not active . That blessing is active . While a blessing is active , its effect applies to friendly DAUGHTERS OF KHAINE units. The effects of more than 1 blessing can apply to a unit at the same time. Blessing of Ruthlessness: Add 1 to hit rolls for those units’ combat attacks . Blessing of Hatred: Add 1 to wound rolls for those units’ combat attacks. Blessing of Haste: Add 3\" to those units’ Move characteristic. Blessing of Zeal: If those units charged in the same turn, they have WARD ( 5+ ) for the rest of the turn. Blessing of Shadow: Subtract 1 from hit rolls for shooting attacks that target those units."
+ },
+ {
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Traits",
+  "text": "Blessing of Shadow: Subtract 1 from hit rolls for shooting attacks that target those units. Blessing of Cruelty: Those units can use CHARGE and/or SHOOT abilities even if they have used a RETREAT ability in the same turn. Blessing of Clarity: Add 1 to chanting rolls and casting rolls for those units."
+ },
+ {
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations",
+  "text": "You can pick 1 of the following battle formations for a Daughters of Khaine army. Each battle formation grants a different ability you can use in the battle. BATTLE PROFILE Name Points Coven of Blood 0 Cold-Hearted Murderers 0 Frenzied Devotees 0 Fervent Ritualists 0 Coven Zealots 0 Arena Veterans 20"
+ },
+ {
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Coven of Blood",
+  "text": "Passive THE BREATH OF KHAINE : A blood-red mist billows across the battlefield, obscuring those Khainites consecrating ground in the Bloody‑Handed One’s name. Effect: While each model in a friendly DAUGHTERS OF KHAINE unit is contesting an objective you control , those models are not visible to enemy models more than 9\" away."
+ },
+ {
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Cold-Hearted Murderers",
+  "text": "Reaction: You declared a FIGHT ability for an anointed unit BLOODY-HANDED WORSHIPPERS : This sacrament calls for the anointed champion and their followers to commit murder of the most violent kind. Used By: That anointed unit. Effect: Pick a friendly non- HERO DAUGHTERS OF KHAINE unit that has not used a FIGHT ability this turn and is within that anointed unit’s combat range to be the target. The target can be picked to use a FIGHT ability immediately after the FIGHT ability used by that anointed unit has been resolved. If it is picked to do so, the target’s melee weapons have Crit (Auto-wound) for the rest of the turn. If its melee weapons already have Crit (Auto-wound) , they have Crit (Mortal) for the rest of the turn instead."
+ },
+ {
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Frenzied Devotees",
+  "text": "Once Per Turn (Army), Start of Enemy Turn HERETIC’S BANE : Hot blood pours from the eyes and mouths of any who dare counter the Khainites’ divine works with those of their own. Declare: Pick an enemy WIZARD or PRIEST on the battlefield to be the target. Effect: Roll a dice for each objective you control . For each 3+, subtract 1 from casting rolls and chanting rolls for the target for the rest of the turn."
+ },
+ {
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Fervent Ritualists",
+  "text": "Once Per Turn (Army), End of Any Turn FINAL FRENZY : While in a state of ritualistic frenzy, not even a mortal wound can prevent a Khainite from spilling blood. Declare: Pick each friendly DAUGHTERS OF KHAINE unit contesting an objective to be the targets. Effect: Return up to D3 slain models to each target that has a Health characteristic of up to 2. Return up to 1 slain model to each target that has a Health characteristic of 3 or more."
+ },
+ {
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Coven Zealots",
+  "text": "Once Per Turn (Army), End of Any Turn HIGHER PURPOSE : These aelves fight with a purity of purpose that sees them fight on even in the face of the most horrendous carnage, heedless of their losses. Effect: Return D3 slain models to each friendly DAUGHTERS OF KHAINE AELF INFANTRY unit."
+ },
+ {
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Arena Veterans",
+  "text": "Any Combat Phase GRACEFUL ELUSION : Years of combat in the gladiatorial arenas of the temple-cities have honed the survival skills of these aelves to near perfection. Effect: For the rest of the phase, friendly DAUGHTERS OF KHAINE AELF INFANTRY units have WARD ( 5+ ) until they have used a FIGHT ability ."
+ },
+ {
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Heroic Traits > Paragons of Murder",
+  "text": "HERO only BATTLE PROFILE Name Points SHADOW-BLOODED 0 HAND OF KHAINE 0 MURDEROUS DUELLIST 0 Reaction: You declared the ‘ Redeploy ’ command for a DAUGHTERS OF KHAINE unit wholly within 12\" of this unit SHADOW-BLOODED : This hero hails from one of the darkest parts of Ulgu, and their heritage grants them a significant aptitude for deception. Effect: If you roll a 1-3 when determining the distance that unit can move, you can use a value of 4 instead. Any Combat Phase HAND OF KHAINE : This murderer has mastered Khaine’s killing touch, a move so lethal it can sunder plate, body and soul in equal measure. Declare: Pick an enemy HERO in combat with this unit to be the target. Effect: Roll 2D6. If the roll exceeds the target’s Health characteristic, it is automatically destroyed. If the target is destroyed by this ability, this unit can use 2 FIGHT abilities this phase. After the first is used, however, this unit has STRIKE-LAST for the rest of the turn. Any Combat Phase MURDEROUS DUELLIST : This hero has trained extensively in gladiatorial arenas across the realms and is utterly dedicated to the art of single combat. Declare: Pick an enemy unit that has no more than 1 model and is in combat with this unit to be the target. Effect: Roll 2D6. If the roll equals or exceeds the target’s Control characteristic, for the rest of the turn, if this unit is in combat with the target when the target is picked to use a FIGHT ability , all of the target’s attacks must target this unit."
+ },
+ {
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Heroic Traits > Paragons of Murder",
+  "text": "HERO only BATTLE PROFILE Name Points MURDER MANIFESTED 0 LOYAL UNTO DEATH 0 HONOURED AMONG SECTS 0 Reaction: This unit used the ‘ Activate Place of Power ’ ability MURDER MANIFESTED : This warrior can use sacrificial magics in order to summon avatars of the Bloody‑Handed God. Effect: Apply the effect below instead of the effect of that ‘ Activate Place of Power ’ ability. Roll a dice. On a 1, inflict D3 mortal damage on this unit. On a 2+, if there are no friendly Avatars of Khaine on the battlefield, set up an Avatar of Khaine wholly within 12\" of this unit, visible to it and more than 9\" from all enemy units. This unit has summoned that MANIFESTATION Deployment Phase LOYAL UNTO DEATH : Some amongst the sisterhood are devoutly loyal to the point of self-sacrifice. Declare: Pick another friendly DAUGHTERS OF KHAINE HERO that has a Health characteristic that equals or exceeds this unit’s Health characteristic to be the target. Effect: For the rest of the battle, if this unit is within the target’s combat range when the target would be destroyed, the target is not destroyed and any remaining damage points inflicted on it have no effect. Then, Heal (D3) the target. Then, this unit is destroyed. Passive HONOURED AMONG SECTS : This warrior is uniquely favoured by Khaine, granting them impressive abilities. Effect: If this unit is anointed , the effect of all blessings from the ‘ Blessings of Khaine ’ ability apply to this unit as if they were active ."
+ },
+ {
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Artefacts of Power > Gifts of Morathi",
+  "text": "HERO only BATTLE PROFILE Name Points CRIMSON DRAUGHT 0 DARKLING ELIXIR 0 WITCHBREW 0 Passive CRIMSON DRAUGHT : This vile mixture grants the drinker incredible bursts of speed. Fatal in all but the most controlled of doses, it is often 'gifted' to those whom Morathi is keeping an eye on. Effect: You can re-roll charge rolls for this unit. End of Your Turn DARKLING ELIXIR : Crafted from the blood of creatures best left unnamed, this wicked brew lends the imbiber’s outline a smoky, wispy appearance. Declare: Pick a visible friendly DAUGHTERS OF KHAINE unit wholly within 12\" of this unit to be the target. Effect: Roll a dice. On a 3+, the target can immediately use the ‘ Retreat ’ ability as if it were your movement phase. Your Hero Phase WITCHBREW : This holy potion drives the imbiber into such an ecstasy of destruction that they will fight on in the face of impossible odds. Declare: Pick a visible friendly non- UNIQUE DAUGHTERS OF KHAINE unit wholly within 12\" of this unit to be the target. Effect: Roll a dice. On a 3+, ignore negative modifiers to save rolls for the target until the start of your next turn."
+ },
+ {
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Spell Lore",
+  "text": "BATTLE PROFILE Name Points Lore of Shadows 0"
+ },
+ {
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Spell Lore > Lore of Shadows",
+  "text": "Your Hero Phase 6 STEED OF SHADOWS : A coal-black creature with wings of night materialises from the darkness and swoops across the battlefield, hastening the movement of the Khainites below. Declare: Pick a friendly DAUGHTERS OF KHAINE WIZARD to cast this spell, pick a visible friendly DAUGHTERS OF KHAINE unit wholly within 12\" of them to be the target, then make a casting roll of 2D6. Effect: The target can use CHARGE abilities this turn even if it used a RUN ability in the same turn. KEYWORDS SPELL, UNLIMITED Your Hero Phase 7 MINDRAZOR : The wizard summons spectral blades into their allies’ hands, weapons whose edges are honed by the wielder’s faith as much as the victim’s fear. Declare: Pick a friendly DAUGHTERS OF KHAINE WIZARD to cast this spell, pick a visible friendly DAUGHTERS OF KHAINE unit wholly within 12\" of them to be the target, then make a casting roll of 2D6. Effect: The target’s melee weapons have Charge (+1 Damage) until the start of your next turn. KEYWORDS SPELL Your Hero Phase 6 BLACK HORROR OF ULGU : A writhing mass of shadowy tentacles emerges though a conjured portal to coil around the limbs of nearby foes, who suddenly feel as if they are wading through mud. Declare: Pick a friendly DAUGHTERS OF KHAINE WIZARD to cast this spell, pick a point on the battlefield within 18\" of them, pick up to 3 enemy units within 3\" of that point to be the targets, then make a casting roll of 2D6. Effect: The targets cannot use RUN abilities until the start of your next turn. KEYWORDS SPELL"
+ },
+ {
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Prayer Lore",
+  "text": "BATTLE PROFILE Name Points Bloodshadow Rites 20 Prayers of the Khainite Cult 0"
+ },
+ {
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Prayer Lore > Prayers of the Khainite Cult",
+  "text": "Your Hero Phase 3 CATECHISM OF MURDER : Khaine’s followers enter a killing frenzy that knows no bounds, lashing out in a slicing storm of razor‑sharp steel. Declare: Pick a friendly DAUGHTERS OF KHAINE PRIEST to chant this prayer, pick a visible friendly DAUGHTERS OF KHAINE unit wholly within 12\" of them to be the target, then make a chanting roll of D6. Effect: The target’s melee weapons have Crit (Auto-wound) until the start of your next turn. In addition, if the chanting roll was 7+, the target’s combat attacks score critical hits on unmodified hit rolls of 5+ until the start of your next turn. KEYWORDS PRAYER, UNLIMITED Your Hero Phase 3 COVENANT OF THE IRON HEART : The hearts of the Murder God’s followers become as cold and hard as iron, crushing their fears and doubts with a chilling contempt. Declare: Pick a friendly DAUGHTERS OF KHAINE PRIEST to chant this prayer, pick a visible friendly DAUGHTERS OF KHAINE unit wholly within 12\" of them to be the target, then make a chanting roll of D6. Effect: Add 10 to the target’s control score until the start of your next turn. In addition, if the chanting roll was 6+, ignore the first damage point that would be allocated to the target in each phase until the start of your next turn. KEYWORDS PRAYER Your Hero Phase 4 DANCE OF DOOM : The priest exhorts their followers to launch themselves into the fray and cut down the enemy in a display of lethal acrobatics. Declare: Pick a friendly DAUGHTERS OF KHAINE PRIEST to chant this prayer, pick a visible friendly non- UNIQUE DAUGHTERS OF KHAINE unit wholly within 12\" of them to be the target, then make a chanting roll of D6. Effect: Add 1 to the Attacks characteristic of the target’s melee weapons for the rest of the turn."
+ },
+ {
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Prayer Lore > Prayers of the Khainite Cult",
+  "text": "Effect: Add 1 to the Attacks characteristic of the target’s melee weapons for the rest of the turn. In addition, if the chanting roll was 10+, the target can use 2 FIGHT abilities this turn. After the first is used, however, the target has STRIKE-LAST for the rest of the turn. KEYWORDS PRAYER"
+ },
+ {
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Prayer Lore > Bloodshadow Rites",
+  "text": "Your Hero Phase 3 SHADOWSTEP : Imbibing the blood of a sacrificed leathanam, the priestess calls upon the shadows themselves to speed her flock to where they are needed most. Declare: Pick a friendly DAUGHTERS OF KHAINE PRIEST to chant this prayer, pick a visible friendly DAUGHTERS OF KHAINE AELF INFANTRY unit wholly within 12\" of them and that has not been picked to be the target of this prayer this turn to be the target, then make a chanting roll of D6. Effect: The target can move up to 6\". It can move through the combat ranges of enemy units but cannot end that move in combat . If the chanting roll was 8+, you can pick another eligible unit to be a second target. KEYWORDS PRAYER, UNLIMITED Your Hero Phase 3 SCÁTHSCALE : Hissing syllables of vicious intent, the priestess causes the bare flesh of her sisters to shimmer with serpentine scales the hue of iron that turn the blades of their foes. Declare: Pick a friendly DAUGHTERS OF KHAINE PRIEST to chant this prayer, pick a friendly DAUGHTERS OF KHAINE AELF INFANTRY unit wholly within 12\" of them to be the target, then make a chanting roll of D6. Effect: Until the start of your next turn, subtract 1 from wound rolls for combat attacks that target that friendly unit. If the chanting roll was 8+, until the start of your next turn, subtract 1 from wound rolls for combat attacks that target friendly DAUGHTERS OF KHAINE AELF INFANTRY units while they are wholly within 12\" of the target of this ability instead. KEYWORDS PRAYER Your Hero Phase 4 EXULTATION OF MURDER : Shrieking to the skies, the priestess draws upon a divine bloodlust that drives her sisters into a murderous rapture."
+ },
+ {
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Prayer Lore > Bloodshadow Rites",
+  "text": "Phase 4 EXULTATION OF MURDER : Shrieking to the skies, the priestess draws upon a divine bloodlust that drives her sisters into a murderous rapture. Declare: Pick a friendly DAUGHTERS OF KHAINE PRIEST to chant this prayer, pick a friendly DAUGHTERS OF KHAINE AELF INFANTRY unit wholly within 12\" of them to be the target, then make a chanting roll of D6. Effect: Until the start of your next turn, add 1 to wound rolls for the target’s combat attacks . In addition, if the chanting roll was 9+, until the start of your next turn, add 1 to the Attacks characteristic of the target’s melee weapons. KEYWORDS PRAYER"
+ },
+ {
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Manifestation Lore",
+  "text": "BATTLE PROFILE Name Points Manifestations of Khaine 0"
+ },
+ {
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Manifestation Lore > Manifestations of Khaine",
+  "text": "Your Hero Phase 6 SUMMON BLOODWRACK VIPER : Weaving their outstretched hand in a fluid serpentine gesture, the caster calls forth a monstrous snake drenched in blood Declare: If there is not a friendly Bloodwrack Viper on the battlefield, pick a friendly DAUGHTERS OF KHAINE WIZARD to cast this spell, then make a casting roll of 2D6. Effect: Set up a Bloodwrack Viper wholly within 12\" of the caster, visible to them and more than 9\" from all enemy units. KEYWORDS SPELL, SUMMON Your Hero Phase 6 SUMMON HEART OF FURY : The skies turn crimson as this bleeding icon descends upon the battle. Declare: If there is not a friendly Heart of Fury on the battlefield, pick a friendly DAUGHTERS OF KHAINE PRIEST to chant this prayer, then make a chanting roll of D6. Effect: Set up a Heart of Fury wholly within 18\" of the chanter and visible to them. KEYWORDS SPELL, SUMMON Your Hero Phase 6 SUMMON BLADEWIND : The caster calls upon their mastery of blood magic to conjure a twirling quartet of giant, blood-slick blades. Declare: If there is not a friendly Bladewind on the battlefield, pick a friendly DAUGHTERS OF KHAINE WIZARD to cast this spell, then make a casting roll of 2D6. Effect: Set up a Bladewind wholly within 12\" of the caster, visible to them and more than 9\" from all enemy units. KEYWORDS SPELL, SUMMON"
+ },
+ {
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Boons of Shadow",
+  "text": "Boons of Shadow are unique enhancements that can only be given to non- HERO DAUGHTERS OF KHAINE units. A unit can only have 1 Boon of Shadow. BATTLE PROFILE Name Points ULGUAN REACTIONS 0 TALISMANS OF SHADOW 0 TENEBROUS AURA 0 Passive ULGUAN REACTIONS : Their preternatural movements obscured, these warriors can deflect incoming blows and visit them back upon the attacker. Effect: Each time you make an unmodified save roll of 6 for a combat attack that targets this unit, inflict 1 mortal damage on the attacking unit after the FIGHT ability has been resolved. Reaction: You declared a SPELL , PRAYER or UNBIND ability for a unit within 3\" of this unit TALISMANS OF SHADOW : In the presence of these blessed warriors, the potency of shadow magic is amplified and beseechments to Khaine are often answered. Effect: Spend 1 rage dice . If your opponent’s fury level is lower than yours, they must increase their fury level by 1, to a maximum of 7. Then, add 1 to that casting roll , chanting roll or unbinding roll . Start of Any Turn TENEBROUS AURA : The darkling nature of these sistren is so unsettling that foes find themselves utterly transfixed… and ultimately vulnerable. Declare: Pick an enemy unit in combat with this unit to be the target. Effect: For the rest of the turn: The target cannot use RETREAT abilities. If an ability would heal or return any slain models to the target unit, that ability does not heal any damage points or return any slain models to it. Army of Renown"
+ },
+ {
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Champions of the Arena",
+  "text": "When you pick the Daughters of Khaine faction for your army, you can choose for it to be a Champions of the Arena Army of Renown . If you do so, use the faction rules on these pages instead of the Daughters of Khaine faction rules. Every unit in your army must be drawn from the units listed in the roster options box below. All units in your army gain the CHAMPIONS OF THE ARENA keyword. ROSTER OPTIONS You cannot include Regiments of Renown High Gladiatrix Hag Queen Slaughter Queen Blood Hags Sisters of Slaughter Witch Aelves"
+ },
+ {
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Champions of the Arena > Battle Traits",
+  "text": "Passive ARENA OF SLAUGHTER : This battlefield is dedicated to the havoc and murder beloved of Khaine, and his acolytes seek to drench it in arterial sprays of the most elaborate kind. Effect: If the number of units (friendly or enemy) that have been destroyed this battle equals or exceeds any of the numbers below, the corresponding effect applies to friendly CHAMPIONS OF THE ARENA units for the rest of the battle. More than 1 effect can apply to a unit at the same time. 1 Add 1 to run rolls for those units. 2 Add 1 to charge rolls for those units. 3 Add 1 to hit rolls for those units’ combat attacks . 4 Add 1 to wound rolls for those units’ combat attacks . 5 Add 1 to the Attacks characteristic of those units’ melee weapons. Passive LET THE BLOOD FLOW : As the bloodshed escalates, the power of the Shrine of Dark Tribute waxes stronger and stronger, ushering in communal and murderous rage. Effect: All effects of the ‘Arena of Slaughter’ ability apply to friendly CHAMPIONS OF THE ARENA units while they are wholly within X \" of a friendly Shrine of Dark Tribute , where X is determined by the current battle round, as follows: Battle Round X 1 9\" 2 12\" 3 15\" 4 18\" 5 21\" End of Any Turn 1 FRENZIED RESTORATION : The powerful magics that emanate from a Shrine of Dark Tribute cause even gravely wounded aelves to stagger to their feet, gore pouring from open wounds and dripping from features made feral with frenzy. Declare: Pick a friendly CHAMPIONS OF THE ARENA HERO that has been destroyed to be the target. Effect: Set up a replacement unit identical to the target wholly within 12\" of a friendly Shrine of Dark Tribute and more than 9\" from all enemy units."
+ },
+ {
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Champions of the Arena > Battle Traits",
+  "text": "Set up a replacement unit identical to the target wholly within 12\" of a friendly Shrine of Dark Tribute and more than 9\" from all enemy units. Once Per Turn (Army), Any Combat Phase EXPLOSIVE FURY : Led by their Slaughter Queens and the Blood Hags, these aelves rush into battle with astounding speed. Declare: Pick a friendly Slaughter Queen to use this ability, then pick each friendly Blood Hags unit on the battlefield and each visible friendly CHAMPIONS OF THE ARENA unit wholly within 12\" of that Slaughter Queen to be the targets. Effect: For the rest of the turn, each time a target makes a pile-in move , add 3\" to the distance it can move."
+ },
+ {
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Champions of the Arena > Heroic Traits",
+  "text": "( HERO only) Any Combat Phase HERO OF THE KILLING GAMES : This hero has an infamous winning streak in the Khainite arenas and delights in eviscerating worthy foes. Effect: For the rest of the turn, while this unit is in combat with any enemy HEROES : Add 1 to the Attacks, Rend and Damage characteristics of this unit’s melee weapons. All of its combat attacks must target the same enemy HERO ."
+ },
+ {
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Champions of the Arena > Artefacts of Power",
+  "text": "( HERO ony) Reaction: You declared a FIGHT ability for this unit DEATH RAZOR : This blade absorbs the souls of those it kills, converting their energy into divine power. Effect: After that FIGHT ability has been resolved, if any enemy models were slain by this unit’s attacks made as part of that FIGHT ability, you can pick a friendly CHAMPIONS OF THE ARENA PRIEST wholly within 12\" of this unit to be the target. Instead of making a chanting roll for the next PRAYER ability used by the target, you can use a value of 10 for the roll that cannot be modified, even if this unit has been destroyed."
+ },
+ {
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Champions of the Arena > Manifestation Lore",
+  "text": "Your Hero Phase 4 VIOLENT CONSECRATION : The priestess cries out to their divine patron, beseeching her to grace the arena with a display of bloodthirsty power. Declare: Pick a friendly CHAMPIONS OF THE ARENA PRIEST to chant this prayer, pick 1 of the friendly MANIFESTATIONS below that is not on the battlefield, then make a chanting roll of D6. Bloodwrack Viper Bladewind Heart of Fury Effect: If you picked a Bloodwrack Viper or Bladewind , set it up wholly within 12\" of the chanter, visible to them and more than 9\" from all enemy units. If you picked a Heart of Fury , set it up wholly within 18\" of the chanter and visible to them. If the chanting roll was 10+, you can pick a second MANIFESTATION from the list above that is not on the battlefield and set it up as described above. KEYWORDS PRAYER, SUMMON"
+ },
+ {
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Champions of the Arena > Prayer Lore",
+  "text": "Your Hero Phase 3 DIVINE RUSH : The priestess’s oratory serves to invigorate their flock, lending them speed and agility in equal measure. Declare: Pick a friendly CHAMPIONS OF THE ARENA PRIEST to chant this prayer, pick a visible friendly CHAMPIONS OF THE ARENA unit wholly within 12\" of them to be the target, then make a chanting roll of D6. Effect: If the chanting roll was 6+, you can pick another eligible unit to be a second target. For each target: If the target is not in combat , it can move D6\". It cannot end that move in combat. If the target is in combat, it can make a pile-in move . KEYWORDS PRAYER, UNLIMITED Your Hero Phase 3 CALL OF THE ARENA : The priestess urges their followers to sprint headlong into danger, all the better to savour the contest for as long as possible. Declare: Pick a friendly CHAMPIONS OF THE ARENA PRIEST to chant this prayer, then make a chanting roll of D6. Effect: For the rest of the turn, add 1 to run rolls for friendly CHAMPIONS OF THE ARENA units while they are wholly within 12\" of the chanter. In addition, if the chanting roll was 6+, for the rest of the turn, add 1 to charge rolls for friendly CHAMPIONS OF THE ARENA units while they are wholly within 12\" of the chanter. KEYWORDS PRAYER Your Hero Phase 3 SHIELD OF BLOOD : A literal targe of dripping gore interposes itself between the aelven gladiators and incoming attacks. Declare: Pick a friendly CHAMPIONS OF THE ARENA PRIEST to chant this prayer, pick a visible friendly CHAMPIONS OF THE ARENA unit wholly within 12\" of them to be the target, then make a chanting roll of D6. Effect: If the chanting roll was 10+, you can pick up to 2 other eligible units to be additional targets. Each target has WARD ( 5+ ) until the start of your next turn. KEYWORDS PRAYER Army of Renown"
+ },
+ {
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Croneseer’s Pariahs",
+  "text": "When you pick the Daughters of Khaine faction for your army, you can choose for it to be a The Croneseer’s Pariahs Army of Renown . If you do so, use these faction rules instead of the Daughters of Khaine faction rules. Every unit in your army must be drawn from the units listed in the roster options box below. All units in your army gain the CRONESEER’S PARIAHS keyword. ROSTER OPTIONS Krethusa the Croneseer (must be included and must be your general ) DAUGHTERS OF KHAINE AELF units You cannot include Regiments of Renown , Morathi-Khaine or the Shadow Queen"
+ },
+ {
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Croneseer’s Pariahs > Battle Traits",
+  "text": "Passive PLUMES OF AUSPICIOUS SMOKE : The mists that spill from the Croneseer’s cauldrons are thick with augury and omen, and those who inhale them are forewarned of imminent danger. Effect: Friendly CAULDRON OF BLOOD units are either empty or full . They start the battle empty . While a friendly CAULDRON OF BLOOD unit is full : That CAULDRON OF BLOOD has WARD ( 4+ ) against damage points inflicted by shooting attacks . Subtract 1 from hit rolls for shooting attacks that target friendly CRONESEER’S PARIAHS units while they are wholly within 9\" of that CAULDRON OF BLOOD . End of Any Turn LADEN WITH PROPHECY : The viscera collected in a Cauldron of Blood and burned to enhance Krethusa’s haruspicy shroud all those nearby in a blood-tinged pall. Declare: Pick a friendly empty CAULDRON OF BLOOD . Effect: If any enemy models were slain this turn by that CAULDRON OF BLOOD ’s combat attacks , it becomes full . Passive GUIDED BY MORAI-HEG : Morai-Heg guides her followers’ weapons into subtle chinks in the enemy’s armour. Effect: Add 1 to the Rend characteristic of combat attacks made by friendly non- HERO INFANTRY units while they are wholly within 9\" of a friendly Krethusa . Once Per Turn (Army), Any Charge Phase SKILLED SKIRMISHERS : Doomfire Warlocks excel in strike-and-fade warfare, evading their foes while unleashing a hail of death. Declare: Pick a friendly CRONESEER’S PARIAHS CAVALRY unit that has not charged this turn and is in combat with an enemy unit that charged this turn to be the target. Effect: Roll a dice. On 3+, the target can immediately use a RETREAT ability as if it were your movement phase. In addition, no mortal damage is inflicted on the target by that RETREAT ability."
+ },
+ {
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Croneseer’s Pariahs > Battle Traits",
+  "text": "In addition, no mortal damage is inflicted on the target by that RETREAT ability. Once Per Battle (Army), Your Hero Phase THE BLOOD REVEALS ALL : It matters not from which body the entrails are taken. Declare: Pick a friendly CRONESEER’S PARIAHS HERO within the combat range of a friendly empty CAULDRON OF BLOOD . Then, pick another unit within the combat range of that HERO to be the target. Effect: Roll a dice. Allocate a number of damage points to the target equal to the roll ( ward rolls cannot be made for those damage points). Then, that CAULDRON OF BLOOD becomes full ."
+ },
+ {
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Croneseer’s Pariahs > Heroic Traits",
+  "text": "HERO only Passive PROSELYTE OF MORAI-HEG : This general has heeded the words imparted by Morai-Heg’s vessel and can see the predicted patterns of battle. Effect: Enemy units cannot use commands while they are in combat with this unit."
+ },
+ {
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Croneseer’s Pariahs > Artefacts of Power",
+  "text": "HERO only Once Per Turn, End of Any Turn BLADE OF PROPHETIC DOOM : Some weapons are in thrall to the grimmest prophecies imaginable, and are fated to cause untold disaster with a single strike. Declare: Pick an enemy unit in combat with this unit to be the target. Effect: Roll a dice. On a 2+: If the target is not damaged, inflict 1 mortal damage on it. If the target is damaged, inflict an amount of mortal damage on it equal to the roll."
+ },
+ {
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Croneseer’s Pariahs > Prayer Lore",
+  "text": "CRONESEER’S PARIAHS PRIEST Your Hero Phase 3 WINGS OF THE CRONE GODDESS : Morai-Heg grants the blessing of flight to her faithful as sable feathers burst from their limbs. Declare: Pick a friendly CRONESEER’S PARIAHS PRIEST to chant this prayer, pick a visible friendly CRONESEER’S PARIAHS unit wholly within 12\" of them to be the target, then make a chanting roll of D6. Effect: Until the start of your next turn: The target has FLY . Add 2\" to the target’s Move characteristic. If the chanting roll was 8+, add 6\" to the target’s Move characteristic instead. KEYWORDS PRAYER, UNLIMITED Your Hero Phase 5 AUGURY OF BATTLE : Perhaps Morai-Heg has foreseen the deaths of these warriors today. Or perhaps she has not. Declare: Pick a friendly CRONESEER’S PARIAHS PRIEST to chant this prayer, pick a visible friendly CRONESEER’S PARIAHS unit wholly within 18\" of them to be the target, then make a chanting roll of D6. Effect: Until the start of your next turn, the target has WARD ( 5+ ) . If the chanting roll was 10+, you can pick up to 2 friendly CRONESEER’S PARIAHS units wholly within 18\" of the caster instead of 1. KEYWORDS PRAYER Your Hero Phase 4 AUSPICIOUS STRIKE : Morai-Heg imparts a brief vision of a deadly weapon thrust. Declare: Pick a friendly CRONESEER’S PARIAHS PRIEST to chant this prayer, pick a visible friendly CRONESEER’S PARIAHS unit wholly within 12\" of them to be the target, then make a chanting roll of D6. Effect: Until the start of your next turn, each time the unmodified hit roll for an attack made against the target is 1, inflict 1 mortal damage on the attacking unit after the FIGHT ability has been resolved. If the chanting roll was 10+, inflict 1 mortal damage for each unmodified hit roll of 1-2 instead. KEYWORDS PRAYER Army of Renown"
+ },
+ {
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Zainthar Kai",
+  "text": "When you pick the Daughters of Khaine faction for your army, you can choose for it to be a Zainthar Kai Army of Renown . If you do so, use the faction rules on these pages instead of the Daughters of Khaine faction rules. Every unit in your army must be drawn from the units listed in the roster options box below. All units in your army gain the ZAINTHAR KAI keyword. ROSTER OPTIONS Morathi-Khaine (must be included) The Shadow Queen (must be included) Melusai Ironscale Blood Sisters Blood Stalkers Khinerai Heartrenders Khinerai Lifetakers Bloodwrack Medusa Bloodwrack Shrine You cannot include Regiments of Renown"
+ },
+ {
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Zainthar Kai > Battle Traits",
+  "text": "Passive DARK MAJESTY : Morathi-Khaine’s charm, allure and sheer authority is near impossible to resist; to so much as raise a blade against such an exalted creature requires an effort of willpower beyond most mortals. Effect: If the unmodified hit roll for an attack made by a non- HERO unit that targets the friendly Morathi-Khaine is 1-4, the attack fails and the attack sequence ends. Passive THE BLOOD SAINTS : As the first and most revered of the Scáthborn, the loyalty of these creatures towards Morathi-Khaine is ironclad. Effect: While the friendly Shadow Queen is wholly within 6\" of a friendly non- HERO ZAINTHAR KAI unit, both that Shadow Queen and that non- HERO unit have WARD ( 5+ ) . Your Hero Phase 1 MATRIARCH OF THE ZAINTHAR KAI : Surrounded by beings soul-crafted to be her perfect bodyguards, Morathi-Khaine can unleash her true power, safe in the knowledge that no jealous rival nor so-called ally will seek to do her harm. Declare: Pick the friendly Morathi-Khaine to use this ability. Effect: Pick 1 of the following effects: Until the start of your next turn, this unit has a Move characteristic of 12\" and has FLY . This unit can use the ‘Iron Heart of Khaine’ ability as if you had performed a blood rite. Pick a visible enemy unit within 18\" of this unit to be the target. For the rest of the turn, the target’s attacks cannot score critical hits (treat them as regular hits instead). Pick a friendly non- UNIQUE ZAINTHAR KAI HERO that has been destroyed to be the target. Set up a replacement unit identical to the target within 3\" of this unit."
+ },
+ {
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Zainthar Kai > Battle Traits",
+  "text": "Set up a replacement unit identical to the target within 3\" of this unit. Once Per Turn (Army), End of Your Turn CURSED HERITAGE : Each Zainthar Kai warrior carries at least three drops of Khaine’s potent ichor in their veins, and they can call upon its simmering power to send boiling blood erupting from their foes’ eyes in an agonising torrent. Declare: Pick each enemy unit in combat with any NON-UNIQUE ZAINTHAR KAI units to be the targets. Effect: Inflict D3 mortal damage on each target."
+ },
+ {
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Zainthar Kai > Heroic Traits",
+  "text": "( HERO only) Your Shooting Phase KHAINE’S INHERITOR : Those imbued with Khaine’s potent blood who survive the ordeal soon learn to wield that power as a weapon, causing waves of unbearable agony in their foes. Declare: Pick a visible enemy unit within 12\" of this unit to be the target. Effect: Roll a D3. On a 2+: Inflict an amount of mortal damage on the target equal to the roll. Halve the target’s Move characteristic until the start of your next turn."
+ },
+ {
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Zainthar Kai > Artefacts of Power",
+  "text": "( HERO only) Passive AMULET OF THE BLADED QUEEN : This prodigy has earned the blessing of Morathi-Khaine: a magnificent serpentine amulet through the goddess can both protect and keep a watchful eye on her subordinate. Effect: This unit has WARD ( 5+ ) . Add 1 to save rolls for this unit."
+ },
+ {
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Zainthar Kai > Manifestation Lore",
+  "text": "Your Hero Phase 7 MANIFESTATIONS OF MURDER : The wizard channels their power and calls one of the sacred manifestations of Khaine to the battlefield. Declare: Pick a friendly ZAINTHAR KAI WIZARD to cast this spell, pick 1 of the friendly MANIFESTATIONS below that is not on the battlefield, then make a casting roll of 2D6. Bloodwrack Viper Bladewind Heart of Fury Effect: If you picked a Bloodwrack Viper or Bladewind , set it up wholly within 12\" of the caster, visible to them and more than 9\" from all enemy units. If you picked a Heart of Fury , set it up wholly within 18\" of the caster and visible to them. KEYWORDS SPELL, UNLIMITED, SUMMON"
+ },
+ {
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Zainthar Kai > Spell Lore",
+  "text": "Your Hero Phase 6 ETHEREAL GRACE : The sorceress grants their fellow Scáthborn the swiftness of a fleeting shadow. Declare: Pick a friendly ZAINTHAR KAI WIZARD to cast this spell, pick a visible friendly ZAINTHAR KAI unit wholly within 12\" of them to be the target, then make a casting roll of 2D6. Effect: Add 2\" to the target’s Move characteristic for the rest of the turn. KEYWORDS SPELL, UNLIMITED Your Hero Phase 7 ON WINGS OF SHADOW : With a flick of their wrist, the caster summons umbral tendrils that carry their allies away along paths unseen. Declare: Pick a friendly ZAINTHAR KAI WIZARD to cast this spell, pick a visible friendly ZAINTHAR KAI unit wholly within 12\" of them to be the target, then make a casting roll of 2D6. Effect: Remove the target from the battlefield and set it up again on the battlefield more than 9\" from all enemy units. KEYWORDS SPELL Your Hero Phase 7 SPEED OF THE SCÁTHBORN : The potential lurking in the blood of the Zainthar Kai can be unleashed with a sorcerous word. Declare: Pick a friendly ZAINTHAR KAI WIZARD to cast this spell, pick a visible friendly ZAINTHAR KAI unit wholly within 12\" of them to be the target, then make a casting roll of 2D6. Effect: The target has STRIKE-FIRST for the rest of the turn. KEYWORDS SPELL"
+ },
+ {
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Heartflayer Troupe",
+  "text": "Eager for worthy kills to offer to their goddess, the most zealous disciples of Morathi-Khaine set out in Heartflayer Troupes to massacre her enemies. These Khainites are darting, blood-slick killers upon the battlefield, eschewing heavy armour in order to maximise their dexterity and speed. Each Troupe is led by a Melusai Ironscale, most loyal of Morathi‑Khaine’s Scáthborn guard. These serpentine champions are powerhouses in their own right, viciously striking down foes with their keldrisaíth staves or blasting them from afar with bolts of umbral magic. They are backed up by the Melusai archers known as Blood Stalkers, who pick off opponents from a distance with preternatural skill, piercing hearts with enchanted arrows. Surging forward to break through the front lines are the Doomfire Warlocks, incinerating enemies with flames made of pure shadow before beheading stragglers with their darkly gleaming scimitars. Throngs of Witch Aelves scream in their wake, eager to commit murder in the name of their bloodyhanded goddess. These priestesses of battle place great religious import on wanton slaughter, and they will relentlessly stab and slice until they are stained as red as the corpses that surround them. This Spearhead army consists of the following units: General Melusai Ironscale Units 5 Witch Aelves 5 Witch Aelves 5 Doomfire Warlocks 5 Blood Stalkers",
+  "spearhead_name": "Heartflayer Troupe"
+ },
+ {
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Heartflayer Troupe > Battle Traits",
+  "text": "BLOOD RITES Before battle, the Daughters take part in holy rites of blood-letting. With each sacrifice, the faithful are imbued with a fraction of their goddess’s furious power. At the start of each battle round, all friendly units gain the Blood Rites passive ability that corresponds to the current battle round number, as shown in the table on the right (units keep all Blood Rites abilities gained in previous battle rounds). ROUND ABILITY 1 QUICKENING BLOODLUST: The Khainites’ hearts beat harder and their strides lengthen in anticipation of battle. Effect: Add 1 to run rolls for this unit. 2 HEADLONG FURY: Reciting the catechism of Crimson Hate, the Khainites rush ahead in their eagerness to slaughter. Effect: Add 1 to charge rolls for this unit. 3 ZEALOT’S RAGE: The faithful draw the god’s murderous spirit to the battlefield. Effect: Add 1 to hit rolls for combat attacks made by this unit. 4 SLAUGHTERER’S STRENGTH: Khaine’s flock are imbued with shocking strength. Effect: Add 1 to wound rolls for combat attacks made by this unit.",
+  "spearhead_name": "Heartflayer Troupe"
+ },
+ {
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Heartflayer Troupe > Regiment Abilities",
+  "text": "Pick 1 of the following regiment abilities. Once Per Battle, Your Hero Phase MURDEROUS EPIPHANY : The Khainites are struck by a terrible vision of the Bloody-Handed God that drives their zeal to ever greater heights. Effect: All friendly units gain the Blood Rites passive ability they would have gained at the start of the next battle round (they keep this ability for the rest of the battle, but they do not gain it for a second time at the start of the next battle round). Any Combat Phase BLESSING OF KHAINE : Sacred rites have been performed on this Melusai Ironscale by the priestesses of the temple, and it is said that she can bestow the blessing of Khaine upon her sisters in battle. Declare: Pick a friendly unit wholly within 12\" of your general. You cannot pick your general. Effect: Add 1 to ward rolls for that unit this phase.",
+  "spearhead_name": "Heartflayer Troupe"
+ },
+ {
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Heartflayer Troupe > Enhancements",
+  "text": "Give your general 1 of the following enhancements. Passive BATHED IN BLOOD : Your general draws vigour from the gore that splatters over her in battle. Effect: Each time a model is slain by your general, Heal (1) your general. Once Per Battle, Any Combat Phase FLASK OF SHADEMIST : Filled with an obscuring mist harvested from the Ulguan coast, when this flask is shattered, the battlefield is plunged into darkness. Effect: Until the end of the phase, subtract 1 from hit rolls for attacks that target friendly units while they are wholly within 12\" of your general. Passive FUELLED BY REVENGE : This general inspires a wrathful lust for vengeance in her Scáthborn kin. Effect: Add 1 to the Rend characteristic of melee weapons used by friendly Blood Stalkers units while they are wholly within 12\" of your general. Your Hero Phase ZEALOUS ORATOR : Your general is a wild demagogue who inspires her followers to fight on in the face of impossible odds. Declare: Pick a friendly unit wholly within 9\" of your general that is not in combat . Roll a dice for each slain model from that unit. Effect: For each 5+, you can return 1 slain model to that unit.",
+  "spearhead_name": "Heartflayer Troupe"
+ },
+ {
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Heartflayer Troupe > Warscrolls",
+  "text": "• SPEARHEAD WARSCROLL • Melusai Ironscale 8\" 6 5+ 2 6+ Crafted from the souls of aelves that blazed brightest with the need for revenge, the Melusai Ironscales serve Morathi- Khaine as elite war leaders amongst the Scáthborn and are terrifying martial champions in their own right. Each of the Scáthborn is bound in loyalty to Morathi‑Khaine, and they are her eyes and ears outside her temple within Hagg Nar. Their baleful magic is capable of transforming their enemies into statues of living crystal, in which they remain forever imprisoned at the agonising point of death. • SPEARHEAD WARSCROLL • Melusai Ironscale RANGED WEAPONS Rng Atk Hit Wnd Rnd Dmg Keldrisaíth Keldrisaíth 12\" 2 3+ 3+ 1 D3 MELEE WEAPONS Atk Hit Wnd Rnd Dmg Keldrisaíth Keldrisaíth 6 3+ 4+ 1 2 Your Hero Phase ALL-OUT SLAUGHTER : The Melusai Ironscale exhorts their warriors to commit acts of terrible bloodshed. Declare: Pick a friendly unit wholly within 12\" of this unit to be the target. You cannot pick this unit. Effect: Add 1 to the Attacks characteristic of the target’s melee weapons for the rest of the turn. End of Any Turn TURNED TO CRYSTAL : The touch of an Ironscale can permanently transmute an enemy into a crystal statue. Declare: Pick an enemy unit within 1\" of this unit to be the target and roll a dice. Effect: On a 2+, inflict 1 mortal damage on the target. KEYWORDS HERO , INFANTRY , WARD ( 6+ ) • SPEARHEAD WARSCROLL • Doomfire Warlocks 14\" 3 5+ 1 6+ Doomfire Warlocks are expert light cavalry, adept at harrying flanks with crossbow fire or cutting down targets with their cursed scimitars. They can harness the power of shadow, hurling bolts of black flame to destroy their targets.",
+  "spearhead_name": "Heartflayer Troupe"
+ },
+ {
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Heartflayer Troupe > Warscrolls",
+  "text": "They can harness the power of shadow, hurling bolts of black flame to destroy their targets. Each is branded with a painful rune upon their forehead, without which they would gradually wither away, for the majority of males in the temple-cities are born weak of body and spirit. These sigils greatly amplify the Warlocks’ magical potential , allowing them to cast searing bolts of magical doomfire at those nearby, but forever leash them to Morathi‑Khaine’s service. • SPEARHEAD WARSCROLL • Doomfire Warlocks RANGED WEAPONS Rng Atk Hit Wnd Rnd Dmg Doomfire Crossbow Doomfire Crossbow 10\" 2 3+ 4+ - 1 MELEE WEAPONS Atk Hit Wnd Rnd Dmg Cursed Scimitar Cursed Scimitar 2 3+ 4+ 1 1 Dark Steed’s Vicious Bite [ Companion ] Dark Steed’s Vicious Bite Companion 2 5+ 3+ - 1 Your Hero Phase DOOMFIRE : The Doomfire Warlocks hurl bolts of blazing black flame at their foes. Declare: Pick a visible enemy unit within 12\" of this unit to be the target, then make a casting roll of 2D6. Effect: On a 6+, inflict D3 mortal damage on the target. KEYWORDS CAVALRY , WARD ( 6+ ) • SPEARHEAD WARSCROLL • Blood Stalkers 8\" 2 5+ 1 6+ Drawing their ornate heartseeker bows, the slithering Melusai archers known as Blood Stalkers loose terrifyingly accurate volleys. Their bows are carved from wood taken from the sentient ashdusk tree, and their arrows are blessed by the Hag Queens of their coven. Each missile fired by these serpentine hunters is guided by these enchantments straight towards an enemy’s heart.",
+  "spearhead_name": "Heartflayer Troupe"
+ },
+ {
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Heartflayer Troupe > Warscrolls",
+  "text": "Each missile fired by these serpentine hunters is guided by these enchantments straight towards an enemy’s heart. • SPEARHEAD WARSCROLL • Blood Stalkers RANGED WEAPONS Rng Atk Hit Wnd Rnd Dmg Heartseeker Bow [ Crit (Auto-wound) ] Heartseeker Bow Crit (Auto-wound) 18\" 3 3+ 4+ 1 1 MELEE WEAPONS Atk Hit Wnd Rnd Dmg Scianlar Scianlar 2 3+ 4+ - 1 Passive HEARTSEEKERS : The bloodblessed arrows loosed by these Melusai unerringly seek out the enemy’s vital organs. Effect: Shooting attacks made by this unit score critical hits on unmodified hit rolls of 5+ if this unit did not use a MOVE ability in the same turn. KEYWORDS INFANTRY , WARD ( 6+ ) • SPEARHEAD WARSCROLL • Witch Aelves 6\" 1 6+ 1 6+ Witch Aelves are devotees of bloodshed and murder, eschewing heavy armour in favour of nigh-supernatural agility. As they charge headlong into the foe, they enter an ecstatic killing frenzy. For the Witch Aelves, battle is a sacred ritual where they can truly express their devotion to their Murder God. Each carries a sciansá, a holy tool tempered in blood – one twist of this notched blade causes extreme pain as it slices through foes’ guts and severs their arteries in a crimson spray. • SPEARHEAD WARSCROLL • Witch Aelves MELEE WEAPONS Atk Hit Wnd Rnd Dmg Paired Sciansá [ Crit (Auto-wound) ] Paired Sciansá Crit (Auto-wound) 3 3+ 4+ - 1 Passive FRENZIED FERVOUR : Witch Aelves hurl themselves at the enemy with no fear of death, cutting down foes in a whirlwind of blades. Effect: Add 1 to the Rend characteristic of this unit’s melee weapons if it charged in the same turn. KEYWORDS INFANTRY , REINFORCEMENTS , WARD ( 6+ )",
+  "spearhead_name": "Heartflayer Troupe"
+ },
+ {
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Khainite Shadow Coven",
+  "text": "Morathi-Khaine is not afraid to direct overwhelming force to annihilate her enemies, but she far prefers the subtle dagger to the cleaving blade. When she needs to dispose of an enemy host swiftly and precisely or to quietly strip a location of life, she deploys a Khainite Shadow Coven. In some ways, these specialists in subterfuge and misdirection function much like any Khainite formation: they wheel a potent Cauldron of Blood into battle and count fearsome Sisters of Slaughter, who delight in hand-to-hand bloodshed, amongst their number. Yet the Shadow Covens are also accompanied by roaming packs of Khainite Shadowstalkers, and their umbra-touched Cauldrons exude great plumes of disorientating gore-smoke that blends with the strange magic of Morathi’s elite agents to leave the enemy reeling, confused and helpless in the face of a killing blow. To channel these arcane energies, a Shadow Coven is accompanied by a Bloodwrack Medusa, whose vile presence and malevolent gaze is capable of striking nearby foes dumb, further leaving them vulnerable to a well- aimed knife. This Spearhead army consists of the following units: General Slaughter Queen on Cauldron of Blood Units 1 Hag Queen 1 Bloodwrack Medusa 9 Khainite Shadowstalkers 5 Sisters of Slaughter 5 Sisters of Slaughter",
+  "spearhead_name": "Khainite Shadow Coven"
+ },
+ {
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Khainite Shadow Coven > Battle Traits",
+  "text": "Once Per Turn, Any Charge Phase SHADOWMASKED : The umbral arts of the Khainite Shadowstalkers and the gore-smoke of the Cauldron are utilised to mask the movements of the Shadow Coven. Declare: Pick a friendly INFANTRY unit that is in combat and did not charge this turn to be the target. Effect: Subtract 1 from hit rolls and wound rolls for combat attacks that target that friendly unit for the rest of the turn.",
+  "spearhead_name": "Khainite Shadow Coven"
+ },
+ {
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Khainite Shadow Coven > Regiment Abilities",
+  "text": "Pick 1 of the following regiment abilities. Once Per Battle, Any Combat Phase BLEED THEM PALE : These aelves delight in bleeding their enemies slowly, darting away before they are attacked in turn. Declare: Pick a friendly INFANTRY unit that is in combat and did not charge this turn to be the target. Effect: The target can move 6\" but cannot end that move in combat. Passive MURDEROUS STRIKE : A Shadow Coven attacks without warning, seeking to cripple the enemy with the cruelty of their opening strike. Effect: Add 1 to the Rend characteristic of melee weapons used by friendly INFANTRY units that charged in the same turn.",
+  "spearhead_name": "Khainite Shadow Coven"
+ },
+ {
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Khainite Shadow Coven > Enhancements",
+  "text": "Give your general 1 of the following enhancements. Once Per Battle, Your Combat Phase SHADOW AVATAR : The shadow of the Avatar of Khaine peels away and attacks the foe, every strike cleaving through both body and soul. Effect: Add 1 to the Rend characteristic of your general’s melee weapons for the rest of the turn. Your Shooting Phase BOILING BLOOD : A torrent of scalding blood is vomited forth by the Avatar of Khaine, reducing even polished sigmarite to molten slag. Declare: Pick a visible enemy unit within 12\" of your general to be the target. Effect: Roll a dice. If the roll equals or exceeds the target’s Save characteristic, halve the target’s Move characteristic until the start of your next turn Your Hero Phase FRENZIED EXHORTATIONS : The Slaughter Queen atop the Cauldron of Blood howls a bloody liturgy that empowers nearby cultists. Declare: Pick a visible friendly unit wholly within 12\" of your general to be the target. Effect: Roll a dice. On a 3+, add 1 to ward rolls for the target for the rest of the turn. Any Charge Phase BLADED IMPACT : The bladed carriage of a Cauldron of Blood can plough its way through enemy ranks with ease. Declare: If your general charged this phase, pick an enemy unit within 1\" of them to be the target. Effect: Roll a D3. On a 2+, inflict an amount of mortal damage on the target equal to the roll.",
+  "spearhead_name": "Khainite Shadow Coven"
+ },
+ {
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Khainite Shadow Coven > Warscrolls",
+  "text": "• SPEARHEAD WARSCROLL • Slaughter Queen on Cauldron of Blood 6\" 12 4+ 5 6+ Some Slaughter Queens go to battle atop great Cauldrons of Blood, channelling the innate sorcery of these bladed shrines to drive nearby Khainites into a frenzy of bloodletting. • SPEARHEAD WARSCROLL • Slaughter Queen on Cauldron of Blood MELEE WEAPONS Atk Hit Wnd Rnd Dmg Shrine Guardians’ Blades Shrine Guardians’ Blades 9 3+ 4+ 1 2 Your Hero Phase CONSECRATED REVULSION : The Slaughter Queen’s fanaticism is so intense that her deity provides protection for her followers from the attacks of heathens and weaklings. Declare: Pick a visible friendly INFANTRY unit wholly within 12\" of this unit to be the target. Effect: Roll a dice. On a 3+, add 1 to save rolls for the target until the start of your next turn. KEYWORDS HERO , PRIEST , WAR MACHINE , WARD ( 6+ ) • SPEARHEAD WARSCROLL • Hag Queen 6\" 5 5+ 2 6+ Highest ranking of the Khainite priestesses are the Hag Queens. These zealous and cruel-hearted aelves lead their sisters in worship of the Bloody-Handed One, reciting violent dogma and brandishing sacred relics to drive their fellow Khainites into a frenzied fury. • SPEARHEAD WARSCROLL • Hag Queen MELEE WEAPONS Atk Hit Wnd Rnd Dmg Blade of Khaine Blade of Khaine 5 3+ 4+ 1 2 Any Combat Phase BLOODY INCITEMENT : The Hag Queen drives her followers into a violent rage. Declare: Pick a visible friendly unit wholly within 12\" of this unit to be the target. Effect: If this unit is in combat , the target’s melee weapons have Crit (Auto-wound) for the rest of the turn. If this unit is not in combat, roll a dice. On a 3+, the target’s melee weapons have Crit (Auto-wound) for the rest of the turn.",
+  "spearhead_name": "Khainite Shadow Coven"
+ },
+ {
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Khainite Shadow Coven > Warscrolls",
+  "text": "If this unit is not in combat, roll a dice. On a 3+, the target’s melee weapons have Crit (Auto-wound) for the rest of the turn. KEYWORDS HERO , PRIEST , INFANTRY , WARD ( 6+ ) • SPEARHEAD WARSCROLL • Khainite Shadowstalkers 6\" 1 5+ 1 6+ Shadowstalkers are the elite assassins and agents of Morathi-Khaine. These shademarked wraiths leap between shadows to outflank their prey before charging forth in a murderous blur of sorcery and flashing knives. • SPEARHEAD WARSCROLL • Khainite Shadowstalkers RANGED WEAPONS Rng Atk Hit Wnd Rnd Dmg Cursed Bolts and Missiles Cursed Bolts and Missiles 10\" 2 3+ 4+ 1 1 MELEE WEAPONS Atk Hit Wnd Rnd Dmg Blades of Murder Blades of Murder 2 3+ 4+ 1 1 Once Per Battle, Your Movement Phase SHADOW LEAP : Shadowstalkers can vanish and reappear at will as they navigate the Umbral Web. Effect: Remove this unit from the battlefield and set it up again on the battlefield more than 6\" from all enemy units. KEYWORDS INFANTRY , WARD ( 6+ ) • SPEARHEAD WARSCROLL • Sisters of Slaughter 6\" 1 6+ 1 6+ With skills honed in ritual duels and gladiatorial fights, the Sisters of Slaughter send their kruiplash whips lashing out to tear open throats and strip flesh from bone, exulting in the perfection of each gory kill. • SPEARHEAD WARSCROLL • Sisters of Slaughter MELEE WEAPONS Atk Hit Wnd Rnd Dmg Kruiplash Kruiplash 3 3+ 4+ - 1 Once Per Turn (Army), Enemy Combat Phase DANCE OF DEATH : Sisters of Slaughter delight in frustrating foes with acts of incredible acrobatics and martial skill. Effect: If this unit is in combat , it can move 2D6\". It can move through the combat ranges of enemy units but must end that move in combat.",
+  "spearhead_name": "Khainite Shadow Coven"
+ },
+ {
+  "faction": "Daughters of Khaine",
+  "faction_slug": "daughters-of-khaine",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Khainite Shadow Coven > Warscrolls",
+  "text": "Effect: If this unit is in combat , it can move 2D6\". It can move through the combat ranges of enemy units but must end that move in combat. KEYWORDS INFANTRY , REINFORCEMENTS , WARD ( 6+ ) • SPEARHEAD WARSCROLL • Bloodwrack Medusa 8\" 6 5+ 2 6+ Bloodwrack Medusae are sorceresses cursed with enormous serpentine bodies and heads crowned with snakes. They are so full of spite and shadow magic that to meet their horrific gaze can cause explosive haemorrhaging. • SPEARHEAD WARSCROLL • Bloodwrack Medusa MELEE WEAPONS Atk Hit Wnd Rnd Dmg Bloodwrack Spear Bloodwrack Spear 5 3+ 4+ 1 2 Your Shooting Phase EXSANGUINATING GLARE : The Bloodwrack Medusa’s eyes blaze with pure hatred, and her victim's blood explodes violently from their every pore. Declare: If this unit is in combat , pick an enemy unit in combat with it to be the target. Otherwise, pick a visible enemy unit within 12\" of it to be the target. Effect: Roll a dice. On a 3+, inflict 1 mortal damage on the target. Then, if any enemy models were slain by that mortal damage, inflict an additional 1 mortal damage on the target. KEYWORDS HERO , WIZARD , INFANTRY , WARD ( 6+ ) noindex /noindex noindex",
+  "spearhead_name": "Khainite Shadow Coven"
+ }
+]

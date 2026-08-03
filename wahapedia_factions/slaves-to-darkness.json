@@ -1,0 +1,439 @@
+[
+ {
+  "faction": "Slaves to Darkness",
+  "faction_slug": "slaves-to-darkness",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "",
+  "text": "/noindex Where the worshippers of the Dark Gods march, the Mortal Realms tremble. Under the gaze of their dread pantheon, the Slaves to Darkness carve their way through all who stand before them in pursuit of glory. At their head stride some of the most powerful servants of Chaos, forever seeking new challenges and conquests. This page contains all of the rules you need to field your Slaves to Darkness miniatures on the battlefields of the Mortal Realms, from a host of exciting faction rules to a range of warscrolls. The rules are split into the following sections:"
+ },
+ {
+  "faction": "Slaves to Darkness",
+  "faction_slug": "slaves-to-darkness",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Designers’ Commentary > Battletome: Slaves to Darkness",
+  "text": "Q: When using the ‘ Dark Apotheosis ’ ability to set up a Daemon Prince , does that Daemon Prince have to be included on my army roster and do I need to spend points on it? A: No to both. Q: If Archaon the Everchosen uses the ‘Eye of Sheerian’ ability and, as a result, the Slaves to Darkness player has to take the first turn in a battle round after taking the second turn in the previous battle round (i.e., they end up taking a ‘double turn’), does the Slaves to Darkness player suffer the penalties for taking a ‘double turn’, for instance not being able to pick a battle tactic or their opponent counting as the underdog for the rest of the battle? A: No. The penalties for taking a double turn only apply if you ‘chose’ to go first in the current battle round. Q: Can a unit use the ‘ Pledge to Chaos ’ ability while it is not on the battlefield, e.g. if it is set up in reserve in a Silver Tower? A: No. Q: Can a Gaunt Summoner use the ‘Minions of the Silver Tower’ ability more than once to set up multiple units in a Silver Tower? A: No, as stated in Core Rules, 5.3 . Q: Can I include more than 1 Ensorcelled Banner in my Slaves to Darkness army? A: No. Ensorcelled Banners are enhancements , and as stated in Army Composition, 4.1 , you can only take 1 enhancement from each enhancement table in your faction rules . Q: Can Regiments of Renown be included in a Legion of the First Prince army? A: Yes. Q: Can a Daemon Prince from the Godmarked Ascendant Regiment of Renown be given enhancements ? A: Yes. In Army Composition 3.5 it states that a unit cannot use faction rules (including enhancements ) unless they have a keyword that matches up with the faction’s name. Since the Godmarked Ascendant Regiment of Renown adds such a keyword, that unit is eligible to be given enhancements."
+ },
+ {
+  "faction": "Slaves to Darkness",
+  "faction_slug": "slaves-to-darkness",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Traits",
+  "text": "Once Per Battle (Army), Deployment Phase EYE OF THE GODS : The mortal champions of Chaos seek to attract the notice of the gods by performing great deeds in battle. Declare: Pick a friendly non- UNIQUE WARRIORS OF CHAOS or DARKOATH HERO to be the target. Effect: During the battle, the target gains Dark Apotheosis points as follows: Each time the target uses a FIGHT ability , it gains D3 Dark Apotheosis points. At the end of each of your turns, if the target is contesting an objective that is wholly outside friendly territory, it gains D3 Dark Apotheosis points. Once Per Turn (Army), Your Hero Phase PLEDGE TO CHAOS : The Slaves to Darkness forsake their souls by pledging to the Dark Gods. Declare: Pick a friendly non- UNIQUE SLAVES TO DARKNESS unit that does not already have one of the keywords below to be the target. Effect: Pick 1 of the following Pledge to Chaos keywords: PLEDGED TO KHORNE PLEDGED TO TZEENTCH PLEDGED TO NURGLE PLEDGED TO SLAANESH The target has that keyword for the rest of the battle. Once Per Battle (Army), Any Hero Phase DARK APOTHEOSIS : Favoured by the Dark Gods, this champion is bestowed with fell glory. Declare: Pick a friendly unit with 8 or more Dark Apotheosis points to be the target. Effect: Pick 1 of the following: Aura of Chaos: Heal (X) the target, where X is the number of damage points allocated to the target. In addition, the target has WARD ( 5+ ) for the rest of the battle. Daemonhood: Set up a Daemon Prince within 1\" of the target. Then, remove the target from the battlefield. If the target is your general , the Daemon Prince becomes your general instead and is added to your general’s regiment. If the target has any enhancements , the Daemon Prince has those enhancements instead."
+ },
+ {
+  "faction": "Slaves to Darkness",
+  "faction_slug": "slaves-to-darkness",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Traits",
+  "text": "If the target has any enhancements , the Daemon Prince has those enhancements instead. If the target has a Pledge to Chaos keyword, the Daemon Prince has the same keyword. Otherwise, pick 1 Pledge to Chaos keyword for the Daemon Prince to have for the rest of the battle. If any MANIFESTATIONS that were summoned by the target are on the battlefield, those MANIFESTATIONS are removed from play. Once Per Turn (Army), Your Movement Phase PLEDGED TO TZEENTCH : Reality twists and weaves around these warriors as they become intertwined in the machinations of the Change God. Declare: Pick a friendly PLEDGED TO TZEENTCH unit to be the target. Effect: Roll 2D6. Then pick a point within a number of inches of the target equal to the roll. Remove the target from the battlefield and set it up again on the battlefield wholly within 6\" of that point and more than 9\" from all enemy units. Passive PLEDGED TO KHORNE : The Blood God instils a blind rage in his most frenzied adherents. Effect: Add 1 to the Attacks characteristic of melee weapons used by friendly PLEDGED TO KHORNE units. Passive PLEDGED TO NURGLE : The Father of Plagues bestows gifts of rot and decay upon his followers. Effect: Friendly PLEDGED TO NURGLE units have WARD ( 6+ ) . If a unit already has WARD ( 6+ ) , it has WARD ( 5+ ) instead. Your Charge Phase PLEDGED TO SLAANESH : The thrill of battle drives these warriors to charge at spectacular speed. Effect: For the rest of the turn, when making charge rolls for friendly PLEDGED TO SLAANESH units, you can roll 1 additional dice (to a maximum of 3), but if you do, you must discard 1 dice of your choice."
+ },
+ {
+  "faction": "Slaves to Darkness",
+  "faction_slug": "slaves-to-darkness",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations",
+  "text": "You can pick 1 of the following battle formations for a Slaves to Darkness army. Each battle formation grants a different ability you can use in the battle. BATTLE PROFILE Name Points Legion of Chaos 0 Despoilers 0 Godswrath Warband 0 Darkoath Horde 0 Chaos Horde 0 Champions of Chaos 40"
+ },
+ {
+  "faction": "Slaves to Darkness",
+  "faction_slug": "slaves-to-darkness",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Legion of Chaos",
+  "text": "Passive UNITED IN DARKNESS : The myriad forces of Chaos march to war under a common cause, led by warlords who have put aside their rivalries in the name of laying waste to the lands of a shared foe. Effect: While there is at least 1 friendly WARRIORS OF CHAOS HERO and 1 other friendly DAEMON HERO or DARKOATH HERO on the battlefield, add 2 to the control scores of friendly SLAVES TO DARKNESS units while they are contesting an objective that is wholly outside friendly territory."
+ },
+ {
+  "faction": "Slaves to Darkness",
+  "faction_slug": "slaves-to-darkness",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Despoilers",
+  "text": "Once Per Turn (Army), End of Your Turn FERAL RUIN : A Daemon Prince’s unholy radiance draws to them the most savage of chaotic creatures, abominations against nature that hunger to spill blood. Declare: Pick a friendly Daemon Prince to use this ability. Then, pick a visible non- DAEMON non- UNIQUE SLAVES TO DARKNESS unit wholly within 12\" of this unit to be the target. Effect: Remove any PLEDGE TO CHAOS keywords the target has. Then, the target gains any PLEDGE TO CHAOS keywords this unit has."
+ },
+ {
+  "faction": "Slaves to Darkness",
+  "faction_slug": "slaves-to-darkness",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Godswrath Warband",
+  "text": "Once Per Turn (Army), End of Your Turn IRONCLAD ONSLAUGHT : When a Chaos horde is on the march, the realms tremble. Hundreds of heavily armoured warriors desecrate all in their path as they roar oaths to the Dark Pantheon. Declare: Pick an objective that is contested by any friendly units to be the target. Effect: Place a defiled token next to the target objective. Then, roll a D3 for each enemy unit contesting an objective that has a friendly defiled token . On a 2+, inflict an amount of mortal damage on that enemy unit equal to the roll."
+ },
+ {
+  "faction": "Slaves to Darkness",
+  "faction_slug": "slaves-to-darkness",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Darkoath Horde",
+  "text": "Once Per Turn (Army), Your Movement Phase 1 RALLY THE TRIBES : One of the horde’s commanders looses a terrifying battle cry, calling more of their blade-sworn warriors to their side. Declare: If there is a friendly DARKOATH HERO on the battlefield, pick a friendly non- HERO non- UNIQUE DARKOATH unit that has been destroyed to be the target. Effect: Set up a replacement unit with half the number of models from the target unit (rounding up) on the battlefield, wholly within 6\" of a battlefield edge and more than 3\" from all enemy units."
+ },
+ {
+  "faction": "Slaves to Darkness",
+  "faction_slug": "slaves-to-darkness",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Chaos Horde",
+  "text": "Once Per Turn (Army), Your Hero Phase DEVOTEES OF RUIN : Though the Darkoath do not know the true significance of the Dark Gods’ runes, when armour-clad warriors bearing those same sigils arrive in their lands, these visitors are often hailed as divine crusaders sent to save them. Declare: Pick a friendly WARRIORS OF CHAOS unit. Then, pick up to 2 visible friendly DARKOATH units that do not have a Pledge to Chaos keyword and are wholly within 12\" of that WARRIORS OF CHAOS unit to be the targets. Effect: Until the start of your next turn, the targets have the same Pledge to Chaos keyword as that WARRIORS OF CHAOS unit."
+ },
+ {
+  "faction": "Slaves to Darkness",
+  "faction_slug": "slaves-to-darkness",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Champions of Chaos",
+  "text": "Passive PARAGONS OF DARKNESS : Those who have long walked the Path to Glory and bear the scars and mutations to prove it are some of the most dangerous warriors in all the Mortal Realms. Effect: Add 2 to the Attacks characteristic of melee weapons used by friendly non- MONSTER SLAVES TO DARKNESS HEROES ."
+ },
+ {
+  "faction": "Slaves to Darkness",
+  "faction_slug": "slaves-to-darkness",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Heroic Traits > Ruinous Overlords",
+  "text": "HERO only BATTLE PROFILE Name Points FAVOURED OF THE PANTHEON 0 DEATHMONGER 0 RADIANCE OF DARK GLORY 20 Passive FAVOURED OF THE PANTHEON : The gods watch this warlord’s deeds particularly closely. Effect: If this unit is picked as the target of the ‘ Eye of the Gods ’ ability, it gains 3 Dark Apotheosis points. Once Per Battle, Any Combat Phase DEATHMONGER : Feared across the realms, this hero leaves naught in their wake but a trail of sun-bleached bones. Effect: This unit can use 2 FIGHT abilities this phase. After the first is used, however, this unit has STRIKE-LAST for the rest of the turn. Any Hero Phase RADIANCE OF DARK GLORY : In the presence of this champion, the mutative energies of Chaos can seal shut even the most grievous of wounds. Declare: Pick each damaged friendly unit wholly within 12\" of this unit to be the targets. Effect: Roll a dice for each target. On a 3+, Heal (1) the target. Heal (3) the target instead if it is a MONSTER ."
+ },
+ {
+  "faction": "Slaves to Darkness",
+  "faction_slug": "slaves-to-darkness",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Artefacts of Power > Infernal Treasures",
+  "text": "HERO only BATTLE PROFILE Name Points INFERNAL PUPPET 0 THE CONQUEROR’S CROWN 0 REALMWARPER’S TWIST-RUNE 0 Once Per Battle, Start of Any Turn INFERNAL PUPPET : As it dances upon the aetheric winds, this eldritch marionette violently disrupts the spellcraft of enemy mages. Declare: Pick a visible enemy WIZARD within 24\" of this unit to be the target. Effect: For the rest of the turn, each time the target is picked to use a SPELL ability, inflict D3 mortal damage on the target as a reaction. If the target is destroyed by this ability, do not resolve the effect of that SPELL ability. Passive THE CONQUEROR’S CROWN : This blasphemous diadem grants the bearer dominion over the minds of lesser mortals. Effect: Subtract 5 from the control scores of enemy INFANTRY units while they are in combat with this unit. Once Per Battle, Your Hero Phase REALMWARPER’S TWIST-RUNE : One who bears this cursed rune can bind warped landscapes to their will. Ruptured chasms open as thick palls of dark energy obscure the favoured and their servants from view. Declare: Pick a terrain feature within 12\" of this unit to be the target. Effect: If the target does not have the ‘ Obscuring ’ terrain ability, it gains that ability until the start of your next turn. Then, roll a dice for each model (friendly and enemy) within 1\" of the target. For each 5+, inflict 1 mortal damage on that model’s unit."
+ },
+ {
+  "faction": "Slaves to Darkness",
+  "faction_slug": "slaves-to-darkness",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Artefacts of Power > Fell Artefacts",
+  "text": "HERO only BATTLE PROFILE Name Points AMULET OF CHAOS 0 THE VARANITE SHACKLE 0 HEAD OF THE UNWORTHY 0 End of Any Turn AMULET OF CHAOS : Life, death, creation, obliteration. Maddening potential swirls within the gemstone set in this talisman. It need only be loosed by belief. Declare: Pick a visible enemy unit within 12\" of this unit to be the enemy target. Then, you can pick a friendly DARKOATH INFANTRY unit in combat with that enemy unit to be the friendly target. Effect: Roll a D3. On a 2+: Inflict an amount of mortal damage on the enemy target equal to the roll. If there is a friendly target, return a number of slain models to it equal to the roll. Passive THE VARANITE SHACKLE : This writhing torque radiates an aura that twists reality, aiding those who serve the will of the Dark Gods yet are blind or indifferent to the import of their actions. Effect: Friendly non- WARRIORS OF CHAOS SLAVES TO DARKNESS units have WARD ( 6+ ) while they are wholly within 12\" of this unit. Passive HEAD OF THE UNWORTHY : This grim trophy is a bleak reminder that the gods’ favour, even if earned over centuries of battle, can be lost and bestowed on another in a heartbeat. Effect: If a friendly SLAVES TO DARKNESS HERO with any Dark Apotheosis points is destroyed, give this unit 8 Dark Apotheosis points."
+ },
+ {
+  "faction": "Slaves to Darkness",
+  "faction_slug": "slaves-to-darkness",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Artefacts of Power > Infernal Treasures",
+  "text": "HERO only BATTLE PROFILE Name Points AELFSKIN SCROLL 0 DARKFLAME PENDANT 0 RUNE OF MURDER 0 Once Per Battle, Reaction: Opponent declared a SPELL ability for a Wizard within 18\" of this unit AELFSKIN SCROLL : Upon reciting the words on this unholy scroll, the aelf-soul bound to it is twisted into the perfect fuel for the foulest of magic. Effect: Pick a visible friendly SLAVES TO DARKNESS WIZARD within 18\" of this unit. After that SPELL ability has been resolved, that friendly WIZARD can use a SPELL ability as if it were your hero phase, and the casting roll for that spell is equal to the casting roll for that enemy spell. Do not count that spell towards the number of SPELL abilities that friendly WIZARD can use this phase. Passive DARKFLAME PENDANT : This unsettling-looking necklace wreathes the wearer in shadowy flames that see arrows lose momentum and blades dull upon impact. Effect: Weapons used for attacks that target this unit have a maximum Damage characteristic of 1. Once Per Battle, Any Combat Phase RUNE OF MURDER : Tracing their fingers over the symbol etched on this stone, the bearer feels their muscles swell with fell strength. Should they smear their own blood over the rune, the power intensifies. Declare: Pick 1 of this unit’s melee weapons to be the target. Effect: Pick 1 of the following effects: Inflict 3 mortal damage on this unit. Then, double the target weapon’s Attacks characteristic for the rest of the turn. Add D6 to the target weapon’s Attacks characteristic for the rest of the turn."
+ },
+ {
+  "faction": "Slaves to Darkness",
+  "faction_slug": "slaves-to-darkness",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Spell Lore",
+  "text": "BATTLE PROFILE Name Points Lore of the Damned 0"
+ },
+ {
+  "faction": "Slaves to Darkness",
+  "faction_slug": "slaves-to-darkness",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Spell Lore > Lore of the Damned",
+  "text": "Your Hero Phase 5 SPITE-TONGUE CURSE : Uttering the foul syllables of the Dark Tongue until blood pours from their mouth, the caster beseeches the Chaos Gods to destroy their enemies – though such pacts carry with them a terrible cost… Declare: Pick a friendly SLAVES TO DARKNESS WIZARD to cast this spell, pick a visible enemy unit within 12\" of them to be the target, then make a casting roll of 2D6. If the casting attempt is unsuccessful or if the spell is unbound , inflict D3 mortal damage on the caster. Effect: Inflict 3 mortal damage on the target. KEYWORDS SPELL, UNLIMITED Your Hero Phase 7 BINDING DAMNATION : At the caster’s urging, tendrils of raw Chaos burst from the tortured ground, entwining the limbs of their enemies and rendering them easy prey. Declare: Pick a friendly SLAVES TO DARKNESS WIZARD to cast this spell, pick a visible enemy unit within 12\" of them to be the target, then make a casting roll of 2D6. Effect: The target has STRIKE-LAST until the start of your next turn. KEYWORDS SPELL Your Hero Phase 7 DAEMONIC SPEED : Infernal winds blow at the back of these hordes, speeding them into battle against the enemies of the gods. Declare: Pick a friendly SLAVES TO DARKNESS WIZARD to cast this spell, pick a visible friendly SLAVES TO DARKNESS unit wholly within 12\" of them to be the target, then make a casting roll of 2D6. Effect: For the rest of the turn, add 1 to the number of dice rolled when making charge rolls for the target, to a maximum of 3. KEYWORDS SPELL"
+ },
+ {
+  "faction": "Slaves to Darkness",
+  "faction_slug": "slaves-to-darkness",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Manifestation Lore",
+  "text": "BATTLE PROFILE Name Points Manifestations of Malevolence 0"
+ },
+ {
+  "faction": "Slaves to Darkness",
+  "faction_slug": "slaves-to-darkness",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Manifestation Lore > Manifestations of Malevolence",
+  "text": "Your Hero Phase 7 SUMMON DARKFIRE DAEMONRIFT : Darkfire Daemonrifts are eldritch portals torn ajar by dark incantations. Once the veil has been sundered, raw magic seeping from the Realm of Chaos forms an opening for the horrors beyond to vent their spite, widened and empowered by spellcraft that draws upon the essence of Chaos. Declare: If there is not a friendly Darkfire Daemonrift on the battlefield, pick a friendly SLAVES TO DARKNESS WIZARD to cast this spell, then make a casting roll of 2D6. Effect: Set up a Darkfire Daemonrift wholly within 12\" of the caster, visible to them and more than 9\" from all enemy units. KEYWORDS SUMMON, SPELL Your Hero Phase 7 SUMMON EIGHTFOLD DOOM-SIGIL : Eightfold Doom-Sigils are icons of Chaos in all its glory, blazing symbols of pure ruin. To fall in the presence of such a sorcerous construct is to be damned, for these lingering spells hungrily suck souls into the Realm of Chaos for the gods to feast upon. Declare: If there is not a friendly Eightfold Doom-sigil on the battlefield, pick a friendly SLAVES TO DARKNESS WIZARD to cast this spell, then make a casting roll of 2D6. Effect: Set up an Eightfold Doom-sigil wholly within 12\" of the caster and visible to them KEYWORDS SUMMON, SPELL Your Hero Phase 7 SUMMON REALMSCOURGE RUPTURE : Realmscourge Ruptures are not subtle weapons. When the necessary magical power has been channelled and released by a tribal shaman, the land itself writhes in the grip of Chaos, sharpened spikes surging forth like an accursed tidal wave to overwhelm anything in their path. Declare: If there is not a friendly Realmscourge Rupture on the battlefield, pick a friendly SLAVES TO DARKNESS WIZARD to cast this spell, then make a casting roll of 2D6."
+ },
+ {
+  "faction": "Slaves to Darkness",
+  "faction_slug": "slaves-to-darkness",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Manifestation Lore > Manifestations of Malevolence",
+  "text": "a friendly Realmscourge Rupture on the battlefield, pick a friendly SLAVES TO DARKNESS WIZARD to cast this spell, then make a casting roll of 2D6. Effect: Set up a Realmscourge Rupture wholly within 12\" of the caster, visible to them and more than 9\" from all enemy units. KEYWORDS SUMMON, SPELL"
+ },
+ {
+  "faction": "Slaves to Darkness",
+  "faction_slug": "slaves-to-darkness",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Ensorcelled Banners",
+  "text": "An Ensorcelled Banner is a unique enhancement that can be given to SLAVES TO DARKNESS INFANTRY and CAVALRY units with the STANDARD BEARER keyword. A unit can only have 1 Ensorcelled Banner. BATTLE PROFILE Name Points THE DREAD BANNER 0 THE BANNER OF RAGE 0 THE BLASTED STANDARD 0 THE ERODING ICON 0 THE BANNER OF SCREAMING FLESH 0 Passive THE DREAD BANNER : Marked with sigils of each of the Dark Gods, the bearers of this banner strike fear into those who oppose them. Effect: While this unit includes any standard bearers , enemy units cannot use commands while they are in combat with this unit. KEYWORDS ENSORCELLED BANNER Passive THE BANNER OF RAGE : Sewn from strings of congealed gore, this banner radiates bloodlust so strong that those beneath it are goaded into a state of permanent rage. Effect: This unit has the PLEDGED TO KHORNE keyword. In addition, while this unit includes any standard bearers , add 1 to wound rolls for this unit’s combat attacks . KEYWORDS ENSORCELLED BANNER Passive THE BLASTED STANDARD : Woven from threads of dark magic, this standard is inscribed with writhing runes and surrounded with the coruscatingfires of change. Effect: This unit has the PLEDGED TO TZEENTCH keyword. In addition, while this unit includes any standard bearers , this unit has WARD ( 4+ ) against damage inflicted by shooting attacks . KEYWORDS ENSORCELLED BANNER Passive THE ERODING ICON : As this fell icon arrives upon the enemy line, warriors find their weapons corroding and crumbling to rust. Effect: This unit has the PLEDGED TO NURGLE keyword. In addition, while this unit includes any standard bearers , attacks that target this unit cannot score critical hits (treat them as regular hits instead)."
+ },
+ {
+  "faction": "Slaves to Darkness",
+  "faction_slug": "slaves-to-darkness",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Ensorcelled Banners",
+  "text": "while this unit includes any standard bearers , attacks that target this unit cannot score critical hits (treat them as regular hits instead). KEYWORDS ENSORCELLED BANNER Passive THE BANNER OF SCREAMING FLESH : Fashioned from flayed aelven faces that scream in perpetual agony, the exhilarating pitch of this banner heightens the senses of the followers of the Dark Prince. Effect: This unit has the PLEDGED TO SLAANESH keyword. In addition, while this unit includes any standard bearers , if this unit charged this turn, add 1 to the Attacks characteristic of this unit’s melee weapons for the rest of the turn. KEYWORDS ENSORCELLED BANNER"
+ },
+ {
+  "faction": "Slaves to Darkness",
+  "faction_slug": "slaves-to-darkness",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Brands of the Dark Gods",
+  "text": "Brands of the Dark Gods are unique enhancements that can only be given to non- HERO SLAVES TO DARKNESS INFANTRY units. A unit can only have 1 Brand of the Dark Gods. BATTLE PROFILE Name Points BRAND OF UNBREAKABLE BONDS 10 BRAND OF APOPLEXY 10 BRAND OF THE UNALIGNED 20 Once Per Battle, Your Movement Phase BRAND OF UNBREAKABLE BONDS : This brand binds those who bear it to a site of corrupted earth. As yet, none know what importance this forsaken land holds. Effect: Remove this unit from the battlefield and set it up again wholly within 3\" of an objective you control and not in combat . This unit cannot use CHARGE abilities for the rest of the turn. Passive BRAND OF APOPLEXY : When those marked with this brand see red, all hell breaks loose. Effect: While your fury level is 7, add 1 to the Damage characteristic of this unit’s weapons. Your Hero Phase BRAND OF THE UNALIGNED : The warriors bearing this brand are beholden to no single deity; they regularly shift their allegiance depending on which Dark God’s power is in ascendancy. Effect: Remove all of this unit’s Pledge to Chaos keywords. Then, pick 1 of the following Pledge to Chaos keywords. You cannot pick a keyword you picked for this unit earlier in the battle. PLEDGED TO KHORNE PLEDGED TO TZEENTCH PLEDGED TO NURGLE PLEDGED TO SLAANESH This unit has that keyword for the rest of the battle. Army of Renown"
+ },
+ {
+  "faction": "Slaves to Darkness",
+  "faction_slug": "slaves-to-darkness",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Legion of the First Prince",
+  "text": "When you pick the Slaves to Darkness faction for your army, you can choose for it to be a Legion of the First Prince Army of Renown . If you do so, use the faction rules on these pages instead of the Slaves to Darkness faction rules. Every unit in your army must be drawn from the units listed in the roster options box opposite. All units in your army gain the LEGION OF THE FIRST PRINCE keyword except for those in a Regiment of Renown. ROSTER OPTIONS Be’lakor, the Dark Master Daemon Prince Eternus Varanguard Chaos Sorcerer Lord Chaos Legionnaires Chaos Furies Centaurion Marshal LEGION OF THE FIRST PRINCE DAEMON units"
+ },
+ {
+  "faction": "Slaves to Darkness",
+  "faction_slug": "slaves-to-darkness",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Legion of the First Prince > Battle Traits",
+  "text": "Passive FIRST-DAMNED PRINCE : Be’lakor courts the favour of all of the Chaos Gods to crush his foes. In battle, he surrounds himself with their lesser daemons to do his bidding. Effect: While a friendly Be’lakor is within the combat range of any friendly non- HERO LEGION OF THE FIRST PRINCE DAEMON units: That friendly Be’lakor has WARD ( 4+ ) . In addition, each time you make a successful ward roll for that friendly Be’lakor , allocate 1 damage point to a friendly non- HERO LEGION OF THE FIRST PRINCE DAEMON unit within Be’lakor ’s combat range after the damage sequence for Be’lakor has been resolved (ward rolls cannot be made for those damage points). Once Per Battle (Army), Your Combat Phase STORM OF BLACKENED BLADES : Eternus commands the mortal legions sworn to Be’lakor to bring ruin to all who dare oppose the First Prince. Declare: Pick a friendly Eternus that is in combat and up to 2 friendly non- HERO non- DAEMON LEGION OF THE FIRST PRINCE units wholly within 12\" of that Eternus to be the targets. Effect: Add 1 to the Attacks characteristic of the targets’ melee weapons for the rest of the turn. Once Per Turn (Army), Any Movement Phase 1 DAEMONIC REINFORCEMENTS : Lesser daemons bound to the Dark Master’s will are summoned forth from the Realm of Chaos to swell Be’lakor’s ranks. Declare: Pick a friendly non- non- HERO LEGION OF THE FIRST PRINCE DAEMON INFANTRY or CAVALRY unit that has been destroyed to be the target. Effect: Set up a replacement unit with half the number of models from the target unit (rounding up) wholly within 12\" of a friendly Be’lakor and more than 9\" from all enemy units."
+ },
+ {
+  "faction": "Slaves to Darkness",
+  "faction_slug": "slaves-to-darkness",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Legion of the First Prince > Battle Traits",
+  "text": "with half the number of models from the target unit (rounding up) wholly within 12\" of a friendly Be’lakor and more than 9\" from all enemy units. Once Per Turn (Army), Your Hero Phase BESTOW FAVOUR : The Great Game plays out in the blackened skies above the First Prince’s legions as oaths are sworn, enemies are crushed, and dark rewards are granted. Declare: If a friendly Be’lakor is on the battlefield, pick a non- HERO LEGION OF THE FIRST PRINCE unit to be the target. Effect: Until the start of your next turn: Add 5 to the target’s control score. If the target is a DAEMON unit, add 1 to save rolls for the target. If the target is a non- DAEMON unit, it has WARD ( 6+ ) ."
+ },
+ {
+  "faction": "Slaves to Darkness",
+  "faction_slug": "slaves-to-darkness",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Legion of the First Prince > Heroic Traits",
+  "text": "HERO only Any Charge Phase DREAD MARSHAL : This mighty warrior has proved their devotion to Be’lakor above all, and their loyalty has been rewarded with a host of warriors to command. Declare: Pick up to 3 friendly units wholly within 12\" of this unit to be targets. Effect: Add 1 to charge rolls for the targets for the rest of the turn."
+ },
+ {
+  "faction": "Slaves to Darkness",
+  "faction_slug": "slaves-to-darkness",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Legion of the First Prince > Artefacts of Power",
+  "text": "HERO only Once Per Turn, Reaction: You declared a SPELL ability for a friendly unit wholly within 12\" of this unit BLACK RITUAL DAGGER : Dark tendrils of chaotic magic coil around this obsidian blade. The bearer’s mind is filled with promises of arcane power if its thirst for blood is quenched. Effect: Allocate 1 damage point to this unit. Then, you can re-roll the casting roll ."
+ },
+ {
+  "faction": "Slaves to Darkness",
+  "faction_slug": "slaves-to-darkness",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Legion of the First Prince > Spell Lore",
+  "text": "Your Hero Phase 6 DARK CANTRIP : Uttering blasphemous words in the Dark Tongue, the sorcerer calls forth bolts of black chaotic energy that strike the foe, searing flesh, melting armour and leaving them as a bubbling mass of tentacles. Declare: Pick a friendly LEGION OF THE FIRST PRINCE WIZARD to cast this spell, pick up to 3 visible enemy units within 18\" of them to be the targets, then make a casting roll of 2D6. Effect: Inflict 1 mortal damage on each target. KEYWORDS SPELL, UNLIMITED Your Hero Phase 7 SHROUD IN DARKNESS : At the sorcerer’s bidding, unnatural shadows fall upon Be’lakor’s warriors, allowing them to move unseen. Declare: Pick a friendly LEGION OF THE FIRST PRINCE WIZARD to cast this spell, pick a visible friendly LEGION OF THE FIRST PRINCE unit that is not in combat and is wholly within 12\" of them to be the target, then make a casting roll of 2D6. Effect: The target can move D6\". It cannot end that move in combat. In addition, until the start of your next turn, the target is not visible to enemy units while they are more than 12\" away. KEYWORDS SPELL"
+ },
+ {
+  "faction": "Slaves to Darkness",
+  "faction_slug": "slaves-to-darkness",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Legion of the First Prince > Manifestation Lore",
+  "text": "Your Hero Phase 7 SUMMON EIGHTFOLD DOOM-SIGIL : Eightfold Doom-Sigils are icons of Chaos in all its glory, blazing symbols of pure ruin. To fall in the presence of such a sorcerous construct is to be damned, for these lingering spells hungrily suck souls into the Realm of Chaos for the gods to feast upon. Declare: If there is not a friendly Eightfold Doom-Sigil on the battlefield, pick a friendly LEGION OF THE FIRST PRINCE WIZARD to cast this spell, then make a casting roll of 2D6. Effect: Set up an Eightfold Doom-Sigil wholly within 12\" of the caster and visible to them. KEYWORDS SPELL, SUMMON Army of Renown"
+ },
+ {
+  "faction": "Slaves to Darkness",
+  "faction_slug": "slaves-to-darkness",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Swords of Chaos",
+  "text": "When you pick the Slaves to Darkness faction for your army, you can choose for it to be a The Swords of Chaos Army of Renown . If you do so, use the faction rules on these pages instead of the Slaves to Darkness faction rules. Every unit in your army must be drawn from the units listed in the roster options box below. All units in your army gain the SWORDS OF CHAOS keyword. ROSTER OPTIONS You cannot include Regiments of Renown Varanguard Abraxia, Spear of the Everchosen Archaon the Everchosen"
+ },
+ {
+  "faction": "Slaves to Darkness",
+  "faction_slug": "slaves-to-darkness",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Swords of Chaos > Battle Traits",
+  "text": "Once Per Turn (Army), Start of Battle Round DEMANDS OF THE DARK GODS : Each of the Dark Gods covets Archaon’s service and that of the Swords of Chaos also. The Varanguard may exploit this to wrest boons from them – so long as their loyalty to the Everchosen remains paramount. Effect: Pick 1 of the following effects: Demand of Khorne: For the rest of the battle round, add 1 to the Rend characteristic of melee weapons used by friendly SWORDS OF CHAOS units. Demand of Tzeentch: Pick 1 visible enemy unit within 9\" of a friendly SWORDS OF CHAOS unit that is not in combat and roll a D6. On a 3+, inflict an amount of mortal damage on that enemy unit equal to the roll. Demand of Nurgle: Heal (D3) each friendly SWORDS OF CHAOS unit. Then pick a friendly SWORDS OF CHAOS unit that healed any damage points this turn. Until the start of the next battle round, that unit has WARD ( 6+ ) . Demand of Slaanesh: Add 2\" to the Move characteristic of friendly SWORDS OF CHAOS units until the start of the next battle round. Deployment Phase KNIGHTS OF THE FIRST CIRCLE : The First Circle of the Varanguard comprises Archaon’s own elite retinue. When they strike from the Chaos-cursed skies, ruin surely follows. Declare: If there are more friendly SWORDS OF CHAOS units on the battlefield than there are set up in reserve, pick a friendly SWORDS OF CHAOS unit that has not been deployed. Effect: Set up that unit in reserve in the Ruinous Skies . It has now been deployed. KEYWORDS DEPLOY Your Movement Phase DESCENT FROM RUINOUS SKIES : Riding down from fell portals torn open in the sky, the Swords of Chaos descend to unleash apocalyptic destruction upon the enemies of the Everchosen. Declare: Pick a friendly SWORDS OF CHAOS unit that is in the Ruinous Skies ."
+ },
+ {
+  "faction": "Slaves to Darkness",
+  "faction_slug": "slaves-to-darkness",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Swords of Chaos > Battle Traits",
+  "text": "Declare: Pick a friendly SWORDS OF CHAOS unit that is in the Ruinous Skies . Effect: Set up that unit anywhere on the battlefield more than 9\" from all enemy units."
+ },
+ {
+  "faction": "Slaves to Darkness",
+  "faction_slug": "slaves-to-darkness",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Swords of Chaos > First Circle Titles",
+  "text": "You can include up to 3 First Circle Title enhancements in your army. First Circle Titles can only be given to Varanguard units. The same unit cannot have more than 1 First Circle Title. Passive THE GRIMROOT ORDER : Corruption suffuses these warriors so deeply that it is said they can endure wounds that would slay even fellow Varanguard. Effect: Add 1 to this unit’s Health characteristic. Passive TAMERS OF HARADH’S TORMENT : The steeds of these knights once roamed Haradh’s Torment, where a gargant warlord roused the beasts of the Eightpoints to challenge Archaon – and was later punished for it. Effect: Add 1 to the Damage characteristic of this unit’s Companion weapons. Passive THE HOUNDS APOCALYPTUS : These champions have ridden far across the realms and are rabid in seizing whatever the Everchosen deems a worthy prize. Effect: While this unit is wholly within enemy territory, add 1 to the Attacks characteristic of this unit’s melee weapons. Passive THE BLACKSTORM APOSTATES : These warriors are a rare prize indeed for the Everchosen: Azyrites who have embraced Chaos and speed themselves with imprisoned and tortured celestial winds. Effect: Add 3\" to this unit’s Move characteristic. Passive BETRAYERS OF THE ANVILKING : To earn Archaon’s favour, these former apprentices of an ancient smith-lord betrayed their master but preserved his secrets of forgecraft. Effect: This unit has WARD ( 6+ ) . Army of Renown"
+ },
+ {
+  "faction": "Slaves to Darkness",
+  "faction_slug": "slaves-to-darkness",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Tribes of the Snow Peaks",
+  "text": "When you pick the Slaves to Darkness faction for your army, you can choose for it to be a Tribes of the Snow Peaks Army of Renown . If you do so, use the faction rules on these pages instead of the Slaves to Darkness faction rules. Every unit in your army must be drawn from the units listed in the roster options box below. All units in your army gain the SNOW PEAKS keyword. ROSTER OPTIONS DARKOATH units You cannot include Regiments of Renown"
+ },
+ {
+  "faction": "Slaves to Darkness",
+  "faction_slug": "slaves-to-darkness",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Tribes of the Snow Peaks > Battle Traits",
+  "text": "Passive PLEDGES TO THE DARK GODS : Few Darkoath tribes swear such grand and terrible oaths as those of the Snow Peaks. Fewer still fulfil so many of their brutal pledges. Effect: Each time a friendly SNOW PEAKS unit uses 1 of the following abilities and the effect of that ability is resolved, gain 1 oath point . ‘Oath of Bloodshed’ ‘Oath of Murder’ ‘Oath of Supremacy’ ‘Oath of the Marauder’ ‘Oath of the Raider’ ‘Oath of Conquest’ ‘Oath of Dark Sacrifice’ Designer’s Note: The abilities listed above are abilities on DARKOATH warscrolls. By using those abilities (i.e. completing the oaths), the player gains oath points , which can then be spent to use the OATH abilities in these Army of Renown rules. Once Per Phase (Army), Your Combat Phase DAEMONFIRE WEAPONS : As if kissed by the breath of the Chimera, the weapons of these warriors blaze with black flames that make a mockery of armour. Declare: If you have 1 or more oath points , pick a friendly SNOW PEAKS unit that has not used an OATH ability this turn to be the target. Effect: Spend 1 oath point . For the rest of the turn, add 1 to the Rend characteristic of the target’s melee weapons. KEYWORDS OATH Once Per Phase (Army), Your Charge Phase SPEED OF THE BLOOD CROW : A single scarlet crow flies in the skies above, imbuing these warriors with a supernatural swiftness and predatory focus. Declare: If you have 1 or more oath points, pick a friendly SNOW PEAKS unit that has not used an OATH ability this turn to be the target. Effect: Spend 1 oath point . For the rest of the turn, the target can use CHARGE abilities even if it used a RUN ability in the same turn."
+ },
+ {
+  "faction": "Slaves to Darkness",
+  "faction_slug": "slaves-to-darkness",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Tribes of the Snow Peaks > Battle Traits",
+  "text": "Effect: Spend 1 oath point . For the rest of the turn, the target can use CHARGE abilities even if it used a RUN ability in the same turn. KEYWORDS OATH Once Per Phase (Army), Your Combat Phase HUNGER OF SHESH’SHAN : Possessed by a wild euphoria, these warriors launch themselves at the foe with abandon, gloating as they revel in the screams and arterial sprays of blood. Declare: If you have 1 or more oath points , pick a friendly SNOW PEAKS unit that has not used an OATH ability this turn to be the target. Effect: Spend 1 oath point . For the rest of the turn, add 1 to the Attacks characteristic of the target’s melee weapons. KEYWORDS OATH Once Per Phase (Army), End of Any Turn MESSENGERS OF THE GODS Declare: If you have 1 or more oath points , pick a friendly SNOW PEAKS Darkoath Marauders or Fellriders unit that has been destroyed and has not used an OATH ability this turn to be the target. Effect: Spend 2 oath points . Set up a replacement unit with half the number of models from the target unit (rounding up) on the battlefield, wholly within 6\" of a battlefield edge and more than 3\" from all enemy units. KEYWORDS OATH Once Per Phase (Army), Your Combat Phase RAGE OF ARKHAR : Unholy anger is stoked in the hearts of these warriors, filling them with hate-fuelled stamina. Declare: If you have 1 or more oath points , pick a friendly SNOW PEAKS unit that has not used an OATH ability this turn to be the target. Effect: Spend 2 oath points . The target can use 2 FIGHT abilities this phase. After the first is used, however, the target has STRIKE-LAST for the rest of the turn."
+ },
+ {
+  "faction": "Slaves to Darkness",
+  "faction_slug": "slaves-to-darkness",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Tribes of the Snow Peaks > Battle Traits",
+  "text": "The target can use 2 FIGHT abilities this phase. After the first is used, however, the target has STRIKE-LAST for the rest of the turn. KEYWORDS OATH Once Per Phase (Army), Reaction: Opponent declared an ATTACK ability SHROUD OF THE PALE ELK : A thick, shimmering miasma swirls around these warriors, surrounding them in fractal mirages that confuse the foe and cause them to strike at nothing but thin air. Effect: If that friendly SNOW PEAKS unit has not used an OATH ability this turn, spend 1 oath point . For the rest of the turn, that friendly unit has WARD ( 4+ ) . KEYWORDS OATH"
+ },
+ {
+  "faction": "Slaves to Darkness",
+  "faction_slug": "slaves-to-darkness",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Tribes of the Snow Peaks > Heroic Traits",
+  "text": "HERO only Passive OATH OF KINSHIP : Before the eyes of their fellow tribe members, this chieftain has made a bold oath that they are compelled to honour in order to reaffirm their right to rule. Effect: While this unit is within the combat range of another friendly SNOW PEAKS unit, add 1 to hit rolls for this unit’s attacks."
+ },
+ {
+  "faction": "Slaves to Darkness",
+  "faction_slug": "slaves-to-darkness",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Tribes of the Snow Peaks > Artefacts of Power",
+  "text": "HERO only Once Per Battle (Army), Any Movement Phase GRAND OFFERING : Before the battle, sacrifices were heaped before the lair of a particularly dreaded Wilderfiend known to haunt the region. Declare: Pick a friendly SNOW PEAKS Wilderfiend within 9\" of this unit to be the target. Effect: Give the target D6 sacrifice points ."
+ },
+ {
+  "faction": "Slaves to Darkness",
+  "faction_slug": "slaves-to-darkness",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Darkoath Raiders",
+  "text": "The title of Darkoath Warqueen is conferred only upon those women who unite and lead multiple tribes. Yet even rising to such dizzying heights is not enough, for such power is only the first step upon the Path to Glory in the eyes of the Ruinous Powers. Thus, these leaders must continually swear greater oaths and undertake increasingly dangerous acts of violence and conquest. Where discretion is required to gain advantageous territory, a Warqueen will set out with only her most elite and trusted fighters to bring her strategies to fruition. These raiding parties are large enough to take down rival detachments or monstrous fauna whilst remaining quick and agile. Canny Warqueens will always include those ferocious fighters known as Savagers within their retinue. Whilst still mortal, these warriors are zealous in their violence and will continue to fight until their last breath. The Godspeakers accompanying them are vital for advising and directing their queen with cryptic prophecies and potent prayers. Accompanying these elites will come the Warqueen’s closest kin: Marauders bedecked in their oathstones and sworn to defend their leader to the last. Whilst most march with the Warqueen on foot, a small number will travel mounted to scout ahead. These Fellriders are crucial for providing ranged cover should foes set upon the raiding party from afar. This Spearhead army consists of the following units: General Darkoath Warqueen Units 10 Darkoath Savagers 5 Darkoath Fellriders 10 Darkoath Marauders",
+  "spearhead_name": "Darkoath Raiders"
+ },
+ {
+  "faction": "Slaves to Darkness",
+  "faction_slug": "slaves-to-darkness",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Darkoath Raiders > Battle Traits",
+  "text": "Once Per Turn (Army), Your Hero Phase OATHS OF DARKNESS : The Darkoath are roving barbarian raiders who seek to prove their might by swearing oaths of bloodshed and murder to the Dark Gods. Effect: You can reveal 1 battle tactic card in your hand to your opponent. If you do so, that battle tactic card becomes your oath for the rest of the turn. While this battle tactic card is your oath , you can still use the command on it, or attempt to score the battle tactic on it, as normal. If you score the battle tactic on your oath this turn, your oath is fulfilled . Instead of discarding the card, it is placed to one side but you can still use the command on it. Once you do so, the card is discarded as normal. Fulfilled oaths placed to one side in this way do not count towards the 3 battle tactic cards you can have in your hand. If you use the command on your oath before it is scored, it is discarded as normal. At the end of the turn, if the oath is still in your hand and that oath has not been fulfilled, it ceases to be your oath.",
+  "spearhead_name": "Darkoath Raiders"
+ },
+ {
+  "faction": "Slaves to Darkness",
+  "faction_slug": "slaves-to-darkness",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Darkoath Raiders > Regiment Abilities",
+  "text": "Pick 1 of the following regiment abilities. Once Per Turn (Army), Any Combat Phase RAGE OF ARKHAR : Unholy anger is stoked in the hearts of these warriors, filling them with hate-fuelled stamina. Declare: Pick a friendly unit in combat to be the target. Effect: For the rest of the turn, add 1 to the Attacks characteristic and the Rend characteristic of the target’s melee weapons. Designer’s Note: This does not affect Companion weapons. Once Per Turn (Army), Your Movement Phase FEARLESS INVADERS : These warriors are skilled raiders, riding into enemy settlements to plunder and pillage before retreating from more organised resistance. Declare: Pick a friendly unit in combat to be the target. Effect: If the target uses a RETREAT ability this turn, no mortal damage is inflicted on it and it can still use CHARGE abilities later in the turn.",
+  "spearhead_name": "Darkoath Raiders"
+ },
+ {
+  "faction": "Slaves to Darkness",
+  "faction_slug": "slaves-to-darkness",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Darkoath Raiders > Enhancements",
+  "text": "Give your general 1 of the following enhancements. Passive BLOODTHIRSTY BLADE : The runes engraved upon this weapon hungrily absorb the lifeblood of those it bites into. Effect: The Rend characteristic of your general ’s Rune-etched Axe is 2. Your Charge Phase CHAMPION OF RAIDS : This Darkoath Warqueen is renowned for her lightning raids. With speed, momentum and swift violence, her forces surprise and overwhelm those who stand in her way. Declare: Pick another friendly unit wholly within 12\" of your general to be the target. Effect: The target can re-roll charge rolls for the rest of the turn. Passive GODSHADOW TALISMAN : This unassuming amulet subtly alters the bearer’s form so that even the most determined strikes have a chance to harmlessly pass through them. Effect: Your general has WARD ( 4+ ) . Passive FELL RITUALIST : On the eve of battle, the tribe’s Godspeakers gather to enact a fell ritual to deliver prophecies of the battle to come. Effect: Each time you draw battle tactic cards , if your general is on the battlefield, you can choose to draw 1 additional battle tactic card, then put 1 of your battle tactic cards in your hand back at the bottom of your battle tactic deck.",
+  "spearhead_name": "Darkoath Raiders"
+ },
+ {
+  "faction": "Slaves to Darkness",
+  "faction_slug": "slaves-to-darkness",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Darkoath Raiders > Warscrolls",
+  "text": "• SPEARHEAD WARSCROLL • Darkoath Warqueen 5\" 5 5+ 2 5+ A Darkoath Warqueen has proven herself the rightful ruler of her barbarian tribesfolk time and again. She has sworn dread pacts to bring carnage to the Mortal Realms, and all who stand in her way must face both her wrath and that of her devoted warriors. • SPEARHEAD WARSCROLL • Darkoath Warqueen MELEE WEAPONS Atk Hit Wnd Rnd Dmg Rune-etched Axe [ Crit (Mortal) ] Rune-etched Axe Crit (Mortal) 5 4+ 3+ 1 2 Your Hero Phase OATH OF SUPREMACY : By the will of the gods, this warrior leads her barbarous horde into the lands of the enemy, allowing none to oppose them. Declare: Pick a friendly unit wholly within 12\" of your general to be the target. Effect: Until the start of your next turn, add 1 to hit rolls for attacks made by the target. KEYWORDS HERO , INFANTRY , WARD ( 5+ ) • SPEARHEAD WARSCROLL • Darkoath Fellriders 12\" 3 5+ 1 The Darkoath prize speed and agility above all in their light cavalry. Fellriders are mounted daredevils, outflanking their foes on lightning-swift and aggressive mounts, riddling their ranks with volleys of javelins before charging in to deal the killing blow. • SPEARHEAD WARSCROLL • Darkoath Fellriders MELEE WEAPONS Atk Hit Wnd Rnd Dmg Fellrider Blades [ Charge (+1 Damage) ] Fellrider Blades Charge (+1 Damage) 2 4+ 3+ - 1 Warsteed’s Hooves [ Companion ] Warsteed’s Hooves Companion 2 5+ 3+ - 1 Passive SWIFT ATTACKERS : As they close in on the enemy at frightening speed, these skilled horsemen are nigh impossible to hit with missile fire. Effect: Subtract 1 from hit rolls for shooting attacks that target this unit.",
+  "spearhead_name": "Darkoath Raiders"
+ },
+ {
+  "faction": "Slaves to Darkness",
+  "faction_slug": "slaves-to-darkness",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Darkoath Raiders > Warscrolls",
+  "text": "Effect: Subtract 1 from hit rolls for shooting attacks that target this unit. KEYWORDS CAVALRY , REINFORCEMENTS • SPEARHEAD WARSCROLL • Darkoath Savagers 5\" 1 5+ 1 Screaming blood-curdling vows to the Ruinous Powers, the Darkoath Savagers make brutal war across the length and breadth of the Mortal Realms. To these barbarous marauders, each new dawn is an opportunity to win the favour of the gods. • SPEARHEAD WARSCROLL • Darkoath Savagers MELEE WEAPONS Atk Hit Wnd Rnd Dmg Darkoath Weapons [ Crit (Mortal) ] Darkoath Weapons Crit (Mortal) 2 4+ 3+ - 1 1 model in this unit is a Godspeaker. Your Hero Phase VISIONS OF GLORY : Godspeakers use their powers of divination to scry the future and see what glory awaits their kin. Effect: If this unit includes a Godspeaker, roll 8 dice. For each 4+, until the start of your next turn, you can re-roll 1 hit roll , 1 wound roll , 1 run roll or 1 save roll for this unit. KEYWORDS INFANTRY • SPEARHEAD WARSCROLL • Darkoath Marauders 5\" 1 5+ 1 Hordes of Darkoath Marauders form the backbone of many Slaves to Darkness tribes. These barbarous warriors number in the thousands and fight ferociously to sweep away civilisation in the name of the Chaos Gods. • SPEARHEAD WARSCROLL • Darkoath Marauders MELEE WEAPONS Atk Hit Wnd Rnd Dmg Raider Weapons Raider Weapons 2 4+ 3+ - 1 Passive GLORIOUS DEATH : Ever keen to earn the favour of their tribe, when the eyes of the fiercest fighters are upon them, these warriors will not go down without a fight. Effect: Each time a model in this unit is slain by a combat attack and that model was in combat with the attacking model, roll a dice. On a 5+, inflict 1 mortal damage on the attacking unit after the FIGHT ability has been resolved. KEYWORDS INFANTRY , REINFORCEMENTS",
+  "spearhead_name": "Darkoath Raiders"
+ },
+ {
+  "faction": "Slaves to Darkness",
+  "faction_slug": "slaves-to-darkness",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Bloodwind Legion",
+  "text": "When a worshipper of the Dark Gods has walked the Path to Glory, conquering lands and slaughtering their rivals, they will eventually reach the final obstacle that lies before their ascension to daemonhood. Such a fell blessing requires dedication tenfold compared to what hardships came before, and only feats of the most spectacular violence can hope to catch the Dark Pantheon’s eyes. Thus will a newly crowned Chaos Lord strike out in order to seek the bloodiest battles and raise their own despoiling armies. Such cursed ranks can be spotted marauding across the realms with their Chaos Lord at their head. With the Ruinous Powers watching their every move, the Lord will cleave through front lines with their reaperblade, receiving bounteous blessings in exchange. The fighters that accompany this champion are equal parts their soldiers and rivals, hoping to steal glory for themselves. Alongside Chaos Warriors thunder Chaos Knights, towering warriors atop gore-streaked steeds that shatter enemy formations with the power of their charge. Should numerically superior foes seek to overwhelm these elites, a rumbling Chaos Chariot will come to the fore. This heavy war-carriage can bowl over and crush entire rows of infantry once it gathers momentum, even as its riders lay about themselves with lash and spiked flail. This Spearhead army consists of the following units: General Chaos Lord Units 1 Chaos Chariot 5 Chaos Warriors 5 Chaos Warriors 5 Chaos Knights",
+  "spearhead_name": "Bloodwind Legion"
+ },
+ {
+  "faction": "Slaves to Darkness",
+  "faction_slug": "slaves-to-darkness",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Bloodwind Legion > Battle Traits",
+  "text": "Your Chaos Knights unit is not set up during the deployment phase. Instead, from the second battle round onwards, they can use the Dreaded Arrival ability Your Movement Phase DREADED ARRIVAL : To the thunderous beating of flame-trailing hooves and clattering Chaos Armour, the knights arrive to shatter the enemy. Effect: Set up this unit wholly within your territory, within 1\" of a battlefield edge and more than 6\" from all enemy units. Once Per Turn, End of Any Turn EYE OF THE GODS : The Slaves to Darkness seek to attract the notice of the gods by performing great deeds in battle. Declare: Pick one of the following friendly units to use this ability: A unit that is contesting an objective not controlled by your opponent and is not in combat . A unit that destroyed an enemy unit this turn. Effect: Roll once on the Eye of the Gods table for that unit. That unit gains the Eye of the Gods passive ability that corresponds to the roll (the unit keeps all Eye of the Gods abilities gained in previous turns). If the same unit gains the same ability more than once in the battle, the effects are not cumulative. D6 ABILITY 1 Snubbed by the Gods: No effect. 2 WARD OF TZEENTCH: This unit has WARD ( 6+ ) . 3 GRACE OF SLAANESH: Add 1 to run rolls for this unit. 4 BLESSING OF NURGLE: Subtract 1 from wound rolls for attacks that target this unit. 5 FURY OF KHORNE: Add 1 to the Rend characteristic of this unit’s melee weapons. 6 Champion of Chaos: Pick any ability from the table.",
+  "spearhead_name": "Bloodwind Legion"
+ },
+ {
+  "faction": "Slaves to Darkness",
+  "faction_slug": "slaves-to-darkness",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Bloodwind Legion > Regiment Abilities",
+  "text": "Pick 1 of the following regiment abilities. Passive FIERCE CONQUERORS : These warriors are hell‑bent on desecrating the territory and holdings of any who dare oppose them. Effect: Add 3 to the control scores of friendly Chaos Warriors units. Once Per Battle, Start of the First Battle Round THE DREAD BANNER : Marked with sigils of each of the Dark Gods, those who bear this banner seek ruinous blessings whatever their provenance. Declare: Pick a friendly Chaos Warriors unit. Effect: You can immediately roll on the Eye of the Gods table for that unit.",
+  "spearhead_name": "Bloodwind Legion"
+ },
+ {
+  "faction": "Slaves to Darkness",
+  "faction_slug": "slaves-to-darkness",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Bloodwind Legion > Enhancements",
+  "text": "Give your general 1 of the following enhancements. Passive MARK OF KHORNE : This general serves the Blood God and promises to deliver endless carnage upon the battlefield in return for his dark gifts. Effect: Add 1 to the Rend characteristic of your general ’s melee weapons if they charged in the same turn. Passive MARK OF NURGLE : The Father of Plagues has blessed your general with unnatural resilience. Effect: Subtract 1 from wound rolls for combat attacks that target your general . Once Per Battle, Your Movement Phase MARK OF TZEENTCH : The Changer of the Ways shapes the destiny of your general and grants them the ability to twist and warp the realms around them. Declare: Pick a friendly unit on the battlefield. You cannot pick your general . Effect: Remove that unit from the battlefield and set it up again wholly within 6\" of your general and more than 6\" from all enemy units. It cannot use Move abilities for the rest of the phase. Passive MARK OF SLAANESH : Your general is bound to the Dark Prince, who, for the price of their soul, gifts them inhuman grace and martial skill. Effect: Your general has STRIKE-FIRST .",
+  "spearhead_name": "Bloodwind Legion"
+ },
+ {
+  "faction": "Slaves to Darkness",
+  "faction_slug": "slaves-to-darkness",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Bloodwind Legion > Warscrolls",
+  "text": "• SPEARHEAD WARSCROLL • Chaos Lord 5\" 6 3+ 2 Chaos Lords are baleful champions who have walked the Path to Glory and are now only one step away from ascension or damnation. They are the rulers of great warbands and hordes, and their followers would rather risk death than face their wrath. Each one is a legendary warrior, gifted by the gods with enough raw strength to command by pure fear, for deep down, they know that it only takes a single misstep to disappoint their fell patrons. Their feats of epic violence inspire the bloodthirsty throngs that follow them, shaping them into an unstoppable legion of dark-hearted killers. • SPEARHEAD WARSCROLL • Chaos Lord MELEE WEAPONS Atk Hit Wnd Rnd Dmg Reaperblade [ Crit (Mortal) ] Reaperblade Crit (Mortal) 5 3+ 3+ 1 2 Your Hero Phase FAVOURED OF THE PANTHEON : The gods watch this warlord’s deeds particularly closely. Effect: Roll a dice. On a 4+, you can roll on the Eye of the Gods table for this unit. Any Combat Phase IRON-WILLED CHAMPION : This champion of Chaos demands that their warriors give no quarter. Declare: Pick a friendly unit wholly within 12\" of this unit to be the target and roll a dice. You cannot pick this unit. Effect: On a 2+, add 1 to hit rolls for attacks made by the target unit this phase. KEYWORDS HERO , INFANTRY • SPEARHEAD WARSCROLL • Chaos Chariot 10\" 7 4+ 2 Swift Chaos Chariots thunder across the plains hunting for worthy foes. Drawn by corrupted steeds, the momentum of these constructs is a weapon of its own, and the charioteers take dark pleasure in crushing enemies beneath their spiked wheels, each as heavy as a boulder of iron.",
+  "spearhead_name": "Bloodwind Legion"
+ },
+ {
+  "faction": "Slaves to Darkness",
+  "faction_slug": "slaves-to-darkness",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Bloodwind Legion > Warscrolls",
+  "text": "is a weapon of its own, and the charioteers take dark pleasure in crushing enemies beneath their spiked wheels, each as heavy as a boulder of iron. Once the chariot has smashed a hole through the enemy’s main formation, it will rampage among their back lines with impunity, its riders lashing and bludgeoning stragglers and any who try to flee with cruel abandon. • SPEARHEAD WARSCROLL • Chaos Chariot MELEE WEAPONS Atk Hit Wnd Rnd Dmg Chaos War-flail Chaos War-flail 6 3+ 3+ - 1 Driver’s Lashing Whip Driver’s Lashing Whip 2 4+ 4+ - 1 Warhorses’ Trampling Hooves [ Companion ] Warhorses’ Trampling Hooves Companion 4 5+ 3+ - 1 Your Charge Phase SWIFT DEATH : Chaos Chariots are at their most deadly on the charge, causing devastation with their bladed wheels and hurtling mass. Declare: If this unit charged this phase, pick an enemy unit within 1\" of it to be the target and roll a dice. Effect: On a 2+, inflict D3 mortal damage on the target. KEYWORDS WAR MACHINE • SPEARHEAD WARSCROLL • Chaos Warriors 5\" 2 3+ 1 Clad in hellforged iron and swollen with dark blessings, Chaos Warriors are the bane of civilisation. Entire legions of these armoured killers march into battle in search of divine favour, each warrior the equal of several lesser mortals. Though they obey their chosen lord without hesitation, each one also walks the Path to Glory – and knows that once they gain enough power to rival their leader, they will do so in an instant. Many Chaos Warriors eventually fuse with their armour, having spent so long within their suits of cursed metal.",
+  "spearhead_name": "Bloodwind Legion"
+ },
+ {
+  "faction": "Slaves to Darkness",
+  "faction_slug": "slaves-to-darkness",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Bloodwind Legion > Warscrolls",
+  "text": "Many Chaos Warriors eventually fuse with their armour, having spent so long within their suits of cursed metal. • SPEARHEAD WARSCROLL • Chaos Warriors MELEE WEAPONS Atk Hit Wnd Rnd Dmg Rune-etched Halberd Rune-etched Halberd 2 3+ 3+ 1 1 Passive BRINGERS OF DESOLATION : Paragons of the Dark Gods, Chaos Warriors cut a swathe through the enemy lines, leaving nothing but blood and ruin in their wake. Effect: Add 1 to wound rolls for combat attacks made by this unit that target an enemy unit that is contesting an objective you do not control. KEYWORDS INFANTRY • SPEARHEAD WARSCROLL • Chaos Knights 10\" 4 3+ 1 The coming of the Chaos Knights heralds the death of empires. These dreaded champions charge fearlessly into the staunchest battlelines, striking down foes all around them with sundering blows from their ensorcelled weapons. The huge destriers they ride are no ordinary horses; each snorts clouds of brimstone, and tongues of flame drip from their pounding hooves. For a Chaos Knight to be chosen by one of these daemon-touched steeds is a blessing from the Dark Gods themselves, for the creatures are wild and untameable. • SPEARHEAD WARSCROLL • Chaos Knights MELEE WEAPONS Atk Hit Wnd Rnd Dmg Cursed Lance [ Charge (+1 Damage) ] Cursed Lance Charge (+1 Damage) 3 3+ 3+ 1 1 Chaos Steed’s Trampling Hooves [ Companion ] Chaos Steed’s Trampling Hooves Companion 2 5+ 3+ - 1 Passive IMPALING CHARGE : A charging Chaos Knight is capable of spitting several enemies at once with the point of their ensorcelled polearm. Effect: Add 1 to the Rend characteristic of this unit’s Cursed Lances if it charged in the same turn. KEYWORDS CAVALRY noindex /noindex noindex",
+  "spearhead_name": "Bloodwind Legion"
+ }
+]

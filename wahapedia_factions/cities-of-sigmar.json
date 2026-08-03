@@ -1,0 +1,600 @@
+[
+ {
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "",
+  "text": "/noindex The Cities of Sigmar are visions of civilisation and hope made manifest. Gleaming metropolises built around the towering bastion of a Stormkeep, they are heavily fortified against the armies of darkness. Within their high walls, aelf, duardin and human thrive in peaceful coexistence. This page contains all of the rules you need to field your Cities of Sigmar miniatures on the battlefields of the Mortal Realms, from a host of exciting faction rules to a range of warscrolls. The rules are split into the following sections:"
+ },
+ {
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Designers’ Commentary > Battletome: Cities of Sigmar",
+  "text": "Q: Does the ‘Overheating’ ability remove one heat token or one heat token for each 5+? A: One heat token for each 5+."
+ },
+ {
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Traits",
+  "text": "Cities of Sigmar armies can use the following abilities: Start of Battle Round FORM UP! : Once the order is given, shieldwalls and cannon batteries link up to form a fortress of flesh and steel that little can stand against. Declare: Pick a friendly CITIES OF SIGMAR unit to use this ability, then pick 2 other visible friendly CITIES OF SIGMAR units wholly within 12\" of it to be the targets. The unit using this ability and the targets: cannot be under orders . must each be a different unit type. Effect: For the rest of the battle round, the unit using this ability and the targets are under orders . Designer’s Note: ‘Unit type’ refers to the name of the warscroll ( Core Rules, 4.0 ), e.g. ‘ Freeguild Cavalier-Marshal ’ or ‘ Cannonade Cogfort ’. Once Per Turn (Army), Your Shooting Phase TAKE AIM! : While their shield-slogging comrades keep the foe at bay, sharpshooters rain down punishing volumes of fire on helpless foes. Declare: Pick a friendly unit that is under orders to use this ability. Effect: Pick 1 of that unit’s ranged weapons. Add 1 to hit rolls for shooting attacks made with that weapon for the rest of the turn. Once Per Turn (Army), Reaction: You declared a CHARGE ability for a unit that is under orders SOUND THE ATTACK! : As the piercing note of a war-horn sounds, shields shift aside to permit cavalry and hollering assault troops to sally forth and engage the foe. Used By: The unit using that CHARGE ability. Effect: You can change the lowest D6 in the charge roll to match the highest D6. Once Per Turn (Army), Any Combat Phase INTO THEM, YOU DOGS! : Sigmarite officers demand remarkable feats from their warriors, leading them into the furnace of battle with a rousing speech and a sword held high."
+ },
+ {
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Traits",
+  "text": "Sigmarite officers demand remarkable feats from their warriors, leading them into the furnace of battle with a rousing speech and a sword held high. Declare: Pick a friendly HERO that is under orders to use this ability. That unit is the field officer for the rest of the turn. Then, pick 2 other visible friendly non- HERO units that are under orders and wholly within 12\" of the field officer to be the targets. Effect: For the rest of the turn, the first time the field officer uses a FIGHT ability , you can pick a target that has not used a FIGHT ability this turn. That target is inspirited and the other target is emboldened . The inspirited target can be picked to use a FIGHT ability immediately after the FIGHT ability used by the field officer has been resolved. Then, if the emboldened target has not used a FIGHT ability this turn, it can be picked to use a FIGHT ability immediately after the inspirited target’s FIGHT ability has been resolved. Once Per Turn (Army), Any Combat Phase HURL THEM BACK! : After the enemy has spent their fury, the Sigmarites heave forward, shoving their foes off balance and leaving them open to a killing blow. Declare: Pick a friendly unit that is under orders and in combat with an enemy unit that charged this turn to use this ability. Effect: For the rest of the turn, add 1 to the Rend characteristic of that unit’s melee weapons."
+ },
+ {
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations",
+  "text": "You can pick 1 of the following battle formations for a Cities of Sigmar army. Each battle formation grants a different ability you can use in the battle. BATTLE PROFILE Name Points Stalwart Guardians 0 Collegiate Exemplars 0 Zealous Hordes 0 Swift Reinforcements 0 Veteran Cannoneers 40 Fearless Exemplars 0 Thrall Warhost 0 Grudgebound War Throng 0"
+ },
+ {
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Stalwart Guardians",
+  "text": "Passive TO THE LAST : Determined to safeguard all that they cherish, the Sigmarites charge into battle to reinforce wavering battlelines. Effect: Each time a friendly unit that is under orders uses the ‘ Rally ’ command, you can make 3 additional rally rolls of D6."
+ },
+ {
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Collegiate Exemplars",
+  "text": "Passive MASTERS OF THE ARCANE : The battlemages of the Collegiate Arcane might be intimidating and occasionally aloof, but their sorcery perfectly supplements a fighting formation. Effect: Add 1 to arcane manipulation rolls and banishment rolls for friendly WIZARDS that are under orders . Designer’s Note: WIZARDS in this battletome use arcane manipulation rolls for a variety of powerful effects."
+ },
+ {
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Zealous Hordes",
+  "text": "Once Per Turn (Army), Reaction: Your opponent declared a FIGHT ability THRONGS OF THE FAITHFUL : All that remains in these Sigmarites’ hearts is a burning desire for vengeance against the reavers who slaughtered their loved ones. Effect: For the rest of the turn, add 1 to wound rolls for combat attacks made by friendly SIGMARITE units that target the enemy unit using that FIGHT ability ."
+ },
+ {
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Swift Reinforcements",
+  "text": "Once Per Turn (Army), Your Hero Phase DAWNBRINGER CRUSADE : Pouring forth from the Cities of Sigmar, the Dawnbringer Crusades seek to reconquer and reconsecrate the Mortal Realms in the name of the God-King. Declare: Pick a friendly non- HERO CITIES OF SIGMAR INFANTRY unit wholly within friendly territory to use this ability. Effect: If that unit is in combat , it can move 6\". It can move through the combat ranges of enemy units but can only end that move in combat with units it was in combat with at the start of that move. It does not have to end the move in combat. If that unit is not in combat, it can move 6\". It cannot move into combat during any part of that move. KEYWORDS MOVE"
+ },
+ {
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Veteran Cannoneers",
+  "text": "Once Per Turn (Army), Your Shooting Phase CANNY CREWS : The crews of these Great Cannons are so well trained they often fire the perfect shot, blasting off the heads of monsters or mowing down ranks of the enemy. Declare: Pick up to 3 friendly Ironweld Great Cannon units to be the targets. Effect: For the rest of the turn, each time the target uses a SHOOT ability, you can re-roll 1 hit roll , or 1 wound roll , or 1 random characteristic roll for the Damage characteristic."
+ },
+ {
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Fearless Exemplars",
+  "text": "Once Per Turn (Army), Your Hero Phase FRONT-LINE LEADER : The officars of this army are the stuff of Dawnbringer legend, hard-bitten veterans that stand with the troops through thick and thin. Their exemplary behaviour and courage inspires their soldiers to fight all the harder when the going gets tough. Declare: Pick a friendly CITIES OF SIGMAR HUMAN INFANTRY HERO to use this ability. Then, you can pick up to 1 friendly NON-HERO HUMAN INFANTRY unit and up to 1 friendly HUMAN WAR MACHINE unit that are wholly within 12\" of that HERO to be the targets. Effect: While the targets are wholly within 12\" of that HERO , add 1 to the Rend characteristic of the target INFANTRY unit’s melee weapons and the target WAR MACHINE unit’s ranged weapons until the start of your next turn."
+ },
+ {
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Thrall Warhost",
+  "text": "On 1st June 2027, these rules will move over to Warhammer Legends. This means that they will no longer be legal for competitive play Once Per Turn (Army), Start of Battle Round HAVE NO MERCY : Their mistress’s commands echoing in their minds, the aelves of the Darkling Covens are compelled to murder the foe with pitiless efficiency, their dark-hearted kin joining them in the slaughter. Declare: Pick a visible enemy unit to be the target. Effect: Until the start of the next battle round, add 1 to wound rolls for combat attacks made by friendly CITIES OF SIGMAR AELF units that target that enemy unit while it is damaged or has had any models slain in the same turn."
+ },
+ {
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Grudgebound War Throng",
+  "text": "On 1st June 2027, these rules will move over to Warhammer Legends. This means that they will no longer be legal for competitive play Once Per Turn (Army), Enemy Combat Phase I’VE SEEN WORSE AND KILLED BETTER : The duardin who battle for the Cities of Sigmar are as gruff and critical as they are loyal, courageous and bold. Little can move them once their mind is set or their feet planted. Declare: Pick an enemy unit that charged this turn and is in combat with any friendly CITIES OF SIGMAR DUARDIN units that did not charge this turn to be the target. Effect: Roll a dice. On a 4+, other than the Companion weapon ability, weapon abilities for the target’s combat attacks have no effect for the rest of the turn."
+ },
+ {
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Heroic Traits > Sentinels of Order",
+  "text": "( HERO only excluding Cannonade Cogfort and Conqueror Cogfort ) BATTLE PROFILE Name Points STENTORIAN GENERAL 0 BELOVED LEADER 0 GRIZZLED DRILLMASTER 0 Passive STENTORIAN GENERAL : This hero’s bellowed threats are so intense that the enemy cowers before them. Effect: Subtract 1 from ward rolls for enemy units while they are in combat with any visible friendly units that are wholly within 12\" of this unit and under orders . Passive BELOVED LEADER : Such is the esteem in which this officer is held that their soldiers would march into the jaws of death without fear. Effect: Ignore negative modifiers to hit rolls and wound rolls applied by enemy abilities for attacks made by visible friendly units that are wholly within 12\" of this unit and under orders . Passive GRIZZLED DRILLMASTER : This warrior is a grim-faced veteran who mercilessly drills regiments under their command, not out of cruelty but from a desire to ensure their survival. Effect: Other visible friendly units have WARD ( 6+ ) while they are wholly within 12\" of this unit and under orders ."
+ },
+ {
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Heroic Traits > Castelite Veterans",
+  "text": "HERO only BATTLE PROFILE Name Points ASTUTE TACTICIAN 0 DRAW STEEL! 0 COSMOPOLITAN LEADER 20 Your Hero Phase ASTUTE TACTICIAN : This Sigmarite has spent as much time with their nose in military tomes as they have knee-deep in the spilled guts of their foes. Their erudition in the subject of battlefield manoeuvres is highly regarded. Declare: Pick a friendly CITIES OF SIGMAR unit wholly within 12\" of this unit to be the target. Effect: For the rest of the turn, add 1 to charge rolls for the target and add 2 to run rolls for the target. Any Combat Phase DRAW STEEL! : With a bellow, the officar lunges into battle, and their troops follow them with as much steel in their hearts as they wield in their clenched fists. Declare: If this unit charged this turn, pick a friendly CITIES OF SIGMAR HUMAN unit that charged this turn and is wholly within 12\" of this unit to be the target. Effect: Add 1 to the Attacks characteristic of the target’s melee weapons for the rest of the turn. Your Hero Phase COSMOPOLITAN LEADER : This officar has trained under and alongside all the myriad factions that dwell within the walls of the Cities of Sigmar. Their knowledge of many different fighting styles and disciplines is a rare quality. Declare: Pick a friendly CITIES OF SIGMAR INFANTRY or CAVALRY unit wholly within 12\" of this unit to be the target. If this unit is HUMAN , pick up to 3 eligible units to be the targets instead. Effect: Roll a dice. On a 3+, until the start of your next turn: If the target is HUMAN , add 1 to wound rolls for the target’s combat attacks . If the target is DUARDIN , add 1 to charge rolls for the target. If the target is AELF , add 3 to the target’s control score ."
+ },
+ {
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Heroic Traits > Sentinels of Order",
+  "text": "You can pick a heroic trait from this table instead of from other Heroic Traits tables available to this faction. ( HERO only excluding Cannonade Cogfort and Conqueror Cogfort ) BATTLE PROFILE Name Points PIOUS VETERAN 0 BRISTLING ATTITUDE 0 COSMOPOLITAN LEADER 0 Passive PIOUS VETERAN : The quiet strength of this warrior’s faith is such that tiny miracles manifest around them wherever they go Effect: Each time you pick targets while declaring a PRAYER ability used by a friendly CITIES OF SIGMAR PRIEST , if this unit is eligible to be picked, you can pick it to be an additional target. Reaction: Opponent declared a CHARGE ability for a visible unit within 12\" of this unit BRISTLING ATTITUDE : Many enemy assaults falter in the face of this general’s fiery yet determined resistance. Effect: Spend any number of rage dice . If your opponent’s fury level is lower than yours, they must increase their fury level by 1, to a maximum of 7. Then, roll X dice, where X is the number of rage dice spent. For each 3+, subtract 1 from the charge roll . Your Hero Phase COSMOPOLITAN LEADER : This veteran has trained under and alongside soldiers from all walks of life across the Cities of Sigmar. Their knowledge of many different fighting styles and disciplines is a rare quality. Declare: Pick up to 3 visible friendly non- WAR MACHINE SIGMARITE units wholly within 12\" of this unit to be the targets. Effect: Spend 1 rage dice for each target. If your opponent’s fury level is lower than yours, they must increase their fury level by 1, to a maximum of 7. Then, add 1 to wound rolls for each target’s combat attacks until the start of your next turn."
+ },
+ {
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Artefacts of Power > Treasures of the Cities",
+  "text": "( HERO only, excluding Cannonade Cogfort and Conqueror Cogfort ) BATTLE PROFILE Name Points THE LAST BLADE OF EMBERGARD 0 BONES OF SAINT IGNIFUS 0 THE SPHERE CELESTIAL 0 Deployment Phase THE LAST BLADE OF EMBERGARD : This chipped and scratched blade grows steadily hotter as allies and enemies fall, fuelled by the fury of battle. Effect: This unit can use this ability while it is in reserve. Pick 1 of this unit’s non- Companion melee weapons. Add 2 to that weapon’s Attacks characteristic and Rend characteristic for the rest of the battle. Reaction: You declared a SPELL or PRAYER ability for a visible unit that is wholly within 12\" of this unit and under orders BONES OF SAINT IGNIFUS : The seventh Supreme Pontifex of the Sigmarite faith, Ignifus perished in the act of slaying the Nightmare of Vandium. His bones thrum with righteous power. Effect: Add 1 to the casting roll or chanting roll for that ability. Your Hero Phase THE SPHERE CELESTIAL : By cranking the dials on this incredibly sophisticated artefact, the bearer can manipulate space and time on a local level, swapping the position of themselves and another willing ally. Declare: If this unit is not in combat , pick a point on the battlefield within 1\" of this unit and more than 3\" from all other units (friendly and enemy) and terrain features to be the target point. Then, pick another visible friendly CITIES OF SIGMAR INFANTRY or CAVALRY HERO that is wholly within 18\" of this unit and not in combat to be the target unit. Effect: Remove this unit from the battlefield and set it up again within 1\" of the target unit and not in combat. Then, remove the target unit from the battlefield and set it up again within 1\" of the target point and not in combat."
+ },
+ {
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Artefacts of Power > Treasures of the Cities",
+  "text": "Then, remove the target unit from the battlefield and set it up again within 1\" of the target point and not in combat. This unit and the target unit can use MOVE abilities in the following movement phase (this is an exception to Core Rules, 24.0 )."
+ },
+ {
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Ironweld Innovations",
+  "text": "An Ironweld Innovation is a unique enhancement that can be given to Cannonade Cogforts and Conqueror Cogforts . A unit can only have 1 Ironweld Innovation. BATTLE PROFILE Name Points PROTOTYPE ARCO-COMBUSTOR UNINHIBITOR 0 EMERGENCY BELLOWS 0 GRAPPLE-NET LAUNCHER 0 Once Per Battle, Your Movement Phase PROTOTYPE ARCO-COMBUSTOR UNINHIBITOR : This device accelerates the burning of a Cogfort’s emberstone fuel, allowing sudden and shocking bursts of motion. Effect: For the rest of the turn: Add 3\" to this unit’s Move characteristic. This unit can use SHOOT abilities even if it used a RETREAT ability in the same turn. No mortal damage is inflicted on this unit by RETREAT abilities. End of Any Turn EMERGENCY BELLOWS : This cogwork mechanism pumps cool air into an overheating arco-combustor. Effect: Remove 1 of this unit’s heat tokens . Once Per Battle, Enemy Combat Phase GRAPPLE-NET LAUNCHER : This hull-mounted defensive device flings a steel-mesh net at onrushing foes, trapping them fast and nullifying their attacks. Declare: If this unit did not charge this turn, pick an enemy unit in combat with this unit and that charged this turn to be the target. Effect: Subtract 1 from the Attacks characteristic of the target’s melee weapons for the rest of the turn."
+ },
+ {
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Spell Lore",
+  "text": "BATTLE PROFILE Name Points Spells of the Collegiate Arcane 0"
+ },
+ {
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Spell Lore > Spells of the Collegiate Arcane",
+  "text": "Your Hero Phase 6 SPEED OF THE TWIN-TAILED COMET : Banners blaze with ethereal fire and trail comet-like contrails as the Freeguilders hurl themselves forward to meet the enemy. Declare: Pick a friendly CITIES OF SIGMAR WIZARD to cast this spell, then make a casting roll of 2D6. Effect: For the rest of the turn, add 3\" to the Move characteristic of friendly non- WAR MACHINE CITIES OF SIGMAR units while they are wholly within 12\" of the caster and visible to them. KEYWORDS SPELL, UNLIMITED Your Hero Phase 7 CURSE OF SCORCHED METAL : The wizard causes the weapons of their foes to grow unbearably hot, searing their flesh to the bone. Declare: Pick a friendly CITIES OF SIGMAR WIZARD to cast this spell, pick a visible enemy unit within 18\" of them to be the target, then make a casting roll of 2D6. Effect: Until the start of your next turn, the first time the target uses an ATTACK ability, for each unmodified hit roll of 1 for an attack made by the target as part of that ATTACK ability, inflict 1 mortal damage on the target after the ATTACK ability has been resolved. KEYWORDS SPELL Your Hero Phase 6 HIGH STAR’S LIGHT : The mage summons a simulacrum of Sigendil, the High Star of Azyr, to inspire their allies to the greatest heights of valour. Declare: Pick a friendly CITIES OF SIGMAR WIZARD to cast this spell, pick a visible friendly CITIES OF SIGMAR unit wholly within 12\" of them to be the target, then make a casting roll of 2D6. Effect: Add 1 to the Attacks characteristic of the target’s melee weapons for the rest of the turn. KEYWORDS SPELL"
+ },
+ {
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Prayer Lore",
+  "text": "BATTLE PROFILE Name Points Scriptures of Sigmar 0"
+ },
+ {
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Prayer Lore > Scriptures of Sigmar",
+  "text": "Your Hero Phase 3 HOLY AEGIS : A shimmering barrier manifests around the beneficiary, dulling the impact of enemy attacks. Declare: Pick a friendly CITIES OF SIGMAR PRIEST to chant this prayer, pick a visible friendly CITIES OF SIGMAR unit wholly within 12\" of them to be the target, then make a chanting roll of D6. Effect: If the chanting roll was 7+, you can pick another eligible unit to be a second target. Until the start of your next turn, ignore the first damage point that would be allocated to each target in each phase. KEYWORDS PRAYER, UNLIMITED Your Hero Phase 5 RECKONING OF SINNERS : Searing oratory causes enemies to be stricken by the weight of the sins and outrages they have committed against the God-King’s folk. Declare: Pick a friendly CITIES OF SIGMAR PRIEST to chant this prayer, pick a visible friendly CITIES OF SIGMAR unit wholly within 12\" of them to be the target, then make a chanting roll of D6. Effect: If the chanting roll was 10+, you can pick another eligible unit to be a second target. Until the start of your next turn, enemy units have a maximum control score of 1 while they are in combat with any of the targets. KEYWORDS PRAYER Your Hero Phase 3 BENEDICTION OF THE HIGH HEAVENS : The priest beseeches Sigmar to rain down restorative blessings upon his faithful, seeing lacerations heal and broken bones reknit. Declare: Pick a friendly CITIES OF SIGMAR PRIEST to chant this prayer, pick another visible friendly CITIES OF SIGMAR unit wholly within 12\" of them to be the target, then make a chanting roll of D6. Effect: Heal (D3) the target and the chanter. If the chanting roll was 7+, Heal (D3) each visible friendly CITIES OF SIGMAR unit wholly within 12\" of the chanter instead. KEYWORDS PRAYER"
+ },
+ {
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Decorations for Valour",
+  "text": "Decorations for Valour are unique enhancements that can be given to CITIES OF SIGMAR units that have the CHAMPION keyword. A unit can only have 1 Decoration for Valour. BATTLE PROFILE Name Points TWIN-TAILED COMET OF HONOUR 10 THE LIVING CITY CROSS 10 AQSHIAN ORDER OF MERIT 10 Passive TWIN-TAILED COMET OF HONOUR : Bearing one of the holiest symbols of Sigmar, this medal is awarded for exemplary acts of gallantry Effect: While this unit has any champions , add 5 to this unit’s control score . Passive THE LIVING CITY CROSS : Having spent many years deployed in the wilds of Ghyran, this warrior has trained their troops to use camouflage and guerrilla-style survival techniques. Effect: While this unit has any champions , subtract 1 from hit rolls for shooting attacks that target this unit. Passive AQSHIAN ORDER OF MERIT : Awarded to distinguished veterans of battle in the Realm of Fire, this medal marks out those who have protected their allies against Aqshy’s rage-inducing effects. Effect: While this unit has any champions , if an enemy unit in combat with this unit uses the ‘ Eruption of Fury ’ ability, when resolving attacks as part of that ability, on an unmodified hit roll of 6, do not inflict an additional D3 mortal damage on each unit in combat with that unit. Army of Renown"
+ },
+ {
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Allies of the Free Cities",
+  "text": "When you pick the Cities of Sigmar faction for your army, you can choose for it to be an Allies of the Free Cities Army of Renown . If you do so, use the faction rules on these pages instead of the Cities of Sigmar faction rules. Every unit in your army must be drawn from the units listed in the roster options below. All units in your army gain the ALLIES OF THE FREE CITIES keyword. ROSTER OPTIONS Any non- UNIQUE SIGMARITE units For each Sigmarite unit you include, you can include: Up to 1 ALLIES OF THE FREE CITIES DUARDIN unit Up to 1 ALLIES OF THE FREE CITIES AELF unit You cannot include Regiments of Renown You must include 1 SIGMARITE unit for each AELF unit and each DUARDIN unit you include."
+ },
+ {
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Allies of the Free Cities > Battle Traits",
+  "text": "Start of Battle Round FORM UP, ALLIES! : Once the order is given, humans, aelves and duardin alike link up to form a fortress of flesh and steel that little can stand against. Declare: Pick a friendly ALLIES OF THE FREE CITIES unit to use this ability, then pick 2 other visible friendly ALLIES OF THE FREE CITIES units wholly within 12\" of it to be the targets. The unit using this ability and the targets: cannot be under orders . must each be a different unit type. Effect: For the rest of the battle round, the unit using this ability and the targets are under orders . Designer’s Note: ‘Unit type’ refers to the name of the warscroll ( Core Rules, 4.0 ), e.g. ‘ Freeguild Cavalier-Marshal ’ or ‘ Allies of the Free Cities Auric Hearthguard ’. Passive FORCES OF ORDER : The soldiers who stand shoulder to shoulder against the evil ravaging the Mortal Realms are hardy and bold, and they take strength from their shared bonds of fellowship. Effect: While 3 friendly ALLIES OF THE FREE CITIES units are wholly within 12\" of each other and 1 of those units has the AELF keyword, 1 of those units has the DUARDIN keyword and 1 of those units has the SIGMARITE keyword: Those units have WARD ( 5+ ) against shooting attacks . Add 3 to those units’ control scores . Add 1 to wound rolls for those units’ combat attacks ."
+ },
+ {
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Allies of the Free Cities > Heroic Traits",
+  "text": "( HERO only) Reaction: You declared the ‘ Redeploy ’ command for a visible ALLIES OF THE FREE CITIES unit wholly within 18\" of this unit RESPECTED COMMANDER : This commander is hailed as a paragon of virtue by all goodly beings, and their orders are followed with the utmost haste. Effect: If you roll a 1-3 when determining the distance that unit can move, you can use a value of 4 instead."
+ },
+ {
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Allies of the Free Cities > Artefacts of Power",
+  "text": "( HERO only) Once Per Battle (Army), Any Hero Phase SIGNET OF THE CITY : This piece of jewellery is bestowed upon those who have performed a great service to one of Sigmar’s cities, giving their opinion considerable weight in matters military. The bearers do tend to overstep their authority, however, countermanding earlier orders and sowing confusion. Declare: Pick this unit and each visible friendly ALLIES OF THE FREE CITIES unit wholly within 18\" of this unit to be the targets. Effect: For the rest of the turn: The targets are under orders . The targets have WARD ( 6+ ) . The targets have a maximum control score of 1."
+ },
+ {
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Allies of the Free Cities > Spell Lore",
+  "text": "Your Hero Phase 7 THESE REALMS ARE OURS : The allies of Sigmar share a desire to restore civilisation and stability to the realms, whatever the cost. Declare: Pick a friendly ALLIES OF THE FREE CITIES WIZARD to cast this spell, pick an objective within 18\" of them to be the target, then make a casting roll of 2D6. Effect: For the rest of the turn, melee weapons used by friendly ALLIES OF THE FREE CITIES units have Charge (+1 Damage) for attacks that target enemy units that are contesting the target objective. KEYWORDS SPELL, UNLIMITED"
+ },
+ {
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Allies of the Free Cities > Prayer Lore",
+  "text": "Your Hero Phase 5 DIVINE MANDATE : Sigmar’s quest to drive Chaos from reality and reconquer the Mortal Realms imbues his faithful with his dread aspect of war, that of a furious and all-conquering warrior king. Declare: Pick a friendly ALLIES OF THE FREE CITIES PRIEST to chant this prayer, pick a visible friendly ALLIES OF THE FREE CITIES unit wholly within 12\" of them to be the target, then make a chanting roll of D6. Effect: If the chanting roll was 10+, you can pick another eligible unit to be a second target. Until the start of your next turn, enemy units have a maximum control score of 1 while they are in combat with any of the targets. KEYWORDS PRAYER, UNLIMITED"
+ },
+ {
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Duardin Ascendant",
+  "text": "When you pick the Fyreslayers, Kharadron Overlords or Cities of Sigmar faction for your army, you can choose it to be a Duardin Ascendant Army of Renown . If you do so, use the faction rules on these pages instead of the Fyreslayers, Kharadron Overlords or Cities of Sigmar faction rules. Every unit in your army must be drawn from the units listed in the organisation below. All units in your army gain the DUARDIN ASCENDANT keyword. ROSTER OPTIONS Grombrindal (must be include and must be your general } Any ORDER DUARDIN unit REGIMENT OPTIONS You cannot include Regiments of Renown You cannot include MANIFESTATIONS You cannot include faction terrain"
+ },
+ {
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Duardin Ascendant > Battle Traits",
+  "text": "Passive DUARDRAZHAL : Grombrindal's goal is no less than the reunification of all the scattered, noble duardin nations. Effect: Friendly DUARDIN ASCENDANT units are unified while they are wholly within 12\" of at least 1 FYRESLAYERS , 1 KHARADRON OVERLORDS and 1 CITIES OF SIGMAR DUARDIN unit. Once Per Turn (Army), Your Hero Phase 'AS THE ANCESTORS INTENDED!' : To stand with far-flung kin in hours of crisis bolsters every duardin preacher. Declare: Pick a friendly unified DUARDIN ASCENDANT PRIEST to be the target. Effect: Add 1 to chanting rolls for the target for the rest of the turn. Once Per Turn (Army), Your Shooting Phase 'PAH! NOW THIS IS A SHOT...' : Duardin gunners of every creed never miss an opportunity to show their superior craft before their kin. Declare: Pick a friendly unified DUARDIN ASCENDANT INFANTRY unit to be the target. Effect: Add 1 to the Attacks characteristic of the target’s ranged weapons for the rest of the turn . Once Per Turn (Army), Your Charge Phase 'AS ONE, KINFOLK!' : The children of the ancestor gods surge across the field as one mighty throng. Declare: Pick up to 3 friendly unified DUARDIN ASCENDANT INFANTRY units to be the targets. Effect: For the rest of the turn, add 1 to the number of dice rolled when making charge rolls for the targets, to a maximum of 3. Once Per Turn (Army), Any Comhat Phase 'SETTLE EVERY GRUDGE! KHAZUK!' : When fighting as one, the duardin are a red-handed force of raw vengeance. Declare: Pick a friendly unified DUARDIN ASCENDANT INFANTRY unit to be the target. Effect: Add 1 to the Attacks characteristic of the target’s melee weapons for the rest of the turn."
+ },
+ {
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Duardin Ascendant > Heroic Traits",
+  "text": "HERO only Passive TIRELESS PURPOSE : This duardin lord shares Grombrindal's vision for their people, and their fervour is infectious. Effect: Each time a friendly DUARDIN ASCENDANT INFANTRY unit wholly within 12\" of this unit uses the ' Normal Move ' ability, add 2\" to the distance that unit can move as part of that ability."
+ },
+ {
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Duardin Ascendant > Artefacts of Power",
+  "text": "HERO only Once Per Battle, Your Hero Phase VALAYAN HEARTH-BANNER : Wrought in the image of she who guards hold and hearth, this runic standard is a salve to even severe wounds - for those who believe. Declare: Pick each friendly unified DUARDIN ASCENDANT unit on the battlefield to be the targets. Effect: Heal (D3) each target."
+ },
+ {
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Duardin Ascendant > Prayer Lore",
+  "text": "Your Hero Phase 4 SPIRIT OF THE WHITE DWARF : When Grombrindal takes the field, even the most sceptical Kharadron cannot help but feel a flicker of divine awe. Declare: Pick a friendly DUARDIN ASCENDANT PRIEST to chant this prayer, pick a visible friendly DUARDIN ASCENDANT unit within 18\" of them to be the target, then make a chanting roll of D6. Effect: The target is unified until the start of your next turn. If the chanting roll was 8+, you can pick 2 targets instead of 1. KEYWORDS PRAYER, UNLIMITED Your Hero Phase 4 OATH OF RESTORATION : All that which once belonged to the duardin will be theirs anew - so swear those who hold faith in Grombrindal. Declare: Pick a friendly DUARDIN ASCENDANT PRIEST to chant this prayer, pick a visible objective within 18\" of them that is contest ed by 2 or more friendly unified units to be the target, then make a chanting roll of D6. Effect: Until the start of your next turn, friendly DUARDIN ASCENDANT units have WARD ( 6+ ) while they have any models contesting the target. If the chanting roll was 7+, friendly DUARDIN ASCENDANT units have WARD ( 5+ ) while they have any models contesting the target instead. KEYWORDS PRAYER Army of Renown"
+ },
+ {
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Iron March",
+  "text": "When you pick the Cities of Sigmar faction for your army, you can choose for it to be the Iron March Army of Renown . If you do so, use the faction rules on these pages instead of the Cities of Sigmar faction rules. Every unit in your army must be drawn from the units listed in the roster options below. All units in your army gain the IRON MARCH keyword. Commanders of the Iron March, Engineers of the Iron March and Iron March Auxiliaries are unique enhancements that can be given to IRON MARCH WAR MACHINES . A unit can only have 1 of each unique enhancement. ROSTER OPTIONS Cannonade Cogfort Immolator Cogfort Conqueror Cogfort Linebreaker Cogfort For each Conqueror Cogfort and Linebreaker Cogfort you include, you can include: up to 1 Mallus Forgepriest up to 1 unit of Freeguild Gallants You cannot include Regiments of Renown or faction terrain"
+ },
+ {
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Iron March > Battle Traits",
+  "text": "Start of Battle Round FORM UP, IRON MARCH! : Once the order is given, Cogforts and infantry alike link up to form a fortress of flesh and steel that little can stand against. Declare: Pick a friendly IRON MARCH unit to use this ability, then pick either 1 or 2 other visible friendly IRON MARCH units wholly within 12\" of it to be the targets. The unit using this ability and the targets: cannot be under orders . must each be a different unit type. Effect: For the rest of the battle round, the unit using this ability and the targets are under orders . Designer’s Note: ‘Unit type’ refers to the name of the warscroll ( Core Rules, 4.0 ), e.g. ‘ Cannonade Cogfort ’ or ‘ Mallus Forgepriest ’."
+ },
+ {
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Iron March > Commanders of The Iron March",
+  "text": "Passive CASTELLAN-CAPTAIN VYAN PHILSIN : Infamous for launching amphibious assaults on Kruleboyz camps in the swamps of Ghyran, those who board Philsin’s Cogfort are well versed in close combat. Effect: Add 1 to wound rolls for combat attacks made by friendly IRON MARCH INFANTRY units while they are wholly within 12\" of this unit and under orders . Deployment Phase COMMODORE DE GRAÇON : De Graçon is an intrepid commander known for her lightning raids on enemy positions. She has a reputation for burning through fuel at a fearsome pace. Effect: This unit and up to 1 other friendly IRON MARCH WAR MACHINE within this unit’s combat range can use the ‘ Normal Move ’ ability as if it were your movement phase. Any Charge Phase CASTELLAN-CAPTAIN REGAN VANDERCLOUD : Vandercloud prefers to smash their Cogfort into the foe like a stone battering ram. Declare: If this unit charged this turn, pick a visible enemy unit within 1\" of it to be the target. Effect: Roll a D3. On a 2+: Inflict an amount of mortal damage on the target equal to the roll. The target has a maximum control score of 1 for the rest of the turn."
+ },
+ {
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Iron March > Engineers of The Iron March",
+  "text": "Passive ENGINEER KIRSTA LOUDREN : Loudren is ferociously protective of her Cogfort’s arco-combustor and she would rather see it utterly destroyed than have it fall into unworthy hands. Effect: If this unit is destroyed, before removing it from play, roll a dice for each visible unit (friendly and enemy) within its combat range . On a 3+, inflict an amount of mortal damage on that unit equal to the roll. Passive ENGINEER GURREN ASHBROW : Ashbrow is one of the Ironweld’s most senior Cogfort experts. His tireless repairs are as ingenious as they are swift. Effect: Each time this unit uses the ‘ Rally ’ command, you can make 3 additional rally rolls of D6. Passive ENGINEER BARTEL HOLST : Holst believes that a powerful defence is a Cogfort’s greatest boon. His war machine is clad in duardin-forged steel plate; to him, the Cogfort’s severely reduced manoeuvrability and speed is an acceptable cost. Effect: This unit has WARD ( 6+ ) and STRIKE-LAST ."
+ },
+ {
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Iron March > Iron March Auxiliaries",
+  "text": "Passive BATTLE-PRIEST SOLANTRA WHYL : Whyl is a veteran battle-priest who suffered crippling injuries during a Skaven artillery barrage. Since then, she has strapped herself into any Cogfort willing to give her berth, using the titan as her mobile pulpit. Effect: This unit has PRIEST ( 1 ) . Passive BROADMOORE AND LOUSE : The notoriously foul-tempered Marshal Hans Broadmoore and his downtrodden Relic Envoy Louse Renlik often ride to battle atop a Cogfort. Should foes attempt to board, the pair fight back fiercely with sabre and pistol. Effect: Add 2 to the Attacks characteristic of this unit’s Crew’s Leadshotters . In addition, if this unit is destroyed, before removing it from play, roll a dice. On a 3+, you can set up a Freeguild Marshal and Relic Envoy wholly within 6\" of this unit and not in combat . That unit has the IRON MARCH keyword. Passive MASTER SAPPER GAVELOCK FISKE : Whether directing the fire of a realmscorcher or the bombardment of a godbreaker cannon, Fiske can pinpoint the weak spot of any enemy fortification. Effect: This unit’s ranged weapons have Anti- FACTION TERRAIN (+1 Rend) and Anti- WAR MACHINE (+1 Rend)."
+ },
+ {
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Iron March > Prayer Lore",
+  "text": "Your Hero Phase 4 THE CHANT OF IRON : The alliance between Grungni the Maker and Sigmar the God-King is writ large upon the priest’s brow as divine creation and celestial wrath combine. Declare: Pick a friendly IRON MARCH PRIEST to chant this prayer, pick either a visible enemy unit within 18\" of them or a visible friendly IRON MARCH unit that is wholly within 12\" of them and that has not been picked to be the target of this ability this turn to be the target, then make a chanting roll of D6. Effect: If you picked an enemy unit: If the chanting roll was 8+, you can pick another eligible enemy unit to be a second target. Subtract 2\" from each target’s Move characteristic until the start of your next turn. If you picked a friendly unit, Heal (D3) the target and the chanter. If the chanting roll was 8+, Heal (D3) each visible friendly IRON MARCH unit that is wholly 12\" of the chanter and that has not been healed by this ability this turn instead. KEYWORDS PRAYER, UNLIMITED"
+ },
+ {
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Fusil-Platoon",
+  "text": "Steel and blackpowder are the lifeblood of the Cities of Sigmar, but so is relentless vigilance. The Fusil-Platoons of the Sigmarite armies represent all three. Deployed as mobile gunnery brigades, their job is to seek out enemies trying to outmanoeuvre or ambush the slower battlelines and then blast them out of hiding. They also patrol the vulnerable outer borders of nascent strongpoints as dedicated sentries. Each platoon is led by a Fusil-Major carried to battle by an Ogor Warhulk. This respected commander uses their high vantage to call out encroaching foes for destruction. His steady orders direct the withering fire of Freeguild Fusiliers. Anything spared this storm must either contend with a solid wall of pavises or the brute strength of an ogor's tower shield. The presence of an Alchemite Warforger enhances the potency of these soldiers' weapons, as well as lending some arcane might. Meanwhile, seasoned Wildercorps Hunters slip around the flanks to flush out the enemy or harry them with well-placed bolts. This Spearhead army consists of the following units: General Fusil-Major on Ogor Warhulk Units 1 Alchemite Warforger 5 Freeguild Fusiliers with 1 Blackpowder Squire token 5 Freeguild Fusiliers 11 Wildercorps Hunters",
+  "spearhead_name": "Fusil-Platoon"
+ },
+ {
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Fusil-Platoon > Battle Traits",
+  "text": "Passive FORTIFY POSITION : Heavy pavises are slammed into the dirt, forming a wall of oak and iron as strong as a fortification. Effect: Subtract 1 from the Rend characteristic of weapons used for attacks that target friendly CASTELITE units if they did not use a MOVE ability in the same turn.",
+  "spearhead_name": "Fusil-Platoon"
+ },
+ {
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Fusil-Platoon > Regiment Abilities",
+  "text": "Pick 1 of the following regiment abilities. Once Per Turn (Army), Your Shooting Phase WELL PROVISIONED : This brigade has a quartermaster well versed in the art of keeping their troops, healthy, hale and supplied with plenty of arrows and blackpowder. Declare: Pick a friendly non- HERO unit to be the target. Effect: Roll a dice. On a 3+, add 1 to wound rolls for that unit’s shooting attacks for the rest of the phase. Once Per Battle, Deployment Phase RESPECTED LEADER : On occasion, a brigade will attract more Wildercorps Hunters than normal, as word reaches their ears of a commander worthy of their loyalty. Effect: Friendly Wildercorps Hunters units gain the REINFORCEMENTS keyword.",
+  "spearhead_name": "Fusil-Platoon"
+ },
+ {
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Fusil-Platoon > Enhancements",
+  "text": "Give your general 1 of the following enhancements. Once Per Battle, Your Movement Phase ADEPT TACTICIAN : Assembling reinforcements into ad-hoe regiments is the hallmark of a seasoned, if a somewhat desperate, general. Declare: Pick 2 friendly Freeguild Fusiliers units that have been destroyed and have not already been replaced. Effect: Set up a single replacement Freeguild Fusiliers unit with 10 models more than 6\" from all enemy units. Passive BRACE! : With a keen eye for incoming attacks, this Ogor Warhulk is adept at rebuffing any and all threats made towards the Fusil-Major riding atop its gun platform. Effect: Your general has WARD ( 5+ ) . Once Per Turn, Your Movement Phase SHIELD BASH : With a bellow, the Ogor Warhulk drives their shield forward, forcing the enemy back. Declare: Pick an enemy INFANTRY , WAR MACHINE or CAVALRY unit in combat with your general to be the target. Effect: Roll a dice. On a 3+, the target must immediately use the ' Retreat ' ability as if it were the enemy movement phase. Once Per Turn, Enemy Combat Phase POINT-BLANK VOLLEY : A deadly round of shots are fired off at close range. Declare: Pick an enemy unit in combat with your general to be the target. Effect: Roll a D3. On a 2+, inflict an amount of mortal damage on the target equal to the roll.",
+  "spearhead_name": "Fusil-Platoon"
+ },
+ {
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Fusil-Platoon > Warscrolls",
+  "text": "• SPEARHEAD WARSCROLL • Fusil-Major on Ogor Warhulk 5\" 8 3+ 2 Forming the mobile watchtowers of the Castelite formations, Fusil-Majors borne by Ogor Warhulks use their vantage points to spy weaknesses in the enemy line and direct the fire of friendly forces. The obvious threat posed by their massive ogor carriers is usually enough to make foes think twice about storming their positions. • SPEARHEAD WARSCROLL • Fusil-Major on Ogor Warhulk RANGED WEAPONS Rng Atk Hit Wnd Rnd Dmg Long Fusil Long Fusil 24\" 3 3+ 3+ 1 2 MELEE WEAPONS Atk Hit Wnd Rnd Dmg Warhulk's Mace Warhulk's Mace 4 4+ 2+ 2 2 Your Shooting Phase MARK TARGETS : Experts in ballistics, Fusil-Majors can direct the fire of nearby Castelite formations to eliminate priority targets. Declare: Pick an enemy unit that was targeted by this unit’s shooting attacks this turn to be the target. Effect: Add 1 to hit rolls for shooting attacks made by friendly units that target that unit for the rest of the turn. KEYWORDS HERO , INFANTRY , CASTELITE • SPEARHEAD WARSCROLL • Wildercorps Hunters 5\" 1 5+ 1 Trackers, scouts and outdoorsmen, the Wildercorps are experts in attacking from the cover of thick foliage and broken ground. Their warhounds surge forward, sinking fangs into flesh even as skilled marksmen pick out their targets with crossbows and arbalests. • SPEARHEAD WARSCROLL • Wildercorps Hunters RANGED WEAPONS Rng Atk Hit Wnd Rnd Dmg Hunting Crossbow Hunting Crossbow 15\" 2 4+ 4+ 1 1 MELEE WEAPONS Atk Hit Wnd Rnd Dmg Hunting Weapons Hunting Weapons 2 4+ 4+ - 1 Trailhound’s Ferocious Bite Trailhound’s Ferocious Bite 2 4+ 3+ - 1 Each model in this unit is armed with a Hunting Crossbow and Hunting Weapons. The Wildercorps Warden is armed with a Trailhound’s Ferocious Bite in addition to their other weapons.",
+  "spearhead_name": "Fusil-Platoon"
+ },
+ {
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Fusil-Platoon > Warscrolls",
+  "text": "The Wildercorps Warden is armed with a Trailhound’s Ferocious Bite in addition to their other weapons. 4/11 models are Trailhounds and are armed with a Trailhound’s Ferocious Bite instead of any other weapons. Deployment Phase EXPERT TRACKERS : These soldiers are tasked with scouting ahead of the main advance. Effect: This unit can use the ‘ Normal Move ’ ability as if it were your movement phase. KEYWORDS INFANTRY • SPEARHEAD WARSCROLL • Alchemite Warforger 5\" 5 5+ 2 The specialist wizards known as Alchemite Warforgers wield the raw energies of Chamon. They can change the properties of not only metal, but reality itself. As muscular and sweaty as blacksmiths, these mages pluck glowing runecubes from their crucibles, channelling metallurgic magic to destroy their foes. • SPEARHEAD WARSCROLL • Alchemite Warforger MELEE WEAPONS Atk Hit Wnd Rnd Dmg Tongstaff Tongstaff 3 4+ 4+ 1 D3 Your Hero Phase BLAZING WEAPONS : The weapons of the Warforger's allies glow red-hot with magical power. Declare: Pick a friendly unit wholly within 12\" of this unit to be the target, then make a casting roll of 2D6. Effect: On a 6+, the target’s melee weapons have Crit (Mortal) until the start of your next turn. KEYWORDS HERO , WIZARD , INFANTRY • SPEARHEAD WARSCROLL • Freeguild Fusiliers 5\" 1 4+ 1 Planting their pavises in the ground, Freeguild Fusiliers form up into a defensive line that is effectively a fortress battlement brought to the field. From this defensive position, they unleash continuous volleys of fire from their sturdy fusil-cannons amidst drifting clouds of blackpowder smoke.",
+  "spearhead_name": "Fusil-Platoon"
+ },
+ {
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Fusil-Platoon > Warscrolls",
+  "text": "From this defensive position, they unleash continuous volleys of fire from their sturdy fusil-cannons amidst drifting clouds of blackpowder smoke. • SPEARHEAD WARSCROLL • Freeguild Fusiliers RANGED WEAPONS Rng Atk Hit Wnd Rnd Dmg Fusil-cannon Fusil-cannon 18\" 2 4+ 4+ 1 1 MELEE WEAPONS Atk Hit Wnd Rnd Dmg Bayonet Bayonet 1 4+ 4+ - 1 Passive BLACKPOWDER SQUIRE : When ammunition runs low, Blackpowder Squires bring fresh supplies to the line and relay orders. Effect: While this unit has a Blackpowder Squire token, this unit’s ranged weapons have Shoot in Combat . Once Per Turn (Army), Your Shooting Phase CAN'T STOP! : The Blackpowder Squire dashes to another unit amidst the mayhem of battle. Declare: Pick another friendly Freeguild Fusiliers unit to be the target. Effect: Remove this unit’s Blackpowder Squire token from the battlefield, then give it to the target. KEYWORDS INFANTRY , CASTELITE , REINFORCEMENTS",
+  "spearhead_name": "Fusil-Platoon"
+ },
+ {
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Castelite Company",
+  "text": "Although, at its core, the tactical doctrine of Sigmar’s mortal armies relies upon massed firepower and defence in depth, there are times when Freeguild commanders must be more flexible. On occasions where the deployment of a full army corps is not viable, smaller formations such as the Castelite Company will be dispatched to seize vital ground and defend it against threats. Commanded by an experienced Cavalier-Marshal who has displayed particular adaptability and initiative in the face of the enemy, a Castelite Company specialises in absorbing the fury of an enemy attack before unleashing a devastating riposte in return. Freeguild Steelhelms form a sturdy core, advancing into battle with shields locked together, relying on discipline and faith to hold the line against whatever horror comes at them. With this anvil in place, the process of breaking the enemy upon it can begin. An Ironweld Great Cannon sends bone-shattering ordnance blasting through the enemy ranks, while the Cavalier-Marshal leads a thunderous counter-charge to sweep them from the field. Freeguild Cavaliers sing Sigmarite battle-hymns as they crush the opposition beneath the grinding hooves of their destriers or bash in their skulls with hammers and flails. This Spearhead army consists of the following units: General Freeguild Cavalier-Marshal Units 5 Freeguild Steelhelms 5 Freeguild Steelhelms 5 Freeguild Cavaliers 1 Ironweld Great Cannon",
+  "spearhead_name": "Castelite Company"
+ },
+ {
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Castelite Company > Battle Traits",
+  "text": "Once Per Battle Round, Start of Battle Round THE OFFICAR'S ORDER : Reading the flow of battle, a ranking Freeguilder dispatches an order that could well turn the tide in the Sigmarites’ favour. Declare: Pick a battle tactic card in your hand and place it face-down separately next to your other battle tactic cards . The information on it is still hidden from your opponent but make it clear which card is separate. The card stays separate until you use the command on it or score the battle tactic on it as described below. Effect: When you use the command on that card, it is not discarded but returns to your hand. Your opponent can check the information on it before it returns to your hand. The card goes back to being a normal battle tactic card, with the exception that you cannot use the command on it in the same phase it went back into your hand. If you did not use the command on the card you separated, you can still score the battle tactic on it at the end of your turn as normal if you met its conditions. If you do so, discard it as normal. If you neither used the command nor scored the battle tactic on the card, it automatically returns to your hand at the end of your turn. Designer’s Note: This ability essentially lets you use a command ‘for free’, but you have to choose the command at the start of the battle round, so it requires some planning ahead!",
+  "spearhead_name": "Castelite Company"
+ },
+ {
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Castelite Company > Regiment Abilities",
+  "text": "Pick 1 of the following regiment abilities. Passive FOR SIGMAR, CHARGE! : With their blade raised high, the Marshal signals the charge of the Cavaliers. Effect: Friendly CAVALRY units have STRIKE-FIRST if they charged in the same turn. Once Per Turn, Enemy Shooting Phase IRONWELD DISCIPLINE : With nerves of steel, the crew of the Great Cannon prepare to fire even as enemies close in on all sides. Declare: Pick your Ironweld Great Cannon to use this ability. Effect: Roll a dice. On a 3+, it can use the ‘ Shoot ’ ability as if it were your shooting phase.",
+  "spearhead_name": "Castelite Company"
+ },
+ {
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Castelite Company > Enhancements",
+  "text": "Give your general 1 of the following enhancements. Once Per Battle, Start of Any Turn FLASK OF LETHISIAN DARKWATER : Sourced from the lakewaters of the city of Lethis, when this potion is carefully sipped, its black liquid soothes the body and soul. Effect: Heal (D6) your general. End of Any Turn BRAZIER OF HOLY FLAME : The torch borne by this champion symbolises the light of civilisation being carried forth into the darkness of the wilds, a sacred act that emboldens those who march alongside them. Declare: Pick a friendly Freeguild Steelhelms unit within your general’s combat range . Effect: You can return up to D3 slain models to that unit. Passive HEIRLOOM BLADE : Wielded in countless battles, the edge of this blade is as keen as the day it was forged. Effect: Add 1 to the Rend characteristic of your general’s Master-forged Longsword . Passive GLIMMERING : The glinting facets of this tiny fragment of Mallus offer fleeting glimpses of the future. Effect: Each phase, you can re-roll 1 hit roll , or 1 wound roll , or 1 save roll made for your general.",
+  "spearhead_name": "Castelite Company"
+ },
+ {
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Castelite Company > Warscrolls",
+  "text": "• SPEARHEAD WARSCROLL • Freeguild Cavalier-Marshal 10\" 7 3+ 2 Every Cavalier-Marshal is trained to be bold and aggressive, taking the fight to the foe when they are at their weakest. Nigh unstoppable on the charge, they gallop hard into the enemy ahead of their soldiers, collapsing battlelines in a single decisive attack even as they spur their fellow Sigmarites into battle with rousing calls to action. Though they often carry the weight of a Dawnbringer Crusade upon their shoulders, they are inspiring champions well used to leading by example. • SPEARHEAD WARSCROLL • Freeguild Cavalier-Marshal RANGED WEAPONS Rng Atk Hit Wnd Rnd Dmg Dragoon Pistol [ Shoot in Combat ] Dragoon Pistol Shoot in Combat 10\" 2 3+ 4+ 1 1 MELEE WEAPONS Atk Hit Wnd Rnd Dmg Master-forged Longsword Master-forged Longsword 5 3+ 4+ 1 2 Warhorse’s Steel-shod Hooves [ Companion ] Warhorse’s Steel-shod Hooves Companion 2 5+ 3+ - 1 Your Hero Phase DECISIVE COMMANDER : In the face of the oncoming enemy, Freeguild Marshals employ rousing oratory to inspire their soldiers to stand strong in the name of Sigmar. Declare: Pick a friendly Freeguild Steelhelms unit wholly within 12\" of this unit to be the target and roll a dice. Effect: On a 2+, pick 1: On Your Feet!: If the target unit is not in combat , you can return D3 slain models to it. Yield No Quarter!: Add 3 to the target unit’s control score until the start of your next turn. KEYWORDS HERO , CAVALRY • SPEARHEAD WARSCROLL • Ironweld Great Cannon 3\" 8 4+ 2 The massive artillery pieces known as Ironweld Great Cannons act as the bastions of the Castelite formations. Protected by thick oaken gunshields affixed to the weapon’s fore, the crew tirelessly load and reload their weapon to ensure the barrage upon the enemy is relentless.",
+  "spearhead_name": "Castelite Company"
+ },
+ {
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Castelite Company > Warscrolls",
+  "text": "oaken gunshields affixed to the weapon’s fore, the crew tirelessly load and reload their weapon to ensure the barrage upon the enemy is relentless. Should foes draw too close, a muzzle full of grapeshot will bring their charge to an abrupt and gory halt. • SPEARHEAD WARSCROLL • Ironweld Great Cannon RANGED WEAPONS Rng Atk Hit Wnd Rnd Dmg Great Cannon: Cannonball Great Cannon: Cannonball 24\" 2 4+ 2+ 2 D3+2 Great Cannon: Grapeshot Great Cannon: Grapeshot 12\" 5 3+ 3+ 1 2 MELEE WEAPONS Atk Hit Wnd Rnd Dmg Crew’s Tools and Sidearms Crew’s Tools and Sidearms 2 4+ 4+ - 1 Passive SHOT AND SHELL : The engineers of the Ironweld Arsenal have developed different ammunition for the Great Cannon to fire. Effect: Each time this unit uses a SHOOT ability, choose either the Cannonball or Grapeshot weapon characteristics for all the attacks it makes with its Great Cannon. The Cannonball can only be chosen if this unit has not used a MOVE ability that turn. KEYWORDS WAR MACHINE , REINFORCEMENTS • SPEARHEAD WARSCROLL • Freeguild Cavaliers 10\" 3 3+ 1 The battlefield shakes as the heavy cavalry of the Sigmarite cities make their charge. No idle jousters are the Freeguild Cavaliers but men and women hardened by bitter experience and keen to take out their wrath on the enemies of the God-King. These knights are at their most fearsome when they crash into the foe at full speed, but they are certainly no strangers to brutal attritional melees in which rider and steed are expected to fight for hours at a time without rest.",
+  "spearhead_name": "Castelite Company"
+ },
+ {
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Castelite Company > Warscrolls",
+  "text": "but they are certainly no strangers to brutal attritional melees in which rider and steed are expected to fight for hours at a time without rest. • SPEARHEAD WARSCROLL • Freeguild Cavaliers MELEE WEAPONS Atk Hit Wnd Rnd Dmg Cavalier Weapon [ Charge (+1 Damage) ] Cavalier Weapon Charge (+1 Damage) 3 4+ 4+ 1 1 Warhorse’s Steel-shod Hooves [ Companion ] Warhorse’s Steel-shod Hooves Companion 2 5+ 3+ - 1 Any Charge Phase DEVASTATING CHARGE : Thundering across the battlefield, the Cavaliers build up momentum before smashing deep into the enemy’s ranks, laying about themselves with blade, axe, hammer and flail. Declare: If this unit charged this phase, pick an enemy unit in combat with it to be the target and roll a dice. Effect: On a 2+, inflict D3 mortal damage on the target. KEYWORDS CAVALRY , REINFORCEMENTS • SPEARHEAD WARSCROLL • Freeguild Steelhelms 5\" 1 4+ 1 While the hard-slogging Freeguild Steelhelms are often individually outmatched by the myriad threats they face in their mission to retake the realms, they have three things on their side: discipline, gutsy determination and their faith in Sigmar. With shields locked together and voices joined in song, they can prove a difficult prospect for even the most hardened killers. The Battle Priests who accompany them are experts in reconsecrating those lands tainted by Chaos, and turning the innate power of the land to their advantage – even if it takes the sacrifice of their comrades-in-arms to do so.",
+  "spearhead_name": "Castelite Company"
+ },
+ {
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Castelite Company > Warscrolls",
+  "text": "tainted by Chaos, and turning the innate power of the land to their advantage – even if it takes the sacrifice of their comrades-in-arms to do so. • SPEARHEAD WARSCROLL • Freeguild Steelhelms MELEE WEAPONS Atk Hit Wnd Rnd Dmg Freeguild Weapon Freeguild Weapon 2 4+ 4+ - 1 Your Movement Phase CONSECRATE THE LAND : Bellowing Sigmarite hymns, the Battle Priest who accompanies the Steelhelms purges the taint of Chaos from the land and consecrates it in the name of the God-King. Declare: If this unit is contesting an objective you control that is not contested by any enemy models, roll a dice. Effect: On a 3+, that objective is considered by you to be consecrated . Friendly units have WARD ( 6+ ) while they are contesting a consecrated objective. If your opponent gains control of a consecrated objective, it is no longer consecrated. KEYWORDS INFANTRY , REINFORCEMENTS",
+  "spearhead_name": "Castelite Company"
+ },
+ {
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Sentinels of Embergard",
+  "text": "It takes especially hard-bitten souls to fight in Embergard. Many Freeguilders are sent to this vital bastion, but only the most vicious survive to achieve veteran status. Those who do often slip outside typical chains of command, gravitating towards charismatic captains proven in battle. They become known as Sentinels of Embergard, determined to defend the corpse-city. Jorvan Kreel, Heir of the Kraken, is one such leader: a debonair, if gloryhungry, ranger from fallen Anvilgard. Alongside his faithful ash panther Thexa, he now roams the City of Ash, harrying the ratmen from their holes. He is invariably accompanied by the uncompromising elite of the Freeguild Grenadiers, whose incendiary arsenal and heavy bardiches are suited to savage urban fighting, as well as the armoured and honour-bound Gallants. Kreel is hardly a man of faith, but he appreciates its power. Often, then, he is accompanied by a Mallus Forgepriest – warrior-priests whose bellowed orisons inspire holy purpose in their fellows This Spearhead army consists of the following units: General Jorvan Kreel, Heir of the Kraken (Thexa, the ash panther, is a token) Units 1 Mallus Forgepriest 5 Freeguild Gallants 5 Freeguild Grenadiers 5 Freeguild Grenadiers",
+  "spearhead_name": "Sentinels of Embergard"
+ },
+ {
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Sentinels of Embergard > Battle Traits",
+  "text": "Once Per Turn (Army), Reaction: You declared a FIGHT ability for your general or a friendly non- HERO unit wholly within 12\" of your general RANGER DOCTRINES : Kreel was once a captain in the Wildercorps. While he now commands an eclectic assortment of forces, the fluid tactics he honed in his prior life can still be used to great effect. Used By: The unit using that FIGHT ability Effect: Immediately after that FIGHT ability has been resolved, pick a point on the battlefield within 6\" of your general. Remove the unit using this ability from the battlefield and set it up again within 1\" of that point and not in combat .",
+  "spearhead_name": "Sentinels of Embergard"
+ },
+ {
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Sentinels of Embergard > Regiment Abilities",
+  "text": "Pick 1 of the following regiment abilities: Passive CLOSE-QUARTERS DRILL : Kreel has trained his Grenadiers to hold their fire until it can be unloaded right in their foes’ faces. Effect: Friendly units’ ranged weapons have Shoot in Combat but you must subtract 1 from hit rolls for their shooting attacks while they are in combat. Passive COME AND TAKE IT, BLAGGARDS! : Though their city lies in ruin, these warriors defy any enemy who tries to prise the wreckage from them. Effect: Add 5 to the control scores of friendly non- HERO units while they are in combat with any enemy units that have 6 or more models or a Health characteristic of 3 or more.",
+  "spearhead_name": "Sentinels of Embergard"
+ },
+ {
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Sentinels of Embergard > Enhancements",
+  "text": "Give your general 1 of the following enhancements. Any Shooting Phase THROWING KNIVES : Jorvan Kreel has, over the course of his adventures, acquired an assortment of deadly blades ready to be hurled into a chest, stomach or skull. Declare: Pick a visible enemy unit within 10\" of your general to be the target. Effect: Roll a dice. On a 3+, inflict 1 mortal damage on the target. Passive HOT-BLOODED ENDURANCE : A lifetime spent in the wilderness has left Kreel an indefatigable warrior. Effect: Your general can use CHARGE abilities even if they used a RUN or RETREAT ability in the same turn and no mortal damage is inflicted on them by RETREAT abilities. Once Per Battle, Your Movement Phase TRAINED RANGER : The pathfinding skills he picked up in the jungles of the Charrwind Coast serve Kreel well in Embergard’s urban sprawl. Declare: Pick a friendly unit wholly within 6\" of a battlefield edge to be the target. Effect: Remove the target from the battlefield and set it up again wholly within 3\" of a battlefield edge and more than 6\" from all enemy units. Once Per Battle, Any Combat Phase BLADE OF THE KRAKEN : In a decisive moment, Kreel fights ferociously to avenge Embergard’s fall – and also to maintain his warrior reputation… Effect: Double the Attacks characteristic of your general’s melee weapons for the rest of the turn.",
+  "spearhead_name": "Sentinels of Embergard"
+ },
+ {
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Sentinels of Embergard > Warscrolls",
+  "text": "• SPEARHEAD WARSCROLL • Jorvan Kreel Heir of the Kraken 6\" 5 4+ 2 Jorvan Kreel seems to live a bleakly charmed life. Once, he was a Ranger-Colonel of Anvilgard, patrolling the outskirts of that skulduggerous city. He escaped the Khainite invasion and spent years assembling a mercenary fleet to take revenge. The Vermindoom shattered that hope and put him on the path to Embergard. Aided by Thexa, his loyal ash panther companion, Kreel remains a courageous, tenacious and cunning leader of men, if sometimes an arrogant loose cannon. None can be sure if he wishes to protect Embergard for its own sake or use it as a stepping stone towards vengeance... • SPEARHEAD WARSCROLL • Jorvan Kreel Heir of the Kraken MELEE WEAPONS Atk Hit Wnd Rnd Dmg Ranger Blades Ranger Blades 6 3+ 4+ 1 2 Your Hero Phase VETERAN SKIRMISHERS : Kreel has trained his ragtag soldiers well, emphasising speed and surety of foot over headlong sprints. Declare: Pick a friendly unit wholly within 12\" of this unit to be the target. Effect: Roll a dice. On a 3+, for the rest of the turn, add 2\" to the target’s Move characteristic but it cannot use RUN abilities. End of Any Turn PROWLING ASH PANTHER : Thexa prowls the shadows, waiting for the right moment to pounce. Effect: If this unit has the Thexa token , give that token to an enemy unit within 6\" of this unit. If an enemy unit has the Thexa token, inflict D3 mortal damage on that enemy unit. Then, give this unit the Thexa token. KEYWORDS HERO , INFANTRY • SPEARHEAD WARSCROLL • Mallus Forgepriest 5\" 5 4+ 2 Many are the fanatical Cults Unberogen, but few are more eager to take to the battlefield than the Mallus Forgepriests.",
+  "spearhead_name": "Sentinels of Embergard"
+ },
+ {
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Sentinels of Embergard > Warscrolls",
+  "text": "Mallus Forgepriest 5\" 5 4+ 2 Many are the fanatical Cults Unberogen, but few are more eager to take to the battlefield than the Mallus Forgepriests. These warrior-preachers worship Sigmar as a hammer set to crush all who would threaten civilisation, and they revere the meteoric iron recovered from fallen Azyrite comets as a holy material that demands to be turned into blessed weapons. A Forgepriest is both a fierce warrior and an agent of purification and consecration. Where they stride, bellowing their Sigmarite hymnals, corruption of all kinds seems to wither away – emboldening those who fight nearby. • SPEARHEAD WARSCROLL • Mallus Forgepriest MELEE WEAPONS Atk Hit Wnd Rnd Dmg Sigmarite Warhammer Sigmarite Warhammer 4 4+ 3+ 1 D3 Your Hero Phase CONSECRATE THE LAND : Bellowing Sigmarite hymns, the priest purges the taint of Chaos from the land and consecrates it in the name of the God-King. Declare: Pick an objective within 12\" of this unit, then make a chanting roll of D6. Effect: On a 3+, for the rest of the turn, friendly units have WARD ( 5+ ) while they are contesting that objective. KEYWORDS HERO , PRIEST , INFANTRY • SPEARHEAD WARSCROLL • Freeguild Grenadiers 5\" 1 4+ 1 Freeguild Grenadiers are close-quarters specialists: the roughest, toughest and most recklessly courageous of a city’s soldiery. They inevitably draw the bloodiest and dirtiest missions, be it cutting through a tumbled strongpoint or leading a purge operation into a subterranean nest of evil. It is a mark of the Grenadiers’ slightly mad bravado that they take pride in such tasks – maybe even eagerly anticipate them. Part of this enthusiasm perhaps comes from the chance to deploy their murderous arsenal, from flesh-mangling scattershot blasters and bombs to incinerating flame-hurlers.",
+  "spearhead_name": "Sentinels of Embergard"
+ },
+ {
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Sentinels of Embergard > Warscrolls",
+  "text": "perhaps comes from the chance to deploy their murderous arsenal, from flesh-mangling scattershot blasters and bombs to incinerating flame-hurlers. • SPEARHEAD WARSCROLL • Freeguild Grenadiers RANGED WEAPONS Rng Atk Hit Wnd Rnd Dmg Ruin-sweeper Arsenal Ruin-sweeper Arsenal 10\" 1 4+ 2+ 2 1 MELEE WEAPONS Atk Hit Wnd Rnd Dmg Grenadier Bardiche Grenadier Bardiche 2 4+ 4+ 1 2 Once Per Turn (Army), End of Any Turn CINDER AND ASH : Freeguild Grenadiers carry specialised gear to reduce dug-in enemies to a panicked, screaming bonfire of melting flesh and charred hair. Declare: Pick up to 1 terrain feature contested by this unit and up to 1 objective contested by this unit, then pick any enemy units also contesting them to be the targets. Effect: Roll a dice for each target. On a 3+, inflict 1 mortal damage on the target. KEYWORDS INFANTRY , REINFORCEMENTS • SPEARHEAD WARSCROLL • Freeguild Gallants 5\" 2 3+ 1 Gallants see themselves as especially honourable warriors. Each is a veteran; perhaps they found that a life of peace after their tour of duty did not suit them, or their home was destroyed by one of Sigmar’s many enemies. Either way they have returned to the front, forming martial circles with other like-minded souls and practically demanding to be deployed where the fighting is thickest. Gallants often position themselves slightly outside the command structure of the Freeguilds; the heraldry they bear is in memory of fallen strongpoints and cities, a promise to avenge the dead. • SPEARHEAD WARSCROLL • Freeguild Gallants MELEE WEAPONS Atk Hit Wnd Rnd Dmg Weapons of Gallantry Weapons of Gallantry 2 3+ 4+ 1 1 Any Combat Phase UNBREACHABLE WILL : Having each survived punishing trials, Freeguild Gallants break before no foe.",
+  "spearhead_name": "Sentinels of Embergard"
+ },
+ {
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Sentinels of Embergard > Warscrolls",
+  "text": "Weapons of Gallantry 2 3+ 4+ 1 1 Any Combat Phase UNBREACHABLE WILL : Having each survived punishing trials, Freeguild Gallants break before no foe. Declare: If this unit has not charged this turn, pick an enemy unit in combat with it to be the target. Effect: For the rest of the turn, subtract 1 from the Rend characteristic of the target’s weapons for attacks that target this unit. KEYWORDS INFANTRY",
+  "spearhead_name": "Sentinels of Embergard"
+ },
+ {
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Zenestra’s Zealots",
+  "text": "For all the terrible potency of its cannons and Cogforts, faith is the bedrock of the Sigmarite war machine: faith in the indomitable power of the God‑King and in the cause of justice. Few beings in existence represent the power of such belief as much as Pontifex Zenestra, the legendary Matriarch of the Great Wheel. Several times has she been recorded as slain, only for her to manifest anew wherever the need of the God-King’s folk is greatest, encouraging the faithful to oil the wheel of progress with their own blood. Zenestra’s Zealots are the fanatical soldiers that escort the Pontifex into battle, knowing that their souls are safest by her side, even if their bodies might be blasted and torn. Zenestra selects the most pious Freeguild Marshals and their Command Corps to accompany her, relying upon these veteran warleaders to temper the righteous fury of the Steelhelm infantry with tactical nous. Full of zealous drive, these stubborn souls would rather perish in agony than fail their saintly leader. This Spearhead army consists of the following units: General Freeguild Marshal and Relic Envoy (The Relic Envoy is a token) (Thexa, the ash panther, is a token) Units Pontifex Zenestra, Matriarch of the Great Wheel 1 Freeguild Command Corps Whisperblade 1 Freeguild Command Corps Arch-Knight and Retinue 5 Freeguild Steelhelms 5 Freeguild Steelhelms",
+  "spearhead_name": "Zenestra’s Zealots"
+ },
+ {
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Zenestra’s Zealots > Battle Traits",
+  "text": "SHADOWY SPYMASTER Whisperblades ensure that their masters are omniscient and their enemies oblivious. Your Whisperblade is not set up during the deployment phase. Instead, from the second battle round onwards, it can use the following ability: Your Movement Phase SUDDEN AMBUSH : The Whisperblade hides until it is the perfect moment to strike. Effect: Set up this unit within 6\" of an enemy unit and not in combat . Passive LADY OF THE WHEEL : Zenestra’s followers will defend her with a strength that can cow even a follower of the Dark Gods. Effect: Each time a friendly model is slain by a combat attack, roll a number of dice equal to that model’s Health characteristic. For each 5+, inflict 1 mortal damage on the attacking unit after the FIGHT ability has been resolved.",
+  "spearhead_name": "Zenestra’s Zealots"
+ },
+ {
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Zenestra’s Zealots > Regiment Abilities",
+  "text": "Pick 1 of the following regiment abilities: Once Per Turn (Army), Your Movement Phase FERVENT RUSH : Singing righteous hymns and prepared to give their lives for the cause, these Sigmarites charge forward to battle. Declare: Pick a friendly unit to use this ability. Effect: This unit can use CHARGE abilities this turn even if it used a RUN ability in the same turn. Passive FIERCE ZEALOTS : Should Zenestra demand it, these followers will fight tooth and nail for even the meanest patch of dirt. Effect: Add 3 to the control scores of friendly Freeguild Steelhelms units.",
+  "spearhead_name": "Zenestra’s Zealots"
+ },
+ {
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Zenestra’s Zealots > Enhancements",
+  "text": "Give your general 1 of the following enhancements. Passive DEVOUT COMMANDER : This faithful commander strikes with a ferocity born of utter conviction. Effect: Add 1 to the Attacks characteristic and the Rend characteristic of your general’s Master-forged Weapon . Once Per Battle, Your Hero Phase STAND FAST, COMRADES : The general calls upon their soldiers to hold the line, no matter the cost and no matter the foe. Declare: Pick a visible friendly non- HERO unit wholly within 12\" of your general to be the target. Effect: The target has WARD ( 4+ ) until the start of the next battle round. Once Per Turn, Reaction: You declared a RUN ability for a non- HERO unit wholly within 12\" of your general STEP TO IT! : The Marshal tells their men to heft their weapons and get moving! Effect: Do not make a run roll as part of that RUN ability. Instead, add 6\" to that non- HERO unit’s Move characteristic to determine the distance each model in that unit can move as part of that RUN ability Any Combat Phase ARDENT DEMAND : With a bellowed order, the Marshal ignites the passion and fury of the Freeguilders, and they lay into the enemy furiously. Declare: Pick a visible friendly non- HERO unit wholly within 12\" of your general to be the target. Effect: Add 1 to hit rolls for the target’s combat attacks for the rest of the turn.",
+  "spearhead_name": "Zenestra’s Zealots"
+ },
+ {
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Zenestra’s Zealots > Warscrolls",
+  "text": "• SPEARHEAD WARSCROLL • Freeguild Marshal and Relic Envoy 5\" 5 3+ 2 Freeguild Marshals who lead from the front are perhaps the most heroic of all. The respect they have won from their warriors is stronger than any shield, and their Relic Envoys ensure their orders always get to where they are needed. When battlelines clash, their skill with sword, hammer and pistol swiftly becomes clear. • SPEARHEAD WARSCROLL • Freeguild Marshal and Relic Envoy RANGED WEAPONS Rng Atk Hit Wnd Rnd Dmg Duelling Pistols [ Shoot in Combat ] Duelling Pistols Shoot in Combat 10\" 4 3+ 4+ 1 1 MELEE WEAPONS Atk Hit Wnd Rnd Dmg Master-forged Weapon Master-forged Weapon 5 3+ 4+ 1 2 Your Hero Phase MARSHAL’S ORDERS : The Relic Envoy rushes across the battlefield to hand-deliver a message. Declare: Pick a visible friendly unit wholly within 12\" of this unit to be the target. Effect: Remove this unit’s Relic Envoy token from the battlefield, then give it to the target. Passive RELIC ENVOY : Relic Envoys relay orders from the Freeguild Marshal to the soldiers of the line. Effect: While a friendly unit other than this unit has the Relic Envoy token , add 1 to wound rolls for that unit’s combat attacks . If this unit is destroyed, remove the Relic Envoy token from the battlefield. KEYWORDS HERO , INFANTRY • SPEARHEAD WARSCROLL • Pontifex Zenestra Matriarch of the Great Wheel 5\" 9 5+ 2 4+ The Great Wheel turns, and the driving force is faith. As Zenestra gives her inspiring battlefield sermons, the raw celestial power of the God-King crackles out from her sacred palanquin to incinerate her enemies, whilst her acolytes bludgeon and hew any foolish enough to approach her without permission.",
+  "spearhead_name": "Zenestra’s Zealots"
+ },
+ {
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Zenestra’s Zealots > Warscrolls",
+  "text": "out from her sacred palanquin to incinerate her enemies, whilst her acolytes bludgeon and hew any foolish enough to approach her without permission. • SPEARHEAD WARSCROLL • Pontifex Zenestra Matriarch of the Great Wheel MELEE WEAPONS Atk Hit Wnd Rnd Dmg Sceptre of the Wheel Sceptre of the Wheel 3 4+ 4+ 1 D3 Your Hero Phase VESSEL OF SIGMAR : Channelling the divine might of the God-King, Pontifex Zenestra is a powerful beacon of faith who bolsters the righteous and smites the corrupt. Declare: Pick up to 3 visible friendly or enemy units to be the targets. Effect: Roll a D3 for each target. On a 2+: If it is a friendly target, it has WARD ( 5+ ) until the start of your next turn. If it is an enemy target, inflict an amount of mortal damage on it equal to the roll. KEYWORDS HERO , PRIEST , INFANTRY , WARD ( 4+ ) • SPEARHEAD WARSCROLL • Freeguild Command Corps Whisperblade 5\" 3 6+ 2 Lurking in the shadows is the Whisperblade, who keeps the Freeguild Marshal apprised of dissent. They wear a cloak of Ulguan falsecloth that allows them to blend with the darkness – all the better to listen, learn and assassinate. • SPEARHEAD WARSCROLL • Freeguild Command Corps Whisperblade MELEE WEAPONS Atk Hit Wnd Rnd Dmg Enchanted Rapier Enchanted Rapier 4 3+ 4+ 2 2 Passive FOREWARNED IS FOREARMED : The Whisperblade is both master spy and deadly assassin combined: the ultimate opportunist. Effect: While it is your turn, this unit has STRIKE-FIRST . KEYWORDS INFANTRY • SPEARHEAD WARSCROLL • Freeguild Command Corps Arch-Knight and Retinue 5\" 2 4+ 2 Freeguild Arch-Knights are mighty warriors uplifted from the ranks, outfitted with the finest arms and armour and expected to lead by example.",
+  "spearhead_name": "Zenestra’s Zealots"
+ },
+ {
+  "faction": "Cities of Sigmar",
+  "faction_slug": "cities-of-sigmar",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Zenestra’s Zealots > Warscrolls",
+  "text": "2 4+ 2 Freeguild Arch-Knights are mighty warriors uplifted from the ranks, outfitted with the finest arms and armour and expected to lead by example. Accompanied by their retinue of specialists, they smash and cleave their way through their foes, leading the rank and file to victory • SPEARHEAD WARSCROLL • Freeguild Command Corps Arch-Knight and Retinue MELEE WEAPONS Atk Hit Wnd Rnd Dmg Command Weapons Command Weapons 3 3+ 4+ 1 1 This unit comprises 1 Arch-Knight, 1 Great Herald, 1 War Surgeon, 1 Soul Shepherd and 1 Mascot Gargoylian. Once Per Turn, Reaction: You used a command TALENTED CHAMPIONS : Each member of the Command Corps has their own special skills to be employed. Effect: After that command has been resolved, return the card to your hand. Designer’s Note: This allows you to either use the command a second time or score the battle tactic on that card as well. KEYWORDS INFANTRY , REINFORCEMENTS • SPEARHEAD WARSCROLL • Freeguild Steelhelms 5\" 1 4+ 1 The Steelhelms are the weatherbeaten infantry at the heart of each Freeguild regiment. Inspired by the presence of Pontifex Zenestra, they march fearlessly into battle, hacking away at enemies that stray too close with swords, axes and mauls. • SPEARHEAD WARSCROLL • Freeguild Steelhelms MELEE WEAPONS Atk Hit Wnd Rnd Dmg Freeguild Weapon Freeguild Weapon 2 4+ 4+ - 1 Any Combat Phase FANATICAL FOLLOWERS : Such is the zealous frenzy that fills these warriors that even after suffering mortal wounds, they will drag themselves to their feet and continue to fight. Effect: Return 1 slain model to this unit. KEYWORDS INFANTRY , REINFORCEMENTS noindex /noindex noindex",
+  "spearhead_name": "Zenestra’s Zealots"
+ }
+]

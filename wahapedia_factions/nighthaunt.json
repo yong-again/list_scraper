@@ -1,0 +1,409 @@
+[
+ {
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "",
+  "text": "/noindex A fell wind is rising. From the darkest pits of Shyish, the Realm of Death, comes a storm of ethereal figures. An eerie mist spreads before them, blotting out the sun. They muster upon corpse-strewn battlefields or ancient burial grounds, a ghostly army of phantoms. They are the supernatural, the dead, the damned – the Nighthaunts. This page contains all of the rules you need to field your Nighthaunt miniatures on the battlefields of the Mortal Realms, from a host of exciting faction rules to a range of warscrolls. The rules are split into the following sections:"
+ },
+ {
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Designers’ Commentary > Battletome: Nighthaunt",
+  "text": "Q: When using the ‘Wave of Terror’ ability, can all friendly NIGHTHAUNT units that are in combat use CHARGE abilities or only one? A: All of them (the ability affects ‘friendly Nighthaunt units’)."
+ },
+ {
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Traits",
+  "text": "Nighthaunt armies can use the following abilities: Passive ETHEREAL : Nighthaunt spirits can rarely be harmed by blows delivered by those caught in the grip of a spiritual terror. Effect: Ignore negative modifiers to save rolls for friendly NIGHTHAUNT units, excluding Nagash . Once Per Turn (Army), Your Movement Phase 1 ETHEREAL TRANSLOCATION : The Nighthaunt appear and disappear from sight to torment their prey. Declare: Pick a friendly NIGHTHAUNT unit that is not in combat to use this ability. Effect: Remove that unit from the battlefield and set it up again on the battlefield more than 9\" from all enemy units. Passive MOUNTING DREAD : The keening wails and harrowing shrieks of the Nighthaunt are a continuous assault on the courage of those who face them in battle, until their will to fight has all but crumbled. Effect: Subtract the current battle round number from the control scores of enemy units while they are in combat with any friendly NIGHTHAUNT units. Once Per Battle (Army), Deployment Phase SEPULCHRAL APPARITIONS : Like sinister visions intruding upon reality, the haunted crypts of the Nighthaunt shimmer into existence wherever there are souls to be captured and tortured. Effect: If there is a friendly Nexus of Grief on the battlefield, you can set up up to 2 additional Nexuses of Grief on the battlefield. Each must be set up wholly outside enemy territory, more than 3\" from all objectives and other terrain features , and more than 12\" from all other friendly Nexuses of Grief . Designer’s Note: The original Nexus of Grief is set up in Step 1 of the deployment phase using the ‘ Deploy Faction Terrain ’ ability."
+ },
+ {
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Traits",
+  "text": "Designer’s Note: The original Nexus of Grief is set up in Step 1 of the deployment phase using the ‘ Deploy Faction Terrain ’ ability. This ability allows you to set up a second and third such terrain feature and is used in Step 3 of the deployment phase, after armies have been deployed."
+ },
+ {
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations",
+  "text": "You can pick 1 of the following battle formations for a Nighthaunt army. Each battle formation grants a different ability you can use in the battle. BATTLE PROFILE Name Points Quicksilver Gheists 40 Shrieker Host 0 Death Stalkers 0 Royal Procession 0 Hungry Nexus 0 Deathrust Gheists 0"
+ },
+ {
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Quicksilver Gheists",
+  "text": "Once Per Turn (Army), Your Movement Phase VANISH AND REAPPEAR : These mercurial spirits are feared for their ability to dissolve into nothingness before suddenly reappearing elsewhere - often right behind their next targets' backs. Declare: Pick a friendly NIGHTHAUNT unit that is in combat to use this ability. Effect: Roll a dice. The unit using this ability can move a distance up to its Move characteristic added to the roll. It can pass through other models and the combat ranges of enemy units, and it can end that move in combat. KEYWORDS CORE, MOVE"
+ },
+ {
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Shrieker Host",
+  "text": "Once Per Turn (Army), Enemy Hero Phase PETRIFY : The screams and wails of this procession's bloodthirsty champions are so terrifying that their foes often become rooted in place, ripe for the slaughter. Declare: Pick a friendly NIGHTHAUNT HERO to be the target. Effect: For the rest of the turn, enemy units cannot use RETREAT abilities while they are in combat with the target."
+ },
+ {
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Death Stalkers",
+  "text": "Once Per Turn (Army), Your Movement Phase THERE IS NO ESCAPE : Death Stalkers are spectral killers that relentlessly hunt down a chosen enemy. They are constantly on the move in pursuit of their quarry and nigh impossible to pin down. Declare: Pick a friendly NIGHTHAUNT unit to be the target. Effect: For the rest of the turn: The target can use CHARGE and SHOOT abilities even if it has used a RETREAT ability in the same turn. The target can use the ’ Retreat ’ ability without any mortal damage being inflicted on it."
+ },
+ {
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Royal Procession",
+  "text": "Once Per Turn (Army), Enemy Hero Phase LETHAL RANCOUR : The gheists of this horde are drawn from haughty nobles and obsequious courtiers who refused to admit fault even at the very end. They rail constantly at their kingdom's doom, and their undying bitterness renders their spectral touch even more deadly against those they perceive as interlopers. Declare: Pick up to 2 friendly NIGHTHAUNT units to be the targets. Effect: The targets’ melee weapons have Anti-charge (+1 Rend) for the rest of the turn."
+ },
+ {
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Hungry Nexus",
+  "text": "Once Per Turn (Army), End of Enemy Turn GREEDY FOR SOULS : A Nexus of Grief’s bricks fly apart and its metal rails extend outwards like a grasping claw, dragging it ever nearer to living, breathing victims. Declare: Pick a friendly Nexus of Grief to be the target. Effect: For the rest of the turn, the target has a Move characteristic of 3\". It can immediately move up to 3\" and can move into combat but cannot end that move on a terrain feature or within 3\" of an objective ."
+ },
+ {
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Deathrust Gheists",
+  "text": "Once Per Turn (Army), Enemy Hero Phase BLADES OF ETERNAL RUST : The weapons of these Nighthaunt constantly shed flakes of spectral rust that cause whatever physical substance they come to rest upon to corrode in moments. Declare: Pick an enemy unit that is in combat with any friendly NIGHTHAUNT units to be the target. Effect: Subtract 1 from save rolls for the target for the rest of the turn."
+ },
+ {
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Heroic Traits > Shades of Death",
+  "text": "HERO only BATTLE PROFILE Name Points RULER OF THE SPECTRAL HOSTS 20 DEATHLY POSSESSOR 0 SHADOWY AURA 0 Once Per Turn (Army), Your Hero Phase RULER OF THE SPECTRAL HOSTS : The deathly power of this spirit is like a siren call, an unseen signal that beckons to those who have passed beyond the grave. Declare: Pick up to 3 friendly non- HERO NIGHTHAUNT units wholly within 12\" of this unit to be the targets. Effect: Roll a D3 for each target. On a 2+: If the target is damaged, Heal (X) the target, where X is an amount equal to the roll. If the target is not damaged, return a number of slain models to it with a combined Health characteristic of up to X , where X is an amount equal to the roll. Any Combat Phase DEATHLY POSSESSOR : In a flash ofbalefire, the Nighthaunt vanishes. An instant later, a nearby foe's eyes glow with spectral power and they lash out at their allies, cackling in a voice not their own. Declare: Pick an enemy HERO in combat with this unit to be the target, then pick another enemy unit within the target’s combat range to be the victim. Effect: Roll a dice. On a 3+, pick 1 of the target’s melee weapons. Immediately resolve combat attacks for the target with that weapon against the victim. Reaction: You declared the ’ Redeploy ’ command for a friendly NIGHTHAUNT unit wholly within 12\" of this unit SHADOWY AURA : A pall of gloom hangs over this champion, concealing the movements of nearby gheists and allowing them to ambush their victims. Effect: For the rest of the turn, subtract 1 from hit rolls for attacks that target this unit."
+ },
+ {
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Artefacts of Power > Relics of the Underworlds",
+  "text": "HERO only BATTLE PROFILE Name Points BRAZIER OF NAGASHIZZAR 0 LIGHTSHARD OF THE HARVEST MOON 20 MIRROR OF ECHOING FAILURES 0 Reaction: You declared the ’ Redeploy ’ command for a friendly NIGHTHAUNT INFANTRY unit wholly within 12\" of this unit BRAZIER OF NAGASHIZZAR : Green flames billow from this brazier, lashing at nearby gheists and ensuring that there is no rest for the wicked. Effect: If you roll a 1-3 when determining the distance that unit can move, you can use a value of 4 instead. Once Per Battle, Any Combat Phase LIGHTSHARD OF THE HARVEST MOON : This lightshard is filled with a baleful gloom that, upon release, casts the battlefield in an eerie glow, readying the enemy for the reaping. Effect: If this unit is in combat , add 1 to the Attacks characteristic of melee weapons used by friendly NIGHTHAUNT units while they are wholly within 12\" of this unit for the rest of the turn. Reaction: Opponent declared a SPELL or PRAYER ability for a WIZARD or PRIEST within 12\" of this unit MIRROR OF ECHOING FAILURES : To fail in front of this awful artefact is to have those miseries echoed in excruciating detail by a caterwauling reflection of your own face deriding your futile efforts. Declare: Pick each enemy WIZARD and PRIEST within 12\" of this unit to be the targets. Effect: Roll a D3. On a 2+, for the rest of the phase: Subtract 1 from casting rolls and chanting rolls for the targets. Each time any of the targets fails to cast a spell or chant a prayer, inflict 1 mortal damage on that target."
+ },
+ {
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Artefacts of Power > Relics of Dolorum",
+  "text": "HERO only BATTLE PROFILE Name Points STAVE OF SUFFERING 0 TOMBSTONE OF THE PENITENT 0 AMULET OF WAKING NIGHTMARES 0 Passive STAVE OF SUFFERING : This staff drinks in the misery and pain of nearby living things and converts it into powerful magic that can be harnessed by Nighthaunt spellcasters. Effect: While this unit is within 12\" of any damaged enemy units or enemy units that have had any models slain, add 1 to casting rolls for friendly NIGHTHAUNT units while they are wholly within 12\" of this unit. Passive TOMBSTONE OF THE PENITENT : This tombstone, chained to the gheist cursed to bear it, begins to burn with spectral flames as the land around them is suffused with deathly energies. Effect: Add 1 to the Attacks characteristic of this unit’s melee weapons for each non- FACTION TERRAIN terrain feature that is being contested by friendly units, to a maximum of 8. Your Hero Phase AMULET OF WAKING NIGHTMARES : This loathsome amulet afflicts harrowing visions on a chosen victim, whose subsequent throat- rending screams allow Nighthaunt marksmen to locate their target no matter where they hide. Declare: Pick an enemy HERO within 18\" of this unit to be the target. Effect: Roll a dice. On a 3+, for the rest of the turn, the target cannot be affected by the ‘ Guarded Hero ’ ability or the ‘ Obscuring ’ terrain ability."
+ },
+ {
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Artefacts of Power > Relics of the Underworlds",
+  "text": "HERO only BATTLE PROFILE Name Points TOME OF THE RESTLESS CRYPTS 0 ETHEREAL FETTERS 0 URN OF DESPONDENCY 0 Once Per Battle, Your Movement Phase TOME OF THE RESTLESS CRYPTS : This volume holds the secrets to calling forth more hungering mausoleums. Effect: If there are fewer than 3 friendly Nexuses of Grief on the battlefield, set up a Nexus of Grief within 3\" of a friendly NIGHTHAUNT unit, more than 3\" from all objectives and enemy units, more than 1\" from all other terrain features , and more than 12\" from all other friendly Nexuses of Grief . Any Combat Phase ETHEREAL FETTERS : Spectral chains erupt from this Nighthaunt’s form to temporarily shackle the souls of nearby foes, ensuring they cannot escape. Declare: Pick an enemy unit in combat with this unit to be the target. Effect: For the rest of the turn, if possible, this unit must be picked to be the target of pile-in moves made by the target. Any Combat Phase URN OF DESPONDENCY : From this funerary urn emerge swirling spirits that feed upon negative emotions. Empowered by resentment, they become as a spectral whirlwind, speeding the bearer to new sources of suffering. Effect: Spend up to 3 rage dice . If your opponent’s fury level is lower than yours, they must increase their fury level by 1, to a maximum of 7. Then, roll X D6, where X is the number of rage dice spent. This unit can move a distance in inches up to the roll but must end that move in combat with a damaged enemy unit and/or an enemy unit that has fewer models than its starting size."
+ },
+ {
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Spell Lore",
+  "text": "BATTLE PROFILE Name Points Lore of the Underworlds 0"
+ },
+ {
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Spell Lore > Lore of the Underworlds",
+  "text": "Your Hero Phase 6 FELL BLADES : A malignant curse screeched to blackened skies coalesces on spectral blades, causing the weapons to glow with the magics of ending. Declare: Pick a friendly NIGHTHAUNT WIZARD to cast this spell, pick a visible friendly NIGHTHAUNT unit wholly within 12\" of them to be the target, then make a casting roll of 2D6. Effect: Until the start of your next turn, each time the target uses a FIGHT ability , if all of its attacks targeted the same enemy unit, after that ability has been resolved, subtract 1 from save rolls for that enemy unit for the rest of the turn. KEYWORDS SPELL, UNLIMITED Your Hero Phase 6 WRENCH SOULS : With a clasped fist and a horrible twist, the caster drags a horde of gheists to their desired location. Declare: Pick a friendly NIGHTHAUNT WIZARD to cast this spell, pick a visible friendly non- HERO NIGHTHAUNT INFANTRY unit wholly within 12\" of them to be the target, then make a casting roll of 2D6. Effect: The target can immediately use the ’ Normal Move ’ or ’ Retreat ’ ability as if it were your movement phase. KEYWORDS SPELL Your Hero Phase 7 CHAINS OF DEATH : With an unearthly howl, hundreds of spectral chains burst from the caster's billowing form, ensnaring their straining victim from head to foot. Declare: Pick a friendly NIGHTHAUNT WIZARD to cast this spell, pick a visible enemy HERO unit within 18\" of them to be the target, then make a casting roll of 2D6. Effect: The target has STRIKE-LAST for the rest of the turn. KEYWORDS SPELL"
+ },
+ {
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Manifestation Lore",
+  "text": "BATTLE PROFILE Name Points Infernal Sorceries 0"
+ },
+ {
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Manifestation Lore > Infernal Sorceries",
+  "text": "Your Hero Phase 6 SUMMON SHYISH REAPER : The wizard sweeps down their arm as they utter this spell’s final incantation, and a fearsome scythe formed of purest amethyst magic tears through their foes with unstoppable force. Declare: If there is not a friendly Shyish Reaper on the battlefield, pick a friendly NIGHTHAUNT WIZARD to cast this spell, then make a casting roll of 2D6. Effect: Set up a Shyish Reaper wholly within 12\" of and visible to the caster and more than 9\" from all enemy units. KEYWORDS SPELL, SUMMON Your Hero Phase 6 SUMMON MORTALIS TERMINEXUS : A spectral hourglass filled with shifting grave-sand takes shape, promising temporal grace or doom to mortal and immortal alike. Declare: If there is not a friendly Mortalis Terminexus on the battlefield, pick a friendly NIGHTHAUNT WIZARD to cast this spell, then make a casting roll of 2D6. Effect: Set up a Mortalis Terminexus wholly within 18\" of the caster and visible to them. KEYWORDS SPELL, SUMMON Your Hero Phase 6 SUMMON VAULT OF SOULS : This summoned chest siphons souls, filling itself to overflowing with the rich spirits of mortalkind. Declare: If there is not a friendly Vault of Souls on the battlefield, pick a friendly NIGHTHAUNT WIZARD to cast this spell, then make a casting roll of 2D6. Effect: Set up a Vault of Souls wholly within 18\" of the caster and visible to them. KEYWORDS SPELL, SUMMON"
+ },
+ {
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Crimes of the Condemned",
+  "text": "Crimes of the Condemned are unique enhancements that can be given to non- HERO NIGHTHAUNT INFANTRY or CAVALRY units. A unit can only have 1 Crime of the Condemned. BATTLE PROFILE Name Points VOCIFEROUS DEFAMERS 10 BACKSTABBING BETRAYERS 10 COWARDS AND DESERTERS 10 Passive VOCIFEROUS DEFAMERS : These wretches denied the Great Necromancer’s arcane might; as punishment, they are beholden to Nagash’s mages. Effect: Add 1 to casting rolls for friendly NIGHTHAUNT WIZARDS while they are wholly within 12\" of and visible to this unit. Add 2 to casting rolls instead if this unit is also in combat with an enemy WIZARD or PRIEST . Passive BACKSTABBING BETRAYERS : Condemned to eternal solitude for their traitorous deeds, these spectres take out their loneliness on the enemy. Effect: Add 1 to the Attacks characteristic of this unit’s melee weapons while it is more than 12\" from all other friendly Nighthaunt units. Reaction: You declared a FIGHT ability for this unit COWARDS AND DESERTERS : Fearful and craven in life, these gheists continue to flee from their enemies beyond the grave. Effect: After that FIGHT ability has been resolved, roll a dice. You can spend 1 rage dice . If you do: Add 1 to the roll. If your opponent’s fury level is lower than yours, they must increase their fury level by 1, to a maximum of 7 . On a 3+, this unit can move a distance up to its Move characteristic. It can move through the combat ranges of enemy units but cannot end that move in combat . Army of Renown"
+ },
+ {
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Clattering Procession",
+  "text": "When you pick the Nighthaunt faction for your army, you can choose for it to be a Clattering Procession Army of Renown . If you do so, use the faction rules in this section instead of the Nighthaunt faction rules. Every unit in your army must be drawn from the units listed in the roster options below. All units in your army gain the CLATTERING PROCESSION keyword. You can give 1 Black Coach in your army the HERO keyword; if you do so, any NON-HERO NIGHTHAUNT CAVALRY units can be added to its regiment. ROSTER OPTIONS Reikenor the Grimhailer Knight of Shrouds on Ethereal Steed Dreadblade Harrows Hexwraiths Black Coach You cannot include Regiments of Renown or faction terrain"
+ },
+ {
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Clattering Procession > Battle Traits",
+  "text": "Passive ETHEREAL : Nighthaunt spirits can rarely be harmed by blows delivered by those caught in the grip of a spiritual terror. Effect: Ignore negative modifiers to save rolls for friendly NIGHTHAUNT units. Once Per Turn (Army), End of Your Turn THE SPEED OF DEATH : With terrifying speed, the ethereal steeds of the Clattering Procession climb into darkened skies, leaving a steep trail of burning spectral hoofprints in the air. Declare: Pick a friendly CLATTERING PROCESSION unit that used a CHARGE or RETREAT ability this turn, is not in combat and is wholly within 9\" of a battlefield edge to use this ability. Effect: Remove that unit from the battlefield and set it up again wholly within 9\" of a battlefield edge and more than 3\" from all enemy units. Once Per Turn (Army), Your Movement Phase SPECTRAL SWIFTNESS : The incorporeal cavalry of the Clattering Procession are impossible to surround and pin down. Declare: Pick a friendly CLATTERING PROCESSION unit that is in combat to use this ability. Effect: That unit can move a distance up to its Move characteristic. It can pass through other models and the combat ranges of enemy units, but it cannot end that move in combat. KEYWORDS CORE, MOVE, RETREAT Once Per Turn (Army), Your Movement Phase PITILESS REAPERS : The chill blades of the Clattering Procession flash down and reap a deadly harvest as they pass through the enemy ranks. Declare: Pick a friendly CLATTERING PROCESSION unit that passed across any enemy units this phase to use this ability, then pick 1 of those enemy units to be the target. Effect: Roll a dice for each model in the CLATTERING PROCESSION unit that passed across the target. Add 1 to the roll if any friendly CLATTERING PROCESSION Black Coaches passed across the target this phase."
+ },
+ {
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Clattering Procession > Battle Traits",
+  "text": "Add 1 to the roll if any friendly CLATTERING PROCESSION Black Coaches passed across the target this phase. For each 6+, inflict 1 mortal damage on the target."
+ },
+ {
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Clattering Procession > Heroic Traits",
+  "text": "HERO only Your Charge Phase SILENT OVERSEER : With a gesture of a translucent finger, this gheist orders those spirits who have fled from their enemies to charge again, heedless of the cost. Declare: Pick up to 3 friendly CLATTERING PROCESSION units wholly within 12\" of this unit to be the targets. Effect: For the rest of the turn, the targets can use CHARGE abilities even if they used a RETREAT ability in the same turn."
+ },
+ {
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Clattering Procession > Artefacts of Power",
+  "text": "HERO only Reaction: Opponent declared a SPELL ability TALISMAN OF THE NADIR : A tiny, spell-eating mote of the Shyish Nadir rages in this ornate hourglass, devouring enemy magics with eager abandon. Effect: If a friendly CLATTERING PROCESSION unit wholly within 12\" of this unit was picked to be the target of that spell, this unit can use the ’ Unbind ’ ability as if it had WIZARD ( 1 ) . Add 1 to the unbinding roll for that ability."
+ },
+ {
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Clattering Procession > Spell Lore",
+  "text": "Your Hero Phase 4 SPECTRAL LASHES : With a rattling shriek, the caster causes spectral lashes to manifest around the ethereal steeds of the Clattering Procession, driving them forward with pitiless blows. Declare: Pick a friendly CLATTERING PROCESSION WIZARD to cast this spell, pick a visible friendly CLATTERING PROCESSION unit wholly within 12\" of them and that has not been picked to be the target of this ability this turn to be the target, then make a casting roll of 2D6. Effect: Add 2\" to the target’s Move characteristic for the rest of the turn. KEYWORDS SPELL, UNLIMITED Your Hero Phase 6 FELL RIDERS : Words of power twist the air and ghostly green flames explode from the hooves of the Clattering Procession's steeds, giving them a deadly burst of speed. Declare: Pick a friendly CLATTERING PROCESSION WIZARD to cast this spell, pick the caster and up to 1 other visible friendly CLATTERING PROCESSION unit wholly within 12\" of them to be the targets, then make a casting roll of 2D6. Effect: You can re-roll run rolls and charge rolls for the targets for the rest of the turn. KEYWORDS SPELL"
+ },
+ {
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Clattering Procession > Manifestation Lore",
+  "text": "Your Hero Phase 6 SUMMON SHYISH REAPER : The wizard sweeps down their arm as they utter this spell's final incantation, and a fearsome scythe formed of purest amethyst magic tears through their foes with unstoppable force. Declare: If there is not a friendly Shyish Reaper on the battlefield, pick a friendly CLATTERING PROCESSION WIZARD to cast this spell, then make a casting roll of 2D6. Effect: Set up a Shyish Reaper wholly within 9\" of the caster, visible to them and more than 9\" from all enemy units. KEYWORDS SPELL, SUMMON Army of Renown"
+ },
+ {
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Eternal Nightmare",
+  "text": "When you pick the Nighthaunt faction for your army, you can choose for it to be a The Eternal Nightmare Army of Renown . If you do so, use the faction rules in this section instead of the Nighthaunt faction rules. Every unit in your army must be drawn from the units listed in the roster options below. All units in your army gain the ETERNAL NIGHTMARE keyword. ROSTER OPTIONS Nagash, Supreme Lord of the Undead (must be included and must be your general ) Any non- UNIQUE NIGHTHAUNT INFANTRY units You cannot include Regiments of Renown"
+ },
+ {
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Eternal Nightmare > Battle Traits",
+  "text": "Passive ETHEREAL : Nighthaunt spirits can rarely be harmed by blows delivered by those caught in the grip of a spiritual terror. Effect: Ignore negative modifiers to save rolls for friendly NIGHTHAUNT units, excluding Nagash . Passive GATHER POWER : Nagash's formidable will gathers magical power to reinvest his divine spirit with corporeal raiment once more. During his unholy resurrection, there is a brief window where he is at his most vulnerable. Effect: The following effects apply to the friendly Nagash during the first and second battle rounds, as shown: Battle Round 1: His Move characteristic is ’-’ and he cannot make pile-in moves . He has WARD ( 3+ ) . He has a Control characteristic of 1. Alakanash and Zefet-nebtar each have an Attacks characteristic of 2 instead of 4. Battle Round 2: His Move characteristic is 6\". He cannot end a move more than 6\" from the ritual site. He has WARD ( 4+ ) . He has a Control characteristic of 5. Alakanash and Zefet-nebtar each have an Attacks characteristic of 2 instead of 4. Deployment Phase THE RITUAL BEGINS : Nagash's potent spirit anchors itself to a nearby Nexus of Grief, and it is from here that his form shall be remade once more in all its macabre glory. Declare: You must use this ability to set up the friendly Nagash . Pick a friendly Nexus of Grief wholly within friendly territory to be the ritual site . Effect: Set up the friendly Nagash within 1\" of the ritual site and wholly within friendly territory. After you have done so, he has been deployed . That Nexus of Grief is the ritual site for the rest of the battle. KEYWORDS DEPLOY Passive UNHOLY VESSEL : As Nagash gathers his power, a tiny portion of his godly might is invested in the Nexus of Grief that plays host to his disembodied spirit."
+ },
+ {
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Eternal Nightmare > Battle Traits",
+  "text": "VESSEL : As Nagash gathers his power, a tiny portion of his godly might is invested in the Nexus of Grief that plays host to his disembodied spirit. Effect: The ritual site has WARD ( 4+ ) and cannot use the ’Hungry Crypts’ ability."
+ },
+ {
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Eternal Nightmare > Heroic Traits",
+  "text": "HERO only Reaction: You declared a SPELL ability for a friendly Nagash within 18\" of this unit DAMNED VESSEL : With a wretched wail, a gheist's will is temporarily eclipsed as Nagash channels his power through their ragged shape. Effect: Measure the range and visibility of that SPELL ability from this unit instead of that Nagash ."
+ },
+ {
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Eternal Nightmare > Artefacts of Power",
+  "text": "HERO only Once Per Battle, Your Hero Phase THE SEAL OF NAGASH : This sigil, magically seared into this gheist's spectral form, binds them to Nagash so that he may readily drain their power to sustain himself at a moment's notice. Effect: Allocate 3 damage points to this unit ( ward rolls cannot be made for those damage points). Then, Heal (3) the friendly Nagash ."
+ },
+ {
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Eternal Nightmare > Spell Lore",
+  "text": "Your Hero Phase 5 DIVINE TERROR : The inevitability of Nagash's return inspires utter dread, and it is a matter of little effort for the wizard to magnify that fear tenfold. Declare: Pick a friendly ETERNAL NIGHTMARE WIZARD to cast this spell, pick a visible enemy unit within 18\" of them to be the target, then make a casting roll of 2D6. Effect: Subtract 3 from the target’s control score for the rest of the turn. KEYWORDS SPELL, UNLIMITED Your Hero Phase 8 THE WILL OF NAGASH : Eye sockets flaring with power, the wizard renders nearby gheists almost invulnerable to enemy attacks. Declare: Pick a friendly ETERNAL NIGHTMARE WIZARD to cast this spell, pick a visible friendly ETERNAL NIGHTMARE INFANTRY unit wholly within 12\" of them to be the target, then make a casting roll of 2D6. Effect: Until the start of your next turn, if the unmodified hit roll or unmodified wound roll for an attack that targets the target unit is 1-3, the attack fails and the attack sequence ends. KEYWORDS SPELL"
+ },
+ {
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Eternal Nightmare > Manifestation Lore",
+  "text": "Your Hero Phase 6 SUMMON SHYISH REAPER : The wizard sweeps down their arm as they utter this spell's final incantation, and a fearsome scythe formed of purest amethyst magic tears through their foes with unstoppable force. Declare: If there is not a friendly Shyish Reaper on the battlefield, pick a friendly ETERNAL NIGHTMARE WIZARD to cast this spell, then make a casting roll of 2D6. Effect: Set up a Shyish Reaper wholly within 9\" of the caster, visible to them and more than 9\" from all enemy units. KEYWORDS SPELL, SUMMON Your Hero Phase 6 SUMMON MORTALIS TERMINEXUS : A spectral hourglass filled with shifting grave-sand takes shape, promising temporal grace or doom to mortal and immortal alike. Declare: If there is not a friendly Mortalis Terminexus on the battlefield, pick a friendly ETERNAL NIGHTMARE WIZARD to cast this spell, then make a casting roll of 2D6. Effect: Set up a Mortalis Terminexus wholly within 18\" of the caster and visible to them. KEYWORDS SPELL, SUMMON Your Hero Phase 6 SUMMON VAULT OF SOULS : This summoned chest siphons souls, filling itself to overflowing with the rich spirits of mortalkind. Declare: If there is not a friendly Vault of Souls on the battlefield, pick a friendly ETERNAL NIGHTMARE WIZARD to cast this spell, then make a casting roll of 2D6. Effect: Set up a Vault of Souls wholly within 18\" of the caster and visible to them. KEYWORDS SPELL, SUMMON"
+ },
+ {
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Cursed Shacklehorde",
+  "text": "When the Nighthaunt mass for war, they coalesce around places of death, preceded by the reek of the grave and the wailing of the condemned. Upon sensing the living, they descend in a frenzied and fast-moving horde. Blades pass through their incorporeal forms and arrows fail to find purchase. Horror swiftly follows as the gheists close in, eager to swell their spectral ranks. Cursed Shacklehordes are despatched specifically for this purpose, impelled to capture souls to drag to the lightless gaols of the underworlds. Shacklehordes are summoned around their Spirit Torment, a baleful entity who is attended by a pair of Chainghasts. Lingering on the periphery of battle, this unholy triumvirate empowers the horde before drifting in with chains and ghastflails swinging. The brutal enforcers of the host are the Bladegheists, who slay their victims in frenzied gyres. Any who withstand their crazed rampages are dealt with by the shredding limbs of the Dreadscythe Harridans. The shrieking cries of these fell maidens shatter the resolve of any survivors, before the swift-moving Dreadblade Harrows sweep in on their ethereal steeds to seal the fate of those who would resist the dead. This Spearhead army consists of the following units: General Spirit Torment Units 2 Chainghasts 5 Bladegheist Revenants 5 Bladegheist Revenants 5 Dreadscythe Harridans 5 Dreadscythe Harridans 2 Dreadblade Harrows",
+  "spearhead_name": "Cursed Shacklehorde"
+ },
+ {
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Cursed Shacklehorde > Battle Traits",
+  "text": "SPECTRAL PROCESSION 1 of your Bladegheist Revenants units and 1 of your Dreadscythe Harridans units start the battle in reserve. From the second battle round onwards, you can use the following ability: Once Per Turn (Army), Your Movement Phase CACKLING ARRIVAL : Whether diving from the skies or rising suddenly from the very ground, a host of gheists catches the foe unaware. Declare: Pick 1 of your units in reserve . Effect: Set up that unit anywhere on the battlefield more than 6\" from all enemy units. Passive ETHEREAL : Nighthaunt spirits can rarely be harmed by blows delivered by those caught in the grip of a spiritual terror. Effect: Ignore negative modifiers to save rolls for friendly units.",
+  "spearhead_name": "Cursed Shacklehorde"
+ },
+ {
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Cursed Shacklehorde > Regiment Abilities",
+  "text": "Pick 1 of the following regiment abilities. Once Per Turn (Army), Any Hero Phase DISCORPORATE : If given the order, the Nighthaunt can flicker between the realms of the living and dead. Declare: Pick a friendly unit to be the target. Effect: Roll a dice. On a 3+, add 1 to save rolls for the target for the rest of the turn. Once Per Turn (Army), End of Any Turn MOUNTING DREAD : The wails and shrieks of the Nighthaunt are a continuous assault on the courage of those who face them in battle. Declare: Pick a friendly unit to be the target. Effect: Roll a dice. On a 2+, for the rest of the turn, subtract the current battle round number from the control scores of enemy units while they are in combat with the target.",
+  "spearhead_name": "Cursed Shacklehorde"
+ },
+ {
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Cursed Shacklehorde > Enhancements",
+  "text": "Give your general 1 of the following enhancements. Your Hero Phase UNHOLY VISAGE : Even the mightiest feel a glimmer of fear in the face of this creature's unutterably foul appearance. Declare: Pick a visible enemy unit within 6\" of your general to be the target. Effect: Roll a dice. On a 3+, the target must immediately use a RETREAT ability as if it were the enemy movement phase. Immediately after that ability has been resolved, if the target is in combat , inflict 2D3 mortal damage on it. Any Combat Phase DEATHLY POSSESSOR : In a flash of balefire, the Nighthaunt vanishes. An instant later, a nearby foe's eyes glow with spectral power and they lash out at their allies, cackling in a voice not their own. Declare: Pick an enemy HERO within 12\" of your general to be the target, then pick another enemy unit within the target’s combat range to be the victim. Effect: Roll a D3. On a 2+, pick one: Inflict mortal damage on the target equal to the roll. Inflict mortal damage on the victim equal to the roll. Once Per Battle, Any Combat Phase TALES OF HORROR : Desertions are all too common when battling this spectral terror. Declare: Pick an enemy INFANTRY or CAVALRY unit within 6\" of your general to be the target. Effect: For the rest of the battle, if the target is replaced using the ' Call for Reinforcements ' ability, halve the number of models in the replacement unit , rounding up. Once Per Battle, Any Hero Phase SPECTRAL HOWL : A soul-shattering howl pierces the din of battle, rooting the enemy in place. Declare: Pick an enemy unit within 12\" of your general to be the target. Effect: For the rest of the turn, subtract 1 from the number of dice rolled when making charge rolls for the target, to a minimum of 1.",
+  "spearhead_name": "Cursed Shacklehorde"
+ },
+ {
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Cursed Shacklehorde > Warscrolls",
+  "text": "• SPEARHEAD WARSCROLL • Spirit Torment 8\" 5 5+ 2 5+ The Spirit Torments are Nagash’s spectral gaolers. Lords of the Great Oubliette, a continent-sized underworld honeycombed with freezing dungeons and pitch-black cells, they trammel the life force of the slain into the massive padlocks they bear. Escape from these eldritch clasps is all but impossible – it is said they are even able to capture the discorporating energies of Stormcast Eternals before they can return to the heavens. • SPEARHEAD WARSCROLL • Spirit Torment MELEE WEAPONS Atk Hit Wnd Rnd Dmg Shacklegheist Chains [ Crit (Auto-wound) ] Shacklegheist Chains Crit (Auto-wound) 5 4+ 3+ 1 2 Your Hero Phase CAPTURED SOUL ENERGY : The Spirit Torment of a Cursed Shacklehorde uses the souls captured in their padlock to imbue their minions with deathly might. Declare: Pick a friendly unit wholly within 12\" of this unit to be the target. Effect: Roll a dice. On a 3+, add 1 to wound rolls for the target’s combat attacks for the rest of the turn. KEYWORDS HERO , INFANTRY , FLY , WARD ( 5+ ) • SPEARHEAD WARSCROLL • Chainghasts 8\" 3 6+ 2 5+ Chainghasts are the servants and enforcers of the Great Oubliette. They are wrought from the soul-stuff of those who beseeched the gods to free them from imprisonment, whether it was justified or otherwise, but did not include Nagash in their entreaties. Their punishment is to retain a dim sliver of awareness, just enough to desire their liberty, yet be bound to obey and assist more powerful gheists in the capturing of mortal souls.",
+  "spearhead_name": "Cursed Shacklehorde"
+ },
+ {
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Cursed Shacklehorde > Warscrolls",
+  "text": "dim sliver of awareness, just enough to desire their liberty, yet be bound to obey and assist more powerful gheists in the capturing of mortal souls. • SPEARHEAD WARSCROLL • Chainghasts RANGED WEAPONS Rng Atk Hit Wnd Rnd Dmg Ghastflails [ Crit (Auto-wound) ] Ghastflails Crit (Auto-wound) 12\" 2 4+ 3+ 2 1 MELEE WEAPONS Atk Hit Wnd Rnd Dmg Ghastflails [ Crit (Auto-wound) ] Ghastflails Crit (Auto-wound) 2 4+ 3+ 2 1 Your Combat Phase ANOTHER LINK IN THE CHAIN : Chainghasts act as conduits for Spirit Torments, ensuring all nearby Nighthaunt are invigorated by deathly energies. Effect: Roll a dice. Add 1 to the roll if this unit is wholly within 12\" of any friendly Spirit Torments . On a 3+, for the rest of the turn, add 1 to hit rolls for combat attacks made by friendly units while they are wholly within 12\" of this unit. KEYWORDS INFANTRY , FLY , WARD ( 5+ ) • SPEARHEAD WARSCROLL • Dreadscythe Harridans 8\" 2 6+ 1 5+ Dreadscythe Harridans were healers and alms-givers in life. Upon their deaths, the Great Necromancer wrought a horrific transformation upon them, turning their hands into wicked scythe-blades that would instead lacerate and maim the flesh that they may once have sought to carefully stitch and soothe. • SPEARHEAD WARSCROLL • Dreadscythe Harridans MELEE WEAPONS Atk Hit Wnd Rnd Dmg Scythed Limbs [ Crit (Auto-wound) ] Scythed Limbs Crit (Auto-wound) 3 4+ 4+ 1 1 Passive HARROWING SHRIEKS : The chilling cries of the Dreadscythe Harridans drive all hope from the hearts of their foes. Effect: Enemy units cannot be healed or have slain models returned to them while they are in combat with this unit.",
+  "spearhead_name": "Cursed Shacklehorde"
+ },
+ {
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Cursed Shacklehorde > Warscrolls",
+  "text": "Effect: Enemy units cannot be healed or have slain models returned to them while they are in combat with this unit. KEYWORDS INFANTRY , FLY , WARD ( 5+ ) • SPEARHEAD WARSCROLL • Dreadblade Harrows 12\" 3 6+ 1 5+ Dreadblade Harrows were once noble cavaliers in the service of an officer destined to become a Knight of Shrouds. They stood by whilst their masters betrayed their office, their people, even life itself. Outriders and bodyguards for the monarchy of the dead, they have become the Knights of Regret, riding incorporeal on the winds of Shyish to slay, discorporate and slay again without the slightest remorse. • SPEARHEAD WARSCROLL • Dreadblade Harrows MELEE WEAPONS Atk Hit Wnd Rnd Dmg Dreadblade [ Crit (Auto-wound) ] Dreadblade Crit (Auto-wound) 4 4+ 3+ 1 2 Ethereal Steed’s Ghostly Hooves and Teeth [ Companion , Crit (Auto-wound) ] Ethereal Steed’s Ghostly Hooves and Teeth Companion , Crit (Auto-wound) 3 5+ 3+ - 1 Once Per Battle, Your Movement Phase PHANTASMAL DISCORPORATION : Dreadblade Harrows are able to disappear in a spectral mist. Effect: Remove this unit from the battlefield and set it up again on the battlefield more than 6\" from all enemy units. KEYWORDS CAVALRY , FLY , WARD ( 5+ ) • SPEARHEAD WARSCROLL • Bladegheist Revenants 8\" 2 6+ 1 5+ To be trapped in the jaws of death is to find a frantic, animalistic strength. It is a wild energy born of primal fear, usually accompanied by tight-throated screaming that seeks to deny oblivion with every iota of the sufferer’s soul. The beings known as Bladegheist Revenants are born of that terminal state; indeed, they are trapped in it, unable to escape those final moments.",
+  "spearhead_name": "Cursed Shacklehorde"
+ },
+ {
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Cursed Shacklehorde > Warscrolls",
+  "text": "The beings known as Bladegheist Revenants are born of that terminal state; indeed, they are trapped in it, unable to escape those final moments. • SPEARHEAD WARSCROLL • Bladegheist Revenants MELEE WEAPONS Atk Hit Wnd Rnd Dmg Tomb Greatblade [ Crit (Auto-wound) ] Tomb Greatblade Crit (Auto-wound) 2 3+ 3+ 1 1 Passive THRASHING DESPERATION : Only the bravest and most determined of charges can get within striking range of the veritable wall of thrashing blades that are the Bladegheist Revenants. Effect: While this unit contest s an objective you control , enemy units cannot end a charge move within ½\" of this unit unless the unmodified charge roll was 5 or more. KEYWORDS INFANTRY , FLY , WARD ( 5+ )",
+  "spearhead_name": "Cursed Shacklehorde"
+ },
+ {
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Slasher Host",
+  "text": "The spectral warriors of a Slasher Host crave the tearing sensation of their blades and talons biting deep into mortal victims, slicing through flesh to rend the very soul beneath. Inflicting terror and agony is their only delight, for their very existence is a punishment ordained by the Great Necromancer, Nagash. Slasher Hosts are frenzied gatherings fuelled by spite, and the grim aura of command projected by a Knight of Shrouds is required in order to focus their malice upon Nagash’s enemies. Raising their rusted blade to the skies, this traitor-general orders floods of Chainrasps and Grimghast Reapers forth. These spirits fall upon the living in a surging mass, letting the missiles and panicked sword-strokes of their prey pass harmlessly through their incorporeal bodies as they claw open throats and pierce hearts. Such awful slaughter drowns the battlefield in a potent haze of Shyishan magic, drawing forth the horrible agglomerations known as Spirit Hosts – gestalt entities formed from dozens of displaced souls that feed upon the death-gasps of those impaled upon their phantasmal talons. This Spearhead army consists of the following units: General Knight of Shrouds Units 3 Spirit Hosts 5 Grimghast Reapers 5 Grimghast Reapers 10 Chainrasps 10 Chainrasps",
+  "spearhead_name": "Slasher Host"
+ },
+ {
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Slasher Host > Battle Traits",
+  "text": "Any Charge Phase WAVE OF TERROR : Many foes freeze in fear when faced by a swarming Nighthaunt charge. Declare: Pick a friendly unit to use this ability if it charged this phase and the charge roll was 10+. Then, pick an enemy unit within 1\" of it to be the target. Effect: The target has STRIKE-LAST this turn. Passive ETHEREAL : Nighthaunt spirits can only be harmed by blows delivered with great conviction. Effect: Ignore all modifiers to save rolls for friendly units (positive and negative).",
+  "spearhead_name": "Slasher Host"
+ },
+ {
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Slasher Host > Regiment Abilities",
+  "text": "Pick 1 of the following regiment abilities. Start of the First Battle Round DEATH STALKERS : These spectral killers relentlessly hunt down quarry whose names have been whispered to them in darksome rites. Declare: Pick an enemy unit on the battlefield. Effect: Add 1 to the Rend characteristic of melee weapons used for attacks that target that unit. Passive CHORUS OF TERROR : Warriors are frozen in place by the shrieks of the Nighthaunt as they wash over the enemy lines in a wave of terror. Effect: Subtract 1 from hit rolls for combat attacks that target a friendly unit that charged in the same turn.",
+  "spearhead_name": "Slasher Host"
+ },
+ {
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Slasher Host > Enhancements",
+  "text": "Give your general 1 of the following enhancements. End of Any Turn SOULFIRE RING : Gouts of lashing green flames leap forth from this ring as it consumes the souls of those slain by the wearer. Effect: If any models were slain by your general this turn, Heal (D6) your general. Once Per Battle, Your Hero Phase BEACON OF NAGASHIZZAR : This malignant light summons departed souls. Effect: Return 1 slain model to each friendly unit on the battlefield. Passive CLOAKED IN SHADOW : Eerily intangible, this spirit’s ethereal form fades in and out of existence like some wispy cloud of supernatural mist. Effect: No more than 1 enemy unit can target your general with attacks (shooting or combat) per phase. Passive SHADOW'S EDGE : It is impossible to tell if this ebon blade is corporeal or mere shadow, yet its touch tears through flesh and bone with ease. Effect: Your general ’s Sword of Stolen Hours has Crit (Mortal) .",
+  "spearhead_name": "Slasher Host"
+ },
+ {
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Slasher Host > Warscrolls",
+  "text": "• SPEARHEAD WARSCROLL • Knight of Shrouds 8\" 5 4+ 2 6+ Each Knight of Shrouds is an arch-traitor who abandoned their oaths and their people rather than fight an unwinnable war against the legions of Nagash. In return, the Great Necromancer bound them eternally in his service, making use of their vicious skill in warfare to further subjugate the living. Wielding the Sword of Stolen Hours that marks their rank, a Knight of Shrouds cuts down those they once swore to protect, each killing stroke accompanied by a fresh rush of self-loathing. Should the enemy mount a stalwart counter-attack, they will order their minions to discorporate entirely, the blades of the foe finding no purchase upon them until the danger is passed. • SPEARHEAD WARSCROLL • Knight of Shrouds MELEE WEAPONS Atk Hit Wnd Rnd Dmg Sword of Stolen Hours [ Crit (Auto-wound) ] Sword of Stolen Hours Crit (Auto-wound) 5 4+ 3+ 1 2 Once Per Turn (Army), Any Hero Phase DISCORPORATE : This spectral overseer gives the order for their warriors to flicker between the realms of the living and dead. Declare: Pick a friendly unit wholly within 9\" of this unit to be the target. Effect: Roll a dice. On a 3+, add 1 to save rolls for the target for the rest of the turn. KEYWORDS HERO , INFANTRY , FLY , WARD ( 6+ ) • SPEARHEAD WARSCROLL • Chainrasps 8\" 1 5+ 1 6+ Chainrasps are twisted and tormented entities, fashioned from the souls of criminals and transformed into the footsoldiers of Nagash’s spectral hosts. Sweeping forth in a groaning, clattering mass, they overwhelm their living prey with sheer numbers, dragging them down to the underworlds to share their own grim fate.",
+  "spearhead_name": "Slasher Host"
+ },
+ {
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Slasher Host > Warscrolls",
+  "text": "a groaning, clattering mass, they overwhelm their living prey with sheer numbers, dragging them down to the underworlds to share their own grim fate. • SPEARHEAD WARSCROLL • Chainrasps MELEE WEAPONS Atk Hit Wnd Rnd Dmg Malignant Weapon [ Crit (Auto-wound) ] Malignant Weapon Crit (Auto-wound) 2 4+ 5+ - 1 Passive CHILLING HORDE : When the enemy is frozen in fear, the Chainrasps effortlessly drag to the underworlds any who face their assault. Effect: Add 1 to wound rolls for combat attacks made by this unit if it charged in the same turn. KEYWORDS INFANTRY , FLY , REINFORCEMENTS , WARD ( 6+ ) • SPEARHEAD WARSCROLL • Spirit Hosts 8\" 3 4+ 1 6+ Spirit Hosts are formed from a mass of lesser gheists, bound together by a need to consume the energies of death. Drawn to the battlefield’s feast of morbid energies, they possess neither individuality nor recognisable form, but this does not make them any less deadly as they sweep across the battlefield, their grasping claws and rusting blades passing through physical armour to wound their prey’s very essence. • SPEARHEAD WARSCROLL • Spirit Hosts MELEE WEAPONS Atk Hit Wnd Rnd Dmg Spectral Claws and Daggers [ Crit (Auto-wound) ] Spectral Claws and Daggers Crit (Auto-wound) 6 4+ 4+ - 1 Passive DRAWN TO WAR : When the champions of the Nighthaunt muster their processions for battle, Spirit Hosts flock to join their cause, serving as useful fodder for the enemy. Effect: Your general has WARD ( 4+ ) while they are within 1\" of this unit. KEYWORDS INFANTRY , FLY , WARD ( 6+ ) • SPEARHEAD WARSCROLL • Grimghast Reapers 8\" 1 4+ 1 6+ In life, the beings known as Grimghast Reapers considered themselves subtle plotters and assassins, who changed the fortune of entire kingdoms with the stroke of a blade.",
+  "spearhead_name": "Slasher Host"
+ },
+ {
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Slasher Host > Warscrolls",
+  "text": "as Grimghast Reapers considered themselves subtle plotters and assassins, who changed the fortune of entire kingdoms with the stroke of a blade. Now they kill indiscriminately at the behest of the Great Necromancer, unable to witness the awful carnage they are wreaking with each great sweep of their scythes due to the blindfolds that rob them of their witchsight. • SPEARHEAD WARSCROLL • Grimghast Reapers MELEE WEAPONS Atk Hit Wnd Rnd Dmg Slasher Scythe [ Crit (Auto-wound) ] Slasher Scythe Crit (Auto-wound) 2 4+ 3+ 1 1 Passive REAPED LIKE CORN : The scythes wielded by these ghostly warriors can be swung in great sweeping arcs, cutting down whole ranks of enemy warriors. Effect: Combat attacks made by this unit score critical hits on unmodified hit rolls of 5+ if the target unit has 5 or more models. KEYWORDS INFANTRY , FLY , WARD ( 6+ ) noindex /noindex noindex",
+  "spearhead_name": "Slasher Host"
+ }
+]

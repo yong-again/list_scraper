@@ -1,0 +1,417 @@
+[
+ {
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "",
+  "text": "/noindex The Lumineth are often mistaken for angelic beings of pure light, for they glow with the glorious power of Hysh. Their incredible intellects were once turned to the pursuits of art, magic and philosophy, but now they are attuned to the business of war. To fight them is to battle not only the aelven warhosts but the Realm of Light itself. This page contains all of the rules you need to field your Lumineth Realm-lords miniatures on the battlefields of the Mortal Realms, from a host of exciting faction rules to a range of warscrolls. The rules are split into the following sections:"
+ },
+ {
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Designers’ Commentary > Battletome: Lumineth Realm-lords",
+  "text": "Q: When I depict Varinor, Rune of Strength on my battle scripture , are the bonuses to run rolls and charge rolls based on the number of targets? For instance, if I have 2 depictions of Varinor on my battle scripture, and I pick 4 targets, do they each get +4 to run rolls and +4 to charge rolls? A: No. Add 1 to run rolls and add 1 to charge rolls for each target. Q: Can I make an unbinding roll before deciding whether to use the ‘Release Arcane Charge’ ability? A: Only if the unbinding roll is in the declare step of the ability being reacted to. If the unbinding roll is in the effect step, for example in the ‘Unbind’ ability, you must declare that you are using the ‘Release Arcane Charge’ ability before making the unbinding roll. Q: 1) If Lyrior Uthralle has STRIKE-FIRST (e.g. from the ‘Focused Fury’ ability) and I am using the Warhost of Duality battle formation , can I pick another unit to use a FIGHT ability immediately after Lyrior has used a FIGHT ability because of the ‘ Strike as One ’ ability? And 2) If there are no other units with STRIKE-FIRST and it is my turn to pick the first unit to fight in the combat phase, can I then pick 2 other eligible friendly units to use a FIGHT ability? A: 1) Yes, as long as there are no other units that have STRIKE-FIRST , or if the second unit picked to use a FIGHT ability also has STRIKE-FIRST . 2) Yes."
+ },
+ {
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Traits",
+  "text": "Lumineth Realm‑lords armies can use the following abilities: Once Per Battle Round (Army), Start of Battle Round DEPICT RUNE : The Lumineth magically inscribe runes of power into the lands themselves to enhance their armies and heal the realms of Chaos corruption. Effect: Pick 1 of the following runes to depict on your battle scripture . The effect and conditional enhanced effects of that rune last for the rest of the battle round. Each rune remains on your battle scripture for the rest of the battle or until it is removed or replaced by another ability. Varinor, Rune of Strength: Pick up to 2 friendly LUMINETH REALM-LORDS units for each instance of this rune depicted on your battle scripture to be the targets. Add 1 to run rolls and charge rolls for each target. In addition, the following enhanced effects apply: While Ydriliqi, Rune of the River is depicted on your battle scripture , add 1 to wound rolls for each target’s combat attacks . While Oreali, Rune of the Wind is depicted on your battle scripture , each target can use SHOOT and/or CHARGE abilities even if it used a RETREAT ability in the same turn. Alaithi, Rune of the Mountain: Pick up to 2 friendly LUMINETH REALM-LORDS units for each instance of this rune depicted on your battle scripture to be the targets. Each target has WARD ( 5+ ) . In addition, the following enhanced effects apply: While Varinor, Rune of Strength is depicted on your battle scripture , the targets’ melee weapons have Anti-charge (+1 Rend) . While Ydriliqi, Rune of the River is depicted on your battle scripture , subtract 1 from wound rolls for attacks made by enemy units while they are in combat with any of the targets."
+ },
+ {
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Traits",
+  "text": "is depicted on your battle scripture , subtract 1 from wound rolls for attacks made by enemy units while they are in combat with any of the targets. Ydriliqi, Rune of the River: Pick up to 2 friendly LUMINETH REALM-LORDS units for each instance of this rune depicted on your battle scripture to be the targets. Subtract 2 from charge rolls for enemy units while they are within 12\" of any of the targets. In addition, the following enhanced effects apply: While Alaithi, Rune of the Mountain is depicted on your battle scripture , ignore negative modifiers to hit rolls and wound rolls for attacks made by the targets. If Oreali, Rune of the Wind is depicted on your battle scripture , each target can immediately move up to 3\". They can pass through the combat ranges of enemy units and can end that move in combat . Oreali, Rune of the Wind: Pick up to 2 friendly LUMINETH REALM-LORDS units for each instance of this rune depicted on your battle scripture to be the targets. Subtract 1 from hit rolls for attacks made by enemy units while they are in combat with any of the targets. In addition, the following enhanced effects apply: While Varinor, Rune of Strength is depicted on your battle scripture , add 4\" to each target’s Move characteristic. While Alaithi, Rune of the Mountain is depicted on your battle scripture , add 5 to each target’s control score . Thalari, Rune of the Zenith: Add 2 to casting rolls for friendly LUMINETH REALM-LORDS units. In addition, if you have 4 or more unique runes depicted on your battle scripture , add 4\" to the Move characteristic of friendly LUMINETH REALM-LORDS units and friendly LUMINETH REALM-LORDS units’ attacks score critical hits on unmodified hit rolls of 5+."
+ },
+ {
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Traits",
+  "text": "of friendly LUMINETH REALM-LORDS units and friendly LUMINETH REALM-LORDS units’ attacks score critical hits on unmodified hit rolls of 5+. Designer’s Note: We recommend noting the runes you have inscribed in each battle round on a piece of paper to keep track of which are currently depicted on your battle scripture . Feel free to note them by type (Strength, River, Mountain etc.), by initial (each has a different first letter) or, if you are feeling particularly adventurous, you can try your hand at aelven calligraphy and learn to draw each rune!"
+ },
+ {
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations",
+  "text": "You can pick 1 of the following battle formations for a Lumineth Realm-lords army. Each battle formation grants a different ability you can use in the battle. BATTLE PROFILE Name Points Warhost of Duality 20 Pilgrims of Haixiah 0 Aelementor Guardians 10 Scinari Council 0"
+ },
+ {
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Warhost of Duality",
+  "text": "Passive STRIKE AS ONE : Symmetry is fundamental to aelven nature and culture. These warriors exemplify the concept, fighting in awe-inspiring synchrony. Effect: When players are alternating picking units to use a FIGHT ability , when it is your turn to pick a unit, you can pick 2 friendly LUMINETH REALM-LORDS units instead of 1. Resolve the second FIGHT ability immediately after the first."
+ },
+ {
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Pilgrims of Haixiah",
+  "text": "Passive TRICK OF THE LIGHT : These Lumineth have journeyed to the far reaches of Hysh. The wild magic of that region has found purchase in them, occasionally surrounding them with prismatic distortions and mirages that confuse nearby foes as to their precise location. Effect: Friendly LUMINETH REALM-LORDS units can use the ‘ Power Through ’ command even if they have not charged this turn."
+ },
+ {
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Aelementor Guardians",
+  "text": "Once Per Turn (Army), Any Hero Phase ANCIENT SPIRITS : The aelementor spirits that accompany this host are venerable indeed. They have weathered the march of aeons; they will not yield to the petty aggression of short-lived mortals. Declare: Pick a friendly LUMINETH REALM-LORDS MONSTER to be the target. Effect: For the rest of the turn, ignore the first damage point that would be allocated to each visible friendly LUMINETH REALM-LORDS unit in each phase while it is wholly within 12\" of the target."
+ },
+ {
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Scinari Council",
+  "text": "Passive ARCANE FOCUS : The Scinari mages in this host have collectively dedicated their lives to studying the magics of the realms. Effect: SPELL abilities from the Lore of Hysh or the Lore of the Awakened Realms used by friendly LUMINETH REALM-LORDS WIZARDS have the UNLIMITED keyword. However, you cannot pick the same unit to be the target of the same SPELL ability in the same turn."
+ },
+ {
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Heroic Traits > Facets of Brilliance",
+  "text": "HERO only BATTLE PROFILE Name Points MASTERFUL TACTICIAN 0 ACOLYTE OF THE RUNES 0 FLAWLESS COMMANDER 0 Reaction: You declared the ‘ Redeploy ’ command for a visible friendly LUMINETH REALM-LORDS unit wholly within 12\" of this unit MASTERFUL TACTICIAN : This shrewd commander has a crystal-clear understanding of the flow of battle, knowing precisely when to direct their warriors to bolster a weak point in their line or exploit one in that of the enemy. Effect: If you roll a 1-3 when determining the distance that unit can move, you can use a value of 4 instead. Start of Battle Round ACOLYTE OF THE RUNES : This aelf regularly meditates upon the aelven runic scripture. Over time, they have become particularly sensitive to the sigils’ power. Declare: Pick a friendly LUMINETH REALM-LORDS HERO wholly within 12\" of this unit to be the target. Effect: That HERO can be picked as an additional target the next time you use the ‘ Depict Rune ’ ability. Deployment Phase FLAWLESS COMMANDER : This aelf has dedicated their life to mastering battlefield manoeuvres. Infantry formations that march under their banner operate in perfect unison, swiftly making way for each other and allowing them to advance with awe-inspiring discipline. Declare: Pick up to 3 visible friendly LUMINETH REALM-LORDS INFANTRY units wholly within 18\" of this unit to be the targets. Effect: Each target can use the ‘ Normal Move ’ ability as if it were your movement phase."
+ },
+ {
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Heroic Traits > Aspects of Enlightenment",
+  "text": "HERO only BATTLE PROFILE Name Points FLAWLESS COMMANDER 0 AETHERQUARTZ REQUISITIONER 0 MARTIAL PERFECTIONIST 0 Passive FLAWLESS COMMANDER : Under this aelf’s command, the serried ranks of the Lumineth advance in a perfect march. Effect: Add 2\" to the Move characteristic of friendly LUMINETH REALM-LORDS INFANTRY units while they are wholly within 12\" of this unit. Once Per Battle, Reaction: You declared a SPELL ability for a LUMINETH REALM-LORDS WIZARD within this unit’s combat range AETHERQUARTZ REQUISITIONER : This aelf keeps an emergency supply of aetherquartz that can be used to enhance a critical spell. Effect: Add 3 to the casting roll for that spell. Any Combat Phase MARTIAL PERFECTIONIST : This aelf expects their warriors to commit fully to each and every task; they will accept no half measures. Declare: Pick a visible enemy unit within 12\" of this unit that is damaged or that had any models slain this turn to be the target. Effect: Roll a dice. On a 3+, add 1 to wound rolls for combat attacks made by friendly LUMINETH REALM-LORDS INFANTRY units that target that enemy unit for the rest of the turn."
+ },
+ {
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Heroic Traits > Facets of Brilliance",
+  "text": "HERO only BATTLE PROFILE Name Points SCHOLAR OF THE SIGILS 0 PEERLESS SWORDSMAN 0 DISPASSIONATE SOUL 0 Deployment Phase SCHOLAR OF THE SIGILS : This aelf has dedicated their life to the study of runic scripture; few are as knowledgeable as they. Effect: Pick 1 of the following runes and apply the corresponding effect for the rest of the battle. That rune cannot be depicted on your battle scripture for the rest of the battle. Varinor, Rune of Strength : Add 1 to run rolls and charge rolls for this unit. Alaithi, Rune of the Mountain : This unit has WARD ( 5+ ) . Ydriliqi, Rune of the River : This unit’s melee weapons have Anti-charge (+1 Rend) and this unit’s ranged weapons have Shoot in Combat . Oreali, Rune of the Wind : Subtract 1 from hit rolls for combat attacks that target this unit. Thalari, Rune of the Zenith : Add 1 to casting rolls for this unit Any Combat Phase PEERLESS SWORDSMAN : This warrior’s skill with their favoured weapon is such that deflecting even the most grievous of blows is as child’s play to them. Declare: Pick an enemy unit with a starting size of 1 that is in combat with this unit to be the target, then pick 1 of this unit’s non- Companion melee weapons to be the parrying blade . Effect: Roll a number of dice equal to the Attacks characteristic of the parrying blade . For each 3+, subtract 1 from the Attacks characteristic of the target’s non- Companion melee weapons for the rest of the turn. In addition, for each 5+, inflict 1 mortal damage on the target. KEYWORDS CORE, ATTACK, FIGHT Once Per Battle, End of Your Turn DISPASSIONATE SOUL : So impassive is this aelf that they can pacify others with their mere presence."
+ },
+ {
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Heroic Traits > Facets of Brilliance",
+  "text": "ATTACK, FIGHT Once Per Battle, End of Your Turn DISPASSIONATE SOUL : So impassive is this aelf that they can pacify others with their mere presence. Effect: If this unit is in combat with an enemy HERO , reduce your opponent’s fury level by X , where X is the number of unique runes depicted on your battle scripture ."
+ },
+ {
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Artefacts of Power > Heirlooms of Hysh",
+  "text": "HERO only BATTLE PROFILE Name Points PHOENIX STONE 0 SILVER WAND 0 WAYSTONE 0 Passive PHOENIX STONE : This ancient crystal, at once hot and cold to the touch, shatters just as the bearer’s anima is about to flee their body, releasing swirling flames that reknit flesh rather than burn, granting the bearer a precious second chance to fulfil their destiny. Effect: The first time this unit would be destroyed, before removing it from play, roll a dice. On a 3+, this unit is not destroyed and any remaining damage points inflicted on it have no effect. Then, Heal (D3) this unit. Passive SILVER WAND : This slender wand, unassuming in its delicate grace and simplicity, is covered with finely engraved, winding Lumineth runes. It is imbued with the quiet dignity of the one who crafted it, a power that can be channelled by the bearer to dispel wild outbursts of enemy magics and focus their own spellweaving. Effect: If this unit is non- NOT A WIZARD , it can use the ‘ Unbind ’ ability as if it had WIZARD ( 1 ) . Otherwise, add 1 to casting rolls for this unit. Your Movement Phase WAYSTONE : This small sliver of dark rock hovers above the bearer’s outstretched palm, leading them along hidden paths towards that which they desire. Its use requires exceptional discipline or stillness of the mind, for what one thinks one desires is ever elusive – often perilously so. Effect: Remove this unit from the battlefield and set it up again wholly within friendly territory and more than 9\" from all enemy units."
+ },
+ {
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Spell Lore",
+  "text": "BATTLE PROFILE Name Points Lore of Hysh 0 Lore of Prismatic Resonance 10 Lore of the Awakened Realms 0"
+ },
+ {
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Spell Lore > Lore of Hysh",
+  "text": "Your Hero Phase 6 BEACON OF HYSH : The caster imbues allies with an aura of brilliance that blinds their opponents. Declare: Pick a friendly LUMINETH REALM-LORDS WIZARD to cast this spell, pick a visible friendly non- MONSTER LUMINETH REALM-LORDS unit wholly with 12\" of them to be the target, then make a casting roll of 2D6. Effect: Until the start of your next turn, if the unmodified hit roll for an attack that targets that friendly unit is 1-3, the attack fails and the attack sequence ends. KEYWORDS SPELL, UNLIMITED Your Hero Phase 7 OVERWHELMING HEAT : The caster summons the searing light and oppressive heat of the Hyshian deserts to sap their foes’ strength and inflict them with crippling thirst. Declare: Pick a friendly LUMINETH REALM-LORDS WIZARD to cast this spell, pick a visible enemy unit within 18\" of them to be the target, then make a casting roll of 2D6. Effect: Halve the target’s Move characteristic until the start of your next turn, then roll a dice. If the roll equals or exceeds the target’s Save characteristic, inflict D3 mortal damage on it. KEYWORDS SPELL Your Hero Phase 7 PIERCING REFRACTION : The caster looses a thin, burning ray of light that leaps between a group of foes in a dazzling series of perfectly straight beams, scorching minute holes through them that can prove instantly lethal. Declare: Pick a friendly LUMINETH REALM-LORDS WIZARD to cast this spell, pick a visible enemy unit within 18\" of them to be the target, then make a casting roll of 2D6. Effect: Roll a dice for each model in the target unit. For each 5+, inflict 1 mortal damage on the target. KEYWORDS SPELL"
+ },
+ {
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Spell Lore > Lore of the Awakened Realms",
+  "text": "Your Hero Phase 6 FOCUSED EROSION : The caster calls upon nearby spirits of wind, water and stone, which work together to assail the weapons of the foe in a sentient storm that dulls blades and spoils ammunition. Declare: Pick a friendly LUMINETH REALM-LORDS WIZARD to cast this spell, pick a visible enemy unit within 18\" of them to be the target, then make a casting roll of 2D6. Effect: Subtract 1 from the Rend characteristic of the target’s weapons until the start of your next turn. KEYWORDS SPELL, UNLIMITED Your Hero Phase 6 ELEMENTAL PUSH : Carried upon a shifting patch of earth or sped by a benevolent zephyr, a group of Lumineth are carried to a more advantageous position by the spirits of the land. Declare: Pick a friendly LUMINETH REALM-LORDS WIZARD to cast this spell, pick a visible friendly LUMINETH REALM-LORDS unit wholly within 12\" of them that was not set up this turn to be the target, then make a casting roll of 2D6. Subtract 1 from the roll if the target is in combat . Effect: The target can move up to 5\". It can pass through the combat ranges of enemy units but cannot end that move in combat. KEYWORDS SPELL Your Hero Phase 7 REALMSHIELD : Whether buffeting air spirits that hinder incoming attacks or minor earth aelementors that move to obstruct the Lumineth’s foes, the land around the caster is stirred to provide protection to the aelves. Declare: Pick a friendly LUMINETH REALM-LORDS WIZARD to cast this spell, then make a casting roll of 2D6. Effect: Until the start of your next turn, friendly LUMINETH REALM-LORDS units have WARD ( 5+ ) while they are wholly within 12\" of the caster. KEYWORDS SPELL"
+ },
+ {
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Spell Lore > Lore of Prismatic Resonance",
+  "text": "Your Hero Phase 6 BEAM OF HYSH : Tracing the rune of Varinor in the air, the caster looses a brilliant lance of searing light. Declare: Pick a friendly LUMINETH REALM-LORDS WIZARD to cast this spell, pick a visible enemy unit within 18\" of them that has not been picked to be the target of this ability this battle round to be the target, then make a casting roll of 2D6. Add 1 to the casting value of this spell for each time it has been cast by a friendly WIZARD this turn. Effect: Inflict D3+ X mortal damage on the target, where X is the number of times, to a maximum of 3, that this spell has previously been cast by a friendly WIZARD this turn. KEYWORDS SPELL, UNLIMITED Your Hero Phase 6 UNSEEN FORCE : Focusing on the balance of the cosmos, the caster turns the foe’s own aggression against them, channelling an invisible barrier to hold back their advance. Declare: Pick a friendly LUMINETH REALM-LORDS WIZARD to cast this spell, pick a visible enemy unit within 18\" of them to be the target, then make a casting roll of 2D6. Effect: Until the start of your next turn, the target cannot use RUN abilities. In addition, if that enemy unit has already been picked to be the target of this ability this battle round, subtract 1 from hit rolls for the target’s combat attacks . KEYWORDS SPELL, UNLIMITED Your Hero Phase 6 BEACONS OF PROTECTION : Glowing with inner light, the Lumineth’s spellcasters envelop themselves and nearby allies in a radiant shield. Declare: Pick a friendly LUMINETH REALM-LORDS WIZARD to cast this spell, then make a casting roll of 2D6. Effect: Until the start of your next turn, ignore the first damage point allocated to friendly non- MONSTER LUMINETH REALM-LORDS units each phase while they are wholly within 9\" of a friendly LUMINETH REALM-LORDS WIZARD ."
+ },
+ {
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Spell Lore > Lore of Prismatic Resonance",
+  "text": "allocated to friendly non- MONSTER LUMINETH REALM-LORDS units each phase while they are wholly within 9\" of a friendly LUMINETH REALM-LORDS WIZARD . Add 3\" to the range for each additional time this spell has been successfully cast by a friendly WIZARD this battle round. KEYWORDS SPELL, UNLIMITED"
+ },
+ {
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Manifestation Lore",
+  "text": "BATTLE PROFILE Name Points Manifestations of Hysh 0"
+ },
+ {
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Manifestation Lore > Manifestations of Hysh",
+  "text": "Your Hero Phase 6 SUMMON HYSHIAN TWINSTONES : The caster calls forth two giant crystal teardrops that orbit around each other. Declare: If there is not a friendly Hyshian Twinstones endless spell on the battlefield, pick a friendly LUMINETH REALM-LORDS WIZARD to cast this spell, then make a casting roll of 2D6. Effect: Set up a Hyshian Twinstones endless spell wholly within 18\" of the caster, visible to them and more than 9\" from all enemy units. KEYWORDS SPELL, SUMMON Your Hero Phase 7 SUMMON RUNE OF PETRIFICATION : The caster conjures a hovering sigil formed from the very crust of the realm. Declare: If there is not a friendly Rune of Petrification on the battlefield, pick a friendly LUMINETH REALM-LORDS WIZARD to cast this spell, then make a casting roll of 2D6. Effect: Set up a Rune of Petrification wholly within 12\" of the caster and visible to them. KEYWORDS SPELL, SUMMON Your Hero Phase 7 SUMMON SANCTUM OF AMYNTOK : Triple manifestations of the rune Yngra form a protective barrier around the summoner. Declare: If there is not a friendly Sanctum of Amyntok on the battlefield, pick a friendly LUMINETH REALM-LORDS WIZARD to cast this spell, then make a casting roll of 2D6. Effect: Set up a Sanctum of Amyntok wholly within 12\" of the caster and more than 3\" from all enemy units. A Sanctum of Amyntok has 3 parts that must be set up touching each other so that they form a ring. KEYWORDS SPELL, SUMMON"
+ },
+ {
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Flawless Manoeuvres",
+  "text": "Flawless Manoeuvres are unique enhancements that can be given to non- HERO non- MONSTER LUMINETH REALM-LORDS units. A unit can only have 1 Flawless Manoeuvre. BATTLE PROFILE Name Points PERFECT FOOTWORK 10 PATIENT STRIKE 20 DAZZLING PHALANX 10 Enemy Movement Phase PERFECT FOOTWORK : These warriors can seamlessly shift their position on key sites. Effect: If each model in this unit is contesting the same objective , this unit can move up to 6\". It can move through the combat ranges of enemy units but can only end that move in combat with units it was in combat with at the start of the move. It does not have to end that move in combat. It must end that move with each of its models contesting the same objective. Then, this unit cannot use Run abilities for the rest of the turn. Enemy Combat Phase PATIENT STRIKE : The implacable focus of these Lumineth grants them the discipline required to wait for the enemy’s inevitable misstep. Declare: Pick an enemy unit in combat with this unit to be the target. Effect: Roll a dice for each model in this unit that is in combat with the target. For each 4+, inflict 1 mortal damage on the target. KEYWORDS CORE, ATTACK, FIGHT Reaction: Opponent declared a CHARGE ability for a unit within 9\" of and visible to this unit DAZZLING PHALANX : These warriors angle the light emitted by their sunmetal weapons to blind and disorientate the foe as they bear down upon them. Effect: Spend 1 rage dice . If your opponent’s fury level is lower than yours, they must increase their fury level by 1, to a maximum of 7. Then, for the rest of the turn, add 1 to wound rolls for this unit’s combat attacks that target the enemy unit using that CHARGE ability Army of Renown"
+ },
+ {
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Aelementiri Conclave",
+  "text": "When you pick the Lumineth Realm-lords faction for your army, you can choose for it to be an Aelementiri Conclave Army of Renown . If you do so, use the faction rules on these pages instead of the Lumineth Realm-lords faction rules. Every unit in your army must be drawn from the units listed in the roster options below. All units in your army gain the AELEMENTIRI CONCLAVE keyword ROSTER OPTIONS Any ALARITH units Any HURAKAN units Any YDRILAN units You cannot include Regiments of Renown"
+ },
+ {
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Aelementiri Conclave > Battle Traits",
+  "text": "Once Per Battle (Army), Deployment Phase WORLD RUNES : The aelementiri are particularly sensitive to the runes of the core elements that constitute the Hysh-Mhensa, for these sigils represent the natural forces to which they have dedicated their lives. Effect: Add 1 Alaithi, Rune of the Mountain to your library for each friendly ALARITH unit on the battlefield. Add 1 Oreali, Rune of the Wind to your library for each friendly HURAKAN unit on the battlefield. Add 1 Ydriliqi, Rune of the River to your library for each friendly YDRILAN unit on the battlefield. You can have a maximum of 6 of each type of rune in your library . Once Per Battle Round (Army), Start of Battle Round DEPICT RUNE : Channelling the power of their temple’s runes, the aelementiri bring their extraordinary powers to bear against the foe. Declare: You must use this ability. Effect: Remove all runes from your battle scripture . Then, pick any number of runes to remove from your library and depict them on your battle scripture . Runes removed from your library in this way are removed for the rest of the battle. Designer’s Note: Runes are used to activate powerful abilities on your units’ warscrolls. Once Per Turn (Army), Your Movement Phase ENTREAT SPIRITS : Even should an aelementor’s war-form be vanquished, the spirit itself is not so easily undone. Amidst its natural environment, the combined power of multiple runes of the land can call it back to battle, seeing it return to inhabit the sacred armour that was forged for it. Declare: You can use this ability if you have 3 or more runes in your library. Pick a friendly non- UNIQUE MONSTER unit that has been destroyed to be the target. Effect: Remove any 3 runes from your library."
+ },
+ {
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Aelementiri Conclave > Battle Traits",
+  "text": "Pick a friendly non- UNIQUE MONSTER unit that has been destroyed to be the target. Effect: Remove any 3 runes from your library. Then, set up a replacement unit identical to the target wholly within 6\" of a terrain feature and more than 9\" from all enemy units. Allocate 6 damage points to the replacement unit ( ward rolls cannot be made for those damage points). Once Per Turn (Army), Any Combat Phase THE REALMS FIGHT BACK : The spirits of the land itself awaken to aid the Lumineth in their struggle against the powers of ruin. Declare: Pick a terrain feature . Then, pick an enemy unit within 6\" of that terrain feature to be the target. Effect: Roll a D3 and apply the corresponding effect for the rest of the turn. 1. Eruption of Earth: Inflict 3 mortal damage on the target. 2. Howling Winds: Subtract 5 from the target’s control score . 3. Flash Flood: The target has STRIKE-LAST ."
+ },
+ {
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Aelementiri Conclave > Heroic Traits",
+  "text": "HERO only Passive WORLD-MAGE : While they have dedicated themselves to one of the elements, this mage has meditated long on the Hysh-Mhensa as a whole, unlocking truths that allow them to draw power from all aspects of the World Rune. Effect: Add 1 to casting rolls for this unit for each unique rune depicted on your battle scripture ."
+ },
+ {
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Aelementiri Conclave > Artefacts of Power",
+  "text": "HERO only Any Hero Phase AELEMENTOR FOCUS : Whether a shard of igneous rock rendered glittering by the weight of a soaring peak, a simple whistle that plays notes pleasing to mischievous air spirits, or a perfectly smooth pebble crafted by the millennia-long caress of a crystal rapid, this object acts as a more direct channel of communion with the spirits of the land. Declare: Pick a terrain feature to be the target. Effect: Measure the range and visibility of the next SPELL ability used by this unit from the target instead of from this unit."
+ },
+ {
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Aelementiri Conclave > Spell Lore",
+  "text": "Your Hero Phase 7 VEXING SPIRITS : Shifting shingle, stinging winds or sudden fog, minor spirits of the land band together to bedevil and harass the foe. Declare: Pick a friendly AELEMENTIRI CONCLAVE WIZARD to cast this spell, pick a visible enemy unit within 12\" of them to be the target, then make a casting roll of 2D6. Effect: For the rest of the turn, the target cannot use commands . KEYWORDS SPELL"
+ },
+ {
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Aelementiri Conclave > Manifestation Lore",
+  "text": "Your Hero Phase 6 CYCLE MANIFESTATION : With a deft gesture, the caster dismisses one manifestation and uses its power to summon another. Declare: Pick a friendly AELEMENTIRI CONCLAVE WIZARD to cast this spell, pick 1 of the friendly MANIFESTATIONS below that is not on the battlefield, then make a casting roll of 2D6. Sanctum of Amyntok Hyshian Twinstones Rune of Petrification Effect: If there is already a friendly MANIFESTATION from the list above on the battlefield, it is immediately banished and removed from play. Then, set up the MANIFESTATION you picked within 1\" of the caster and visible to them. If that MANIFESTATION is a Sanctum of Amyntok , it must instead be set up wholly within 12\" of the caster, more than 3\" from all enemy units, and with its 3 parts touching each other so that they form a ring. KEYWORDS SPELL, SUMMON Army of Renown"
+ },
+ {
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Vanari Paragons",
+  "text": "When you pick the Lumineth Realm-lords faction for your army, you can choose for it to be a Vanari Paragons Army of Renown . If you do so, use the faction rules on these pages instead of the Lumineth Realm-lords faction rules. Every unit in your army must be drawn from the units listed in the roster options below. All units in your army gain the VANARI PARAGONS keyword. ROSTER OPTIONS Any non- UNIQUE VANARI units The Light of Eltharion You cannot include Regiments of Renown"
+ },
+ {
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Vanari Paragons > Battle Traits",
+  "text": "Once Per Battle (Army), Deployment Phase REWARDS OF VALOUR : Recognising excellence is a core precept among the ranks of the Vanari. Their finest are often rewarded with powerful heirlooms in recognition of their deeds. Declare: Pick a friendly non- UNIQUE VANARI HERO that does not have an artefact of power to be the target. Effect: Give the target 1 artefact of power from the ’Vanari Paragons’ Army of Renown rules. Designer’s Note: This artefact of power is given to the HERO during the deployment phase , not during army composition. Once Per Battle (Army), End of Any Turn LABOUR OF CONTROL : As proof of their mastery of battle, the Vanari task themselves with dominating all corners of the battlefield. Declare: You can only use this ability if there is at least 1 different friendly unit within 6\" of each battlefield edge. Effect: Add 1 to the number of labours you have completed. For the rest of the battle, add 2\" to the Move characteristic of friendly LUMINETH REALM-LORDS units. Once Per Battle (Army), End of Any Turn LABOUR OF MIGHT : The Vanari vow to vanquish those who threaten the sanctity of the realms. Declare: You can only use this ability if 3 or more enemy units have been destroyed this battle. Effect: Add 1 to the number of labours you have completed. For the rest of the battle, add 1 to wound rolls for combat attacks made by friendly LUMINETH REALM-LORDS units. Once Per Battle (Army), End of Any Turn LABOUR OF PRECISION : The Vanari seek to deliver a series of perfect strikes to unravel the cohesion of the foe, eliminating their commanders with precision and decisiveness. Declare: You can only use this ability if there are no enemy units with an artefact of power on the battlefield. Effect: Add 1 to the number of labours you have completed."
+ },
+ {
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Vanari Paragons > Battle Traits",
+  "text": "Effect: Add 1 to the number of labours you have completed. For the rest of the battle, add 10 to the control scores of friendly LUMINETH REALM-LORDS units. Once Per Battle (Army), End of Any Turn BLESSING OF TYRION : Those who uphold the Decree Tyrionic and the values of the Lord Phoenix shine with a radiant glory that repels evil. Declare: You can only use this ability if you have completed 3 labours . Effect: For the rest of the battle, friendly LUMINETH REALM-LORD S units have WARD ( 5+ ) ."
+ },
+ {
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Vanari Paragons > Heroic Traits",
+  "text": "HERO only Any Combat Phase MASTER DUELLIST : Not only is this warrior a paragon of single combat, landing multiple strikes before their opponent even has a chance to respond, but they have also studied an ancient technique of arcane unforging that robs the foe’s magical artefacts of their power. Declare: Pick a visible enemy HERO in combat with this unit to be the target. Effect: Roll a dice. On a 4+: If the target has an artefact of power, it no longer has that artefact of power. The target has STRIKE-LAST for the rest of the turn."
+ },
+ {
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Vanari Paragons > Artefacts of Power",
+  "text": "HERO only Your Movement Phase SWIFTFEATHER TALISMAN : This delicate talisman, in the form of a feather engraved with the rune Senlui, can instil sudden swiftness and lightness of step in the bearer or their chosen companions. Declare: Pick a friendly LUMINETH REALM-LORDS unit wholly within 12\" of this unit to be the target. Effect: Add 2\" to the target’s Move characteristic for the rest of the turn. Passive NULLSTONE BEADS : These beads, each graven with the rune Danoi, are cold to the touch, and the owner risks drifting into a deep slumber should they wear them for too long. However, they possess powerful anti-magic properties and can cause enemy spells to wither and dissipate when brandished with purpose. Effect: This unit can use the ‘ Unbind ’ ability as if it had WIZARD ( 1 ) . Passive PHOENIX BLADE : This blade is imbued with a portion of the Lord Phoenix’s incandescent power; those who feel its bite have the potential to suddenly ignite in purifying flames. Effect: This unit’s combat attacks score critical hits on unmodified hit rolls of 5+."
+ },
+ {
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Hurakan Vanguard",
+  "text": "Buoyed aloft by the vigour of the wind, the Hurakan Vanguard protect the borders of Lumineth territory with the swiftness of a speeding zephyr. Through their bond with the air, these devoted warriors of Hysh fight within the heart of a hurricane. Its powerful currents carry the aelves and lend their arrows greater strength, while enemies caught within the swirling tumult are completely outmanoeuvred and picked apart. Led by a Windmage, who buffets foes with churning vortices and marshals the gusts to redeploy their warriors, this force is highly mobile. Cavalry in the form of fleet Windchargers can cover every inch of the battlefield while loosing lethal volleys from their bows. Through careful petitions, these temple disciples are joined by a capricious Spirit of the Wind, whose deadly shafts provide the power to counter large or heavily armoured threats. Once the enemy is reeling from the elemental onslaught, Auralan Wardens lay claim to objectives with determined resilience. Though slower than their Hurakan allies, these pike-wielding aelves are capable defenders whose task is to hold the line amidst the cyclone. This Spearhead army consists of the following units: General Hurakan Windmage Units 5 Hurakan Windchargers 10 Vanari Auralan Wardens 1 Hurakan Spirit of the Wind",
+  "spearhead_name": "Hurakan Vanguard"
+ },
+ {
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Hurakan Vanguard > Battle Traits",
+  "text": "Deployment Phase STORM BREWING Declare: Pick a battlefield edge to be the target. Effect: That battlefield edge is leeward . For the rest of the battle, each time a friendly RIDE THE HURRICANE ability is used, after that ability has been resolved, change the leeward battlefield edge to the next edge clockwise. Once Per Turn (Army), Any Movement Phase PULLED BY WINDS : The Hurakan allow themselves to be pulled by the winds to more tactical locations. Declare: Pick a friendly unit that is not in combat to be the target. Effect: The target can move D6\" but must end that move closer to the leeward battlefield edge. It can pass through the combat ranges of enemy units but cannot end that move in combat. KEYWORDS RIDE THE HURRICANE Once Per Turn (Army), Reaction: You declared an ATTACK ability GALE FORCE : Aligning their attacks with the direction of the wind allows the Hurakan to strike with deadlier force. Used By: The unit using that ATTACK ability. Effect: Add 1 to hit rolls for attacks made as part of that ATTACK ability if the target of that ability is closer to the leeward battlefield edge than the unit using this ability. KEYWORDS RIDE THE HURRICANE",
+  "spearhead_name": "Hurakan Vanguard"
+ },
+ {
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Hurakan Vanguard > Regiment Abilities",
+  "text": "Pick 1 of the following regiment abilities. Once Per Battle (Army), Enemy Hero Phase ROARING HEADWIND : The Hurakan call on the greater spirits of the wind to deliver one great gust to push back the enemy. Declare: Pick an enemy unit to be the target. Effect: For the rest of the turn, each time the target uses a MOVE ability, it must end that move closer to the leeward battlefield edge. Your Hero Phase LIFTED DRBRIS : The lesser spirits of the wind aid the battle by lifting chunks of debris and hurling them towards the enemy. Declare: Pick an enemy unit that is closer to the leeward battlefield edge than the large terrain feature within friendly territory to be the target. Effect: Roll a number of dice equal to the current battle round number. For each 3+, inflict 1 mortal damage on the target. KEYWORDS RIDE THE HURRICANE",
+  "spearhead_name": "Hurakan Vanguard"
+ },
+ {
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Hurakan Vanguard > Enhancements",
+  "text": "Give your general 1 of the following enhancements. Passive SCATTERED TO THE WINDS : The strong winds that accompany the Windmage throw their enemies to the side to disorientate them. Effect: Subtract 1 from the control scores of enemy units within 6\" of your general for each friendly RIDE THE HURRICANE ability used this battle round. Passive TEMPLE GUARDIANS : This Windmage has been assigned a dedicated Vanari bodyguard. Effect: While any friendly INFANTRY units are within your general’s combat range , both your general and those INFANTRY units have WARD ( 5+ ) . Once Per Battle (Army), Any Hero Phase WIND WHISPERER : Hurakan Windmages have the greatest connection to the wind spirits, able to call on their aid to shift the weather to their advantage. Declare: Pick a battlefield edge to be the target. Effect: Change the leeward battlefield edge to the target battlefield edge. Passive CURVED SHOTS : Hurakan Windmages are trained in using the winds to launch attacks along bewildering and unexpected trajectories. Effect: You can measure the range and visibility of your general’s shooting attacks from any point on the leeward battlefield edge.",
+  "spearhead_name": "Hurakan Vanguard"
+ },
+ {
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Hurakan Vanguard > Warscrolls",
+  "text": "• SPEARHEAD WARSCROLL • Hurakan Windmage 12\" 5 5+ 2 True allies of the Hyshian winds, a Hurakan Windmage travels everywhere upon a loyal zephyr- spirit companion. From here, they encourage their aelementors to follow their aelven disciples and unleash the gale-force wrath of the air against their enemies. • SPEARHEAD WARSCROLL • Hurakan Windmage RANGED WEAPONS Rng Atk Hit Wnd Rnd Dmg Windblast Vortex Windblast Vortex 12\" 1 2+ 3+ 2 D3 MELEE WEAPONS Atk Hit Wnd Rnd Dmg Aspiragillum Aspiragillum 3 3+ 4+ 1 D3 Your Hero Phase WINDLEAP : The Hurakan Windmage calls upon the wind spirits to give nearby allies a helpful push in the right direction. Declare: Pick a visible friendly unit wholly within 12\" of this unit to be the target, then make a casting roll of 2D6. Effect: On a 6+, for the rest of the turn: The target can use RETREAT abilities and still use SHOOT and/or CHARGE abilities later in the turn. No mortal damage is inflicted on the target by RETREAT abilities. KEYWORDS HERO , WIZARD ( 1 ) , INFANTRY , FLY • SPEARHEAD WARSCROLL • Hurakan Spirit of the Wind 18\" 8 4+ 5 5+ When roused to wrath, the Spirits of the Wind strike like a cyclone. It is all but impossible to track them as they dart through the air, launching arrow after arrow from their elegant but monstrously powerful bows and slipping away before retribution can land, the wind whistling with their laughter. • SPEARHEAD WARSCROLL • Hurakan Spirit of the Wind RANGED WEAPONS Rng Atk Hit Wnd Rnd Dmg Bow of the Wind’s Vengeance Bow of the Wind’s Vengeance 15\" 4 2+ 3+ 2 2 MELEE WEAPONS Atk Hit Wnd Rnd Dmg Swirling Shards Swirling Shards 6 2+ 4+ - 1 Passive EYE OF THE STORM : The Spirit of the Wind surrounds itself with a powerful cyclone that obscures nearby allies and disrupts the attacks of their enemies.",
+  "spearhead_name": "Hurakan Vanguard"
+ },
+ {
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Hurakan Vanguard > Warscrolls",
+  "text": "OF THE STORM : The Spirit of the Wind surrounds itself with a powerful cyclone that obscures nearby allies and disrupts the attacks of their enemies. Effect: Subtract 1 from hit rolls for attacks that target friendly units while they are wholly within 6\" of this unit. Any Shooting Phase HURRICANE WINDS : The arrows of the Spirits of the Wind are followed by a blast of wind, throwing enemies to the ground. Declare: Pick an enemy unit that had any damage points allocated to it this turn by this unit’s shooting attacks to be the target. Effect: Roll a dice. On a 3+, the target has STRIKE-LAST for the rest of the turn. KEYWORDS MONSTER , FLY , WARD ( 5+ ) • SPEARHEAD WARSCROLL • Vanari Auralan Wardens 6\" 1 4+ 1 The Auralan Wardens are the lynchpins of the Vanari military. These phalanxes of skilled aelven warriors embody the Tyrionic traditions of their people; they do not flinch in the face of danger, nor do they hesitate to wield their pikes to impale oncoming enemies. The Wardens’ strength is built upon unity of purpose and a discipline that only those as long-lived as the aelves can hope to master. Empowered by the energies of aetherquartz and the arcane moonfire entrusted to their High Warden, they are the proud fortress wall upon which the forces of disorder break. • SPEARHEAD WARSCROLL • Vanari Auralan Wardens MELEE WEAPONS Atk Hit Wnd Rnd Dmg Warden Pike and Blade [ Crit (Mortal) , Anti-charge (+1 Rend) ] Warden Pike and Blade Crit (Mortal) , Anti-charge (+1 Rend) 2 3+ 4+ - 1 Any Combat Phase WALL OF BLADES : When Auralan Wardens stand shoulder to shoulder, they present a bristling wall of pikes to the foe. Effect: If this unit did not charge this turn and is in combat with an enemy unit that charged this turn, roll a dice.",
+  "spearhead_name": "Hurakan Vanguard"
+ },
+ {
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Hurakan Vanguard > Warscrolls",
+  "text": "Effect: If this unit did not charge this turn and is in combat with an enemy unit that charged this turn, roll a dice. Add 1 to the roll if that enemy unit is CAVALRY . On a 3+, this unit has STRIKE-FIRST for the rest of the turn. KEYWORDS INFANTRY , REINFORCEMENTS • SPEARHEAD WARSCROLL • Hurakan Windchargers 14\" 3 4+ 1 There is nowhere to hide from the Windchargers of the Hurakan temple. Their treerunner mounts are capable of deftly navigating the densest terrain to slip past their enemies, while the arrows of the aelves are carried upon loyal winds and almost always find their mark. • SPEARHEAD WARSCROLL • Hurakan Windchargers RANGED WEAPONS Rng Atk Hit Wnd Rnd Dmg Windcharger Bow Windcharger Bow 12\" 3 3+ 4+ 1 1 MELEE WEAPONS Atk Hit Wnd Rnd Dmg Windcharger Blade Windcharger Blade 1 4+ 4+ - 1 Treerunner’s Claws [ Companion ] Treerunner’s Claws Companion 2 5+ 3+ - 1 End of Your Turn LEAP INTO THE STORM : Windchargers can leap great heights and ride the winds to a more advantageous position. Effect: If this unit is not in combat , remove it from the battlefield and set it up again wholly within 3\" of the leeward battlefield edge and more than 6\" from all enemy units. KEYWORDS RIDE THE HURRICANE KEYWORDS CAVALRY",
+  "spearhead_name": "Hurakan Vanguard"
+ },
+ {
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Glittering Phalanx",
+  "text": "The culture of the Lumineth enshrines subtlety and precision over overwhelming force. While the aelves of Hysh can muster truly vast warhosts when necessity demands, this is seen as a needless and crass expenditure of lives. Far better, they believe, to send small phalanxes of warriors to those places where their skills can have the greatest impact – be that eradicating some troublesome warband or burning a great white-flame rune of arcane purification into the earth at a key nexus. Auralan Wardens, armed with pikes of burning sunmetal, are the rock against which enemies break; they do not fulfil this duty through crude and bloody-minded endurance but rather by drawing upon the energies of aetherquartz to speed pre-emptive strikes. Auralan Sentinels loose swift arrows, bleeding the foe by precise degrees. Incautious usage of aetherquartz has led to disaster in the past, and so each of these shining formations will be accompanied by a single mote of darkness – a Scinari Cathallar, skilled in turning the negative emotions stored within aetherquartz against the enemy. Cathallars are protected at all times by the war-sages of the Bladelords, each willing to give their life for the good of the realms. This Spearhead army consists of the following units: General Scinari Cathallar Units 5 Vanari Auralan Sentinels 5 Vanari Auralan Sentinels 10 Vanari Auralan Wardens 5 Vanari Bladelords",
+  "spearhead_name": "Glittering Phalanx"
+ },
+ {
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Glittering Phalanx > Battle Traits",
+  "text": "Once Per Battle Round, Start of Battle Round FACETS OF WAR : The arts of war practised by the Lumineth are subtle, precise and devastating. Effect: You must use this ability at the start of the battle round. Pick 1 FACET OF WAR ability. That FACET OF WAR ability can be used this battle round but the other two cannot. Passive SHINING COMPANY : Numinous light shines from this aelven formation, bedazzling the foe. Effect: Subtract 1 from hit rolls that target friendly units. KEYWORDS FACET OF WAR Once Per Turn (Army), Your Hero Phase POWER OF HYSH : Vanari can use their innate arcane abilities to empower their sunmetal weapons. Declare: Pick a friendly unit. Effect: Roll a dice. On a 2+, until the start of your next turn, attacks made by that unit score critical hits on unmodified hit rolls of 5+. KEYWORDS FACET OF WAR Passive LIGHTNING REACTIONS : Lumineth possess a natural alacrity beyond that of most rivals. Effect: When players are alternating picking units to use a FIGHT ability , when it is your turn to pick a unit, you can pick 2 units instead of 1. Resolve the second FIGHT ability immediately after the first.",
+  "spearhead_name": "Glittering Phalanx"
+ },
+ {
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Glittering Phalanx > Regiment Abilities",
+  "text": "Pick 1 of the following regiment abilities. Passive ARCANE PROWESS : The Cathallar of this Glittering Phalanx keeps a hidden reserve of aetherquartz to bolster their sorcery in battle. Effect: Add 1 to casting rolls for your general. Passive HEIGHTENED REFLEXES : The keen senses of these warriors are second to none. Effect: Add 1 to save rolls for friendly units that use a FIGHT ability immediately after another friendly unit because of the ‘ Lightning Reactions ’ ability, until the end of the phase.",
+  "spearhead_name": "Glittering Phalanx"
+ },
+ {
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Glittering Phalanx > Enhancements",
+  "text": "Give your general 1 of the following enhancements. Your Movement Phase WAYSTONE : This sliver of dark rock illuminates hidden paths around the bearer in stark relief. Effect: Remove your general from the battlefield and set them up again anywhere on the battlefield more than 6\" from all enemy units. KEYWORDS CORE Your Hero Phase PROTECTION OF HYSH : The caster opens their arms wide, creating a field of glowing energy that protects all of the caster’s allies that are nearby. Declare: Pick a visible friendly unit wholly within 12\" of your general to be the target, then make a casting roll of 2D6. Effect: On a 7+, the target has WARD ( 5+ ) until the start of your next turn. Your Hero Phase SPEED OF HYSH : The Cathallar magically empowers their allies to move with light’s swiftness. Declare: Pick a visible friendly unit wholly within 18\" of your general, then make a casting roll of 2D6. Effect: On a 5+, double the Move characteristic of that unit until the start of your next turn. Your Hero Phase OVERWHELMING HEAT : The Cathallar summons oppressive heat to sap their foes’ strength. Declare: Pick a visible enemy unit within 24\" of your general, then make a casting roll of 2D6. Effect: On a 7+, halve the Move characteristic of that unit until the start of your next turn and roll a dice. If the roll equals or exceeds that unit’s Save characteristic, inflict D3 mortal damage on it.",
+  "spearhead_name": "Glittering Phalanx"
+ },
+ {
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Glittering Phalanx > Warscrolls",
+  "text": "• SPEARHEAD WARSCROLL • Scinari Cathallar 6\" 5 6+ 2 It is the noble duty of a Scinari Cathallar to take the spiritual anguish locked within spent aetherquartz and redirect it against their enemies. They are the lone point of darkness in the brilliance of a Lumineth line, capable of wielding despair itself as a weapon. The burdens of a Cathallar forever mark them out from their fellows, for the Lumineth are a people who shun emotion where possible. It is a task that the Cathallars accept without complaint; few know better than they the dangers of using aetherquartz unchecked. • SPEARHEAD WARSCROLL • Scinari Cathallar MELEE WEAPONS Atk Hit Wnd Rnd Dmg Despairing Touch Despairing Touch 3 3+ 4+ - D3 Your Hero Phase DARKNESS OF THE SOUL : Cathallars wield the negative energy locked in aetherquartz as a weapon. Declare: Pick an enemy unit within 12\" of this unit to be the target, then roll a dice. Effect: On a 3+, subtract D6 from the control score of the target unit this turn. KEYWORDS HERO , WIZARD , INFANTRY • SPEARHEAD WARSCROLL • Vanari Bladelords 6\" 2 4+ 1 Bladelords are amongst the most elite Lumineth warriors. Each has formed a deep connection with the essence of their weapon and views combat as a series of elegant and artful equations. To kill with the perfectly calculated cut or degree of force is seen as the greatest of virtues – not out of a sense of ego or self-aggrandisement, they say, but because it brings them closer to true enlightenment. Bladelords serve as guardians to the mages of the Scinari, souls who share their quest for mental perfection and will give their lives in service of their honoured charges.",
+  "spearhead_name": "Glittering Phalanx"
+ },
+ {
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Glittering Phalanx > Warscrolls",
+  "text": "to the mages of the Scinari, souls who share their quest for mental perfection and will give their lives in service of their honoured charges. • SPEARHEAD WARSCROLL • Vanari Bladelords MELEE WEAPONS Atk Hit Wnd Rnd Dmg Sunmetal Greatblade: Perfect Strike Sunmetal Greatblade: Perfect Strike 1 See below Sunmetal Greatblade: Flurry of Blows [ Anti- INFANTRY (+1 Rend) , Crit (Mortal) ] Sunmetal Greatblade: Flurry of Blows Anti- INFANTRY (+1 Rend) , Crit (Mortal) 3 3+ 4+ 1 1 Passive SWORDMASTERS : Vanari Bladelords adopt different fighting styles depending upon the nature of their opponents. Effect: Each time this unit uses a FIGHT ability , you must pick either the Perfect Strike or Flurry of Blows weapon characteristics for all the attacks it makes with its Sunmetal Greatblade. In addition: Do not use the attack sequence for an attack made with Perfect Strike . Instead, roll a dice. On a 2+, inflict 1 mortal damage on the target unit. Passive GUARDIANS : Bladelords are tasked with protecting the Scinari from harm. Effect: While your general is wholly within this unit’s combat range , both this unit and your general have WARD ( 5+ ) . KEYWORDS INFANTRY • SPEARHEAD WARSCROLL • Vanari Auralan Wardens 6\" 1 4+ 1 The Auralan Wardens are the lynchpins of the Vanari military. These phalanxes of skilled aelven warriors embody the Tyrionic traditions of their people; they do not flinch in the face of danger, nor do they hesitate to wield their pikes to impale oncoming enemies. The Wardens’ strength is built upon unity of purpose and a discipline that only those as long-lived as the aelves can hope to master. Empowered by the energies of aetherquartz and the arcane moonfire entrusted to their High Warden, they are the proud fortress wall upon which the forces of disorder break.",
+  "spearhead_name": "Glittering Phalanx"
+ },
+ {
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Glittering Phalanx > Warscrolls",
+  "text": "of aetherquartz and the arcane moonfire entrusted to their High Warden, they are the proud fortress wall upon which the forces of disorder break. • SPEARHEAD WARSCROLL • Vanari Auralan Wardens MELEE WEAPONS Atk Hit Wnd Rnd Dmg Warden’s Pike [ Crit (Mortal) , Anti-charge (+1 Rend) ] Warden’s Pike Crit (Mortal) , Anti-charge (+1 Rend) 2 3+ 4+ - 1 Once Per Battle, Any Combat Phase MOONFIRE FLASK : The High Warden carries a flask filled with a burning silvery liquid that can be hurled at the incoming enemy. Declare: Pick an enemy unit in combat with this unit and that charged this turn to be the target, then roll a dice. Effect: On a 2+, inflict D3 mortal damage on the target. KEYWORDS INFANTRY , REINFORCEMENTS • SPEARHEAD WARSCROLL • Vanari Auralan Sentinels 6\" 1 5+ 1 The bow is considered a noble weapon in Lumineth society, for the ability to send an arrow soaring through the radiant skies appeals greatly to aelven sensibilities – as does avoiding the need to close with their base adversaries. Sentinels are the archers of the Vanari, each having trained until they can shoot a foe through the eye from great distance. Their bows use a complex series of strings that allow them to moderate range and power, and their armour shines with the power of Hysh, capable of temporarily blinding any foes who weather their storm of sunmetal tipped arrows. • SPEARHEAD WARSCROLL • Vanari Auralan Sentinels RANGED WEAPONS Rng Atk Hit Wnd Rnd Dmg Auralan Bow [ Crit (Auto-wound) ] Auralan Bow Crit (Auto-wound) 18\" 2 3+ 4+ 1 1 MELEE WEAPONS Atk Hit Wnd Rnd Dmg Vanari Dagger Vanari Dagger 1 3+ 4+ - 1 Your Shooting Phase LOFTED SHOTS : To strike a distant target, these warriors point their bows to the sky before launching a volley up high.",
+  "spearhead_name": "Glittering Phalanx"
+ },
+ {
+  "faction": "Lumineth Realm-lords",
+  "faction_slug": "lumineth-realm-lords",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Glittering Phalanx > Warscrolls",
+  "text": "4+ - 1 Your Shooting Phase LOFTED SHOTS : To strike a distant target, these warriors point their bows to the sky before launching a volley up high. Effect: Until the end of the phase, add 6\" to the Range characteristic of this unit’s Auralan Bows but subtract 1 from hit rolls for this unit’s shooting attacks . KEYWORDS INFANTRY , REINFORCEMENTS noindex /noindex noindex",
+  "spearhead_name": "Glittering Phalanx"
+ }
+]

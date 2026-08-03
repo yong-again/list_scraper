@@ -1,0 +1,1754 @@
+[
+ {
+  "id": "Beastlord",
+  "name": "Beastlord",
+  "faction": "Beasts of Chaos",
+  "faction_slug": "beasts-of-chaos",
+  "grand_alliance": "Chaos",
+  "move": "6\"",
+  "health": "6",
+  "save": "4+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Paired Man-ripper Axes",
+    "range": "",
+    "attacks": "5",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Crit (2 Hits) , Anti- HERO (+1 Rend)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "HATRED OF HEROES ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit is in combat with any enemy HEROES , add 1 to hit rolls and wound rolls for combat attacks made by friendly BEASTS OF CHAOS units wholly within 12\" of this unit."
+   },
+   {
+    "name": "CALL OF BATTLE ",
+    "timing": "Reaction: You declared a FIGHT ability for this unit",
+    "declare": "",
+    "effect": "Pick a friendly non- HERO BRAYHERD INFANTRY unit that has not used a FIGHT ability this turn and is within this unit’s combat range to be the target. The target can be picked to use a FIGHT ability immediately after the FIGHT ability used by this unit has been resolved."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "INFANTRY",
+   "CHAOS",
+   "BEASTS OF CHAOS",
+   "BRAYHERD"
+  ],
+  "unit_size": 1,
+  "points": 150,
+  "base_size": "40mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Herd Alpha . Any BEASTS OF CHAOS Notes: This HERO can join an eligible regiment as a Herd Alpha . This unit will move to Warhammer Legends on 1 June 2025."
+ },
+ {
+  "id": "Doombull",
+  "name": "Doombull",
+  "faction": "Beasts of Chaos",
+  "faction_slug": "beasts-of-chaos",
+  "grand_alliance": "Chaos",
+  "move": "6\"",
+  "health": "8",
+  "save": "5+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Slaughterer’s Axe",
+    "range": "",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "1",
+    "damage": "3",
+    "abilities": []
+   },
+   {
+    "name": "Alphabeast Horns",
+    "range": "",
+    "attacks": "2",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "-",
+    "damage": "2",
+    "abilities": [
+     "Charge (+1 Damage)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "ALPHA CHARGE ",
+    "timing": "Any Charge Phase",
+    "declare": "If this unit charged this phase, pick an enemy unit within 1\" of it to be the target.",
+    "effect": "Roll a D3. On a 2+, inflict an amount of mortal damage on the target equal to the roll."
+   },
+   {
+    "name": "SLAUGHTERER’S CALL ",
+    "timing": "Once Per Turn (Army), Any Charge Phase",
+    "declare": "Pick a friendly WARHERD unit that is not in combat and is wholly within 12\" of this unit to be the target.",
+    "effect": "For the rest of the turn, add 1 to the number of dice rolled when making charge rolls for the target, to a maximum of 3."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "INFANTRY",
+   "CHAOS",
+   "BEASTS OF CHAOS",
+   "WARHERD"
+  ],
+  "unit_size": 1,
+  "points": 170,
+  "base_size": "50mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Herd Alpha . Any BEASTS OF CHAOS Notes: This HERO can join an eligible regiment as a Herd Alpha . This unit will move to Warhammer Legends on 1 June 2025."
+ },
+ {
+  "id": "Great-Bray-Shaman",
+  "name": "Great Bray-Shaman",
+  "faction": "Beasts of Chaos",
+  "faction_slug": "beasts-of-chaos",
+  "grand_alliance": "Chaos",
+  "move": "6\"",
+  "health": "5",
+  "save": "5+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Fetish Staff",
+    "range": "",
+    "attacks": "3",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "-",
+    "damage": "D3",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "INFUSE WITH BESTIAL VIGOUR ",
+    "timing": "Once Per Turn (Army), Your Movement Phase",
+    "declare": "Pick a friendly BEASTS OF CHAOS unit wholly within 12\" of this unit to be the target.",
+    "effect": "For the rest of the turn, the target can use a RUN ability and still use CHARGE abilities later in the turn."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "WIZARD ( 1 )",
+   "INFANTRY",
+   "CHAOS",
+   "BEASTS OF CHAOS",
+   "BRAYHERD"
+  ],
+  "unit_size": 1,
+  "points": 140,
+  "base_size": "32mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Herd Alpha , 0-1 BEAST , Any BRAYHERD Notes: This unit will move to Warhammer Legends on 1 June 2025."
+ },
+ {
+  "id": "Dragon-Ogor-Shaggoth",
+  "name": "Dragon Ogor Shaggoth",
+  "faction": "Beasts of Chaos",
+  "faction_slug": "beasts-of-chaos",
+  "grand_alliance": "Chaos",
+  "move": "8\"",
+  "health": "10",
+  "save": "4+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Crackling Bolts",
+    "range": "12\"",
+    "attacks": "2D6",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Crit (2 Hits) , Shoot in Combat"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Storm-forged Axe",
+    "range": "",
+    "attacks": "6",
+    "hit": "3+",
+    "wound": "2+",
+    "rend": "1",
+    "damage": "3",
+    "abilities": [
+     "Crit (Mortal)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "SCION OF THE PRIMORDIAL STORM ",
+    "timing": "Reaction: Opponent declared a SPELL ability",
+    "declare": "",
+    "effect": "If this unit or a friendly Dragon Ogors unit wholly within 12\" of this unit was picked to be the target of that spell, roll a dice. On a 4+, ignore the effect of that spell on this unit or that friendly unit. This unit can use this ability more than once per phase but only once per SPELL ability."
+   },
+   {
+    "name": "BENEATH THE TEMPEST ",
+    "timing": "Once Per Turn (Army), End of Any Turn",
+    "declare": "Pick each enemy unit in combat with this unit to be the targets.",
+    "effect": "Roll a dice. On a 2+, Heal (X) this unit, where X is an amount equal to the roll. Then, roll a D3 for each target. On a 2+, inflict an amount of mortal damage on the target equal to the roll."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "MONSTER",
+   "WIZARD ( 1 )",
+   "CHAOS",
+   "BEASTS OF CHAOS",
+   "THUNDERSCORN"
+  ],
+  "unit_size": 1,
+  "points": 220,
+  "base_size": "90 × 52mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Herd Alpha . Any BEASTS OF CHAOS Notes: This unit will move to Warhammer Legends on 1 June 2025."
+ },
+ {
+  "id": "Beasts-of-Chaos-Chaos-Spawn",
+  "name": "Chaos Spawn Beasts of Chaos",
+  "faction": "Beasts of Chaos",
+  "faction_slug": "beasts-of-chaos",
+  "grand_alliance": "Chaos",
+  "move": "2D6\"",
+  "health": "5",
+  "save": "5+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Freakish Mutations",
+    "range": "",
+    "attacks": "2D6",
+    "hit": "5+",
+    "wound": "4+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": [
+     "Crit (2 Hits) , Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "BEAST",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "This unit has a maximum control score of 1."
+   }
+  ],
+  "keywords": [
+   "BEAST",
+   "CHAOS",
+   "BEASTS OF CHAOS"
+  ],
+  "unit_size": 1,
+  "points": 70,
+  "base_size": "50mm",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Chaos-Warhounds",
+  "name": "Chaos Warhounds",
+  "faction": "Beasts of Chaos",
+  "faction_slug": "beasts-of-chaos",
+  "grand_alliance": "Chaos",
+  "move": "10\"",
+  "health": "2",
+  "save": "6+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Canine Jaws",
+    "range": "",
+    "attacks": "2",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": [
+     "Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "BEAST",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "This unit has a maximum control score of 1."
+   },
+   {
+    "name": "OUTRUNNERS OF CHAOS ",
+    "timing": "Reaction: You declared a CHARGE ability for this unit",
+    "declare": "",
+    "effect": "Change one of the dice in the charge roll to a 4."
+   }
+  ],
+  "keywords": [
+   "BEAST",
+   "CHAOS",
+   "BEASTS OF CHAOS"
+  ],
+  "unit_size": 10,
+  "points": 130,
+  "base_size": "60 × 35mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Cockatrice",
+  "name": "Cockatrice",
+  "faction": "Beasts of Chaos",
+  "faction_slug": "beasts-of-chaos",
+  "grand_alliance": "Chaos",
+  "move": "12\"",
+  "health": "8",
+  "save": "5+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Stabbing Beak and Talons",
+    "range": "",
+    "attacks": "5",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "BEAST",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "This unit has a maximum control score of 1."
+   },
+   {
+    "name": "PETRIFYING GAZE ",
+    "timing": "Once Per Turn (Army,) Your Shooting Phase",
+    "declare": "Pick a visible enemy unit within 12\" of this unit to be the target.",
+    "effect": "Roll a dice for each model in the target unit. For each 6, inflict 1 mortal damage on the target. If any damage points are allocated to the target by this ability, the target has STRIKE-LAST for the rest of the turn."
+   }
+  ],
+  "keywords": [
+   "BEAST",
+   "FLY",
+   "CHAOS",
+   "BEASTS OF CHAOS"
+  ],
+  "unit_size": 1,
+  "points": 150,
+  "base_size": "60mm",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Razorgor",
+  "name": "Razorgor",
+  "faction": "Beasts of Chaos",
+  "faction_slug": "beasts-of-chaos",
+  "grand_alliance": "Chaos",
+  "move": "10\"",
+  "health": "4",
+  "save": "5+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Large Tusks and Hooves",
+    "range": "",
+    "attacks": "5",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "-",
+    "damage": "2",
+    "abilities": [
+     "Charge (+1 Damage)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "BEAST",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "This unit has a maximum control score of 1."
+   },
+   {
+    "name": "FEED ON MANGLED REMAINS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Each time this unit uses a FIGHT ability, after that FIGHT ability has been resolved, Heal (D3) this unit."
+   }
+  ],
+  "keywords": [
+   "BEAST",
+   "CHAOS",
+   "BEASTS OF CHAOS"
+  ],
+  "unit_size": 1,
+  "points": 70,
+  "base_size": "75 × 42mm",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Centigors",
+  "name": "Centigors",
+  "faction": "Beasts of Chaos",
+  "faction_slug": "beasts-of-chaos",
+  "grand_alliance": "Chaos",
+  "move": "10\"",
+  "health": "2",
+  "save": "5+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Gutpiercer Spear",
+    "range": "8\"",
+    "attacks": "1",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": []
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Gutpiercer Spear",
+    "range": "",
+    "attacks": "3",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Anti- CAVALRY (+1 Rend) , Charge (+1 Damage)"
+    ]
+   },
+   {
+    "name": "Clawed Forelimbs",
+    "range": "",
+    "attacks": "2",
+    "hit": "5+",
+    "wound": "3+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "DRUNKEN REVELRY ",
+    "timing": "Once Per Turn (Army), Your Movement Phase",
+    "declare": "",
+    "effect": "This unit can use this ability if it is not in combat. It has WARD ( 4+ ) for the rest of the turn."
+   }
+  ],
+  "keywords": [
+   "CAVALRY",
+   "CHAMPION",
+   "MUSICIAN ( 1/5 )",
+   "STANDARD BEARER ( 1/5 )",
+   "CHAOS",
+   "BEASTS OF CHAOS",
+   "BRAYHERD"
+  ],
+  "unit_size": 5,
+  "points": 170,
+  "base_size": "60 × 35mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Dragon-Ogors",
+  "name": "Dragon Ogors",
+  "faction": "Beasts of Chaos",
+  "faction_slug": "beasts-of-chaos",
+  "grand_alliance": "Chaos",
+  "move": "8\"",
+  "health": "5",
+  "save": "4+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Storm-forged Weapons",
+    "range": "",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Crit (Mortal)"
+    ]
+   },
+   {
+    "name": "Raking Foreclaws",
+    "range": "",
+    "attacks": "2",
+    "hit": "5+",
+    "wound": "3+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "SPEED OF AN AVALANCHE ",
+    "timing": "Any Combat Phase",
+    "declare": "",
+    "effect": "If this unit did not charge this turn and is in combat with an enemy unit that charged this turn, roll a dice. On a 4+, this unit has STRIKE-FIRST for the rest of the turn."
+   }
+  ],
+  "keywords": [
+   "CAVALRY",
+   "CHAOS",
+   "BEASTS OF CHAOS",
+   "THUNDERSCORN"
+  ],
+  "unit_size": 3,
+  "points": 200,
+  "base_size": "90 × 52mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Bestigors",
+  "name": "Bestigors",
+  "faction": "Beasts of Chaos",
+  "faction_slug": "beasts-of-chaos",
+  "grand_alliance": "Chaos",
+  "move": "6\"",
+  "health": "2",
+  "save": "4+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Despoiler Axe",
+    "range": "",
+    "attacks": "3",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Crit (2 Hits)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "FEROCIOUS ADVANCE ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Subtract 1 from wound rolls for shooting attacks that target this unit."
+   },
+   {
+    "name": "DESPOILERS ",
+    "timing": "Reaction: Opponent declared the ‘All-out Defence’ command for a unit within 6\" of this unit",
+    "declare": "",
+    "effect": "Add 1 to the Attacks characteristic of this unit’s Despoiler Axes for the rest of the turn."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "CHAMPION",
+   "MUSICIAN ( 1/10 )",
+   "STANDARD BEARER ( 1/10 )",
+   "CHAOS",
+   "BEASTS OF CHAOS",
+   "BRAYHERD"
+  ],
+  "unit_size": 10,
+  "points": 220,
+  "base_size": "32mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Bullgors",
+  "name": "Bullgors",
+  "faction": "Beasts of Chaos",
+  "faction_slug": "beasts-of-chaos",
+  "grand_alliance": "Chaos",
+  "move": "6\"",
+  "health": "4",
+  "save": "5+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Man-splitter Axes",
+    "range": "",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": []
+   },
+   {
+    "name": "Iron-capped Horns",
+    "range": "",
+    "attacks": "2",
+    "hit": "5+",
+    "wound": "3+",
+    "rend": "-",
+    "damage": "2",
+    "abilities": [
+     "Charge (+1 Damage)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "WARHERD CHARGE ",
+    "timing": "Any Charge Phase",
+    "declare": "If this unit charged this phase, pick an enemy unit within 1\" of it to be the target.",
+    "effect": "Roll a dice for each model in this unit. For each 2+, inflict 1 mortal damage on the target."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "CHAMPION",
+   "MUSICIAN ( 1/3 )",
+   "STANDARD BEARER ( 1/3 )",
+   "CHAOS",
+   "BEASTS OF CHAOS",
+   "WARHERD"
+  ],
+  "unit_size": 3,
+  "points": 170,
+  "base_size": "50mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Gors",
+  "name": "Gors",
+  "faction": "Beasts of Chaos",
+  "faction_slug": "beasts-of-chaos",
+  "grand_alliance": "Chaos",
+  "move": "6\"",
+  "health": "1",
+  "save": "5+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Hacking Blades",
+    "range": "",
+    "attacks": "2",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": [
+     "Crit (2 Hits)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "GOR STAMPEDE ",
+    "timing": "Your Charge Phase",
+    "declare": "If this unit charged this phase, pick an enemy non- HERO INFANTRY unit that has fewer models than this unit and is within 1\" of it to be the target.",
+    "effect": "Roll a dice. On a 3+, the target has STRIKE-LAST for the rest of the turn."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "CHAMPION",
+   "MUSICIAN ( 1/10 )",
+   "STANDARD BEARER ( 1/10 )",
+   "CHAOS",
+   "BEASTS OF CHAOS",
+   "BRAYHERD"
+  ],
+  "unit_size": 10,
+  "points": 100,
+  "base_size": "32mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Ungor-Raiders",
+  "name": "Ungor Raiders",
+  "faction": "Beasts of Chaos",
+  "faction_slug": "beasts-of-chaos",
+  "grand_alliance": "Chaos",
+  "move": "6\"",
+  "health": "1",
+  "save": "6+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Raider Bow",
+    "range": "18\"",
+    "attacks": "2",
+    "hit": "4+",
+    "wound": "5+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": []
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Jagged Shank",
+    "range": "",
+    "attacks": "1",
+    "hit": "4+",
+    "wound": "5+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": [
+     "Crit (2 Hits)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "HIDDEN VOLLEY ",
+    "timing": "Once Per Turn (Army), Your Hero Phase",
+    "declare": "If this unit is in reserve in ambush , pick a non- HERO enemy unit within 12\" of a battlefield edge to be the target.",
+    "effect": "Roll a number of dice equal to the number of models in this unit. For each 6, inflict 1 mortal damage on the target. Then, in your next movement phase, set up this unit on the battlefield using the ‘ Beastherd Ambush ’ ability. If it is not possible to do so, it is destroyed."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "CHAMPION",
+   "MUSICIAN ( 1/10 )",
+   "STANDARD BEARER ( 1/10 )",
+   "CHAOS",
+   "BEASTS OF CHAOS",
+   "BRAYHERD"
+  ],
+  "unit_size": 10,
+  "points": 90,
+  "base_size": "25mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Ungors",
+  "name": "Ungors",
+  "faction": "Beasts of Chaos",
+  "faction_slug": "beasts-of-chaos",
+  "grand_alliance": "Chaos",
+  "move": "6\"",
+  "health": "1",
+  "save": "5+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Gnarled Weapon",
+    "range": "",
+    "attacks": "2",
+    "hit": "4+",
+    "wound": "5+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": [
+     "Crit (2 Hits)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "FLEET OF HOOF ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "",
+    "effect": "If this unit is in combat, roll a dice. On a 3+, this unit can immediately use the ‘ Retreat ’ ability as if it were your movement phase without any mortal damage being inflicted on it."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "CHAMPION",
+   "MUSICIAN ( 1/10 )",
+   "STANDARD BEARER ( 1/10 )",
+   "CHAOS",
+   "BEASTS OF CHAOS",
+   "BRAYHERD"
+  ],
+  "unit_size": 10,
+  "points": 90,
+  "base_size": "25mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Grashrak-s-Despoilers-1",
+  "name": "Grashrak’s Despoilers",
+  "faction": "Beasts of Chaos",
+  "faction_slug": "beasts-of-chaos",
+  "grand_alliance": "Chaos",
+  "move": "8\"",
+  "health": "2",
+  "save": "6+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Despoiler Shortbow",
+    "range": "15\"",
+    "attacks": "2",
+    "hit": "4+",
+    "wound": "4+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": []
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Despoiler Weapons",
+    "range": "",
+    "attacks": "2",
+    "hit": "4+",
+    "wound": "4+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "VIOLENT DESPOILERS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Add 1 to hit rolls for this unit’s attacks while it is wholly outside friendly territory."
+   },
+   {
+    "name": "GRASHRAK FELLHOOF ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit’s Grashrak Fellhoof is on the battlefield, it has WIZARD ( 1 ) ."
+   }
+  ],
+  "keywords": [
+   "UNIQUE",
+   "INFANTRY",
+   "CHAMPION",
+   "CHAOS",
+   "BEASTS OF CHAOS",
+   "BRAYHERD"
+  ],
+  "unit_size": 6,
+  "points": 100,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Chaos-Gargant",
+  "name": "Chaos Gargant",
+  "faction": "Beasts of Chaos",
+  "faction_slug": "beasts-of-chaos",
+  "grand_alliance": "Chaos",
+  "move": "8\"",
+  "health": "12",
+  "save": "5+",
+  "control": "5",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Throwin’ Rocks",
+    "range": "12\"",
+    "attacks": "1",
+    "hit": "5+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "D3",
+    "abilities": []
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Massive Club",
+    "range": "",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": []
+   },
+   {
+    "name": "’Eadbutt",
+    "range": "",
+    "attacks": "1",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "4",
+    "abilities": []
+   },
+   {
+    "name": "Mighty Kick",
+    "range": "",
+    "attacks": "1",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "D3",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "WHIPPED INTO A FRENZY ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "",
+    "effect": "If this unit is within 6\" of any friendly BEASTS OF CHAOS HEROES , add 1 to the Attacks characteristic of this unit’s melee weapons for the rest of the turn."
+   },
+   {
+    "name": "TIMBERRRRR! ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "When this unit is destroyed, before removing it from play, the players must roll off . The winner picks a point on the battlefield within 3\" of this unit. Inflict D3 mortal damage on each unit (friendly and enemy) within 3\" of that point that has a lower Health characteristic than this unit."
+   }
+  ],
+  "keywords": [
+   "MONSTER",
+   "CHAOS",
+   "BEASTS OF CHAOS"
+  ],
+  "unit_size": 1,
+  "points": 140,
+  "base_size": "90 × 52mm",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Chimera",
+  "name": "Chimera",
+  "faction": "Beasts of Chaos",
+  "faction_slug": "beasts-of-chaos",
+  "grand_alliance": "Chaos",
+  "move": "10\"",
+  "health": "12",
+  "save": "5+",
+  "control": "5",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Brimstone Breath",
+    "range": "12\"",
+    "attacks": "6",
+    "hit": "2+",
+    "wound": "4+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": [
+     "Shoot in Combat , Companion"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Chimeric Heads",
+    "range": "",
+    "attacks": "6",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": [
+     "Companion"
+    ]
+   },
+   {
+    "name": "Mauling Claws",
+    "range": "",
+    "attacks": "6",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "-",
+    "damage": "2",
+    "abilities": [
+     "Crit (2 Hits) , Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "THRICEFOLD SAVAGERY ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "",
+    "effect": "Roll 3 dice. For each 4+, add 1 to the Attacks characteristic of this unit’s Chimeric Heads for the rest of the turn."
+   }
+  ],
+  "keywords": [
+   "MONSTER",
+   "FLY",
+   "CHAOS",
+   "BEASTS OF CHAOS"
+  ],
+  "unit_size": 1,
+  "points": 200,
+  "base_size": "120 × 92mm",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Cygor",
+  "name": "Cygor",
+  "faction": "Beasts of Chaos",
+  "faction_slug": "beasts-of-chaos",
+  "grand_alliance": "Chaos",
+  "move": "8\"",
+  "health": "15",
+  "save": "5+",
+  "control": "5",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Desecrated Boulder",
+    "range": "15\"",
+    "attacks": "1",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "D3+3",
+    "abilities": [
+     "Shoot in Combat"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Massive Horns",
+    "range": "",
+    "attacks": "6",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Anti- MANIFESTATION (+1 Rend)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "BATTLE DAMAGED",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit has 10 or more damage points, the Attacks characteristic of its Massive Horns is 4."
+   },
+   {
+    "name": "SOUL-EATER ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "This unit can use UNBIND abilities as if it had WIZARD ( 1 ) . Each time this unit unbinds a spell , inflict D3 mortal damage on the caster."
+   },
+   {
+    "name": "CONSUME ENDLESS SPELL ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "Pick an ENDLESS SPELL within 9\" of this unit to be the target.",
+    "effect": "Roll 2D6. If the roll exceeds the target’s Banishment characteristic: The target is banished . Heal (X) this unit, where X is an amount equal to the roll."
+   }
+  ],
+  "keywords": [
+   "MONSTER",
+   "CHAOS",
+   "BEASTS OF CHAOS",
+   "WARHERD"
+  ],
+  "unit_size": 1,
+  "points": 170,
+  "base_size": "120 × 92mm",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Ghorgon",
+  "name": "Ghorgon",
+  "faction": "Beasts of Chaos",
+  "faction_slug": "beasts-of-chaos",
+  "grand_alliance": "Chaos",
+  "move": "8\"",
+  "health": "15",
+  "save": "5+",
+  "control": "5",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Butchering Blades",
+    "range": "",
+    "attacks": "7",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "1",
+    "damage": "3",
+    "abilities": [
+     "Anti- INFANTRY (+1 Rend)"
+    ]
+   },
+   {
+    "name": "Huge Slavering Maw",
+    "range": "",
+    "attacks": "2",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "1",
+    "damage": "D6",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "BATTLE DAMAGED",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit has 10 or more damage points, the Attacks characteristic of its Butchering Blades is 4."
+   },
+   {
+    "name": "SWALLOW WHOLE ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "Pick an enemy unit in combat with this unit to be the target.",
+    "effect": "Roll a dice. If the roll exceeds the target’s Health characteristic: 1 model in the target unit is slain. Heal (X) this unit, where X is an amount equal to the roll."
+   }
+  ],
+  "keywords": [
+   "MONSTER",
+   "CHAOS",
+   "BEASTS OF CHAOS",
+   "WARHERD"
+  ],
+  "unit_size": 1,
+  "points": 180,
+  "base_size": "120 × 92mm",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Jabberslythe",
+  "name": "Jabberslythe",
+  "faction": "Beasts of Chaos",
+  "faction_slug": "beasts-of-chaos",
+  "grand_alliance": "Chaos",
+  "move": "10\"",
+  "health": "12",
+  "save": "4+",
+  "control": "5",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Slythey Tongue",
+    "range": "8\"",
+    "attacks": "3",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": [
+     "Shoot in Combat , Companion"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Vorpal Claws and Tail",
+    "range": "",
+    "attacks": "6",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "AURA OF MADNESS ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "Roll a D3. On a 2+, pick up to a number of enemy units equal to the roll that are within 9\" of this unit to be the targets.",
+    "effect": "For the rest of the turn, each time the unmodified hit roll for a combat attack made by the target is 1, inflict 1 mortal damage on the target after the FIGHT ability has been resolved."
+   }
+  ],
+  "keywords": [
+   "MONSTER",
+   "FLY",
+   "CHAOS",
+   "BEASTS OF CHAOS"
+  ],
+  "unit_size": 1,
+  "points": 190,
+  "base_size": "120 × 92mm",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Tuskgor-Chariots",
+  "name": "Tuskgor Chariots",
+  "faction": "Beasts of Chaos",
+  "faction_slug": "beasts-of-chaos",
+  "grand_alliance": "Chaos",
+  "move": "10\"",
+  "health": "7",
+  "save": "4+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Despoiler Weapons",
+    "range": "",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Crit (2 Hits)"
+    ]
+   },
+   {
+    "name": "Tuskgors’ Iron-hard Tusks",
+    "range": "",
+    "attacks": "4",
+    "hit": "5+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "TUSKGOR CHARGE ",
+    "timing": "Any Charge Phase",
+    "declare": "If this unit charged this phase, pick an enemy unit within 1\" of it to be the target.",
+    "effect": "Roll a D3. On a 2+, inflict an amount of mortal damage on the target equal to the roll."
+   }
+  ],
+  "keywords": [
+   "WAR MACHINE",
+   "CHAOS",
+   "BEASTS OF CHAOS",
+   "BRAYHERD"
+  ],
+  "unit_size": 1,
+  "points": 110,
+  "base_size": "105 × 70mm",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Herdstone",
+  "name": "Herdstone",
+  "faction": "Beasts of Chaos",
+  "faction_slug": "beasts-of-chaos",
+  "grand_alliance": "Chaos",
+  "move": "-",
+  "health": "14",
+  "save": "4+",
+  "control": "0",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "ENTROPIC LODESTONE ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "From the second battle round onwards, add 1 to the Rend characteristic of melee weapons used by friendly BEASTS OF CHAOS units while they are wholly within 24\" of this terrain feature . If this terrain feature is wholly within 18\" of the centre of the battlefield, this ability affects all friendly BEASTS OF CHAOS units on the battlefield instead of those wholly within 24\" of it."
+   }
+  ],
+  "keywords": [
+   "FACTION TERRAIN",
+   "CHAOS",
+   "BEASTS OF CHAOS"
+  ],
+  "unit_size": 1,
+  "points": 0,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Doomblast-Dirgehorn",
+  "name": "Doomblast Dirgehorn",
+  "faction": "Beasts of Chaos",
+  "faction_slug": "beasts-of-chaos",
+  "grand_alliance": "Chaos",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "BOOMING CACOPHONY ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "When this MANIFESTATION is set up, the range of this ability is 6\". Subtract 1 from wound rolls for attacks made by enemy units while they are within range of this MANIFESTATION ’s ability."
+   },
+   {
+    "name": "LOUDER AND LOUDER ",
+    "timing": "Start of Battle Round",
+    "declare": "",
+    "effect": "Increase the range of this MANIFESTATION ’s ‘Booming Cacophony’ ability by 6\". This effect can be applied multiple times to this MANIFESTATION and is cumulative. If this MANIFESTATION is removed from play, this effect no longer applies."
+   }
+  ],
+  "keywords": [
+   "MANIFESTATION",
+   "ENDLESS SPELL",
+   "WARD ( 6+ )",
+   "CHAOS",
+   "BEASTS OF CHAOS"
+  ],
+  "unit_size": null,
+  "points": null,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Ravening-Direflock",
+  "name": "Ravening Direflock",
+  "faction": "Beasts of Chaos",
+  "faction_slug": "beasts-of-chaos",
+  "grand_alliance": "Chaos",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Murderous Beaks",
+    "range": "",
+    "attacks": "6",
+    "hit": "4+",
+    "wound": "5+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "MULTIPLE PARTS",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "When a number of damage points equal to this MANIFESTATION ’s Health characteristic are allocated to it, this MANIFESTATION is destroyed and all of its parts are removed from play. Each time this MANIFESTATION moves, each of its parts must end within 1\" of at least 1 other part. Each part of this MANIFESTATION is armed with Murderous Beaks ."
+   },
+   {
+    "name": "HARBINGERS OF DARK OMENS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Subtract 5 from the control scores of enemy units while they are within 12\" of this unit."
+   }
+  ],
+  "keywords": [
+   "MANIFESTATION",
+   "ENDLESS SPELL",
+   "FLY",
+   "WARD ( 6+ )",
+   "CHAOS",
+   "BEASTS OF CHAOS"
+  ],
+  "unit_size": null,
+  "points": null,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Wildfire-Taurus",
+  "name": "Wildfire Taurus",
+  "faction": "Beasts of Chaos",
+  "faction_slug": "beasts-of-chaos",
+  "grand_alliance": "Chaos",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Taurine Horns",
+    "range": "",
+    "attacks": "6",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "D3",
+    "abilities": [
+     "Charge (+1 Damage)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "TRAIL OF DESTRUCTION ",
+    "timing": "Any Charge Phase",
+    "declare": "If this unit charged this phase, pick an enemy unit within 1\" of it to be the target.",
+    "effect": "Roll a number of dice equal to the unmodified charge roll . For each 4+, inflict 1 mortal damage on the target. If any damage points are allocated to the target by this ability, the target has STRIKE-LAST for the rest of the turn."
+   }
+  ],
+  "keywords": [
+   "MANIFESTATION",
+   "ENDLESS SPELL",
+   "FLY",
+   "WARD ( 6+ )",
+   "CHAOS",
+   "BEASTS OF CHAOS"
+  ],
+  "unit_size": null,
+  "points": null,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Exile-Scavengers",
+  "name": "Exile Scavengers",
+  "faction": "Beasts of Chaos",
+  "faction_slug": "beasts-of-chaos",
+  "grand_alliance": "Chaos",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "AN EYE FOR LOOT ",
+    "timing": "Deployment Phase",
+    "declare": "This ability must be used to deploy this Regiment of Renown .",
+    "effect": "Set up the units in this Regiment of Renown in reserve studying the battlefield . They have now been deployed."
+   },
+   {
+    "name": "SWOOP IN ",
+    "timing": "Your Movement Phase",
+    "declare": "Pick the Grundstok Gunhauler in this Regiment of Renown to use this ability if it is studying the battlefield .",
+    "effect": "Set up the Grundstok Gunhauler on the battlefield more than 6\" from all enemy units that have an artefact of power and more than 9\" from all other enemy units. Then, set up all other units in this Regiment of Renown wholly within 3\" of the Grundstok Gunhauler and more than 6\" from all enemy units."
+   },
+   {
+    "name": "WHAT’S YOURS IS MINE ",
+    "timing": "Once Per Turn (Army), Your Combat Phase",
+    "declare": "Pick an enemy unit in combat with a unit in this Regiment of Renown to be the target. Then, pick an artefact of power the target has.",
+    "effect": "Roll a dice. Add 1 to the roll for each unit in this Regiment of Renown that is in combat with the target. On a 6+, the target no longer has that artefact of power."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 410,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "One-eyed-Grunnock",
+  "name": "One-eyed Grunnock",
+  "faction": "Beasts of Chaos",
+  "faction_slug": "beasts-of-chaos",
+  "grand_alliance": "Chaos",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "SHAKE THE EARTH ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "Pick an enemy unit in combat with this unit to be the target.",
+    "effect": "Roll a D3. On a 2+: Inflict an amount of mortal damage on the target equal to the roll. If the target is INFANTRY , double the amount of mortal damage inflicted. Subtract 1 from hit rolls for the target’s attacks for the rest of the turn."
+   },
+   {
+    "name": "TIMBERRRRR! ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "When the MEGA-GARGANT in this regiment of renown is slain, before removing it from play, the players must roll off . The winner picks a point on the battlefield within 3\" of that model. Inflict D3 mortal damage on each unit (friendly and enemy) within 3\" of that point that has a lower Health characteristic than that model."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 410,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Phulgoth-s-Shudderhood",
+  "name": "Phulgoth’s Shudderhood",
+  "faction": "Beasts of Chaos",
+  "faction_slug": "beasts-of-chaos",
+  "grand_alliance": "Chaos",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "FOG OF DESPAIR ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Subtract 1 from hit rolls for attacks that target units in this Regiment of Renown while they are wholly within 9\" of the Harbinger of Decay in this Regiment of Renown."
+   },
+   {
+    "name": "NAUSEATING CONVALESCENCE ",
+    "timing": "Once Per Turn (Army), Any Hero Phase",
+    "declare": "",
+    "effect": "Heal (1) each unit in this Regiment of Renown ."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 530,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "The-Coven-of-Thryx",
+  "name": "The Coven of Thryx",
+  "faction": "Beasts of Chaos",
+  "faction_slug": "beasts-of-chaos",
+  "grand_alliance": "Chaos",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "SPARKS OF PROFANE POTENTIAL ",
+    "timing": "Once Per Battle (Army), Deployment Phase",
+    "declare": "",
+    "effect": "If the Magister in the Regiment of Renown has been deployed, set up one of the following MANIFESTATIONS within 1\" of them: 1 Burning Sigil of Tzeentch 1 Tome of Eyes 1 Daemonic Simulacrum"
+   },
+   {
+    "name": "SKILLED SUMMONER ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick the Magister in this Regiment of Renown to cast this spell, pick 1 of the MANIFESTATIONS from the list below that is not on the battlefield, then make a casting roll of 2D6: 1 Burning Sigil of Tzeentch 1 Tome of Eyes 1 Daemonic Simulacrum",
+    "effect": "If there is already a friendly MANIFESTATION from the list above on the battlefield, it is immediately banished . Then, set up the MANIFESTATION you picked within 1\" of the caster and visible to them. If that MANIFESTATION is a Daemonic Simulacrum , it must also be set up more than 9\" away from all enemy units."
+   },
+   {
+    "name": "FLICKERING WYRDFLAME ",
+    "timing": "Once Per Turn (Army), End of Any Turn",
+    "declare": "Pick an enemy unit that had any damage points inflicted on it this turn by WYRDFLAME SPELL abilities or attacks made with weapons that have the WYRDFLAME weapon ability to be the target.",
+    "effect": "Roll a D3. On a 2+, inflict an amount of mortal damage on the target equal to the roll."
+   },
+   {
+    "name": "BOLT OF TZEENTCH ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick the Magister in this Regiment of Renown to cast this spell, pick a visible enemy unit within 18\" of them to be the target, then make a casting roll of 2D6.",
+    "effect": "Inflict D3 mortal damage on the target."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 280,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Hargax-s-Pit-Beasts",
+  "name": "Hargax’s Pit-Beasts",
+  "faction": "Beasts of Chaos",
+  "faction_slug": "beasts-of-chaos",
+  "grand_alliance": "Chaos",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "BESTIAL DOMINATION ",
+    "timing": "Reaction: You declared a FIGHT ability for a unit in this Regiment of Renown",
+    "declare": "",
+    "effect": "Pick a unit in this Regiment of Renown that has not used a FIGHT ability this turn to be the target. The target can be picked to use a FIGHT ability immediately after the FIGHT ability used by this unit has been resolved."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 390,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Nurgle-s-Gift",
+  "name": "Nurgle’s Gift",
+  "faction": "Beasts of Chaos",
+  "faction_slug": "beasts-of-chaos",
+  "grand_alliance": "Chaos",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "INCUBATION PERIOD ",
+    "timing": "Deployment Phase",
+    "declare": "This ability must be used to deploy this Regiment of Renown .",
+    "effect": "Set up the units in this Regiment of Renown in reserve festering within . They have now been deployed."
+   },
+   {
+    "name": "BURSTING WITH LIFE ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "If a friendly non- NURGLE’S GIFT unit would be destroyed, before the last model is removed from play, roll a dice. Add 1 to the roll for each other friendly non- NURGLE’S GIFT unit that has been destroyed this battle. On a 5+, pick a friendly unit that is festering within and set it up wholly within 6\" of that model. It can be set up in combat ."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 180,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Snerk-s-Trogg-Fer-Hire",
+  "name": "Snerk’s Trogg-Fer-Hire",
+  "faction": "Beasts of Chaos",
+  "faction_slug": "beasts-of-chaos",
+  "grand_alliance": "Chaos",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "GO DAT WAY! ",
+    "timing": "Your Charge Phase",
+    "declare": "Pick the Dankhold Troggoth in this Regiment of Renown to be the target if it is within 12\" of the Loonboss in this Regiment of Renown.",
+    "effect": "For the rest of the turn, the target can still use CHARGE abilities even if it used a RETREAT ability in the same turn."
+   },
+   {
+    "name": "TAKTIKAL COWERING ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While the Loonboss in this Regiment of Renown is within the combat range of the Dankhold Troggoth in this Regiment of Renown: That Loonboss has WARD ( 4+ ) . Each time you make a successful ward roll for that Loonboss , allocate 1 damage point to that Dankhold Troggoth after the damage sequence for that Loonboss has been resolved (ward rolls cannot be made for those damage points)."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 220,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Stumblefoot-Gargant",
+  "name": "Stumblefoot Gargant",
+  "faction": "Beasts of Chaos",
+  "faction_slug": "beasts-of-chaos",
+  "grand_alliance": "Chaos",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "PROJECTILE VOMIT ",
+    "timing": "Once Per Turn (Army), Your Shooting Phase",
+    "declare": "Pick this unit to use this ability if it has not used a RAMPAGE ability this turn. Then, pick a point on the battlefield within 6\" of this unit and pick all other units (friendly and enemy) within 3\" of that point to be the targets.",
+    "effect": "Roll a D3 for each target. On a 2+, inflict an amount of mortal damage on that target equal to the roll."
+   },
+   {
+    "name": "BELLOWING MOCKERY ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "Pick this unit to use this ability if it has not used a RAMPAGE ability this turn, then pick an enemy unit within this unit’s combat range to be the target.",
+    "effect": "Roll a dice. On a 3+, subtract 1 from hit rolls for the target’s attacks for the rest of the turn."
+   },
+   {
+    "name": "WHAT’RE YOU LOOKIN’ AT? ",
+    "timing": "Once Per Turn (Army), Any Charge Phase",
+    "declare": "Pick this unit to use this ability if it charged this turn and has not used a RAMPAGE ability this turn. Then, pick an enemy unit within 9\" of this unit to be the target.",
+    "effect": "Roll 2D6. This unit can move a number of inches equal to the roll. It can pass through enemy models and must end that move in combat with the target."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 140,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ }
+]

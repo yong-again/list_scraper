@@ -1,0 +1,242 @@
+[
+ {
+  "faction": "Endless Spells",
+  "faction_slug": "endless-spells",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "",
+  "text": "/noindex In this section, you will 8nd the warscrolls and manifestation lores for universal endless spells, which can be summoned by wizards from any faction. These warscrolls take precedence over all versions with an earlier publication date or no publication date."
+ },
+ {
+  "faction": "Endless Spells",
+  "faction_slug": "endless-spells",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Manifestation Lore",
+  "text": "BATTLE PROFILE Name Points Aetherwrought Machineries 0 Forbidden Power 20 Krondspine Incarnate 0 Morbid Conjuration 20 Primal Energy 10 Twilit Sorceries 0"
+ },
+ {
+  "faction": "Endless Spells",
+  "faction_slug": "endless-spells",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Manifestation Lore > Aetherwrought Machineries",
+  "text": "Your Hero Phase 6 SUMMON CHRONOMANTIC COGS : Like the procession of the heavens, the rotations of the Chronomantic Cogs control the passage of time, allowing wizards to speed or slow the events that are unfolding around them. Declare: If there is not a friendly Chronomantic Cogs endless spell on the battlefield, pick a friendly WIZARD to cast this spell, then make a casting roll of 2D6. Effect: Set up a Chronomantic Cogs endless spell wholly within 12\" of the caster and visible to them. KEYWORDS SPELL, SUMMON Your Hero Phase 6 SUMMON AETHERVOID PENDULUM : Sweeping suddenly into existence like a reaper’s blade, the Aethervoid Pendulum cuts through armour, flesh and even the fabric of the realms themselves. Declare: If there is not a friendly Aethervoid Pendulum on the battlefield, pick a friendly WIZARD to cast this spell, then make a casting roll of 2D6. Effect: Set up an Aethervoid Pendulum wholly within 12\" of the caster, visible to them and more than 9\" from all enemy units. KEYWORDS SPELL, SUMMON Your Hero Phase 6 SUMMON QUICKSILVER SWORDS : Borne aloft on currents of Chamonic energy, the Quicksilver Swords fly across the battlefield in tight formations before fanning out to eviscerate and behead those in their path. Declare: If there is not a friendly Quicksilver Swords endless spell on the battlefield, pick a friendly WIZARD to cast this spell, then make a casting roll of 2D6. Effect: Set up a Quicksilver Swords endless spell wholly within 12\" of the caster, visible to them and more than 9\" from all enemy units. KEYWORDS SPELL, SUMMON"
+ },
+ {
+  "faction": "Endless Spells",
+  "faction_slug": "endless-spells",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Manifestation Lore > Forbidden Power",
+  "text": "Your Hero Phase 6 SUMMON SOULSCREAM BRIDGE : A nightmarish fusion of bone and tortured spirit-stuff, a Soulscream Bridge disintegrates and consumes the souls of the fallen in order to tear open a makeshift pathway across reality. Declare: If there is not a friendly Soulscream Bridge on the battlefield, pick a friendly WIZARD to cast this spell, then make a casting roll of 2D6. Effect: Set up a Soulscream Bridge wholly within 18\" of the caster and visible to them. A Soulscream Bridge has 2 parts that must be set up within 9\" of each other. KEYWORDS SPELL, SUMMON Your Hero Phase 7 SUMMON LAUCHON THE SOULSEEKER : The splintered echo of an ancient underworld deity, Lauchon the Soulseeker sails the swirling tides of death, drawn by the lure of powerful spirits. Spellcasters can join his macabre odyssey, if they are willing to offer a fitting sacrifice. Declare: If there is not a friendly Lauchon the Soulseeker on the battlefield, pick a friendly WIZARD to cast this spell, then make a casting roll of 2D6. Effect: Set up a Lauchon the Soulseeker wholly within 12\" of the caster, visible to them and more than 9\" from all enemy units. KEYWORDS SPELL, SUMMON Your Hero Phase 6 SUMMON HORRORGHAST : Arcane predators that feast upon fear, Horrorghasts haunt the deathly wilds of Shyish, taking on the appearance of whatever will most terrorise their prey – most often the pitiless gaze of Nagash, the Great Necromancer. Declare: If there is not a friendly Horrorghast on the battlefield, pick a friendly WIZARD to cast this spell, then make a casting roll of 2D6. Effect: Set up a Horrorghast wholly within 12\" of the caster, visible to them and more than 9\" from all enemy units."
+ },
+ {
+  "faction": "Endless Spells",
+  "faction_slug": "endless-spells",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Manifestation Lore > Forbidden Power",
+  "text": "Effect: Set up a Horrorghast wholly within 12\" of the caster, visible to them and more than 9\" from all enemy units. KEYWORDS SPELL, SUMMON Your Hero Phase 6 SUMMON SHARDS OF VALAGHARR : As these pairs of cracked prisms of black stone orbit the battlefield, necromantic energy spills from their breached surfaces in a sickening stream, sapping the spirit and life force of all those they pass over. Declare: If there is not a friendly Shards of Valagharr endless spell on the battlefield, pick a friendly WIZARD to cast this spell, then make a casting roll of 2D6. Effect: Set up a Shards of Valagharr endless spell wholly within 18\" of the caster and visible to them. A Shards of Valagharr endless spell has 2 parts that must be set up within 9\" of each other. KEYWORDS SPELL, SUMMON"
+ },
+ {
+  "faction": "Endless Spells",
+  "faction_slug": "endless-spells",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Manifestation Lore > Krondspine Incarnate",
+  "text": "Your Hero Phase 8 SUMMON KRONDSPINE INCARNATE OF GHUR : Those incarnates first encountered in the Krondspine Range of Ghur are terrifying entities, creations of bestial energy protected by monstrous bones and guided by ferocious intellect. Like all things of the Realm of Beasts, they are driven by the laws of predator and prey – and as thaumaphages, they prey upon other manifestations that roam the realm. Declare: If there is not a friendly Krondspine Incarnate of Ghur on the battlefield, pick a friendly WIZARD to cast this spell, then make a casting roll of 2D6. Effect: Set up a Krondspine Incarnate of Ghur wholly within 12\" of the caster, visible to them and more than 9\" from all enemy units. KEYWORDS SPELL, SUMMON"
+ },
+ {
+  "faction": "Endless Spells",
+  "faction_slug": "endless-spells",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Manifestation Lore > Morbid Conjuration",
+  "text": "Your Hero Phase 6 SUMMON SOULSNARE SHACKLES : Decrepit chains clatter and rusted manacles grind as the Soulsnare Shackles snap at their prey, seeking to clamp down on the spirits of their victims so that they can drag them back to the Great Oubliette in Shyish. Declare: If there is not a friendly Soulsnare Shackles endless spell on the battlefield, pick a friendly WIZARD to cast this spell, then make a casting roll of 2D6. Effect: Set up a Soulsnare Shackles endless spell wholly within 18\" of the caster and visible to them. A Soulsnare Shackles endless spell has 3 parts that must each be set up within 3\" of at least 1 other part. KEYWORDS SPELL, SUMMON Your Hero Phase 6 SUMMON MALEVOLENT MAELSTROM : A Malevolent Maelstrom is a swirling vortex of Shyishan magic, a tempest that sucks in sorcerous energies and the souls of the dead before exploding in a cataclysmic nova. Declare: If there is not a friendly Malevolent Maelstrom on the battlefield, pick a friendly WIZARD to cast this spell, then make a casting roll of 2D6. Effect: Set up a Malevolent Maelstrom wholly within 12\" of the caster, visible to them and more than 9\" from all enemy units. KEYWORDS SPELL, SUMMON Your Hero Phase 8 SUMMON PURPLE SUN OF SHYISH : No spell inspires greater fear in the beholder than the Purple Sun of Shyish. The skull-faced orb drifts across the battlefield, its rays of death energy transmuting all they touch into amethyst statues. Declare: If there is not a friendly Purple Sun of Shyish on the battlefield, pick a friendly WIZARD to cast this spell, then make a casting roll of 2D6. Effect: Set up a Purple Sun of Shyish wholly within 12\" of the caster, visible to them and more than 9\" from all enemy units."
+ },
+ {
+  "faction": "Endless Spells",
+  "faction_slug": "endless-spells",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Manifestation Lore > Morbid Conjuration",
+  "text": "Effect: Set up a Purple Sun of Shyish wholly within 12\" of the caster, visible to them and more than 9\" from all enemy units. KEYWORDS SPELL, SUMMON Your Hero Phase 8 SUMMON SUFFOCATING GRAVETIDE : The spirits of the dead rise from the ground and surge forwards in a Suffocating Gravetide to smother the living, burying their victims and dragging their souls down to the Realm of Death. Declare: If there is not a friendly Suffocating Gravetide on the battlefield, pick a friendly WIZARD to cast this spell, then make a casting roll of 2D6. Effect: Set up a Suffocating Gravetide wholly within 12\" of the caster, visible to them and more than 9\" from all enemy units. KEYWORDS SPELL, SUMMON"
+ },
+ {
+  "faction": "Endless Spells",
+  "faction_slug": "endless-spells",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Manifestation Lore > Primal Energy",
+  "text": "Your Hero Phase 5 SUMMON BURNING HEAD : Formed from the fires of Aqshy, the Burning Head manifests as a blazing skull that scorches its way across the battlefield. Ranks of troops are incinerated and the rickety frames of war engines set ablaze by its passing. Declare: If there is not a friendly The Burning Head on the battlefield, pick a friendly WIZARD to cast this spell, then make a casting roll of 2D6. Effect: Set up The Burning Head wholly within 12\" of the caster, visible to them and more than 9\" from all enemy units. KEYWORDS SPELL, SUMMON Your Hero Phase 6 SUMMON EMERALD LIFESWARM : Imbued with the healing powers of Ghyran, an Emerald Lifeswarm buzzes across the battlefield, seeking out the dead and dying and restoring their lives and vigour. Declare: If there is not a friendly Emerald Lifeswarm on the battlefield, pick a friendly WIZARD to cast this spell, then make a casting roll of 2D6. Effect: Set up an Emerald Lifeswarm wholly within 12\" of the caster, visible to them and more than 9\" from all enemy units. KEYWORDS SPELL, SUMMON Your Hero Phase 7 SUMMON RAVENAK’S GNASHING JAWS : Savage, unrelenting and eternally hungry, the spell known as Ravenak’s Gnashing Jaws is born from the essence of Ghur’s hunger and is capable of chomping through rank after rank of foes. Declare: If there is not a friendly Ravenak’s Gnashing Jaws endless spell on the battlefield, pick a friendly WIZARD to cast this spell, then make a casting roll of 2D6. Effect: Set up a Ravenak’s Gnashing Jaws endless spell wholly within 12\" of the caster, visible to them and more than 9\" from all enemy units. KEYWORDS SPELL, SUMMON"
+ },
+ {
+  "faction": "Endless Spells",
+  "faction_slug": "endless-spells",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Manifestation Lore > Twilit Sorceries",
+  "text": "Your Hero Phase 7 SUMMON GEMINIDS OF UHL-GYSH : Drawn from the twilight demi-realm between Hysh and Ulgu, the Geminids lash out with the raw magic of light and shadow, scouring flesh while filling minds with horrific lies and unbearable truths. Declare: If there is not a friendly Geminids of Uhl-Gysh endless spell on the battlefield, pick a friendly WIZARD to cast this spell, then make a casting roll of 2D6. Effect: Set up a Geminids of Uhl-Gysh endless spell wholly within 12\" of the caster, visible to them and more than 9\" from all enemy units. A Geminids of Uhl-Gysh endless spell has 2 parts that must be set up within 9\" of each other. KEYWORDS SPELL, SUMMON Your Hero Phase 7 SUMMON PRISMATIC PALISADE : The crystalline spars of the Prismatic Palisade are formed of pure light and hardened into a barrier that bathes those on the battlefield in the blinding rays of Hysh. Declare: If there is not a friendly Prismatic Palisade on the battlefield, pick a friendly WIZARD to cast this spell, then make a casting roll of 2D6. Effect: Set up a Prismatic Palisade wholly within 18\" of the caster and visible to them. KEYWORDS SPELL, SUMMON Your Hero Phase 7 SUMMON UMBRAL SPELLPORTAL : Comprising a pair of shadowy mirrors, the Umbral Spellportal links two points on the battlefield, allowing wizards to cast their destructive magics and enchanting boons at a distance. Declare: If there is not a friendly Umbral Spellportal on the battlefield, pick a friendly WIZARD to cast this spell, then make a casting roll of 2D6. Effect: Set up an Umbral Spellportal wholly within 18\" of the caster and visible to them. An Umbral Spellportal has 2 parts that must be set up within 9\" of each other. KEYWORDS SPELL, SUMMON"
+ },
+ {
+  "faction": "Endless Spells",
+  "faction_slug": "endless-spells",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Aetherwrought Machineries",
+  "text": "• ENDLESS SPELLS WARSCROLL • Aethervoid Pendulum 8\" 6 6+ 7+ 6+ Aethervoid Pendulums are conjured from the colourless nothingness between realms. They swing with a perfect, eerie rhythm, hissing as they drift across the battlefield. Their sibilant slashing can carve clean through a shieldwall, sending limbs and gore flying, or hack the leg from a titanic monster in one swing. Sinister rumours surround the Pendulums, from theories that doppel-spells appear in every realm whenever one is cast to legends of the Phantom Blade of Ulgu that cloaks itself in illusory mist as it scythes across the lands. • ENDLESS SPELLS WARSCROLL • Aethervoid Pendulum SUMMONING REFERENCE Casting value 6 Wholy within 12\" of and visible to caster More than 9\" from enemy Passive THE PENDULUM SWINGS : The Aethervoid Pendulum arcs across the battlefield in a straight line. Effect: This MANIFESTATION cannot use CHARGE or FIGHT abilities . In addition, when this MANIFESTATION moves, it must move in a straight line either in the direction in which the tip of the pendulum blade is pointing or in the opposite direction to the direction in which the tip of the pendulum blade is pointing. Any Movement Phase SCYTHING BLADE : A single pass of the Pendulum’s blade can decimate enemy ranks, sending out gory showers of severed limbs and decapitated heads. Effect: This MANIFESTATION can move a distance up to its Move characteristic in one direction (see ‘The Pendulum Swings’). It can pass through models during that move and can end that move in combat. Then, pick up to 3 enemy units that this MANIFESTATION passed across during that move or that are within 1⁄2\" of it to be the targets. Roll a dice for each targets. On a 2+, inflict an amount of mortal damage on the target equal to the roll."
+ },
+ {
+  "faction": "Endless Spells",
+  "faction_slug": "endless-spells",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Aetherwrought Machineries",
+  "text": "Roll a dice for each targets. On a 2+, inflict an amount of mortal damage on the target equal to the roll. KEYWORDS CORE, MOVE KEYWORDS MANIFESTATION , ENDLESS SPELL , FLY , WARD ( 6+ ) • ENDLESS SPELLS WARSCROLL • Chronomantic Cogs - 6 6+ 7+ 6+ The Chronomantic Cogs are a series of arcane gears honed by the intricate magics of Azyr. Endlessly turning, they form a complex mechanism attuned to the heavenly rhythms. Those who gaze into the Cogs are offered glimpses of the cosmos turning at incredible speed or an awareness of the crushing passage of aeons. A wizard of suitable ability can reach into the mechanisms of the Cogs and manipulate them to their designs, either seeing their allies move ahead of time’s flow or immobilising opponents as causality is brought to a crawl. • ENDLESS SPELLS WARSCROLL • Chronomantic Cogs SUMMONING REFERENCE Casting value 6 Wholy within 12\" of and visible to caster Once Per Turn, Your Hero Phase MECHANISMS OF TIME : The workings of the Chronomantic Cogs show the passing of seconds and aeons alike. By manipulating the Cogs, a spellcaster can speed up time around them, allowing warriors to quickly close with their enemies, or slow time’s passage so as to avoid incoming blows. Effect: If there are any friendly WIZARDS within 3\" of this MANIFESTATION , pick 1 of the following effects: Increase Time Flow: Until the start of your next turn, you can re roll charge rolls for friendly units while they are wholly within 12\" of this MANIFESTATION . Decrease Time Flow: Until the start of your next turn, subtract 1 from hit rolls for attacks that target friendly WIZARDS while they are wholly within 12\" of this MANIFESTATION ."
+ },
+ {
+  "faction": "Endless Spells",
+  "faction_slug": "endless-spells",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Aetherwrought Machineries",
+  "text": "start of your next turn, subtract 1 from hit rolls for attacks that target friendly WIZARDS while they are wholly within 12\" of this MANIFESTATION . KEYWORDS MANIFESTATION , ENDLESS SPELL , WARD ( 6+ ) • ENDLESS SPELLS WARSCROLL • Quicksilver Swords 8\" 6 6+ 7+ 6+ It is said that the Quicksilver Swords were wrought by Celemnis, the fabled Silver Maiden of Elixia. Not even being boiled alive in molten quicksilver could end her labours; incarnated as a terrifying banshee, she imbued each of these magical blades with shards of her own undying essence and spite. So fine is their edge that they slice through even arcane defences, and so deep is their bitterness that they fight as if wielded by a master bladesman, an unearthly wail accompanying each chop and thrust. • ENDLESS SPELLS WARSCROLL • Quicksilver Swords MELEE WEAPONS Atk Hit Wnd Rnd Dmg Quicksilver Blades [ Crit (Mortal) ] Quicksilver Blades Crit (Mortal) 12 4+ 3+ 1 1 SUMMONING REFERENCE Casting value 6 Wholy within 12\" of and visible to caster More than 9\" from enemy Passive DANCING BLADES : Cantrips and other eldritch barriers cannot save one from the keen edged blades of this manifestation. Effect: Ward rolls cannot be made for damage points inflicted by this MANIFESTATION ’s attacks. KEYWORDS MANIFESTATION , ENDLESS SPELL , FLY , WARD ( 6+ )"
+ },
+ {
+  "faction": "Endless Spells",
+  "faction_slug": "endless-spells",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Forbidden Power",
+  "text": "• ENDLESS SPELLS WARSCROLL • Horrorghast 8\" 6 6+ 7+ 6+ Horrorghasts are summoned by necromantic rituals or mass sacrifice. They have no form of their own, appearing as whatever will most terrify their prey, feeding off their panic and billowing it back out in a withering miasma of doom. Though most commonly encountered roaming the bleak wilds of Shyish, the battlefield offers much of a Horrorghast’s favoured sustenance. While Horrorghasts have been recorded as taking all manner of forms, there are few mortals who do not fear death, and so many manifest as the distorted visage of the Great Necromancer himself. • ENDLESS SPELLS WARSCROLL • Horrorghast RANGED WEAPONS Rng Atk Hit Wnd Rnd Dmg Scream of Terror [ Shoot in Combat , Anti- INFANTRY (+1 Rend) ] Scream of Terror Shoot in Combat , Anti- INFANTRY (+1 Rend) 10\" 6 4+ 3+ 2 1 MELEE WEAPONS Atk Hit Wnd Rnd Dmg Deathly Touch Deathly Touch 4 4+ 4+ - 1 SUMMONING REFERENCE Casting value 6 Wholy within 12\" of and visible to caster More than 9\" from enemy Any Shooting Phase HARBINGER OF HORROR : Horrorghasts devour the terror of their victims, spitting it back out in waves of disconsolate dread. Declare: Pick an enemy unit that was targeted by this MANIFESTATION ’s shooting attacks this phase to be the target. Effect: Roll a dice. If the roll is less than the number of models in the target unit that were slain this phase, the target cannot use commands for the rest of the turn. KEYWORDS MANIFESTATION , ENDLESS SPELL , FLY , WARD ( 6+ ) • ENDLESS SPELLS WARSCROLL • Lauchon the Soulseeker 12\" 10 6+ 7+ 6+ When Nagash conquered Shyish, he did so by devouring all those gods who opposed him. Only a few fragments of these sundered deities endured."
+ },
+ {
+  "faction": "Endless Spells",
+  "faction_slug": "endless-spells",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Forbidden Power",
+  "text": "Only a few fragments of these sundered deities endured. One such entity is the shade of Lauchon the Soulseeker, the graven boatman, who it is said knows the location of every soul in creation. A sorcerer who wishes to extricate themselves from danger may call upon Lauchon, for surely he shall find them. Yet the Soulseeker’s price is always the same: portions of the soul, devoured one sliver at a time. • ENDLESS SPELLS WARSCROLL • Lauchon the Soulseeker MELEE WEAPONS Atk Hit Wnd Rnd Dmg Scything Oar [ Crit (2 Hits) ] Scything Oar Crit (2 Hits) 3 4+ 3+ 1 D3 SUMMONING REFERENCE Casting value 7 Wholy within 12\" of and visible to caster More than 9\" from enemy Your Movement Phase TRAVERSE THE TIDES OF DEATH : The Soulseeker knows the location of every spirit in the realms and can guide a spellcaster to that which they seek. Yet no journey is ever free... Declare: Pick a friendly INFANTRY WIZARD HERO within 3\" of this MANIFESTATION to be the target. Effect: This MANIFESTATION can move a distance up to its Move characteristic. It can pass through models during that move but cannot end that move in combat. Then, remove the target from the battlefield and set them up again on the battlefield within 3\" of this MANIFESTATION and not in combat. Then, inflict 1 mortal damage on the target. KEYWORDS CORE, MOVE KEYWORDS MANIFESTATION , ENDLESS SPELL , FLY , WARD ( 6+ ) • ENDLESS SPELLS WARSCROLL • Soulscream Bridge - 12 6+ 7+ 6+ Soulscream Bridges are considered by many mages to be a convenient, if morbid, means of translocating allies. Yet these spells are more macabre than they first appear. They are formed by capturing tormented souls and binding them in a facsimile of physicality, using their anguish to punch open a path across reality."
+ },
+ {
+  "faction": "Endless Spells",
+  "faction_slug": "endless-spells",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Forbidden Power",
+  "text": "They are formed by capturing tormented souls and binding them in a facsimile of physicality, using their anguish to punch open a path across reality. Those who have travelled across a Soulscream Bridge are haunted by the wails for years to come, a terrible chorus of the damned that grows only stronger in the long shadows of the night... • ENDLESS SPELLS WARSCROLL • Soulscream Bridge SUMMONING REFERENCE Casting value 6 Wholy within 18\" of and visible to caster Parts within 9\" of each other Passive MULTIPLE PARTS Effect: When a number of damage points equal to this MANIFESTATION ’s Health characteristic are allocated to it, this MANIFESTATION is destroyed and both its parts are removed from play. Your Movement Phase DEATHLY PASSAGE : Those who pass across a Soulscream Bridge travel the tides of deathly magic, avoiding physical obstructions. Declare: Pick a friendly unit wholly within 6\" of one part of this MANIFESTATION to be the target. Effect: Remove the target from the battlefield and set it up again on the battlefield wholly within 6\" of the other part of this MANIFESTATION and more than 9\" from all enemy units. KEYWORDS MANIFESTATION , ENDLESS SPELL , WARD ( 6+ ) • ENDLESS SPELLS WARSCROLL • Shards of Valagharr - 8 6+ 7+ 6+ The Shards of Valagharr are prisms created by the legendary arch-mage Mython Valagharr to absorb amethyst magic before it could swell into deadly gheist-storms. Yet, over time, Valagharr was consumed by his grim work. Though he was struck down by Sigmar himself for monstrous transgressions, he had already begun to spread his dark knowledge, including how to transform his Shards into tools of magical restraining. When such an endless spell is summoned, any who find themselves nearby are dragged and bound to the earth."
+ },
+ {
+  "faction": "Endless Spells",
+  "faction_slug": "endless-spells",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Forbidden Power",
+  "text": "When such an endless spell is summoned, any who find themselves nearby are dragged and bound to the earth. • ENDLESS SPELLS WARSCROLL • Shards of Valagharr SUMMONING REFERENCE Casting value 6 Wholy within 18\" of and visible to caster Parts within 9\" of each other Passive MULTIPLE PARTS Effect: When a number of damage points equal to this MANIFESTATION ’s Health characteristic are allocated to it, this MANIFESTATION is destroyed and both its parts are removed from play. Passive ENSNARING SOUL-DRAIN : The foul energies of the Shards link the prisms to one another, ensnaring nearby creatures in a web of animus-draining magic. Effect: Each time an enemy unit uses a MOVE ability while it is within 9\" of any parts of this MANIFESTATION , the effects of the ‘ Fly ’ ability do not apply to that unit. Enemy units cannot be set up within 9\" of either part of this MANIFESTATION . Your Movement Phase PHANTASMAL TRANSLOCATION : One pair of Shards blinks out of existence, only to reappear beside the other prisms a moment later. Effect: Pick a part of this MANIFESTATION , remove it from the battlefield and set it up again on the battlefield wholly within 9\" of the other part and more than 3\" from all enemy units. KEYWORDS MANIFESTATION , ENDLESS SPELL , WARD ( 6+ )"
+ },
+ {
+  "faction": "Endless Spells",
+  "faction_slug": "endless-spells",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Krondspine Incarnate",
+  "text": "• ENDLESS SPELLS WARSCROLL • Krondspine Incarnate of Ghur 10\" 12 6+ 8+ 6+ Blood pounds, war drums thunder in the mind and the hunt beckons as a Krondspine Incarnate emerges. These entities are shards of Ghur’s awakened animus, concentrated within primal realmstone and named for the mountains where they were first encountered. A Krondspine Incarnate draws to themselves the bones and claws of dead beasts, both to defend themselves and slaughter in kind. Like all things of Ghur, they are predatory, but their favoured prey is magic – opposing spells and arcane constructs that they can tear to aetheric chunks. • ENDLESS SPELLS WARSCROLL • Krondspine Incarnate of Ghur MELEE WEAPONS Atk Hit Wnd Rnd Dmg Amberbone Claws and Fangs [ Anti- MANIFESTATION (+1 Rend) ] Amberbone Claws and Fangs Anti- MANIFESTATION (+1 Rend) 6 4+ 2+ 2 3 SUMMONING REFERENCE Casting value 8 Wholy within 12\" of and visible to caster More than 9\" from enemy Passive WILD FORM : This manifestation is notoriously wilful, resisting any effort by sorcerers to tame or banish it. Effect: Each time this MANIFESTATION is targeted by the ‘ Banish Manifestation ’ ability, if it would be banished, it is not banished Instead, allocate 6 damage points to it ( ward rolls cannot be made for those damage points). Passive ARCANE PREDATOR : Krondspine Incarnates are relentless predators, hunting both living creatures and arcane entities with equal ferocity. Effect: You can add 1 to the number of dice rolled when making charge rolls for this MANIFESTATION , to a maximum of 3, while it is within 18\" of any enemy MANIFESTATIONS , but if you do so, it must end the charge move within 1/2\" of an enemy MANIFESTATION ."
+ },
+ {
+  "faction": "Endless Spells",
+  "faction_slug": "endless-spells",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Krondspine Incarnate",
+  "text": "of 3, while it is within 18\" of any enemy MANIFESTATIONS , but if you do so, it must end the charge move within 1/2\" of an enemy MANIFESTATION . End of Any Turn DEVOURER OF MAGICS : A Krondspine Incarnate feasts upon magical energies, ripping into them like a Carnosaur might a haunch of meat. Effect: If this MANIFESTATION destroyed any enemy MANIFESTATIONS this turn, Heal (6) this MANIFESTATION . KEYWORDS MANIFESTATION , ENDLESS SPELL , INCARNATE , FLY , WARD ( 6+ )"
+ },
+ {
+  "faction": "Endless Spells",
+  "faction_slug": "endless-spells",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Morbid Conjuration",
+  "text": "• ENDLESS SPELLS WARSCROLL • Malevolent Maelstrom 8\" 6 6+ 7+ 6+ Those howling novas known as Malevolent Maelstroms are concentrations of volatile death magic. Trapped spirits strain and wail for release, even while guzzling upon errant magics and recently slain souls. Eventually, inevitably, the Maelstrom will glut itself to bursting upon these energies, detonating in a great necrotic paroxysm and obliterating anything nearby. Some scholars have noted similarities between the Maelstroms and the dreadful Necroquake that once swept the realms, theorising that these spells are localised aftershocks that can be conjured even decades later. • ENDLESS SPELLS WARSCROLL • Malevolent Maelstrom MELEE WEAPONS Atk Hit Wnd Rnd Dmg Lashing Tendrils of Energy [ Crit (2 Hits) ] Lashing Tendrils of Energy Crit (2 Hits) 2D6 4+ 3+ - 1 SUMMONING REFERENCE Casting value 6 Wholy within 12\" of and visible to caster More than 9\" from enemy Passive NECROTIC VORTEX : Sorcery and souls are sucked into the Maelstrom as it prowls the battlefield. Effect: Give this MANIFESTATION 1 maelstrom point each time: This MANIFESTATION is set up. A unit successfully casts a spell while it is within 12\" of this MANIFESTATION . A model is slain within 12\" of this MANIFESTATION . This MANIFESTATION can have a maximum of 6 maelstrom points at once. End of Any Turn MORBID DETONATION : Having gorged itself on magic and the howling spirits of the dead, the Maelstrom detonates in a nova of devastating energy. Declare: You must, and can only, use this ability if this unit has 6 maelstrom points . Pick each unit (friendly and enemy) within 9\" of it to be the targets. Effect: Roll a dice for each target. On a 2+, inflict an amount of mortal damage on the target equal to the roll. Then, this MANIFESTATION is destroyed."
+ },
+ {
+  "faction": "Endless Spells",
+  "faction_slug": "endless-spells",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Morbid Conjuration",
+  "text": "On a 2+, inflict an amount of mortal damage on the target equal to the roll. Then, this MANIFESTATION is destroyed. KEYWORDS MANIFESTATION , ENDLESS SPELL , FLY , WARD ( 6+ ) • ENDLESS SPELLS WARSCROLL • Purple Sun of Shyish 8\" 10 6+ 7+ 6+ The Purple Sun is a harbinger of annihilation. Fell magics coalesce into a glowing orb that floats with an eerie serenity, emanating rays of amethyst light that turn any they strike to lifeless crystal. Strong or mighty, craven or courageous: none are spared. All the while, a skeletal face leers out of the Purple Sun. Learned Necromancers say that this is the face of the mad god Xereus, whose name is invoked in rites of conjuring and who is said to be imprisoned within the Purple Sun as penance for ancient crimes. • ENDLESS SPELLS WARSCROLL • Purple Sun of Shyish MELEE WEAPONS Atk Hit Wnd Rnd Dmg Transmuting Rays [ Crit (Mortal) ] Transmuting Rays Crit (Mortal) 2D6 4+ 3+ 1 1 SUMMONING REFERENCE Casting value 8 Wholy within 12\" of and visible to caster More than 9\" from enemy Passive PULL OF THE NADIR : To gaze upon the Purple Sun of Shyish is to feel oneself wither and waste away. Effect: Subtract 1 from save rolls for friendly and enemy units while they are within 3\" of this MANIFESTATION . Your Movement Phase END GIVEN FORM : All those touched by the dire rays of the Purple Sun meet their final fate, their bodies crystallised and their souls ripped away to Shyish. Effect: This MANIFESTATION can move a distance up to its Move characteristic. It can pass through models during that move but cannot end that move in combat. Then, pick up to 3 enemy units that this MANIFESTATION passed across during that move to be the targets. Roll a D3 for each target. On a 2+, inflict an amount of mortal damage on the target equal to the roll."
+ },
+ {
+  "faction": "Endless Spells",
+  "faction_slug": "endless-spells",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Morbid Conjuration",
+  "text": "Roll a D3 for each target. On a 2+, inflict an amount of mortal damage on the target equal to the roll. KEYWORDS CORE, MOVE KEYWORDS MANIFESTATION , ENDLESS SPELL , FLY , WARD ( 6+ ) • ENDLESS SPELLS WARSCROLL • Soulsnare Shackles - 6 6+ 7+ 6+ The Soulsnare Shackles rise from the Great Oubliette, that vast dungeon where Nagash entraps any who fall foul of his warped justice. Thrashing with unearthly sentience, they slither unerringly towards any who bear even the most minor guilt. The Shackles seal not around flesh but around the soul, ensuring not even ethereal beings can escape. The more they struggle, the more these unfortunates are drained of vigour. Dread and grief seizes them until, at last, they surrender and are yanked into the Oubliette for the rest of time. • ENDLESS SPELLS WARSCROLL • Soulsnare Shackles SUMMONING REFERENCE Casting value 6 Wholy within 18\" of and visible to caster Each part within 3\" of at least 1 other part Passive MULTIPLE PARTS Effect: When a number of damage points equal to this MANIFESTATION ’s Health characteristic are allocated to it, this MANIFESTATION is destroyed and all its parts are removed from play. Any Hero Phase BOUND FOR THE GREAT OUBLIETTE : These manacles latch onto not just the bodies of combatants but their souls, draining them of vigour until they are at last dragged into the yawning cells of the Great Oubliette. Declare: For each part of this MANIFESTATION , you can pick an enemy unit within 3\" of that part to be the targets. You cannot pick the same unit to be the target of this ability more than once per turn. Effect: Roll a D3 for each target. On a 2+: Inflict an amount of mortal damage on the target equal to the roll."
+ },
+ {
+  "faction": "Endless Spells",
+  "faction_slug": "endless-spells",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Morbid Conjuration",
+  "text": "Effect: Roll a D3 for each target. On a 2+: Inflict an amount of mortal damage on the target equal to the roll. Subtract a number of inches equal to the roll from the target’s Move characteristic for the rest of the turn. KEYWORDS MANIFESTATION , ENDLESS SPELL , WARD ( 6+ ) • ENDLESS SPELLS WARSCROLL • Suffocating Gravetide 12\" 8 6+ 7+ 6+ The earth of the Mortal Realms is suffused with echoes of bloodshed. A sorcerer of sufficient might can stir these energies to a form of unhallowed wakefulness, conjuring a Suffocating Gravetide. These magical constructs stink of open coffins and desiccated flesh, and their impact can crush even cavalrymen, dragging them down to face choking asphyxiation or be torn apart by the writhing spirits within. There are grim tales of Gravetides endlessly circling old battlefields or swelling with such terrible malignancy that they loom over the towering heart-trees of ancient forests. • ENDLESS SPELLS WARSCROLL • Suffocating Gravetide MELEE WEAPONS Atk Hit Wnd Rnd Dmg Spectral Riptide [ Charge (+1 Damage) ] Spectral Riptide Charge (+1 Damage) 8 4+ 3+ 1 1 SUMMONING REFERENCE Casting value 8 Wholy within 12\" of and visible to caster More than 9\" from enemy Your Movement Phase PULLED TO THE GRAVE : Warriors caught in the path of a Suffocating Gravetide are buffeted by churning earth and dragged down by the spectral, restless dead. Effect: This MANIFESTATION can move a distance up to its Move characteristic. It can pass through models during that move but cannot end that move in combat. Then, you can pick an enemy unit that this MANIFESTATION passed across during that move to be the target. Roll a dice for each model in the target unit. For each 5+, inflict 1 mortal damage on the target."
+ },
+ {
+  "faction": "Endless Spells",
+  "faction_slug": "endless-spells",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Morbid Conjuration",
+  "text": "Roll a dice for each model in the target unit. For each 5+, inflict 1 mortal damage on the target. KEYWORDS CORE, MOVE KEYWORDS MANIFESTATION , ENDLESS SPELL , FLY , WARD ( 6+ )"
+ },
+ {
+  "faction": "Endless Spells",
+  "faction_slug": "endless-spells",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Primal Energy",
+  "text": "• ENDLESS SPELLS WARSCROLL • The Burning Head 8\" 6 6+ 6+ 6+ To summon the Burning Head, a wizard must draw upon their most volatile and fiery emotions. These crystallise as crackling motes and cinders that form a leering, cackling death’s head. Only the most reckless dare summon the Burning Head, for it races in whatever direction it chooses, heedlessly expending its essence in gouts of flame. In its wake, it leaves charred corpses and batteries of wooden-framed artillery set ablaze; even cities can be consumed by the incandescent mania of the Burning Head. • ENDLESS SPELLS WARSCROLL • The Burning Head RANGED WEAPONS Rng Atk Hit Wnd Rnd Dmg Burning Breath [ Shoot in Combat , Anti- WAR MACHINE (+1 Rend) ] Burning Breath Shoot in Combat , Anti- WAR MACHINE (+1 Rend) 10\" D6 4+ 3+ 2 1 MELEE WEAPONS Atk Hit Wnd Rnd Dmg Flaming Maw [ Anti- WAR MACHINE (+1 Rend) ] Flaming Maw Anti- WAR MACHINE (+1 Rend) 2D6 4+ 3+ 2 1 SUMMONING REFERENCE Casting value 5 Wholy within 12\" of and visible to caster More than 9\" from enemy Passive BURNING UP : The Burning Head can unleash a torrent of flame upon the enemy, but doing so quickly extinguishes its essence. Effect: Each time this MANIFESTATION uses a SHOOT ability, after that ability has been resolved, allocate 1 damage point to this MANIFESTATION ( ward rolls cannot be made for that damage point). KEYWORDS MANIFESTATION , ENDLESS SPELL , FLY , WARD ( 6+ ) • ENDLESS SPELLS WARSCROLL • Emerald Lifeswarm 8\" 5 6+ 7+ 6+ Carried upon buzzing insectile wings, an Emerald Lifeswarm embodies Ghyran’s healing powers. They are conjured from the remnants of life, be it a forlorn tree husk or a mouldering corpse. Seeking out those wounded unto death, a Lifeswarm descends to meld with torn tissue and reknit organs and bones."
+ },
+ {
+  "faction": "Endless Spells",
+  "faction_slug": "endless-spells",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Primal Energy",
+  "text": "Seeking out those wounded unto death, a Lifeswarm descends to meld with torn tissue and reknit organs and bones. Yet all things are cyclical, and renewal is entwined with death. A Lifeswarm seeks out foes as eagerly as it does friends, but to these it delivers countless poisonous bites, burrowing inside armour to strike where they are most vulnerable. • ENDLESS SPELLS WARSCROLL • Emerald Lifeswarm MELEE WEAPONS Atk Hit Wnd Rnd Dmg Swarming Bites [ Anti- INFANTRY (+1 Rend) ] Swarming Bites Anti- INFANTRY (+1 Rend) 2D6 4+ 4+ - 1 SUMMONING REFERENCE Casting value 6 Wholy within 12\" of and visible to caster More than 9\" from enemy Your Movement Phase BOUNTEOUS HEALING : Squirming into the gaps between rent flesh and broken bones, the insects of the Emerald Lifeswarm seal the wounds of the living. Declare: Pick a friendly unit within 3\" of this MANIFESTATION to be the target. Effect: Heal (3) the target. End of Any Turn RESTORED VIGOUR : A Lifeswarm can use the healing powers of Ghyran to rejuvenate itself as well as its allies. Effect: Heal (3) this MANIFESTATION . KEYWORDS MANIFESTATION , ENDLESS SPELL , FLY , WARD ( 6+ ) • ENDLESS SPELLS WARSCROLL • Ravenak’s Gnashing Jaws 3D6\" 10 6+ 7+ 6+ Ravenak’s Gnashing Jaws are the embodiment of hunger, an insatiable devourer that tears through anything that moves. No matter how many they rip into visceral, bloodied chunks, the Jaws never slacken. Gory streaks of meat and guts are left trailing behind such a spell – but more unsettling still is the uncertainty surrounding the fate of those devoured. Ravenak’s precise nature remains a topic of debate amongst scholars and shamans, with possibilities ranging from a godbeast trapped long ago by Sigmar to an aspect of savage Gorkamorka himself."
+ },
+ {
+  "faction": "Endless Spells",
+  "faction_slug": "endless-spells",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Primal Energy",
+  "text": "debate amongst scholars and shamans, with possibilities ranging from a godbeast trapped long ago by Sigmar to an aspect of savage Gorkamorka himself. • ENDLESS SPELLS WARSCROLL • Ravenak’s Gnashing Jaws MELEE WEAPONS Atk Hit Wnd Rnd Dmg Gnashing Jaws [ Charge (+1 Damage) ] Gnashing Jaws Charge (+1 Damage) 10 4+ 2+ 1 1 SUMMONING REFERENCE Casting value 7 Wholy within 12\" of and visible to caster More than 9\" from enemy Any Charge Phase RAVENING HUNGER : Rampaging across the battlefield in a blur of bestial motion, Ravenak’s Gnashing Jaws are indiscriminate in their hunger. Declare: If this MANIFESTATION charged this turn, pick an enemy unit within 1\" of it to be the target. Effect: Roll 10 dice. For each 5+, inflict 1 mortal damage on the target. KEYWORDS MANIFESTATION , ENDLESS SPELL , WARD ( 6+ )"
+ },
+ {
+  "faction": "Endless Spells",
+  "faction_slug": "endless-spells",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Twilit Sorceries",
+  "text": "• ENDLESS SPELLS WARSCROLL • Geminids of Uhl-Gysh 8\" 8 6+ 6+ 6+ Between Hysh and Ulgu lies the Hidden Gloaming, a paradoxical place of shadow and light where secrets fester. Through drawing on the symbiotic yet opposed energies of the Gloaming, a wizard may summon the Geminids: twin spheres that race across the battlefield in swirling tandem. From the Shadow Geminid trails smoke laced with illusory falsehoods, bringing waves of hopeless darkness. The Light Geminid sears the mind with pure reason, bestowing unwanted but undeniable knowledge that crushes those of weaker mental fortitude. • ENDLESS SPELLS WARSCROLL • Geminids of Uhl-Gysh MELEE WEAPONS Atk Hit Wnd Rnd Dmg Tendrils of Light and Shadow Tendrils of Light and Shadow 4 4+ 3+ 1 D3 SUMMONING REFERENCE Casting value 7 Wholy within 18\" of and visible to caster More than 9\" from enemy Passive MULTIPLE PARTS Effect: When a number of damage points equal to this MANIFESTATION ’s Health characteristic are allocated to it, this MANIFESTATION is destroyed and both its parts are removed from play. Each time this MANIFESTATION moves, both its parts must end within 9\" of each other. Each part of this MANIFESTATION is armed with Tendrils of Light and Shadow . Passive TENDRILS OF SHADOW AND LIGHT : Where the Shadow Geminid trails a noxious dark mist populated by unsettling illusions, the Light Geminid radiates incinerating light and bestows mind-destroying truths. Effect: Enemy units cannot use commands while they are within 3\" of either part of this MANIFESTATION . KEYWORDS MANIFESTATION , ENDLESS SPELL , FLY , WARD ( 6+ ) • ENDLESS SPELLS WARSCROLL • Prismatic Palisade - 8 6+ 7+ 6+ A Prismatic Palisade rises in a flash of brilliant light and with the resonant chime of crystal."
+ },
+ {
+  "faction": "Endless Spells",
+  "faction_slug": "endless-spells",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Twilit Sorceries",
+  "text": "SPELLS WARSCROLL • Prismatic Palisade - 8 6+ 7+ 6+ A Prismatic Palisade rises in a flash of brilliant light and with the resonant chime of crystal. Such pure radiance shines from its elegant spars that those nearby are blinded and projectiles are burnt to nothing as they near the spell. Though a Prismatic Palisade may appear fragile, its aetheric substance is firmer than the most stubborn steel; it is, after all, conjured from the substance of symmetry and ineffable light, willed into being by minds brimming with potential. • ENDLESS SPELLS WARSCROLL • Prismatic Palisade SUMMONING REFERENCE Casting value 7 Wholy within 18\" of and visible to caster Passive BLINDING LIGHT : The radiant beams projected from this barrier confound the aim of all within sight of it. Effect: This MANIFESTATION cannot be targeted by shooting attacks . In addition, a unit cannot be targeted by shooting attacks if it is impossible to draw a straight line from a model in the attacking unit to a model in the target unit without that line passing across this MANIFESTATION . KEYWORDS MANIFESTATION , ENDLESS SPELL , WARD ( 6+ ) • ENDLESS SPELLS WARSCROLL • Umbral Spellportal - 8 6+ 6+ 6+ Umbral Spellportals manifest as pairs of floating, gloom-wreathed mirrors. Most who gaze into them see only half-glimpsed secrets or distorted memories, but wizards perceive them as passageways through which sorceries can be channelled to wreak destruction behind fortress walls or aid isolated warriors. Yet an ominous aura surrounds the Spellportals. Most mages have heard of Grandelthorpe the Lesser, whose attempts to discover the working of these constructs saw her mind gradually unravel until she was convinced that strange entities shadowed her steps from within impossible dimensions."
+ },
+ {
+  "faction": "Endless Spells",
+  "faction_slug": "endless-spells",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Twilit Sorceries",
+  "text": "these constructs saw her mind gradually unravel until she was convinced that strange entities shadowed her steps from within impossible dimensions. • ENDLESS SPELLS WARSCROLL • Umbral Spellportal SUMMONING REFERENCE Casting value 7 Wholy within 18\" of and visible to caster Parts within 9\" of each other Passive MULTIPLE PARTS Effect: When a number of damage points equal to this MANIFESTATION ’s Health characteristic are allocated to it, this MANIFESTATION is destroyed and both its parts are removed from play. Your Hero Phase ARCANE PASSAGE : When looking upon an Umbral Spellportal, those versed in magic see a shadowy reflection of what lies on the other side of its twinned construct; while physical matter cannot travel through the portal, aetheric energy knows no such restriction. Declare: Pick a friendly WIZARD within 3\" of this MANIFESTATION to be the target. Effect: The next time the target uses a non- SUMMON SPELL ability this phase, add 1 to the casting value of that spell. When picking targets for that spell, you can measure range and visibility from either part of this MANIFESTATION instead of from the caster, and your opponent can measure range and visibility to either part of this MANIFESTATION instead of to the caster for the purposes of the ‘ Unbind ’ ability. KEYWORDS MANIFESTATION , ENDLESS SPELL , WARD ( 6+ ) noindex /noindex noindex"
+ }
+]

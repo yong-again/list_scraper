@@ -1,0 +1,3151 @@
+[
+ {
+  "id": "Kelthannor-the-Forest-Prince",
+  "name": "Kelthannor the Forest Prince",
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "grand_alliance": "Order",
+  "move": "12\"",
+  "health": "6",
+  "save": "4+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Kurnothi Princeling’s Bow",
+    "range": "18\"",
+    "attacks": "3",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "2",
+    "damage": "2",
+    "abilities": [
+     "Crit (Auto-wound)"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Hooves and Knuckles",
+    "range": "",
+    "attacks": "4",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Charge (+1 Damage)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "CLARION OF THE FOREST PRINCE ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick a friendly non- WAR MACHINE unit wholly within 12\" of this unit to be the target.",
+    "effect": "The target can move 3\". It can move through and end that move within the combat ranges of enemy units that it was in combat with at the start of that move, but not those of other enemy units. It does not have to end the move in combat."
+   },
+   {
+    "name": "DEBILITATING SHOT ",
+    "timing": "Any Shooting Phase",
+    "declare": "Pick an enemy unit that has no more than 1 model and that had any damage points allocated to it this phase by this unit’s shooting attacks to be the target.",
+    "effect": "Roll a dice. On a 3+, subtract 1 from the Attacks characteristic of the target’s weapons until the start of your next turn."
+   }
+  ],
+  "keywords": [
+   "UNIQUE",
+   "HERO",
+   "CAVALRY",
+   "ORDER",
+   "SYLVANETH",
+   "KURNOTHI"
+  ],
+  "unit_size": null,
+  "points": null,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Arch-Revenant",
+  "name": "Arch-Revenant",
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "grand_alliance": "Order",
+  "move": "12\"",
+  "health": "6",
+  "save": "4+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Arch-Revenant’s Glaive",
+    "range": "",
+    "attacks": "5",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "GOSSAMID COMMANDER ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "If this unit charged this turn, pick a visible friendly Gossamid Archers unit that is not in combat and is wholly within 18\" of this unit to be the target.",
+    "effect": "The target can immediately use a SHOOT ability as if it were your shooting phase but all of the attacks made as part of that SHOOT ability must target an enemy unit that is in combat with this unit."
+   },
+   {
+    "name": "FIGHT AND FLY ",
+    "timing": "Reaction: You declared a FIGHT ability for this unit",
+    "declare": "",
+    "effect": "If this unit charged this turn, this unit can move up to 2D6\" after that FIGHT ability has been resolved. It cannot end that move in combat ."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "INFANTRY",
+   "FLY",
+   "ORDER",
+   "SYLVANETH",
+   "REVENANT"
+  ],
+  "unit_size": 1,
+  "points": 110,
+  "base_size": "40mm",
+  "can_be_reinforced": false,
+  "regiment_options": "Any SYLVANETH non- MONSTER Notes: This HERO can join an eligible regiment as a Forest Sentinel ."
+ },
+ {
+  "id": "Branchwych",
+  "name": "Branchwych",
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "5",
+  "save": "5+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Greenwood Scythe and Bittergrub",
+    "range": "",
+    "attacks": "3",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "SLAY THE TRESPASSERS! ",
+    "timing": "Once Per Turn (Army), Your Hero Phase",
+    "declare": "Pick an enemy unit that is within the creeping overgrowth or that is visible to this unit and within friendly territory to be the target.",
+    "effect": "Roll a dice. On a 3+, add 1 to wound rolls for combat attacks that target that enemy unit for the rest of the turn."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "WIZARD ( 1 )",
+   "INFANTRY",
+   "ORDER",
+   "SYLVANETH"
+  ],
+  "unit_size": 1,
+  "points": 100,
+  "base_size": "32mm",
+  "can_be_reinforced": false,
+  "regiment_options": "Any INFANTRY"
+ },
+ {
+  "id": "Grove-Guardian",
+  "name": "Grove Guardian",
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "grand_alliance": "Order",
+  "move": "4\"",
+  "health": "7",
+  "save": "5+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Grove Sickle or Shears",
+    "range": "",
+    "attacks": "3",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": []
+   },
+   {
+    "name": "Guardian Spites",
+    "range": "",
+    "attacks": "6",
+    "hit": "4+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": [
+     "Crit (Mortal) , Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "SOULSHRIEK ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "Pick each friendly non- HERO REVENANT unit wholly within 12\" of and visible to this unit to be the targets.",
+    "effect": "For the rest of the phase, each time a model in a target unit is slain by a combat attack, roll a dice. On a 5+, inflict 1 mortal damage on the attacking unit."
+   },
+   {
+    "name": "REGENESIS ",
+    "timing": "Your Hero Phase",
+    "declare": "Declare: Pick a friendly SYLVANETH unit that is wholly within the creeping overgrowth or that is visible to and wholly within 12\" of this unit to be the target, then make a chanting roll of D6.",
+    "effect": "If the chanting roll was 6+, you can pick another eligible unit to be a second target. If a target is a non- HERO REVENANT INFANTRY or Dryads unit, return up to D3 models to the target unit. Otherwise, Heal (3) that target."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "PRIEST ( 2 )",
+   "INFANTRY",
+   "ORDER",
+   "SYLVANETH",
+   "FOREST ELDER"
+  ],
+  "unit_size": 1,
+  "points": 220,
+  "base_size": "90 × 52mm",
+  "can_be_reinforced": true,
+  "regiment_options": "Any SYLVANETH"
+ },
+ {
+  "id": "Warsong-Revenant",
+  "name": "Warsong Revenant",
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "7",
+  "save": "5+",
+  "control": "2",
+  "ward": "6+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Spirit Falchion and Spearing Vines",
+    "range": "",
+    "attacks": "5",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "ALARIELLE’S SONG ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Friendly SYLVANETH units have WARD ( 6+ ) while they are wholly within 12\" of this unit. Subtract 1 from ward rolls for enemy units while they are within 12\" of this unit."
+   },
+   {
+    "name": "ROUSING ACCOMPANIMENT ",
+    "timing": "Once Per Turn (Army), Reaction: You made an unmodified chanting roll of 1 for a SYLVANETH PRIEST wholly within 12\" of this unit",
+    "declare": "",
+    "effect": "Re-roll that chanting roll ."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "PRIEST ( 1 )",
+   "INFANTRY",
+   "FLY",
+   "WARD ( 6+ )",
+   "ORDER",
+   "SYLVANETH",
+   "REVENANT"
+  ],
+  "unit_size": 1,
+  "points": 170,
+  "base_size": "105 × 70mm",
+  "can_be_reinforced": false,
+  "regiment_options": "Any SYLVANETH"
+ },
+ {
+  "id": "Alarielle-the-Everqueen",
+  "name": "Alarielle the Everqueen",
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "grand_alliance": "Order",
+  "move": "14\"",
+  "health": "16",
+  "save": "4+",
+  "control": "10",
+  "ward": "5+",
+  "ranged_weapons": [
+   {
+    "name": "Spear of Kurnoth",
+    "range": "12\"",
+    "attacks": "1",
+    "hit": "2+",
+    "wound": "3+",
+    "rend": "2",
+    "damage": "4",
+    "abilities": []
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Spear of Kurnoth",
+    "range": "",
+    "attacks": "5",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "2",
+    "damage": "2",
+    "abilities": [
+     "Charge (+1 Damage)"
+    ]
+   },
+   {
+    "name": "Wardroth Beetle’s Antlers",
+    "range": "",
+    "attacks": "6",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "4",
+    "abilities": [
+     "Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "BATTLE DAMAGED",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit has 10 or more damage points, the Attacks characteristic of its Wardroth Beetle’s Antlers is 4."
+   },
+   {
+    "name": "SEASONS OF WAR ",
+    "timing": "Start of Battle Round",
+    "declare": "You must use this ability.",
+    "effect": "Pick 1 of the following effects to apply for the rest of the battle round. You cannot pick the effect that you picked in the previous battle round. The Burgeoning: Each time a friendly Awakened Wyldwood uses the ‘Ever Growing’ ability, you can pick any terrain feature your opponent does not control to be the target rather than the closest. The Reaping: Add 1 to casting rolls and chanting rolls for friendly SYLVANETH units while they are wholly within 12\" of this unit. The Dwindling: Friendly SYLVANETH units can use CHARGE abilities even if they used a RETREAT ability in the same turn. In addition, no mortal damage is inflicted on those units when they use RETREAT abilities. Everdusk: Each time you use the ‘ Creeping Dread ’ ability this battle round, you can pick up to 3 targets instead of 1."
+   },
+   {
+    "name": "LIFEBLOOM ",
+    "timing": "Once Per Turn (Army), Any Hero Phase",
+    "declare": "",
+    "effect": "Heal (2D6) this unit."
+   },
+   {
+    "name": "METAMORPHOSIS ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick a visible enemy unit within 12\" of this unit to be the target, then make a casting roll of 2D6.",
+    "effect": "Inflict 2D3 mortal damage on the target. If the target would be destroyed by this spell, before removing any models, pick the closest terrain feature to the target that does not have a friendly overgrown token and give it a friendly overgrown token . If all terrain features on the battlefield already have a friendly overgrown token , inflict D3 mortal damage on each enemy unit within 6\" of the target instead."
+   },
+   {
+    "name": "THE GODDESS OF LIFE ",
+    "timing": "Once Per Battle, Your Movement Phase",
+    "declare": "This unit can use this ability even if it has been destroyed.",
+    "effect": "Set up a replacement unit with 8 damage points allocated to it ( ward rolls cannot be made for those damage points) wholly within the creeping overgrowth and more than 9\" from all enemy units."
+   },
+   {
+    "name": "LIVING BATTERING RAM ",
+    "timing": "Once Per Turn (Army), Any Charge Phase",
+    "declare": "If this unit charged this turn, pick a visible enemy unit within 1\" of it to be the target.",
+    "effect": "Roll a dice. On a 3+, inflict an amount of mortal damage on the target equal to the roll."
+   }
+  ],
+  "keywords": [
+   "WARMASTER",
+   "UNIQUE",
+   "HERO",
+   "MONSTER",
+   "WIZARD ( 3 )",
+   "FLY",
+   "WARD ( 5+ )",
+   "ORDER",
+   "SYLVANETH"
+  ],
+  "unit_size": 1,
+  "points": 620,
+  "base_size": "160mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Forest Sentinel , Any SYLVANETH"
+ },
+ {
+  "id": "Belthanos-First-Thorn-of-Kurnoth",
+  "name": "Belthanos First Thorn of Kurnoth",
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "grand_alliance": "Order",
+  "move": "12\"",
+  "health": "14",
+  "save": "3+",
+  "control": "5",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Kurnoth Glaive",
+    "range": "",
+    "attacks": "5",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "2",
+    "damage": "2",
+    "abilities": [
+     "Charge (+1 Damage)"
+    ]
+   },
+   {
+    "name": "Carnelian Greatspite’s Mandibles",
+    "range": "",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "3",
+    "abilities": [
+     "Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "BATTLE DAMAGED",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit has 10 or more damage points, the Attacks characteristic of its Carnelian Greatspite’s Mandibles is 3."
+   },
+   {
+    "name": "KURNOTHI WAR-HORN ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Add 2\" to the Move characteristic of friendly KURNOTHI units while they are wholly within 12\" of this unit."
+   },
+   {
+    "name": "HUNTMASTER’S STRIKE ",
+    "timing": "Once Per Turn (Army), End of Any Turn",
+    "declare": "",
+    "effect": "If this unit charged this turn, remove it from the battlefield and set it up again more than 6\" from all enemy units and wholly within the creeping overgrowth ."
+   },
+   {
+    "name": "RHYTHM OF THE CHASE ",
+    "timing": "Once per Turn (Army), Any Combat Phase",
+    "declare": "Pick an enemy unit in combat with this unit to be the target.",
+    "effect": "Roll a D3. On a 2+, inflict an amount of mortal damage on the target equal to the roll, then you can remove this unit from the battlefield and set it up again within 1\" of the target."
+   }
+  ],
+  "keywords": [
+   "UNIQUE",
+   "HERO",
+   "MONSTER",
+   "FLY",
+   "ORDER",
+   "SYLVANETH",
+   "KURNOTHI"
+  ],
+  "unit_size": 1,
+  "points": 290,
+  "base_size": "150 × 95mm",
+  "can_be_reinforced": false,
+  "regiment_options": "Any SYLVANETH"
+ },
+ {
+  "id": "Drycha-Hamadreth",
+  "name": "Drycha Hamadreth",
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "grand_alliance": "Order",
+  "move": "10\"",
+  "health": "12",
+  "save": "3+",
+  "control": "5",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Slashing Talons",
+    "range": "",
+    "attacks": "5",
+    "hit": "3+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "2",
+    "abilities": [
+     "Crit (2 Hits)"
+    ]
+   },
+   {
+    "name": "Swarm of Spites",
+    "range": "",
+    "attacks": "20",
+    "hit": "4+",
+    "wound": "4+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": [
+     "Crit (Mortal) , Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "TERROR OF THE DEEP WOODS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Enemy units cannot use RUN or RETREAT abilities while they are within 9\" of this unit."
+   },
+   {
+    "name": "ENRAGE THE SPITES ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick up to 3 enemy units that are visible to and within 12\" of this unit or that are within the creeping overgrowth to be the targets, then make a casting roll of 2D6.",
+    "effect": "Inflict D3 mortal damage on each target."
+   },
+   {
+    "name": "MERCILESS AMBUSH ",
+    "timing": "Your Charge Phase",
+    "declare": "If this unit is not in combat and has not used a RUN or RETREAT ability this turn, make a charge roll of 2D6.",
+    "effect": "You can remove this unit from the battlefield and set it up again within ½\" of an enemy unit and wholly within X\" of a terrain feature that has a friendly overgrown token , where X is equal to the charge roll. If you do so, this unit has charged ."
+   }
+  ],
+  "keywords": [
+   "UNIQUE",
+   "HERO",
+   "MONSTER",
+   "WIZARD ( 1 )",
+   "ORDER",
+   "SYLVANETH",
+   "FOREST ELDER"
+  ],
+  "unit_size": 1,
+  "points": 250,
+  "base_size": "105 × 70mm",
+  "can_be_reinforced": false,
+  "regiment_options": "Any SYLVANETH"
+ },
+ {
+  "id": "Spirit-of-Durthu",
+  "name": "Spirit of Durthu",
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "14",
+  "save": "3+",
+  "control": "5",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Verdant Blast",
+    "range": "12\"",
+    "attacks": "5",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": []
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Guardian Sword",
+    "range": "",
+    "attacks": "5",
+    "hit": "3+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "4",
+    "abilities": [
+     "Anti- MONSTER (+1 Rend)"
+    ]
+   },
+   {
+    "name": "Massive Impaling Talons",
+    "range": "",
+    "attacks": "2",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "3",
+    "abilities": [
+     "Crit (Mortal)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "BATTLE DAMAGED",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit has 10 or more damage points, the Attacks characteristic of its Guardian Sword is 3."
+   },
+   {
+    "name": "GUARDIAN OF THE GLADES ",
+    "timing": "Once Per Turn (Army), Reaction: You declared a CHARGE ability for this unit",
+    "declare": "",
+    "effect": "Add 2 to the charge roll but this unit must end that charge move within ½\" of an enemy unit that is in combat with another friendly SYLVANETH HERO ."
+   },
+   {
+    "name": "GROUNDSHAKER ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "Pick an enemy non- FLY INFANTRY or CAVALRY unit in combat with this unit to be the target.",
+    "effect": "Roll a dice. On a 3+, the target has STRIKE-LAST for the rest of the turn."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "MONSTER",
+   "ORDER",
+   "SYLVANETH",
+   "FOREST ELDER"
+  ],
+  "unit_size": 1,
+  "points": 320,
+  "base_size": "105 × 70mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Forest Sentinel , Any SYLVANETH"
+ },
+ {
+  "id": "The-Lady-of-Vines",
+  "name": "The Lady of Vines",
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "10",
+  "save": "4+",
+  "control": "5",
+  "ward": "5+",
+  "ranged_weapons": [
+   {
+    "name": "Kurnotheal’s Wrath",
+    "range": "12\"",
+    "attacks": "1",
+    "hit": "2+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "D6",
+    "abilities": []
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Kurnotheal’s Wrath and Lashing Vines",
+    "range": "",
+    "attacks": "6",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "2",
+    "damage": "2",
+    "abilities": [
+     "Crit (Mortal)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "HAND OF THE EVERQUEEN ",
+    "timing": "Once Per Turn (Army), Any Hero Phase",
+    "declare": "Pick a terrain feature within 18\" of this unit that has a friendly overgrown token to be the target.",
+    "effect": "The next time this unit uses a non- SUMMON SPELL ability this phase, when picking targets for that spell, you can measure range and visibility from the target terrain feature instead of from this unit, and your opponent can measure range and visibility to the target terrain feature instead of to this unit for the purposes of the ‘ Unbind ’ ability."
+   },
+   {
+    "name": "PROTECTION OF THE EVERQUEEN ",
+    "timing": "Your Hero Phase",
+    "declare": "Make a casting roll of 2D6. Add 1 to the roll if this unit is wholly within the creeping overgrowth .",
+    "effect": "Until the start of your next turn, friendly SYLVANETH units have WARD ( 5+ ) while they are wholly within 12\" of this unit."
+   },
+   {
+    "name": "VERDIAN CROWN ",
+    "timing": "Once Per Battle, Any Hero Phase",
+    "declare": "Pick a terrain feature within 18\" of this unit that does not have a friendly overgrown token to be the target.",
+    "effect": "Give the target a friendly overgrown token ."
+   }
+  ],
+  "keywords": [
+   "UNIQUE",
+   "HERO",
+   "MONSTER",
+   "WIZARD ( 2 )",
+   "WARD ( 5+ )",
+   "ORDER",
+   "SYLVANETH",
+   "FOREST ELDER"
+  ],
+  "unit_size": 1,
+  "points": 280,
+  "base_size": "80mm",
+  "can_be_reinforced": false,
+  "regiment_options": "Any SYLVANETH"
+ },
+ {
+  "id": "Treelord-Ancient",
+  "name": "Treelord Ancient",
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "14",
+  "save": "3+",
+  "control": "5",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Doom Tendril Staff",
+    "range": "18\"",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": []
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Sweeping Blows",
+    "range": "",
+    "attacks": "5",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Anti-charge (+1 Rend)"
+    ]
+   },
+   {
+    "name": "Massive Impaling Talons",
+    "range": "",
+    "attacks": "2",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "3",
+    "abilities": [
+     "Crit (Mortal)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "BATTLE DAMAGED",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit has 10 or more damage points, the Attacks characteristic of its Sweeping Blows is 3."
+   },
+   {
+    "name": "AWAKENING SLUMBERING SPIRITS ",
+    "timing": "Once Per Turn (Army), Your Movement Phase",
+    "declare": "Pick a visible terrain feature that has a friendly overgrown token and is within 12\" of this unit. Then, pick a friendly non- UNIQUE KURNOTHI or Treelord unit that has been destroyed to be the target.",
+    "effect": "Set up a replacement unit with 1 model from the target unit wholly within 6\" of that terrain feature and more than 9\" from all enemy units. Then, remove the friendly overgrown token from that terrain feature. If the target was a Treelord , allocate 10 damage points to the replacement unit ( ward rolls cannot be made for those damage points)."
+   },
+   {
+    "name": "ELDEST OF ELDERS ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "Pick each friendly FOREST ELDER within this unit’s combat range to be the targets.",
+    "effect": "Roll a dice for each target. On a 3+, add 1 to hit rolls for that target’s combat attacks until the start of your next turn."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "MONSTER",
+   "WIZARD ( 2 )",
+   "ORDER",
+   "SYLVANETH",
+   "FOREST ELDER"
+  ],
+  "unit_size": 1,
+  "points": 280,
+  "base_size": "105 × 70mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Forest Sentinel , Any SYLVANETH"
+ },
+ {
+  "id": "Scourge-of-Aqshy-Treelord-Ancient",
+  "name": "Scourge of Aqshy Treelord Ancient",
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "14",
+  "save": "3+",
+  "control": "5",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Doom Tendril Staff",
+    "range": "18\"",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": []
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Sweeping Blows",
+    "range": "",
+    "attacks": "5",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Anti-charge (+1 Rend)"
+    ]
+   },
+   {
+    "name": "Massive Impaling Talons",
+    "range": "",
+    "attacks": "2",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "3",
+    "abilities": [
+     "Crit (Mortal)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "BATTLE DAMAGED",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit has 10 or more damage points, the Attacks characteristic of its Sweeping Blows is 3."
+   },
+   {
+    "name": "AWAKENING SLUMBERING SPIRITS ",
+    "timing": "Once Per Turn (Army), Your Hero Phase",
+    "declare": "",
+    "effect": "For the rest of the turn: Each time you make a casting roll for this unit, add D3 to the roll. This unit cannot move or be removed from the battlefield by an ability that would allow it to be set up elsewhere on the battlefield or in reserve ."
+   },
+   {
+    "name": "ELDEST OF ELDERS ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick this unit or a visible friendly Awakened Wyldwood wholly within 12\" of this unit to be the target, then make a casting roll of 2D6.",
+    "effect": "Until the start of your next turn: Ignore the effects of enemy SPELL abilities on units (friendly and enemy) while they are within 6\" of the target. Weapons used by enemy MANIFESTATIONS have a maximum Attacks characteristic of 1 while they are within 6\" of the target."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "MONSTER",
+   "WIZARD ( 2 )",
+   "ORDER",
+   "SYLVANETH",
+   "FOREST ELDER"
+  ],
+  "unit_size": 1,
+  "points": 290,
+  "base_size": "105 × 70mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Forest Sentinel , Any SYLVANETH"
+ },
+ {
+  "id": "Scourge-of-Ghyran-Drycha-Hamadreth",
+  "name": "Scourge of Ghyran Drycha Hamadreth",
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "grand_alliance": "Order",
+  "move": "10\"",
+  "health": "12",
+  "save": "3+",
+  "control": "5",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Slashing Talons",
+    "range": "",
+    "attacks": "10",
+    "hit": "3+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "2",
+    "abilities": [
+     "Crit (2 Hits)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "STRENGTH FROM SPITE ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Ward rolls cannot be made for damage points inflicted by this unit’s attacks."
+   },
+   {
+    "name": "TWISTED SPIRIT-SONG ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick a visible friendly SYLVANETH unit wholly within 12\" of this unit to be the target. Then, make a casting roll of 2D6.",
+    "effect": "Until the start of your next turn, add 1 to wound rolls for the target’s combat attacks , including those made with Companion weapons. In addition, if the target is non- KURNOTHI , add 1 to the Attacks characteristics of the target’s melee weapons."
+   },
+   {
+    "name": "VICIOUS SPITESWARMS ",
+    "timing": "Reaction: Opponent declared a CHARGE ability for a unit within 18\" of this unit",
+    "declare": "",
+    "effect": "Your opponent must pick 1 of the following: Avoid the Swarm: Subtract D3 from the charge roll . In addition, if your opponent re-rolls that charge roll, subtract D3 from that roll. Charge Through the Swarm: Subtract 1 from hit rolls for that unit’s attacks for the rest of the turn, and add 1 to hit rolls for attacks that target that unit for the rest of the turn."
+   }
+  ],
+  "keywords": [
+   "UNIQUE",
+   "HERO",
+   "MONSTER",
+   "WIZARD ( 1 )",
+   "ORDER",
+   "SYLVANETH"
+  ],
+  "unit_size": 1,
+  "points": 300,
+  "base_size": "105 × 70mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Forest Sentinel , Any SYLVANETH Notes: This unit is legal for Matched Play for battles fought using the General’s Handbook 2025-26 battlepack."
+ },
+ {
+  "id": "Revenant-Seekers",
+  "name": "Revenant Seekers",
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "grand_alliance": "Order",
+  "move": "12\"",
+  "health": "5",
+  "save": "4+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Seeker’s Sickle",
+    "range": "",
+    "attacks": "3",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Crit (Mortal)"
+    ]
+   },
+   {
+    "name": "Dragonspite’s Mandibles",
+    "range": "",
+    "attacks": "3",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "FOREST FIGHTERS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "This unit has a coherency range of 2\"."
+   },
+   {
+    "name": "DEAFENING DRONE ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "If this unit did not charge this turn, pick an enemy unit in combat with it to be the target.",
+    "effect": "Subtract 1 from the Attacks characteristic of the target’s melee weapons for the rest of the turn."
+   }
+  ],
+  "keywords": [
+   "CAVALRY",
+   "CHAMPION",
+   "MUSICIAN ( 1/3 )",
+   "STANDARD BEARER ( 1/3 )",
+   "FLY",
+   "ORDER",
+   "SYLVANETH",
+   "REVENANT"
+  ],
+  "unit_size": 3,
+  "points": 180,
+  "base_size": "60mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Spiterider-Lancers",
+  "name": "Spiterider Lancers",
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "grand_alliance": "Order",
+  "move": "12\"",
+  "health": "5",
+  "save": "4+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Spiterider Lance",
+    "range": "",
+    "attacks": "3",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Charge (+1 Damage) , Crit (2 Hits)"
+    ]
+   },
+   {
+    "name": "Dragonspite’s Mandibles",
+    "range": "",
+    "attacks": "3",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "FOREST FIGHTERS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "This unit has a coherency range of 2\"."
+   },
+   {
+    "name": "STRIKE AND FADE ",
+    "timing": "Once Per Turn (Army), End of Any Turn",
+    "declare": "",
+    "effect": "If this unit charged this turn, remove it from the battlefield and set it up again more than 9\" from all enemy units and wholly within the creeping overgrowth ."
+   }
+  ],
+  "keywords": [
+   "CAVALRY",
+   "CHAMPION",
+   "MUSICIAN ( 1/3 )",
+   "STANDARD BEARER ( 1/3 )",
+   "FLY",
+   "ORDER",
+   "SYLVANETH",
+   "REVENANT"
+  ],
+  "unit_size": 3,
+  "points": 230,
+  "base_size": "60mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Scourge-of-Ghyran-Revenant-Seekers",
+  "name": "Scourge of Ghyran Revenant Seekers",
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "grand_alliance": "Order",
+  "move": "12\"",
+  "health": "5",
+  "save": "4+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Scourge Sickle",
+    "range": "",
+    "attacks": "3",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Crit (Mortal)"
+    ]
+   },
+   {
+    "name": "Sharpened Mandibles",
+    "range": "",
+    "attacks": "3",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Charge (+1 Damage) , Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "FOREST FIGHTERS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "This unit has a coherency range of 2\"."
+   },
+   {
+    "name": "LAMENTIRI LIFE ENERGIES ",
+    "timing": "Once Per Turn (Army), Any Hero Phase",
+    "declare": "Pick a visible friendly SYLVANETH unit wholly within 12\" of this unit to be the target.",
+    "effect": "Roll a dice. On a 3+, the target has WARD ( 5+ ) for the rest of the turn."
+   }
+  ],
+  "keywords": [
+   "CAVALRY",
+   "CHAMPION",
+   "MUSICIAN ( 1/3 )",
+   "STANDARD BEARER ( 1/3 )",
+   "FLY",
+   "ORDER",
+   "SYLVANETH"
+  ],
+  "unit_size": 3,
+  "points": 240,
+  "base_size": "60mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Kurnoth-s-Heralds",
+  "name": "Kurnoth’s Heralds",
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "grand_alliance": "Order",
+  "move": "12\"",
+  "health": "3",
+  "save": "5+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Kurnothi Bow",
+    "range": "18\"",
+    "attacks": "3",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": []
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Hunter Weapons",
+    "range": "",
+    "attacks": "3",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Charge (+1 Damage)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "GRACEFUL LEAPS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Each time this unit makes a pile-in move : Add 3\" to the distance this unit can move. This unit can pass through models in enemy units."
+   }
+  ],
+  "keywords": [
+   "UNIQUE",
+   "CAVALRY",
+   "CHAMPION",
+   "ORDER",
+   "SYLVANETH",
+   "KURNOTHI"
+  ],
+  "unit_size": 3,
+  "points": 110,
+  "base_size": "60 × 35mm",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Dryads",
+  "name": "Dryads",
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "1",
+  "save": "5+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Wracking Talons",
+    "range": "",
+    "attacks": "2",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "ONE WITH THE FOREST ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Subtract 1 from hit rolls and wound rolls for attacks that target this unit while it is wholly within the creeping overgrowth ."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "CHAMPION",
+   "ORDER",
+   "SYLVANETH"
+  ],
+  "unit_size": 10,
+  "points": 100,
+  "base_size": "32mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Gossamid-Archers",
+  "name": "Gossamid Archers",
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "grand_alliance": "Order",
+  "move": "12\"",
+  "health": "2",
+  "save": "5+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Gossamid Bow",
+    "range": "12\"",
+    "attacks": "2",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Crit (Auto-wound) , Shoot in Combat"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Cruel Talons",
+    "range": "",
+    "attacks": "1",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "FOREST FIGHTERS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "This unit has a coherency range of 2\"."
+   },
+   {
+    "name": "ZEPHYRSPITES ",
+    "timing": "Reaction: You declared a SHOOT ability for this unit",
+    "declare": "",
+    "effect": "After that SHOOT ability has been resolved, this unit can move up to D6\". It cannot move into combat during any part of that move."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "CHAMPION",
+   "FLY",
+   "ORDER",
+   "SYLVANETH",
+   "REVENANT"
+  ],
+  "unit_size": 5,
+  "points": 120,
+  "base_size": "32mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Kurnoth-Hunters-with-Greatbows",
+  "name": "Kurnoth Hunters with Greatbows",
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "5",
+  "save": "4+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Kurnoth Greatbow",
+    "range": "18\"",
+    "attacks": "2",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Anti- CAVALRY (+1 Rend)"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Vicious Claws",
+    "range": "",
+    "attacks": "3",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "HUNTER’S ENDURANCE ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Subtract 1 from the Rend characteristic of weapons used for attacks that target this unit while it is wholly within the creeping overgrowth ."
+   },
+   {
+    "name": "STEADY AIM ",
+    "timing": "Once Per Turn (Army), Your Shooting Phase",
+    "declare": "",
+    "effect": "If this unit has not used a MOVE ability this turn and was not set up this turn, add 1 to hit rolls for this unit’s shooting attacks for the rest of the turn."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "CHAMPION",
+   "ORDER",
+   "SYLVANETH",
+   "KURNOTHI"
+  ],
+  "unit_size": 3,
+  "points": 190,
+  "base_size": "50mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Kurnoth-Hunters-with-Greatscythes",
+  "name": "Kurnoth Hunters with Greatscythes",
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "5",
+  "save": "4+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Kurnoth Greatscythe",
+    "range": "",
+    "attacks": "3",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "3",
+    "abilities": [
+     "Anti-charge (+1 Rend)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "HUNTER’S ENDURANCE ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Subtract 1 from the Rend characteristic of weapons used for attacks that target this unit while it is wholly within the creeping overgrowth ."
+   },
+   {
+    "name": "TANGLETHORN THICKETS ",
+    "timing": "Any Combat Phase",
+    "declare": "Pick an enemy unit that charged this turn and is in combat with this unit to be the target.",
+    "effect": "Roll a dice for each model in this unit that is in combat with the target. For each 3+, inflict 1 mortal damage on the target."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "CHAMPION",
+   "ORDER",
+   "SYLVANETH",
+   "KURNOTHI"
+  ],
+  "unit_size": 3,
+  "points": 200,
+  "base_size": "50mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Kurnoth-Hunters-with-Greatswords",
+  "name": "Kurnoth Hunters with Greatswords",
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "5",
+  "save": "4+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Kurnoth Greatsword",
+    "range": "",
+    "attacks": "4",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Crit (Mortal)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "HUNTER’S ENDURANCE ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Subtract 1 from the Rend characteristic of weapons used for attacks that target this unit while it is wholly within the creeping overgrowth ."
+   },
+   {
+    "name": "CRASHING IMPACT ",
+    "timing": "Any Combat Phase",
+    "declare": "If this unit charged this turn, pick an enemy unit in combat with it to be the target.",
+    "effect": "Roll a dice for each model in this unit that is in combat with the target. For each 3+, inflict 1 mortal damage on the target."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "CHAMPION",
+   "ORDER",
+   "SYLVANETH",
+   "KURNOTHI"
+  ],
+  "unit_size": 3,
+  "points": 210,
+  "base_size": "50mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Spite-Revenants",
+  "name": "Spite-Revenants",
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "2",
+  "save": "5+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Cruel Talons and Fangs",
+    "range": "",
+    "attacks": "3",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": [
+     "Crit (Mortal)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "SHADOWCREEP ",
+    "timing": "Once Per Turn (Army), Your Movement Phase",
+    "declare": "",
+    "effect": "If this unit is wholly within the creeping overgrowth , remove this unit from the battlefield and set it up again wholly within 3\" of a terrain feature and more than 9\" from all enemy units. Then, add 1 to charge rolls for this unit for the rest of the turn."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "CHAMPION",
+   "ORDER",
+   "SYLVANETH",
+   "REVENANT"
+  ],
+  "unit_size": 5,
+  "points": 100,
+  "base_size": "32mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "The-Twistweald",
+  "name": "The Twistweald",
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "2",
+  "save": "5+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Voracious Swarm",
+    "range": "10\"",
+    "attacks": "6",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Shoot in Combat"
+    ]
+   },
+   {
+    "name": "Warden’s Bow",
+    "range": "18\"",
+    "attacks": "2",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": []
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Twistroot Weapons",
+    "range": "",
+    "attacks": "3",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "LATCHING PARASPITES ",
+    "timing": "Once Per Turn (Army), End of Any Turn",
+    "declare": "Pick an enemy unit in combat with this unit to be the target.",
+    "effect": "The target has the INFESTED keyword for the rest of the battle. INFESTED enemy units cannot move more than 6\" when using non- CHARGE MOVE abilities."
+   },
+   {
+    "name": "PAIN-INDUCED FRENZY ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "This unit’s melee weapons have Crit (2 Hits) if it charged in the same turn."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "CHAMPION",
+   "ORDER",
+   "SYLVANETH",
+   "REVENANT"
+  ],
+  "unit_size": 8,
+  "points": 140,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Tree-Revenants",
+  "name": "Tree-Revenants",
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "2",
+  "save": "5+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Revenant Blade",
+    "range": "",
+    "attacks": "3",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "WARRIORS OF THE WOODS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit is in combat and has not charged this turn, add 1 to the Damage characteristic of this unit’s melee weapons."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "CHAMPION",
+   "MUSICIAN ( 1/5 )",
+   "STANDARD BEARER ( 1/5 )",
+   "ORDER",
+   "SYLVANETH",
+   "REVENANT"
+  ],
+  "unit_size": 5,
+  "points": 110,
+  "base_size": "32mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Scourge-of-Aqshy-Kurnoth-Hunters-with-Greatswords",
+  "name": "Scourge of Aqshy Kurnoth Hunters with Greatswords",
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "5",
+  "save": "4+",
+  "control": "2",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Kurnoth Greatsword",
+    "range": "",
+    "attacks": "4",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Crit (Mortal)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "HUNTER’S ENDURANCE ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Subtract 1 from the Rend characteristic of weapons used for attacks that target this unit while it is wholly within the creeping overgrowth ."
+   },
+   {
+    "name": "VITAL RANGERS ",
+    "timing": "Once Per Turn (Army), End of Your Turn",
+    "declare": "",
+    "effect": "If this unit is not in combat , it can move a distance up to its Move characteristic. It must end that move within the creeping overgrowth and not in combat."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "CHAMPION",
+   "ORDER",
+   "SYLVANETH",
+   "KURNOTHI"
+  ],
+  "unit_size": 3,
+  "points": 240,
+  "base_size": "50mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Skaeth-s-Wild-Hunt",
+  "name": "Skaeth’s Wild Hunt",
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "2",
+  "save": "6+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Wild Hunt Ranged Weapons",
+    "range": "12\"",
+    "attacks": "2",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": []
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Tracker Weapons",
+    "range": "",
+    "attacks": "2",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "FLEET OF FOOT ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "This unit can use SHOOT and/or CHARGE abilities even if it used a RUN or RETREAT ability in the same turn."
+   },
+   {
+    "name": "KARTHAEN ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit’s Karthaen, Huntcaller , is on the battlefield, it has WIZARD ( 1 ) ."
+   }
+  ],
+  "keywords": [
+   "UNIQUE",
+   "INFANTRY",
+   "CHAMPION",
+   "MUSICIAN ( 1/5 )",
+   "ORDER",
+   "SYLVANETH",
+   "KURNOTHI"
+  ],
+  "unit_size": 5,
+  "points": 90,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Ylthari-s-Guardians",
+  "name": "Ylthari’s Guardians",
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "grand_alliance": "Order",
+  "move": "5\"",
+  "health": "3",
+  "save": "5+",
+  "control": "1",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Revenant Bow",
+    "range": "18\"",
+    "attacks": "2",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Crit (Auto-wound)"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Enchanted Glade Weapons",
+    "range": "",
+    "attacks": "3",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Crit (Auto-wound)"
+    ]
+   },
+   {
+    "name": "Revenant Bow",
+    "range": "",
+    "attacks": "1",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "YLTHARI ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit’s Ylthari is on the battlefield, it has WIZARD ( 1 ) ."
+   },
+   {
+    "name": "BITTERNESS OF THE SOUL ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Add 1 to the Damage characteristic of this unit’s Enchanted Glade Weapons for each model in this unit that is slain. Designer’s Note: Models that have been slain and returned to this unit do not count as being slain for the purposes of this ability."
+   }
+  ],
+  "keywords": [
+   "UNIQUE",
+   "INFANTRY",
+   "CHAMPION",
+   "ORDER",
+   "SYLVANETH"
+  ],
+  "unit_size": 4,
+  "points": 140,
+  "base_size": "32mm",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Treelord",
+  "name": "Treelord",
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "14",
+  "save": "3+",
+  "control": "5",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Strangleroots",
+    "range": "10\"",
+    "attacks": "3",
+    "hit": "3+",
+    "wound": "2+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Shoot in Combat"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Sweeping Blows",
+    "range": "",
+    "attacks": "5",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Anti-charge (+1 Rend)"
+    ]
+   },
+   {
+    "name": "Massive Impaling Talons",
+    "range": "",
+    "attacks": "2",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "3",
+    "abilities": [
+     "Crit (Mortal)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "BATTLE DAMAGED",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit has 10 or more damage points, the Attacks characteristic of its Sweeping Blows is 3."
+   },
+   {
+    "name": "LASH AND TANGLE ",
+    "timing": "Once Per Turn (Army), Any Shooting Phase",
+    "declare": "Pick an enemy unit that had any damage points allocated to it this turn by attacks made with this unit’s Strangleroots to be the target.",
+    "effect": "Roll a dice. Add 1 to the roll if the target is within the creeping overgrowth . On a 3+, subtract 1 from hit rolls for the target’s attacks until the start of your next turn."
+   },
+   {
+    "name": "STRANGLING GRASP ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "Pick a visible enemy unit within 10\" of this unit to be the target.",
+    "effect": "Roll a dice. If the roll exceeds the target’s Health characteristic, 1 model in the target unit is slain."
+   }
+  ],
+  "keywords": [
+   "MONSTER",
+   "ORDER",
+   "SYLVANETH",
+   "FOREST ELDER"
+  ],
+  "unit_size": 1,
+  "points": 240,
+  "base_size": "105 × 70mm",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Awakened-Wyldwood",
+  "name": "Awakened Wyldwood",
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "grand_alliance": "Order",
+  "move": "-",
+  "health": "8",
+  "save": "4+",
+  "control": "-",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "BUDDING FORESTS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "When this terrain feature is set up , give it a friendly overgrown token ."
+   },
+   {
+    "name": "EVER GROWING ",
+    "timing": "Once Per Battle Round, Start of Battle Round",
+    "declare": "Pick the closest terrain feature to this terrain feature that does not have a friendly overgrown token to be the target.",
+    "effect": "If the target is not controlled by your opponent, give the target a friendly overgrown token ."
+   },
+   {
+    "name": "VENGEFUL FOREST SPIRITS ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "Pick each enemy unit within 3\" of this terrain feature to be the targets.",
+    "effect": "Roll a D3 for each target. On a 2+, inflict an amount of mortal damage on the target equal to the roll."
+   }
+  ],
+  "keywords": [
+   "FACTION TERRAIN",
+   "ORDER",
+   "SYLVANETH"
+  ],
+  "unit_size": null,
+  "points": 0,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": "",
+  "points_prev": null,
+  "points_updated": "2026-06"
+ },
+ {
+  "id": "Gladewyrm",
+  "name": "Gladewyrm",
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Fearsome Mandibles and Bladed Carapace",
+    "range": "",
+    "attacks": "6",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": [
+     "Anti- PRIEST (+1 Rend) , Anti- WIZARD (+1 Rend)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "FEED ON ELDRITCH ENERGY ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Subtract 1 from casting rolls , unbinding rolls , chanting rolls and banishment rolls for enemy units while they are in combat with this MANIFESTATION ."
+   },
+   {
+    "name": "ELDRITCH HUNTERS ",
+    "timing": "Your Movement Phase",
+    "declare": "",
+    "effect": "If this MANIFESTATION is not in combat , remove it from the battlefield and set it up again on the battlefield more than 9\" from all enemy non- WIZARD non- PRIEST units and more than 3\" from all enemy WIZARDS and enemy PRIESTS ."
+   }
+  ],
+  "keywords": [
+   "MANIFESTATION",
+   "ENDLESS SPELL",
+   "WARD ( 6+ )",
+   "ORDER",
+   "SYLVANETH"
+  ],
+  "unit_size": null,
+  "points": null,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Spiteswarm-Hive",
+  "name": "Spiteswarm Hive",
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Spiteswarm",
+    "range": "18\"",
+    "attacks": "5",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Crit (2 Hits)"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Spiteswarm",
+    "range": "",
+    "attacks": "10",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Crit (2 Hits)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "ANGER THE HIVE ",
+    "timing": "Your Shooting Phase",
+    "declare": "",
+    "effect": "If this MANIFESTATION was not set up this turn, add 10 to the Attacks characteristic of this MANIFESTATION ’s ranged weapons for the rest of the phase, but all of the shooting attacks it makes this phase must target an enemy unit within 9\" of it."
+   }
+  ],
+  "keywords": [
+   "MANIFESTATION",
+   "ENDLESS SPELL",
+   "WARD ( 6+ )",
+   "ORDER",
+   "SYLVANETH"
+  ],
+  "unit_size": null,
+  "points": null,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Vengeful-Skullroot",
+  "name": "Vengeful Skullroot",
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Writhing Roots",
+    "range": "",
+    "attacks": "3",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "VENGEFUL TERRORS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Subtract 1 from hit rolls for attacks made by enemy units while they are within 6\" of this MANIFESTATION ."
+   }
+  ],
+  "keywords": [
+   "MANIFESTATION",
+   "ENDLESS SPELL",
+   "FLY",
+   "WARD ( 6+ )",
+   "ORDER",
+   "SYLVANETH"
+  ],
+  "unit_size": null,
+  "points": null,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Bloodthirsty-Shiver",
+  "name": "Bloodthirsty Shiver",
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "HUNT OF THE BLOODTHIRSTY SHIVER ",
+    "timing": "Your Hero Phase",
+    "declare": "",
+    "effect": "If both units in this Regiment of Renown are within each other’s combat range , pick 1 of the following effects to apply until the start of your next turn: Evasive Approach: While both units in this Regiment of Renown are within each other’s combat range, subtract 1 from hit rolls for attacks that target them. Ferocious Attack: While both units in this Regiment of Renown are within each other’s combat range, their Allopex’s Ferocious Bites have Crit (2 Hits) ."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 300,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Bundo-Whalebiter",
+  "name": "Bundo Whalebiter",
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "DEAD CUNNING, FOR A GARGANT ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "",
+    "effect": "For the rest of the turn, add 1 to the Attacks characteristic of this unit’s weapons. Then, roll a dice. On a 4+, this unit has STRIKE-LAST for the rest of the turn."
+   },
+   {
+    "name": "TIMBERRRRR! ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "When the MEGA-GARGANT in this regiment of renown is slain, before removing it from play, the players must roll off . The winner picks a point on the battlefield within 3\" of that model. Inflict D3 mortal damage on each unit (friendly and enemy) within 3\" of that point that has a lower Health characteristic than that model."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 450,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Cogfort-Raiders",
+  "name": "Cogfort Raiders",
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [],
+  "keywords": [],
+  "unit_size": null,
+  "points": 450,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Outlaw-Conqueror-Cogfort",
+  "name": "Outlaw Conqueror Cogfort",
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "25",
+  "save": "3+",
+  "control": "10",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Realmscorcher Flame Cannon",
+    "range": "18\"",
+    "attacks": "6D6",
+    "hit": "2+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Anti- INFANTRY (+1 Rend)"
+    ]
+   },
+   {
+    "name": "Crew’s Leadshotters",
+    "range": "12\"",
+    "attacks": "6",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": [
+     "Shoot in Combat"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Crushing Iron Feet",
+    "range": "",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "4",
+    "abilities": [
+     "Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "BATTLE DAMAGED",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit has 10 or more damage points: The Attacks characteristic of its Crushing Iron Feet is 3. It has a Control characteristic of 5."
+   },
+   {
+    "name": "EVERYONE ABOARD! ",
+    "timing": "Deployment Phase",
+    "declare": "Pick up to 1 friendly INFANTRY HERO and up to 1 friendly non- reinforced , non- HERO INFANTR y unit that have not been deployed.",
+    "effect": "Set up those units in reserve as this unit’s passengers . They have now been deployed."
+   },
+   {
+    "name": "THIS IS YOUR STOP, MAGGOTS! ",
+    "timing": "Once Per Battle, Any Charge Phase",
+    "declare": "Pick this unit’s passengers to be the targets.",
+    "effect": "Set up each target wholly within 6\" of this unit and more than 9\" from all enemy units. In addition, the targets’ melee weapons have Charge (+1 Damage) for the rest of the turn."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "WAR MACHINE",
+   "ORDER"
+  ],
+  "unit_size": null,
+  "points": null,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Dawnrider-Lance",
+  "name": "Dawnrider Lance",
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "BLINDING CHARGE ",
+    "timing": "Once Per Turn (Army), Any Charge Phase",
+    "declare": "Pick a unit in this Regiment of Renown that charged this turn. Then, pick an enemy INFANTRY unit within 1\" of that unit to be the target.",
+    "effect": "For the rest of the turn, ignore positive modifiers to save rolls for the target."
+   },
+   {
+    "name": "MASTERS OF ALL TERRAIN ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Ignore negative modifiers to run rolls and charge rolls for units in this Regiment of Renown and to their Move characteristic."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 260,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Drekki-s-Privateers",
+  "name": "Drekki’s Privateers",
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "CRUISING INTO POSITION ",
+    "timing": "Deployment Phase",
+    "declare": "Pick all units in this Regiment of Renown that have not been deployed.",
+    "effect": "Set up all of those units in reserve plying the winds. They have now been deployed."
+   },
+   {
+    "name": "YOU CALL IT YOURS, I CALL IT MINE ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Add 1 to hit rolls and wound rolls for shooting attacks made by units in this Regiment of Renown that target an enemy unit that is within 6\" of an enemy unit that has an enhancement."
+   },
+   {
+    "name": "DAREDEVIL DEPLOYMENT ",
+    "timing": "Your Movement Phase",
+    "declare": "Pick the Arkanaut Frigate in this Regiment of Renown to use this ability if it is plying the winds.",
+    "effect": "Set up the Arkanaut Frigate anywhere on the battlefield more than 9\" from all enemy units. Then, set up all other units in this Regiment of Renown wholly within 6\" of the Arkanaut Frigate and more than 9\" from all enemy units."
+   },
+   {
+    "name": "THE GOOD SHIP AELSLING ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "The Aelsling in this Regiment of Renown has a Health characteristic of 17 instead of 14."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 500,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Heroes-of-The-Jade-Abbey",
+  "name": "Heroes of The Jade Abbey",
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "STRONGER TOGETHER ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While each unit in this Regiment of Renown is wholly within 6\" of each other unit in this Regiment of Renown, add 1 to the Attacks characteristic of melee weapons used by units in this Regiment of Renown."
+   },
+   {
+    "name": "WATERS OF THE EVERSPRING ",
+    "timing": "End of Any Turn",
+    "declare": "",
+    "effect": "Heal (1) each unit in this Regiment of Renown."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": null,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Khinerai-Death-Flight",
+  "name": "Khinerai Death Flight",
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "FIERCE COMPETITION ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Each time a unit in this Regiment of Renown uses an ability and any enemy models were slain by that ability, after that ability has been resolved, the unit that used that ability is pre-eminent and the other unit in this Regiment of Renown is overlooked . Weapons used by an overlooked unit in this Regiment of Renown have Crit (Auto-wound) ."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 240,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Mask-of-the-Deceiver",
+  "name": "Mask of the Deceiver",
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [],
+  "keywords": [],
+  "unit_size": null,
+  "points": 170,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Mask-of-The-Deceiver-1",
+  "name": "Mask of The Deceiver",
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "grand_alliance": "Order",
+  "move": "5\"",
+  "health": "6",
+  "save": "5+",
+  "control": "2",
+  "ward": "5+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "The Trickster’s Staff",
+    "range": "",
+    "attacks": "3",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "MASKED IN PLAIN SIGHT ",
+    "timing": "Deployment Phase",
+    "declare": "This unit must be deployed using this ability.",
+    "effect": "Set up this unit in reserve incognito . It has now been deployed. Friendly incognito units are destroyed at the end of the fifth battle round and not at the start of the fourth battle round"
+   },
+   {
+    "name": "BAIT AND SWITCH ",
+    "timing": "Any Hero Phase",
+    "declare": "This unit can use this ability if it is incognito . Pick this unit and a friendly INFANTRY HERO to be the targets. One target must be incognito and the other must be on the battlefield.",
+    "effect": "Set up the incognito target wholly within 6\" of the other target and not in combat . Then, remove the other target from the battlefield and set it up in reserve incognito . If this unit is destroyed, before removing it from play, set up the friendly incognito unit wholly within 6\" of a battlefield edge and not in combat."
+   },
+   {
+    "name": "FORCEFUL COMMAND ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick a visible friendly unit wholly within 12\" of this unit to be the target, then make a casting roll of 2D6.",
+    "effect": "Until the start of your next turn: The target cannot use MOVE abilities. The target’s melee weapons have Anti-charge (+1 Rend) ."
+   }
+  ],
+  "keywords": [
+   "UNIQUE",
+   "HERO",
+   "WIZARD ( 2 )",
+   "INFANTRY",
+   "WARD ( 5+ )",
+   "CHAOS",
+   "DISCIPLES OF TZEENTCH",
+   "DAEMON"
+  ],
+  "unit_size": null,
+  "points": null,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Namarti-Shore-Raid",
+  "name": "Namarti Shore Raid",
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "IN THE SHADOW OF THE ETHERSEA ",
+    "timing": "Deployment Phase",
+    "declare": "This ability must be used to deploy this Regiment of Renown .",
+    "effect": "Set up the units in this Regiment of Renown in reserve in the ethersea . They have now been deployed."
+   },
+   {
+    "name": "LAUNCH THE ATTACK ",
+    "timing": "Your Movement Phase",
+    "declare": "Pick each unit in this Regiment of Renown that is in the ethersea .",
+    "effect": "Set up each unit on the battlefield wholly within 7\" of a battlefield edge, more than 9\" from all enemy units and within the combat range of another unit in this Regiment of Renown. Then, each unit can immediately move D3\". The units cannot move into combat during any part of that move."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 270,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Norgrimm-s-Rune-Throng",
+  "name": "Norgrimm’s Rune Throng",
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "WRATH AND RUIN ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick the Runelord in this Regiment of Renown to chant this prayer, pick a visible enemy unit within 18\" of them to be the target, then make a chanting roll of D6.",
+    "effect": "Roll 6 dice. If the chanting roll was 8+, roll 9 dice instead. For each 5+, inflict 1 mortal damage on the target. If 3 or more damage points are allocated to the target as a result of those dice rolls, ignore positive modifiers to save rolls for the target until the start of your next turn."
+   },
+   {
+    "name": "RUNE OF RESTORED HEARTH ",
+    "timing": "Once Per Battle (Army), Your Hero Phase",
+    "declare": "",
+    "effect": "If the Runelord in the Regiment of Renown is contesting an objective , for the rest of the battle, units in this Regiment of Renown have WARD ( 5+ ) while they are contesting that objective."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 330,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Reinholt-s-Sharpshooters",
+  "name": "Reinholt’s Sharpshooters",
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "FRIENDLY COMPETITION ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Add 1 to hit rolls for shooting attacks made by non- HERO units in this Regiment of Renown if any enemy models were slain by shooting attacks made by non- HERO units in this Regiment of Renown in the same turn."
+   },
+   {
+    "name": "CASTLE UP! ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While a non- HERO unit in this Regiment of Renown is within the combat range of and visible to this Regiment of Renown’s HERO , those units are under orders ."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 400,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Rogue-Engine",
+  "name": "Rogue Engine",
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [],
+  "keywords": [],
+  "unit_size": null,
+  "points": 470,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Outlaw-Cannonade-Cogfort-1",
+  "name": "Outlaw Cannonade Cogfort",
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "grand_alliance": "Order",
+  "move": "6\"",
+  "health": "25",
+  "save": "3+",
+  "control": "10",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Godbreaker Cannon",
+    "range": "24\"",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "4",
+    "abilities": []
+   },
+   {
+    "name": "Breacher Cannon",
+    "range": "12\"",
+    "attacks": "6",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Anti- INFANTRY (+1 Rend)"
+    ]
+   },
+   {
+    "name": "Crew’s Leadshotters",
+    "range": "12\"",
+    "attacks": "6",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": [
+     "Shoot in Combat"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Crushing Iron Feet",
+    "range": "",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "4",
+    "abilities": [
+     "Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "BATTLE DAMAGED",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit has 10 or more damage points: The Attacks characteristic of its Crushing Iron Feet is 3. It has a Control characteristic of 5."
+   },
+   {
+    "name": "MERCENARY ATTITUDES ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick another friendly NON-UNIQUE unit wholly within 12\" of this unit to be the target.",
+    "effect": "Pick 1 of the following effects to apply until the start of your next turn and while the target is wholly within 12\" of this unit: You can re-roll run rolls for the target. Add 1 to charge rolls for the target. The target cannot be targeted by shooting attacks . Add 1 to wound rolls for the target’s combat attacks . Add 10 to the target’s control score ."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "WAR MACHINE",
+   "ORDER"
+  ],
+  "unit_size": null,
+  "points": null,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Saviours-of-Cinderfall",
+  "name": "Saviours of Cinderfall",
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "SIGMAR’S JUSTICE ",
+    "timing": "Once Per Battle (Army), Deployment Phase",
+    "declare": "Pick an enemy unit to be marked for justice . You can pick a unit that is in reserve .",
+    "effect": "For the rest of the battle, add 1 to wound rolls for combat attacks made by units in this Regiment of Renown that target a unit that is marked for justice ."
+   },
+   {
+    "name": "DUTY BOUND ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While every model in the same unit in the Regiment of Renown is contesting the same objective , add 1 to save rolls and ward rolls for that unit."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 290,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Sigil-Convocation",
+  "name": "Sigil Convocation",
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "CYCLE MANIFESTATION ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick the Scinari Calligrave in this Regiment of Renown to cast this spell, pick 1 of the friendly MANIFESTATIONS below that is not on the battlefield, then make a casting roll of 2D6. Sanctum of Amyntok Hyshian Twinstones Rune of Petrification",
+    "effect": "If there is already a friendly MANIFESTATION from the list above on the battlefield, it is immediately banished and removed from play. Then, set up the MANIFESTATION you picked within 1\" of the caster and visible to them. If that MANIFESTATION is a Sanctum of Amyntok , it must instead be set up wholly within 12\" of the caster, more than 3\" from all enemy units, and with its 3 parts touching each other so that they form a ring."
+   },
+   {
+    "name": "SWIFT ERASURE ",
+    "timing": "Reaction: Opponent declared a SPELL ability",
+    "declare": "",
+    "effect": "Roll a dice for each friendly unit that was picked to be a target of that SPELL ability and that is wholly within 12\" of the Scinari Calligrave in this Regiment of Renown . On a 4+, that SPELL ability has no effect on that unit."
+   },
+   {
+    "name": "ARCANE TAXONOMY ",
+    "timing": "Once Per Turn, Your Movement Phase",
+    "declare": "",
+    "effect": "Remove the Scinari Calligrave in this Regiment of Renown from the battlefield and set it up again on the battlefield wholly within 3\" of a friendly MANIFESTATION and more than 7\" from all enemy units."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 130,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Sky-Port-Profiteers",
+  "name": "Sky-Port Profiteers",
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "SUPPLIES DONT COME CHEAP ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick a visible terrain feature within 18\" of the Codewright in this Regiment of Renown . Each friendly unit wholly within 3\" of that terrain feature is a target.",
+    "effect": "Roll a D3 for each target. On a 2+, Heal (X) the target, where X is an amount equal to the roll."
+   },
+   {
+    "name": "NO ONE RIDES FOR FREE ",
+    "timing": "Your Movement Phase",
+    "declare": "Pick a friendly INFANTRY unit with up to 10 models that is wholly within 9\" of the Codewright in this Regiment of Renown and not in combat to be the target.",
+    "effect": "Remove the target from the battlefield, then set it up again on the battlefield more than 9\" from all enemy units."
+   },
+   {
+    "name": "LONG-RANGE SUPPORT ",
+    "timing": "Your Shooting Phase",
+    "declare": "Pick an objective within 15\" of the Codewright in this Regiment of Renown and that no friendly units are contesting . Each unit contesting that objective is a target.",
+    "effect": "Roll a dice for each target. If the roll exceeds the target’s Health characteristic, inflict an amount of mortal damage on the target equal to the roll."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 350,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "The-Crimson-Lash",
+  "name": "The Crimson Lash",
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "SITE OF SLAUGHTER ",
+    "timing": "Once Per Battle (Army), Deployment Phase",
+    "declare": "",
+    "effect": "Pick an objective wholly outside friendly territory. That objective is considered by you to be the amphitheatre ."
+   },
+   {
+    "name": "FINISHING MOVES ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While each model in a unit in this Regiment of Renown is contesting the amphitheatre : That unit’s melee weapons have Crit (Mortal) . If you control the amphitheatre , if the unmodified hit roll or wound roll for an attack that targets that unit is a 1-4, the attack fails and the attack sequence ends."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 220,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "The-Horizon-Seekers",
+  "name": "The Horizon Seekers",
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "HUNTER’S COHESION ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Each time this Regiment of Renown’s Lord-Aquilor uses its ’Ride the Winds Aetheric’ ability, you can pick all units in this Regiment of Renown that are not in combat to be the targets. In addition, add 1 to hit rolls for attacks made by this Regiment of Renown’s Lord-Aquilor and VANGUARD-PALLADORS units that target a HUNTED enemy unit. Designer’s Note: See the ’Astral Compass’ ability on the Vanguard-Hunters warscroll to see how an enemy unit can become Hunted."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 500,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Valnir-s-Stormwing",
+  "name": "Valnir’s Stormwing",
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "HOUR OF RETRIBUTION ",
+    "timing": "Once Per Battle (Army), Your Hero Phase",
+    "declare": "",
+    "effect": "For the rest of the turn: Add 1 to wound rolls for attacks made by units in this Regiment of Renown . Add 1 to save rolls for units in this Regiment of Renown."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 350,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Ven-Denst-s-Hounds",
+  "name": "Ven Denst’s Hounds",
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "SPELL HUNTERS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While both units in this Regiment of Renown are within each other’s combat range , enemy MANIFESTATIONS cannot be set up within 12\" of either of those units."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 230,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Fjori-s-Flamebearers",
+  "name": "Fjori’s Flamebearers",
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "TOE TO TOE ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Subtract 10 from the control scores of enemy MONSTERS while they are in combat with any units in this Regiment of Renown ."
+   },
+   {
+    "name": "GRIMNIR’S DEFIANCE ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Units in this Regiment of Renown cannot be picked to be the target of RAMPAGE abilities used by enemy units."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 420,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Gotrek-Gurnisson",
+  "name": "Gotrek Gurnisson",
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [],
+  "keywords": [],
+  "unit_size": null,
+  "points": 320,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Gotrek-Gurnisson",
+  "name": "Gotrek Gurnisson",
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "grand_alliance": "Order",
+  "move": "4\"",
+  "health": "8",
+  "save": "5+",
+  "control": "2",
+  "ward": "3+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Zangrom-az",
+    "range": "",
+    "attacks": "8",
+    "hit": "2+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "3",
+    "abilities": [
+     "Crit (Mortal)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "UNSTOPPABLE BATTLE FURY ",
+    "timing": "Any Combat Phase",
+    "declare": "",
+    "effect": "is unit can use 2 FIGHT abilities this phase. After the first is used, however, this unit has STRIKE-LAST for the rest of the turn."
+   },
+   {
+    "name": "‘I’LL GET THERE MYSELF!’ ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "This unit cannot be set up in reserve and cannot be targeted by abilities that would remove it from the battleeld."
+   }
+  ],
+  "keywords": [
+   "UNIQUE",
+   "INFANTRY",
+   "HERO",
+   "WARD ( 3+ )",
+   "ORDER",
+   "DUARDIN"
+  ],
+  "unit_size": null,
+  "points": null,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Nurgle-s-Gift",
+  "name": "Nurgle’s Gift",
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "INCUBATION PERIOD ",
+    "timing": "Deployment Phase",
+    "declare": "This ability must be used to deploy this Regiment of Renown .",
+    "effect": "Set up the units in this Regiment of Renown in reserve festering within . They have now been deployed."
+   },
+   {
+    "name": "BURSTING WITH LIFE ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "If a friendly non- NURGLE’S GIFT unit would be destroyed, before the last model is removed from play, roll a dice. Add 1 to the roll for each other friendly non- NURGLE’S GIFT unit that has been destroyed this battle. On a 5+, pick a friendly unit that is festering within and set it up wholly within 6\" of that model. It can be set up in combat ."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 180,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Stumblefoot-Gargant",
+  "name": "Stumblefoot Gargant",
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "PROJECTILE VOMIT ",
+    "timing": "Once Per Turn (Army), Your Shooting Phase",
+    "declare": "Pick this unit to use this ability if it has not used a RAMPAGE ability this turn. Then, pick a point on the battlefield within 6\" of this unit and pick all other units (friendly and enemy) within 3\" of that point to be the targets.",
+    "effect": "Roll a D3 for each target. On a 2+, inflict an amount of mortal damage on that target equal to the roll."
+   },
+   {
+    "name": "BELLOWING MOCKERY ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "Pick this unit to use this ability if it has not used a RAMPAGE ability this turn, then pick an enemy unit within this unit’s combat range to be the target.",
+    "effect": "Roll a dice. On a 3+, subtract 1 from hit rolls for the target’s attacks for the rest of the turn."
+   },
+   {
+    "name": "WHAT’RE YOU LOOKIN’ AT? ",
+    "timing": "Once Per Turn (Army), Any Charge Phase",
+    "declare": "Pick this unit to use this ability if it charged this turn and has not used a RAMPAGE ability this turn. Then, pick an enemy unit within 9\" of this unit to be the target.",
+    "effect": "Roll 2D6. This unit can move a number of inches equal to the roll. It can pass through enemy models and must end that move in combat with the target."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 140,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "The-Blacktalons",
+  "name": "The Blacktalons",
+  "faction": "Sylvaneth",
+  "faction_slug": "sylvaneth",
+  "grand_alliance": "Order",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "JUSTICE WILL BE SERVED ",
+    "timing": "Once Per Battle (Army), Any Combat Phase",
+    "declare": "Pick the Neave Blacktalon in this Regiment of Renown to be the target if it is in combat with an enemy HERO .",
+    "effect": "The target can use 2 FIGHT abilities this phase. Each time it does so, if it is in combat with an enemy HERO , all of its attacks must target an enemy HERO . In addition, after the first FIGHT ability is used, the target has STRIKE-LAST for the rest of the turn."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 320,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ }
+]

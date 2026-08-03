@@ -1,0 +1,15 @@
+{
+  "factions": [
+    "Kharadron Overlords",
+    "Lumineth Realm-Lords",
+    "Slaves to Darkness"
+  ],
+  "timeout_ms": 15000,
+  "delay_sec": 5,
+  "keep_backups": 4,
+  "schedule": {
+    "weekday": "sun",
+    "hour": 4,
+    "minute": 0
+  }
+}

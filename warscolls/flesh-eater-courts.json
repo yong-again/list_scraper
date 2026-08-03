@@ -1,0 +1,3070 @@
+[
+ {
+  "id": "Abhorrant-Archregent",
+  "name": "Abhorrant Archregent",
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "grand_alliance": "Death",
+  "move": "6\"",
+  "health": "5",
+  "save": "5+",
+  "control": "2",
+  "ward": "6+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Gory Talons and Fangs",
+    "range": "",
+    "attacks": "5",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "MUSICIANS, PLAY! ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While you believe this DELUSION , subtract 1 from hit rolls for shooting attacks that target friendly FLESH-EATER COURTS units while they are wholly within 12\" of a friendly FLESH-EATER COURTS HERO ."
+   },
+   {
+    "name": "COUNTLESS SERVANTS ",
+    "timing": "Once Per Turn (Army), Your Hero Phase",
+    "declare": "Pick a friendly SERFS or KNIGHTS unit wholly within 12\" of this unit to be the target.",
+    "effect": "Roll a dice. On a 3+: If the target is a SERFS unit, you can return up to 3 slain models to that unit. If the target is a KNIGHTS unit, you can return 1 slain model to that unit."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "WIZARD ( 1 )",
+   "INFANTRY",
+   "WARD ( 6+ )",
+   "DEATH",
+   "FLESH-EATER COURTS",
+   "ABHORRANT"
+  ],
+  "unit_size": 1,
+  "points": 140,
+  "base_size": "40mm",
+  "can_be_reinforced": false,
+  "regiment_options": "Any FLESH-EATER COURTS , 0-1 Royal Attendant"
+ },
+ {
+  "id": "Abhorrant-Cardinal",
+  "name": "Abhorrant Cardinal",
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "grand_alliance": "Death",
+  "move": "6\"",
+  "health": "5",
+  "save": "6+",
+  "control": "2",
+  "ward": "6+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Cursed Crosier",
+    "range": "",
+    "attacks": "3",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "-",
+    "damage": "D3",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "INSULAR CONTEMPLATIONS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit is more than 6\" from all enemy units, add 1 to chanting rolls for this unit."
+   },
+   {
+    "name": "BANISHING LITURGY ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While you believe this DELUSION : Add 2 to banishment rolls for friendly FLESH-EATER COURTS units. Friendly FLESH-EATER COURTS units have WARD ( 4+ ) against damage points inflicted by SPELL abilities, PRAYER abilities and abilities used by MANIFESTATIONS ."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "PRIEST ( 1 )",
+   "INFANTRY",
+   "WARD ( 6+ )",
+   "DEATH",
+   "FLESH-EATER COURTS",
+   "ABHORRANT"
+  ],
+  "unit_size": 1,
+  "points": 130,
+  "base_size": "32mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Royal Attendant , 0-1 KNIGHTS , Any SERFS , 0-1 BEAST"
+ },
+ {
+  "id": "Abhorrant-Ghoul-King",
+  "name": "Abhorrant Ghoul King",
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "grand_alliance": "Death",
+  "move": "6\"",
+  "health": "5",
+  "save": "5+",
+  "control": "2",
+  "ward": "6+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Bloodstained Talons and Fangs",
+    "range": "",
+    "attacks": "5",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Anti- HERO (+1 Rend)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "CODE OF HONOUR ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While you believe this DELUSION , add 1 to the Damage characteristic of melee weapons used by friendly non- UNIQUE FLESH-EATER COURTS HEROES for attacks that target an enemy HERO ."
+   },
+   {
+    "name": "VASSALS, TO ARMS! ",
+    "timing": "Once Per Turn (Army), Reaction: You declared a FIGHT ability for this unit",
+    "declare": "",
+    "effect": "Pick a friendly SERFS unit that has not used a FIGHT ability this turn and is within this unit’s combat range to be the target. The target can be picked to use a FIGHT ability immediately after the FIGHT ability used by this unit has been resolved. If it is picked to do so, add 1 to wound rolls for the target’s attacks for the rest of the turn."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "WIZARD ( 1 )",
+   "INFANTRY",
+   "WARD ( 6+ )",
+   "DEATH",
+   "FLESH-EATER COURTS",
+   "ABHORRANT"
+  ],
+  "unit_size": 1,
+  "points": 110,
+  "base_size": "32mm",
+  "can_be_reinforced": false,
+  "regiment_options": "Any FLESH-EATER COURTS , 0-1 Royal Attendant"
+ },
+ {
+  "id": "Abhorrant-Gorewarden",
+  "name": "Abhorrant Gorewarden",
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "grand_alliance": "Death",
+  "move": "12\"",
+  "health": "7",
+  "save": "5+",
+  "control": "2",
+  "ward": "6+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Gory Talons and Fangs",
+    "range": "",
+    "attacks": "5",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "LORD OF THE MARCHES ",
+    "timing": "Deployment Phase",
+    "declare": "Pick this unit and up to 2 friendly FLESH-EATER COURTS units in this unit’s regiment that have not been deployed to be the targets.",
+    "effect": "Set up the target units in reserve patrolling the borders . They have now been deployed."
+   },
+   {
+    "name": "TRESPASSERS! ",
+    "timing": "Your Movement Phase",
+    "declare": "Pick this unit if it is patrolling the borders , then pick an enemy unit to be the target.",
+    "effect": "Set up this unit more than 6\" from the target and more than 9\" from all other enemy units. Then, set up the units that were patrolling the borders with this unit wholly within 12\" of this unit and more than 9\" from all enemy units."
+   },
+   {
+    "name": "DEFENDERS OF THE KINGDOM ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While you believe this DELUSION and this unit is on the battlefield, add 1 to charge rolls for friendly FLESH-EATER COURTS units while they are wholly within 12\" of a friendly FLESH-EATER COURTS HERO . Add 2 to charge rolls instead if they were also set up in the same turn. When using the ‘ A Kingdom Deluded ’ ability, you can pick this DELUSION even if this unit is patrolling the borders ."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "WIZARD ( 1 )",
+   "INFANTRY",
+   "FLY",
+   "WARD ( 6+ )",
+   "DEATH",
+   "FLESH-EATER COURTS",
+   "ABHORRANT"
+  ],
+  "unit_size": 1,
+  "points": 150,
+  "base_size": "40mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Royal Attendant , 0-1 SERFS , Any KNIGHTS , 0-1 BEAST"
+ },
+ {
+  "id": "Crypt-Haunter-Courtier",
+  "name": "Crypt Haunter Courtier",
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "grand_alliance": "Death",
+  "move": "7\"",
+  "health": "6",
+  "save": "5+",
+  "control": "2",
+  "ward": "6+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Massive Bone Club and Rancid Talons",
+    "range": "",
+    "attacks": "5",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "2",
+    "damage": "3",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "BLESSED BLOOD ",
+    "timing": "Your Hero Phase",
+    "declare": "",
+    "effect": "Heal (D3) this unit."
+   },
+   {
+    "name": "KNIGHTLY EXEMPLAR ",
+    "timing": "Reaction: You declared a FIGHT ability for this unit",
+    "declare": "",
+    "effect": "Pick a friendly Crypt Horrors unit that has not used a FIGHT ability this turn and is within this unit’s combat range to be the target. The target can be picked to use a FIGHT ability immediately after the FIGHT ability used by this unit has been resolved. If it is picked to do so, add 1 to hit rolls for the target’s attacks for the rest of the turn."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "INFANTRY",
+   "WARD ( 6+ )",
+   "NOBLE",
+   "DEATH",
+   "FLESH-EATER COURTS"
+  ],
+  "unit_size": 1,
+  "points": 120,
+  "base_size": "50mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 SERFS , Any Crypt Horrors , Any Crypt Horrors (2 models) , 0-1 BEAST Notes: This HERO can join an eligible regiment as a Royal Attendant ."
+ },
+ {
+  "id": "Crypt-Infernal-Courtier",
+  "name": "Crypt Infernal Courtier",
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "grand_alliance": "Death",
+  "move": "12\"",
+  "health": "6",
+  "save": "5+",
+  "control": "2",
+  "ward": "6+",
+  "ranged_weapons": [
+   {
+    "name": "Piercing Death Screech",
+    "range": "10\"",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "2",
+    "damage": "D3",
+    "abilities": [
+     "Shoot in Combat"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Skewering Claws",
+    "range": "",
+    "attacks": "5",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "ON WINGED STEEDS",
+    "timing": "Once Per Turn (Army), Your Movement Phase",
+    "declare": "Pick a friendly Crypt Flayers unit that used the ‘To Our Liege!’ ability this turn and is wholly within 9\" of this unit to be the target.",
+    "effect": "The target can immediately move D3\" but cannot end that move in combat ."
+   },
+   {
+    "name": "MIND-SHATTERING CACOPHONY ",
+    "timing": "Once Per Turn (Army), Your Shooting Phase",
+    "declare": "Pick an enemy unit that had any damage points allocated to it this turn by attacks made with this unit’s Piercing Death Screech to be the target.",
+    "effect": "For the rest of the turn, add 1 to the Damage characteristic of ranged weapons used by friendly Crypt Flayers units for attacks that target that enemy unit."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "INFANTRY",
+   "FLY",
+   "WARD ( 6+ )",
+   "NOBLE",
+   "DEATH",
+   "FLESH-EATER COURTS"
+  ],
+  "unit_size": 1,
+  "points": 140,
+  "base_size": "50mm",
+  "can_be_reinforced": false,
+  "regiment_options": "Any Crypt Flayers (2 models) , 0-1 SERFS , Any Crypt Flayers , 0-1 BEAST Notes: This HERO can join an eligible regiment as a Royal Attendant ."
+ },
+ {
+  "id": "Grand-Justice-Gormayne",
+  "name": "Grand Justice Gormayne",
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "grand_alliance": "Death",
+  "move": "6\"",
+  "health": "5",
+  "save": "5+",
+  "control": "2",
+  "ward": "6+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Gore-streaked Gavel",
+    "range": "",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "-",
+    "damage": "D3",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "ARREST THOSE MISCREANTS! ",
+    "timing": "Your Charge Phase",
+    "declare": "Pick a visible enemy unit within 18\" of this unit to be the target.",
+    "effect": "Roll a dice. On a 3+, until the start of your next turn, the target has STRIKE-LAST while it is in combat with any friendly FLESH-EATER COURTS HEROES and any friendly SERFS or KNIGHTS units."
+   },
+   {
+    "name": "ACCUSATIONS OF REGICIDE ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While you believe this DELUSION , add 1 to the Damage characteristic of melee weapons used by friendly SERFS and KNIGHTS units while they are wholly within 12\" of any friendly FLESH-EATER COURTS HEROES that had any damage points allocated to them in the same turn."
+   }
+  ],
+  "keywords": [
+   "UNIQUE",
+   "HERO",
+   "INFANTRY",
+   "WARD ( 6+ )",
+   "DEATH",
+   "FLESH-EATER COURTS",
+   "ABHORRANT"
+  ],
+  "unit_size": 1,
+  "points": 130,
+  "base_size": "32mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 KNIGHTS , 0-1 BEAST , Any SERFS Notes: This HERO can join an eligible regiment as a Royal Attendant ."
+ },
+ {
+  "id": "High-Falconer-Felgryn",
+  "name": "High Falconer Felgryn",
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "grand_alliance": "Death",
+  "move": "6\"",
+  "health": "5",
+  "save": "4+",
+  "control": "2",
+  "ward": "6+",
+  "ranged_weapons": [
+   {
+    "name": "Carrion Flock",
+    "range": "12\"",
+    "attacks": "1",
+    "hit": "4+",
+    "wound": "4+",
+    "rend": "-",
+    "damage": "D6",
+    "abilities": [
+     "Shoot in Combat , Companion"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Filthy Talons and Fangs",
+    "range": "",
+    "attacks": "5",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "BE MINE EYES ",
+    "timing": "Your Hero Phase",
+    "declare": "This unit’s Grype is a token. If this unit’s Grype is not next to an enemy unit, pick an enemy unit within 18\" of this unit and not in combat to be the target.",
+    "effect": "Place this unit’s Grype next to the target. If the target is destroyed while this unit’s Grype is next to it, remove this unit’s Grype from the battlefield."
+   },
+   {
+    "name": "WINGED RECONNOITRER ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit’s Grype is next to an enemy unit, ward rolls cannot be made for damage points inflicted on that enemy unit by combat attacks made by this unit and friendly SERFS units."
+   },
+   {
+    "name": "SIR FELGRYN IS ABROAD! ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While you believe this DELUSION , subtract 10 from the control scores of enemy units while they are in combat with any friendly SERFS units or any friendly non- HERO FLESH-EATER COURTS MONSTER or BEAST units."
+   }
+  ],
+  "keywords": [
+   "UNIQUE",
+   "HERO",
+   "INFANTRY",
+   "WARD ( 6+ )",
+   "FLESH‑EATER COURTS",
+   "DEATH",
+   "ABHORRANT"
+  ],
+  "unit_size": 1,
+  "points": 120,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 MONSTER , Any BEAST , Any SERFS Notes: This HERO can join an eligible regiment as a Royal Attendant ."
+ },
+ {
+  "id": "Marrowscroll-Herald",
+  "name": "Marrowscroll Herald",
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "grand_alliance": "Death",
+  "move": "6\"",
+  "health": "5",
+  "save": "5+",
+  "control": "2",
+  "ward": "6+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Bone Scythe",
+    "range": "",
+    "attacks": "5",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "THE KING’S ENTREATY ",
+    "timing": "Once Per Turn (Army), Enemy Charge Phase",
+    "declare": "Pick a visible enemy unit within 6\" of this unit to be the target.",
+    "effect": "Roll a dice. On a 3+, your opponent must decide whether the target will accept or reject the entreaty offered by this unit. Accept: The target has the INFECTED keyword for the rest of the battle. Reject: The target has STRIKE-LAST for the rest of the turn."
+   },
+   {
+    "name": "INFECTED ",
+    "timing": "Reaction: Opponent declared a command, SPELL ability or PRAYER ability for an INFECTED unit",
+    "declare": "",
+    "effect": "Roll a dice. On a 5+: If they declared a command, that command has no effect, it still counts as having been used and the command points spent to use the command are still lost. If they declared a SPELL or PRAYER ability, that spell or prayer fails. This reaction can be used more than once per phase but only once per command, SPELL ability or PRAYER ability."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "INFANTRY",
+   "WARD ( 6+ )",
+   "NOBLE",
+   "DEATH",
+   "FLESH-EATER COURTS"
+  ],
+  "unit_size": 1,
+  "points": 100,
+  "base_size": "32mm",
+  "can_be_reinforced": false,
+  "regiment_options": "Any SERFS , 0-1 BEAST Notes: This HERO can join an eligible regiment as a Royal Attendant ."
+ },
+ {
+  "id": "Royal-Decapitator",
+  "name": "Royal Decapitator",
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "grand_alliance": "Death",
+  "move": "6\"",
+  "health": "5",
+  "save": "5+",
+  "control": "2",
+  "ward": "6+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Headsman’s Axe",
+    "range": "",
+    "attacks": "3",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "2",
+    "damage": "3",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "EXECUTIONER’S ENTOURAGE ",
+    "timing": "Reaction: You declared a FIGHT ability for this unit",
+    "declare": "",
+    "effect": "Pick a friendly SERFS unit that has not used a FIGHT ability this turn and is within this unit’s combat range to be the target. The target can be picked to use a FIGHT ability immediately after the FIGHT ability used by this unit has been resolved. If it is picked to do so, the target’s melee weapons have Crit (2 Hits) for the rest of the turn."
+   },
+   {
+    "name": "OFF WITH THEIR HEAD! ",
+    "timing": "Reaction: You declared a FIGHT ability for this unit",
+    "declare": "",
+    "effect": "Immediately after that FIGHT ability has been resolved, pick an enemy INFANTRY HERO in combat with this unit to be the target. Roll 2D6. If the roll exceeds the target’s Health characteristic, it is automatically destroyed."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "INFANTRY",
+   "WARD ( 6+ )",
+   "NOBLE",
+   "DEATH",
+   "FLESH-EATER COURTS"
+  ],
+  "unit_size": 1,
+  "points": 100,
+  "base_size": "32mm",
+  "can_be_reinforced": false,
+  "regiment_options": "Any SERFS , 0-1 BEAST Notes: This HERO can join an eligible regiment as a Royal Attendant ."
+ },
+ {
+  "id": "Scourge-of-Aqshy-Royal-Decapitator",
+  "name": "Scourge of Aqshy Royal Decapitator",
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "grand_alliance": "Death",
+  "move": "6\"",
+  "health": "5",
+  "save": "5+",
+  "control": "2",
+  "ward": "6+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Headsman’s Axe",
+    "range": "",
+    "attacks": "3",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "2",
+    "damage": "3",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "EXECUTIONER AND ENFORCER ",
+    "timing": "Once Per Turn (Army), Your Hero Phase",
+    "declare": "Pick another friendly FLESH-EATER COURTS INFANTRY unit within this unit’s combat range to be the target.",
+    "effect": "1 model in the target unit is automatically slain. Then, until the start of your next turn, ignore the first damage point that would be allocated to each visible friendly FLESH-EATER COURTS unit in each phase while it is wholly within 12\" of this unit."
+   },
+   {
+    "name": "HEADS ON PIKES ",
+    "timing": "Once Per Turn (Army), End of Any Turn",
+    "declare": "If any damage points were allocated to an enemy HERO by this unit’s combat attacks this turn and that enemy HERO has been destroyed, pick an objective or terrain feature within 6\" of this unit to be the target.",
+    "effect": "Spend 1 rage dice . If your opponent’s fury level is lower than yours, they must increase their fury level by 1, to a maximum of 7. Then, for the rest of the turn, subtract 5 from the control scores of enemy units while they are contesting the target objective or terrain feature."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "INFANTRY",
+   "WARD ( 6+ )",
+   "NOBLE",
+   "DEATH",
+   "FLESH-EATER COURTS"
+  ],
+  "unit_size": 1,
+  "points": 100,
+  "base_size": "32mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 BEAST , Any SERFS Notes: This HERO can join an eligible regiment as a Royal Attendant . This unit is legal for Matched Play for battles fought using the General’s Handbook 2026-27 battlepack."
+ },
+ {
+  "id": "Scourge-of-Ghyran-Abhorrant-Ghoul-King",
+  "name": "Scourge of Ghyran Abhorrant Ghoul King",
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "grand_alliance": "Death",
+  "move": "6\"",
+  "health": "5",
+  "save": "5+",
+  "control": "2",
+  "ward": "6+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Blood-stained Talons and Fangs",
+    "range": "",
+    "attacks": "5",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Anti- HERO (+1 Rend)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "THE KINGS COURT ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Add 1 to the Attacks characteristic of melee weapons used by other friendly non- MONSTER FLESH-EATER COURTS HEROES while they are wholly within 12\" of this unit. In addition, add 1 to the Attacks characteristic of this unit’s melee weapons for each other friendly NON-MONSTER FLESH-EATER COURTS HERO wholly within 12\" of this unit, to a maximum of +3."
+   },
+   {
+    "name": "LONG LIVE THE KING ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "If this unit would be destroyed, before removing it from play, friendly non- UNIQUE FLESH-EATER COURTS units wholly within 12\" of this unit become enraged until the start of your next turn. Melee weapons used by friendly enraged units have Crit (Auto-wound) and score critical hits on unmodied hit rolls of 5+, even if this unit has been destroyed."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "WIZARD ( 1 )",
+   "INFANTRY",
+   "WARD ( 6+ )",
+   "DEATH",
+   "FLESH-EATER COURTS",
+   "ABHORRANT"
+  ],
+  "unit_size": 1,
+  "points": 110,
+  "base_size": "32mm",
+  "can_be_reinforced": false,
+  "regiment_options": "Any FLESH-EATER COURTS , Any Flesh-eater Noble Notes: This unit is legal for Matched Play for battles fought using the General’s Handbook 2025-26 battlepack."
+ },
+ {
+  "id": "Scourge-of-Ghyran-Abhorrant-Gorewarden",
+  "name": "Scourge of Ghyran Abhorrant Gorewarden",
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "grand_alliance": "Death",
+  "move": "12\"",
+  "health": "7",
+  "save": "5+",
+  "control": "2",
+  "ward": "6+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Gory Talons and Fangs",
+    "range": "",
+    "attacks": "5",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "GLORIOUS CHARGE ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit is within the combat range of a friendly KNIGHTS unit and has charged this turn, this unit has WARD ( 5+ ) and its Gory Talons and Fangs have Charge (+1 Damage) ."
+   },
+   {
+    "name": "SWOOPING DESCENT ",
+    "timing": "Once Per Turn (Army), End of Enemy Turn",
+    "declare": "",
+    "effect": "Remove this unit from the battlefield, then set it up again more than 9\" from all enemy units and either: Wholly within 6\" of the edge of the battlefield, or Within 3\" of an objective you do not control ."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "WIZARD ( 1 )",
+   "INFANTRY",
+   "FLY",
+   "WARD ( 6+ )",
+   "DEATH",
+   "FLESH-EATER COURTS",
+   "ABHORRANT"
+  ],
+  "unit_size": 1,
+  "points": 130,
+  "base_size": "40mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Flesh-eater Noble , 0-1 SERFS , Any KNIGHTS Notes: This unit is legal for Matched Play for battles fought using the General’s Handbook 2025-26 battlepack."
+ },
+ {
+  "id": "Crypt-Ghast-Courtier",
+  "name": "Crypt Ghast Courtier",
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "grand_alliance": "Death",
+  "move": "6\"",
+  "health": "4",
+  "save": "5+",
+  "control": "2",
+  "ward": "6+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Bone Club and Filthy Claws",
+    "range": "",
+    "attacks": "5",
+    "hit": "4+",
+    "wound": "4+",
+    "rend": "-",
+    "damage": "2",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "MARSHAL OF THE PEASANTRY ",
+    "timing": "Reaction: You declared a FIGHT ability for this unit",
+    "declare": "",
+    "effect": "Pick a friendly Crypt Ghouls unit that has not used a FIGHT ability this turn and is within this unit’s combat range to be the target. The target can be picked to use a FIGHT ability immediately after the FIGHT ability used by this unit has been resolved. If it is picked to do so, add 1 to hit rolls for the target’s attacks for the rest of the turn."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "INFANTRY",
+   "WARD ( 6+ )",
+   "NOBLE",
+   "DEATH",
+   "FLESH-EATER COURTS"
+  ],
+  "unit_size": 1,
+  "points": 80,
+  "base_size": "32mm",
+  "can_be_reinforced": false,
+  "regiment_options": "Any SERFS Notes: This HERO can join an eligible regiment as a Flesh-eater Noble ."
+ },
+ {
+  "id": "Abhorrant-Ghoul-King-on-Royal-Terrorgheist",
+  "name": "Abhorrant Ghoul King on Royal Terrorgheist",
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "grand_alliance": "Death",
+  "move": "12\"",
+  "health": "16",
+  "save": "4+",
+  "control": "5",
+  "ward": "6+",
+  "ranged_weapons": [
+   {
+    "name": "Death Shriek",
+    "range": "10\"",
+    "attacks": "1",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "D6",
+    "abilities": [
+     "Shoot in Combat , Companion"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Gory Talons and Fangs",
+    "range": "",
+    "attacks": "5",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": []
+   },
+   {
+    "name": "Terrorgheist’s Fanged Maw",
+    "range": "",
+    "attacks": "3",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "D3+3",
+    "abilities": [
+     "Crit (Mortal) , Companion"
+    ]
+   },
+   {
+    "name": "Terrorgheist’s Skeletal Talons",
+    "range": "",
+    "attacks": "6",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Crit (Mortal) , Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "NECROMANTIC LIMITS",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "This unit’s Terrorgheist’s Skeletal Talons have a maximum Attacks characteristic of 10. While this unit has 10 or more damage points, the Attacks characteristic of its Terrorgheist’s Skeletal Talons is 4."
+   },
+   {
+    "name": "FEROCIOUS HUNGER ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "",
+    "effect": "Roll a dice. On a 3+, add 1 to hit rolls for attacks made with this unit’s Companion melee weapons for the rest of the turn."
+   },
+   {
+    "name": "A MAJESTIC MENAGERIE ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While you believe this DELUSION , add 1 to the Attacks characteristic of Companion melee weapons used by friendly FLESH-EATER COURTS units while they are wholly within 12\" of any friendly FLESH-EATER COURTS HEROES ."
+   },
+   {
+    "name": "WICKED PREDATOR ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "Pick an enemy unit in combat with this unit to be the target.",
+    "effect": "For each champion , standard bearer and musician in the target unit, add 1 to the Attacks characteristic of this unit’s Terrorgheist’s Skeletal Talons , to a maximum of 10, for the rest of the phase. Those additional attacks must target that enemy unit."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "MONSTER",
+   "WIZARD ( 1 )",
+   "FLY",
+   "WARD ( 6+ )",
+   "DEATH",
+   "FLESH-EATER COURTS",
+   "ABHORRANT"
+  ],
+  "unit_size": 1,
+  "points": 400,
+  "base_size": "130mm",
+  "can_be_reinforced": false,
+  "regiment_options": "Any FLESH-EATER COURTS , 0-1 Royal Attendant"
+ },
+ {
+  "id": "Abhorrant-Ghoul-King-on-Royal-Zombie-Dragon",
+  "name": "Abhorrant Ghoul King on Royal Zombie Dragon",
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "grand_alliance": "Death",
+  "move": "12\"",
+  "health": "16",
+  "save": "4+",
+  "control": "5",
+  "ward": "6+",
+  "ranged_weapons": [
+   {
+    "name": "Baneful Breath",
+    "range": "10\"",
+    "attacks": "D6",
+    "hit": "2+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "3",
+    "abilities": [
+     "Shoot in Combat , Companion"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Gory Talons and Fangs",
+    "range": "",
+    "attacks": "5",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": []
+   },
+   {
+    "name": "Draconic Jaws",
+    "range": "",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "4",
+    "abilities": [
+     "Crit (Auto-wound) , Companion"
+    ]
+   },
+   {
+    "name": "Draconic Claws",
+    "range": "",
+    "attacks": "7",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Crit (Auto-wound) , Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "NECROMANTIC LIMITS",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "This unit’s Draconic Claws have a maximum Attacks characteristic of 10. While this unit has 10 or more damage points, the Attacks characteristic of its Draconic Claws is 5."
+   },
+   {
+    "name": "FOR THE KINGDOM! ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While you believe this DELUSION , add 1 to charge rolls for friendly KNIGHTS units and friendly FLEASH-EATER COURTS MONSTERS while they are wholly within 12\" of any friendly FLEASH-EATER COURTS HEROES . Add 2 to charge rolls for friendly KNIGHTS units and friendly FLEASH-EATER COURTS MONSTER instead while they are wholly within 12\" of any friendly Abhorrant Ghoul Kings on Royal Zombie Dragons ."
+   },
+   {
+    "name": "MONSTROUS HUNGER ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While they are wholly within 12\" of this unit, friendly non- HERO FLESH-EATER COURTS MONSTERS can use CHARGE abilities even if they used a RUN ability in the same turn."
+   },
+   {
+    "name": "DRACONIC TERROR ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "Pick an enemy unit in combat with this unit to be the target.",
+    "effect": "Roll a dice. If the roll exceeds the target’s Control characteristic, the target cannot use commands for the rest of the turn."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "MONSTER",
+   "WIZARD ( 1 )",
+   "FLY",
+   "WARD ( 6+ )",
+   "DEATH",
+   "FLESH-EATER COURTS",
+   "ABHORRANT"
+  ],
+  "unit_size": 1,
+  "points": 400,
+  "base_size": "130mm",
+  "can_be_reinforced": false,
+  "regiment_options": "Any FLESH-EATER COURTS , 0-1 Royal Attendant"
+ },
+ {
+  "id": "Nagash-Supreme-Lord-of-the-Undead",
+  "name": "Nagash Supreme Lord of the Undead",
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "grand_alliance": "Death",
+  "move": "10\"",
+  "health": "18",
+  "save": "3+",
+  "control": "10",
+  "ward": "5+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Alakanash, the Staff of Power",
+    "range": "",
+    "attacks": "4",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "2",
+    "damage": "D6",
+    "abilities": []
+   },
+   {
+    "name": "Zefet-nebtar, the Mortis Blade",
+    "range": "",
+    "attacks": "4",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "2",
+    "damage": "3",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "BATTLE DAMAGED",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit has 10 or more damage points, subtract 3 from its power level ."
+   },
+   {
+    "name": "UTTER CONTEMPT ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "This unit ignores the effects of DELUSION abilities."
+   },
+   {
+    "name": "THE STAFF OF POWER ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Add 2 to casting rolls for this unit while it has not miscast any spells this turn. If this unit miscasts a spell, ignore the restriction that would stop this unit from casting any more spells this turn."
+   },
+   {
+    "name": "HAND OF DUST ",
+    "timing": "Once Per Turn (Army), End of Any Turn",
+    "declare": "Pick a visible enemy HERO or MONSTER in combat with this unit to be the target.",
+    "effect": "Hide a dice in one of your hands or under one of two appropriate containers. Your opponent must pick one of your hands or containers. If they pick the one hiding the dice, this ability has no effect. If they pick the empty one, the target is automatically destroyed."
+   },
+   {
+    "name": "INVOCATION OF NAGASH ",
+    "timing": "Your Hero Phase",
+    "declare": "This unit can cast this spell more than once per phase. Pick a visible unit wholly within 18\" of this unit that has not been picked to be the target of this spell this turn to be the target, then make a casting roll of 2D6.",
+    "effect": "If the target is an enemy unit, inflict D3 mortal damage on it. If the target is a friendly DEATH unit, pick 1 of the following effects: Return a number of slain models to the target unit with a combined Health characteristic of up to 3. The target has WARD ( 5+ ) until the start of your next turn."
+   },
+   {
+    "name": "SUPREME LORD OF THE UNDEAD ",
+    "timing": "Once Per Battle, Your Hero Phase",
+    "declare": "Pick a friendly non- HERO NON-UNIQUE DEATH unit that has been destroyed to be the target.",
+    "effect": "Set up a replacement unit identical to the target wholly within 12\" of this unit and more than 9\" from all enemy units."
+   }
+  ],
+  "keywords": [
+   "WARMASTER",
+   "UNIQUE",
+   "HERO",
+   "MONSTER",
+   "WIZARD ( 9 )",
+   "FLY",
+   "WARD ( 5+ )",
+   "DEATH",
+   "FLESH-EATER COURTS"
+  ],
+  "unit_size": 1,
+  "points": 750,
+  "base_size": "130mm",
+  "can_be_reinforced": false,
+  "regiment_options": "Any FLESH-EATER COURTS , 0-1 Royal Attendant"
+ },
+ {
+  "id": "Ushoran-Mortarch-of-Delusion",
+  "name": "Ushoran Mortarch of Delusion",
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "grand_alliance": "Death",
+  "move": "10\"",
+  "health": "16",
+  "save": "4+",
+  "control": "5",
+  "ward": "5+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Sceptre of the Carrion King",
+    "range": "",
+    "attacks": "4",
+    "hit": "3+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "D3+3",
+    "abilities": []
+   },
+   {
+    "name": "Monstrous Talons",
+    "range": "",
+    "attacks": "8",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "BATTLE DAMAGED",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit has 10 or more damage points, the Attacks characteristic of its Monstrous Talons is 4."
+   },
+   {
+    "name": "THE ONE TRUE KING ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While you believe this DELUSION : Add 1 to run rolls and charge rolls for friendly FLESH-EATER COURTS units. Subtract 1 from run rolls and charge rolls for enemy units. The melee weapons used by friendly SERFS units have Anti-charge (+1 Rend) while they are wholly within friendly territory and did not charge in the same turn."
+   },
+   {
+    "name": "EPICENTRE OF DELUSION ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Each time you make a delusion roll, you can add 1 to or subtract 1 from the roll."
+   },
+   {
+    "name": "GLIMPSE OF DELUSION ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick a visible enemy model within 18\" of this unit to be the target, pick an enemy unit that is visible to the target and within the target’s combat range to be the victim, then make a casting roll of 2D6. You can only pick the target’s unit to be the victim if that unit has 2 or more models.",
+    "effect": "Pick 1 of the target’s melee weapons. Immediately resolve combat attacks for the target made with that weapon against the victim."
+   },
+   {
+    "name": "SHROUDCAGE FRAGMENT ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "Pick up to 3 enemy units in combat with this unit to be the targets.",
+    "effect": "Roll a dice for each target. If the roll exceeds the target’s Control characteristic, the target has STRIKE-LAST for the rest of the turn."
+   }
+  ],
+  "keywords": [
+   "WARMASTER",
+   "UNIQUE",
+   "HERO",
+   "MONSTER",
+   "WIZARD ( 2 )",
+   "WARD ( 5+ )",
+   "DEATH",
+   "FLESH-EATER COURTS",
+   "ABHORRANT"
+  ],
+  "unit_size": 1,
+  "points": 450,
+  "base_size": "130mm",
+  "can_be_reinforced": false,
+  "regiment_options": "Any FLESH-EATER COURTS , Any Royal Attendant"
+ },
+ {
+  "id": "Varghulf-Courtier",
+  "name": "Varghulf Courtier",
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "grand_alliance": "Death",
+  "move": "10\"",
+  "health": "8",
+  "save": "5+",
+  "control": "1",
+  "ward": "6+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Immense Claws",
+    "range": "",
+    "attacks": "7",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Anti- INFANTRY (+1 Rend)"
+    ]
+   },
+   {
+    "name": "Dagger-like Fangs",
+    "range": "",
+    "attacks": "1",
+    "hit": "3+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "3",
+    "abilities": [
+     "Anti- INFANTRY (+1 Rend)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "BEAST",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "This unit has a maximum control score of 1."
+   },
+   {
+    "name": "VICTORY FEAST ",
+    "timing": "End of Any Turn",
+    "declare": "",
+    "effect": "If any models were slain by this unit this turn: Heal (D6) this unit. If this unit is in combat , this unit can immediately move 10\". It can move through the combat ranges of enemy units but must end that move in combat with the units it was already in combat with at the start of the move. If this unit is not in combat, this unit can immediately move 10\" but cannot end that move in combat."
+   }
+  ],
+  "keywords": [
+   "BEAST",
+   "WARD ( 6+ )",
+   "DEATH",
+   "FLESH-EATER COURTS"
+  ],
+  "unit_size": 1,
+  "points": 100,
+  "base_size": "60mm",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Scourge-of-Aqshy-Varghulf-Courtier",
+  "name": "Scourge of Aqshy Varghulf Courtier",
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "grand_alliance": "Death",
+  "move": "10\"",
+  "health": "8",
+  "save": "5+",
+  "control": "1",
+  "ward": "6+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Immense Claws",
+    "range": "",
+    "attacks": "7",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Anti- INFANTRY (+1 Rend)"
+    ]
+   },
+   {
+    "name": "Dagger-like Fangs",
+    "range": "",
+    "attacks": "1",
+    "hit": "3+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "3",
+    "abilities": [
+     "Anti- INFANTRY (+1 Rend)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "BEAST",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "This unit has a maximum control score of 1."
+   },
+   {
+    "name": "THE HOWLING SAINT ",
+    "timing": "Once Per Turn (Army), Any Hero Phase",
+    "declare": "Pick a visible friendly FLESH-EATER COURTS PRIEST wholly within 18\" of this unit to be the target.",
+    "effect": "The next time the target uses a PRAYER ability this phase: When picking targets for that prayer, you can measure range and visibility from this unit instead of from the chanter. Add 1 to the chanting roll for that prayer."
+   }
+  ],
+  "keywords": [
+   "BEAST",
+   "WARD ( 6+ )",
+   "DEATH",
+   "FLESH-EATER COURTS"
+  ],
+  "unit_size": 1,
+  "points": 110,
+  "base_size": "90 × 52mm",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Morbheg-Knights",
+  "name": "Morbheg Knights",
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "grand_alliance": "Death",
+  "move": "12\"",
+  "health": "4",
+  "save": "4+",
+  "control": "1",
+  "ward": "6+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Nightshrieker’s Claws and Teeth",
+    "range": "",
+    "attacks": "3",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Companion"
+    ]
+   },
+   {
+    "name": "Grisly Lance",
+    "range": "",
+    "attacks": "2",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Charge (+1 Damage)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "PREDATOR KNIGHTS ",
+    "timing": "Once Per Turn (Army), End of Enemy Turn",
+    "declare": "Pick an enemy unit in combat with this unit to be the target.",
+    "effect": "Inflict D3 mortal damage on the target. Then, this unit can use a RETREAT ability as if it were your movement phase. No mortal damage is inflicted on this unit by that RETREAT ability."
+   }
+  ],
+  "keywords": [
+   "CAVALRY",
+   "CHAMPION",
+   "MUSICIAN ( 1/3 )",
+   "STANDARD BEARER ( 1/3 )",
+   "FLY",
+   "WARD ( 6+ )",
+   "DEATH",
+   "FLESH-EATER COURTS",
+   "KNIGHTS"
+  ],
+  "unit_size": 3,
+  "points": 170,
+  "base_size": "75 × 42mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Crypt-Flayers",
+  "name": "Crypt Flayers",
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "grand_alliance": "Death",
+  "move": "12\"",
+  "health": "4",
+  "save": "5+",
+  "control": "1",
+  "ward": "6+",
+  "ranged_weapons": [
+   {
+    "name": "Death Scream",
+    "range": "10\"",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "2",
+    "damage": "1",
+    "abilities": [
+     "Shoot in Combat"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Piercing Talons",
+    "range": "",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "TO OUR LIEGE! ",
+    "timing": "Once Per Turn (Army), Your Movement Phase",
+    "declare": "",
+    "effect": "If this unit is not in combat , remove it from the battlefield and set it up again wholly within 12\" of a friendly FLESH-EATER COURTS HERO and more than 9\" from all enemy units."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "CHAMPION",
+   "FLY",
+   "WARD ( 6+ )",
+   "DEATH",
+   "FLESH-EATER COURTS",
+   "KNIGHTS"
+  ],
+  "unit_size": 3,
+  "points": 160,
+  "base_size": "50mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Crypt-Flayers-2-models-",
+  "name": "Crypt Flayers (2 models)",
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "grand_alliance": "Death",
+  "move": "12\"",
+  "health": "4",
+  "save": "5+",
+  "control": "1",
+  "ward": "6+",
+  "ranged_weapons": [
+   {
+    "name": "Death Scream",
+    "range": "10\"",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "2",
+    "damage": "1",
+    "abilities": [
+     "Shoot in Combat"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Piercing Talons",
+    "range": "",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "TO OUR LIEGE! ",
+    "timing": "Once Per Turn (Army), Your Movement Phase",
+    "declare": "",
+    "effect": "If this unit is not in combat , remove it from the battlefield and set it up again wholly within 12\" of a friendly FLESH-EATER COURTS HERO and more than 9\" from all enemy units."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "CHAMPION",
+   "FLY",
+   "WARD ( 6+ )",
+   "DEATH",
+   "FLESH-EATER COURTS",
+   "KNIGHTS"
+  ],
+  "unit_size": 2,
+  "points": 90,
+  "base_size": "50mm",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Crypt-Ghouls",
+  "name": "Crypt Ghouls",
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "grand_alliance": "Death",
+  "move": "6\"",
+  "health": "1",
+  "save": "6+",
+  "control": "1",
+  "ward": "6+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Sharpened Teeth and Filthy Claws",
+    "range": "",
+    "attacks": "2",
+    "hit": "4+",
+    "wound": "4+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": [
+     "Crit (Auto-wound)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "ROYAL APPROVAL ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Add 1 to the Rend characteristic of this unit’s melee weapons while it is wholly within 12\" of any friendly NOBLES or ABHORRANTS ."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "CHAMPION",
+   "WARD ( 6+ )",
+   "DEATH",
+   "FLESH-EATER COURTS",
+   "SERFS"
+  ],
+  "unit_size": 20,
+  "points": 140,
+  "base_size": "25mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Crypt-Horrors",
+  "name": "Crypt Horrors",
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "grand_alliance": "Death",
+  "move": "7\"",
+  "health": "4",
+  "save": "5+",
+  "control": "1",
+  "ward": "6+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Club and Septic Talons",
+    "range": "",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Anti- CAVALRY (+1 Rend) , Crit (Auto-wound)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "HOLY BLADES OF BONE ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "Pick an enemy unit in combat with this unit to be the target.",
+    "effect": "Roll 2 dice for each model in this unit. Add 2 to each roll if the target is CAVALRY . For each 5+, inflict 1 mortal damage on the target."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "CHAMPION",
+   "WARD ( 6+ )",
+   "DEATH",
+   "FLESH-EATER COURTS",
+   "KNIGHTS"
+  ],
+  "unit_size": 3,
+  "points": 160,
+  "base_size": "50mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Crypt-Horrors-2-models-",
+  "name": "Crypt Horrors (2 models)",
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "grand_alliance": "Death",
+  "move": "7\"",
+  "health": "4",
+  "save": "5+",
+  "control": "1",
+  "ward": "6+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Club and Septic Talons",
+    "range": "",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Anti- CAVALRY (+1 Rend) , Crit (Auto-wound)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "HOLY BLADES OF BONE ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "Pick an enemy unit in combat with this unit to be the target.",
+    "effect": "Roll 2 dice for each model in this unit. Add 2 to each roll if the target is CAVALRY . For each 5+, inflict 1 mortal damage on the target."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "CHAMPION",
+   "WARD ( 6+ )",
+   "DEATH",
+   "FLESH-EATER COURTS",
+   "KNIGHTS"
+  ],
+  "unit_size": 2,
+  "points": 100,
+  "base_size": "50mm",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Cryptguard",
+  "name": "Cryptguard",
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "grand_alliance": "Death",
+  "move": "6\"",
+  "health": "1",
+  "save": "6+",
+  "control": "1",
+  "ward": "6+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Cursed Weapon",
+    "range": "",
+    "attacks": "3",
+    "hit": "4+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Anti-charge (+1 Rend) , Crit (Auto-wound)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "ROYAL BODYGUARD ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While any friendly non- MONSTER FLESH-EATER COURTS HEROES are wholly within this unit’s combat range , both this unit and those HEROES have WARD ( 5+ ) ."
+   },
+   {
+    "name": "ELITE GUARDIANS ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "",
+    "effect": "If this unit is in combat with any enemy units that charged this turn, roll a dice. On a 3+, for the rest of the turn, this unit has STRIKE-FIRST but ward rolls cannot be made for it."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "CHAMPION",
+   "MUSICIAN ( 1/10 )",
+   "STANDARD BEARER ( 1/10 )",
+   "WARD ( 6+ )",
+   "DEATH",
+   "FLESH-EATER COURTS",
+   "SERFS"
+  ],
+  "unit_size": 10,
+  "points": 120,
+  "base_size": "25mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Royal-Beastflayers",
+  "name": "Royal Beastflayers",
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "grand_alliance": "Death",
+  "move": "6\"",
+  "health": "1",
+  "save": "6+",
+  "control": "1",
+  "ward": "6+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Beastflayer Weapons",
+    "range": "",
+    "attacks": "3",
+    "hit": "4+",
+    "wound": "4+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": [
+     "Anti- BEAST (+1 Rend) , Anti- MONSTER (+1 Rend)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "HUNTER’S INSTINCTS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Enemy MONSTERS cannot use RAMPAGE abilities while they are in combat with this unit. In addition, subtract 1 from the Damage characteristic of melee weapons used by enemy MONSTERS and BEAST units while they are in combat with this unit."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "CHAMPION ( 1/10 )",
+   "WARD ( 6+ )",
+   "DEATH",
+   "FLESH-EATER COURTS",
+   "SERFS"
+  ],
+  "unit_size": 10,
+  "points": 110,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "The-Grymwatch",
+  "name": "The Grymwatch",
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "grand_alliance": "Death",
+  "move": "6\"",
+  "health": "1",
+  "save": "6+",
+  "control": "1",
+  "ward": "6+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Knightly Weapons",
+    "range": "",
+    "attacks": "3",
+    "hit": "4+",
+    "wound": "4+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": [
+     "Anti- MONSTER (+1 Rend) , Crit (Auto-wound)"
+    ]
+   },
+   {
+    "name": "Great Halberd",
+    "range": "",
+    "attacks": "4",
+    "hit": "3+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Anti- MONSTER (+1 Rend) , Crit (Auto-wound)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "QUEST TO SLAY THE MONSTER ",
+    "timing": "Any Combat Phase",
+    "declare": "",
+    "effect": "For the rest of the turn, while this unit is in combat with any enemy MONSTER or BEAST units, it has STRIKE-FIRST . However, for the rest of the turn, while it is in combat with any enemy MONSTER or BEAST units, all of this unit’s combat attacks must target an enemy MONSTER or BEAST unit."
+   }
+  ],
+  "keywords": [
+   "UNIQUE",
+   "INFANTRY",
+   "CHAMPION",
+   "WARD ( 6+ )",
+   "DEATH",
+   "FLESH-EATER COURTS",
+   "SERFS"
+  ],
+  "unit_size": 7,
+  "points": 80,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "The-Skinnerkin",
+  "name": "The Skinnerkin",
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "grand_alliance": "Death",
+  "move": "6\"",
+  "health": "2",
+  "save": "6+",
+  "control": "1",
+  "ward": "6+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Butchering Weapons",
+    "range": "",
+    "attacks": "2",
+    "hit": "4+",
+    "wound": "4+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": [
+     "Crit (Auto-wound)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "PRIME CUTS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Each time a combat attack made by this unit scores a critical hit , give 1 prime cut point to this unit, to a maximum of 6."
+   },
+   {
+    "name": "DINNER IS SERVED ",
+    "timing": "End of Any Turn",
+    "declare": "Pick a friendly FLESH-EATER COURTS HERO wholly within 12\" of this unit to be the target.",
+    "effect": "Heal (X) the target, where X is the number of prime cut points this unit has. Then, reset this unit’s prime cut points to 0."
+   }
+  ],
+  "keywords": [
+   "UNIQUE",
+   "INFANTRY",
+   "CHAMPION",
+   "WARD ( 6+ )",
+   "DEATH",
+   "FLESH-EATER COURTS",
+   "SERFS"
+  ],
+  "unit_size": 5,
+  "points": 80,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Royal-Terrorgheist",
+  "name": "Royal Terrorgheist",
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "grand_alliance": "Death",
+  "move": "12\"",
+  "health": "14",
+  "save": "4+",
+  "control": "5",
+  "ward": "6+",
+  "ranged_weapons": [
+   {
+    "name": "Death Shriek",
+    "range": "10\"",
+    "attacks": "1",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "D6",
+    "abilities": [
+     "Shoot in Combat , Companion"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Fanged Maw",
+    "range": "",
+    "attacks": "3",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "D3+3",
+    "abilities": [
+     "Crit (Mortal) , Companion"
+    ]
+   },
+   {
+    "name": "Skeletal Talons",
+    "range": "",
+    "attacks": "6",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Crit (Mortal) , Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "NECROMANTIC LIMITS",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "This unit’s Skeletal Talons have a maximum Attacks characteristic of 10. While this unit has 10 or more damage points, the Attacks characteristic of its Skeletal Talons is 4."
+   },
+   {
+    "name": "SHRIEK OF TERROR ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "Pick an enemy INFANTRY unit in combat with this unit to be the target.",
+    "effect": "Roll a dice for each model in the target unit. For each 6, inflict 1 mortal damage on the target. If 3 or more damage points are allocated to the target by this ability, subtract 1 from hit rolls for the target’s attacks for the rest of the turn."
+   },
+   {
+    "name": "WICKED PREDATOR ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "Pick an enemy unit in combat with this unit to be the target.",
+    "effect": "For each champion , standard bearer and musician in the target unit, add 1 to the Attacks characteristic of this unit’s Skeletal Talons , to a maximum of 10, for the rest of the phase. Those additional attacks must target that enemy unit."
+   }
+  ],
+  "keywords": [
+   "MONSTER",
+   "FLY",
+   "WARD ( 6+ )",
+   "DEATH",
+   "FLESH-EATER COURTS"
+  ],
+  "unit_size": 1,
+  "points": 240,
+  "base_size": "130mm",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Royal-Zombie-Dragon",
+  "name": "Royal Zombie Dragon",
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "grand_alliance": "Death",
+  "move": "12\"",
+  "health": "14",
+  "save": "4+",
+  "control": "5",
+  "ward": "6+",
+  "ranged_weapons": [
+   {
+    "name": "Baneful Breath",
+    "range": "10\"",
+    "attacks": "D6",
+    "hit": "2+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "3",
+    "abilities": [
+     "Shoot in Combat , Companion"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Draconic Jaws",
+    "range": "",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "4",
+    "abilities": [
+     "Crit (Auto-wound) , Companion"
+    ]
+   },
+   {
+    "name": "Draconic Claws",
+    "range": "",
+    "attacks": "7",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Crit (Auto-wound) , Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "NECROMANTIC LIMITS",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "This unit’s Draconic Claws have a maximum Attacks characteristic of 10. While this unit has 10 or more damage points, the Attacks characteristic of its Draconic Claws is 5."
+   },
+   {
+    "name": "ON ROTTEN WINGS ",
+    "timing": "Once Per Turn (Army), Your Movement Phase",
+    "declare": "",
+    "effect": "Remove this unit from the battlefield and set up it again on the battlefield more than 9\" from all enemy units."
+   },
+   {
+    "name": "SOARING TERROR ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "",
+    "effect": "If this unit charged this turn, roll a dice. On a 3+, this unit can move 2D6\". It can pass through the combat ranges of enemy units but must end that move in combat . Then, pick an enemy unit that this unit passed across during that move. Inflict D3 mortal damage on that enemy unit."
+   }
+  ],
+  "keywords": [
+   "MONSTER",
+   "FLY",
+   "WARD ( 6+ )",
+   "DEATH",
+   "FLESH-EATER COURTS"
+  ],
+  "unit_size": 1,
+  "points": 260,
+  "base_size": "130mm",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Charnel-Throne",
+  "name": "Charnel Throne",
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "grand_alliance": "Death",
+  "move": "-",
+  "health": "10",
+  "save": "4+",
+  "control": "-",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "REIGNING CHAMPION ",
+    "timing": "Your Hero Phase",
+    "declare": "If this terrain feature does not have a Steward, pick a friendly FLESH‐EATER COURTS INFANTRY HERO within 3\" of it and not in combat to be the target.",
+    "effect": "Place the target on this terrain feature. The target is now the Steward (see ‘Steward of the Realm’)."
+   },
+   {
+    "name": "DUTY CALLS ",
+    "timing": "Your Movement Phase",
+    "declare": "",
+    "effect": "If this terrain feature has a Steward that was not placed on it this turn, set up the Steward on the battlefield wholly within 6\" of this terrain feature and not in combat . That unit is no longer the Steward."
+   },
+   {
+    "name": "RULER OF ALL THEY SURVEY ",
+    "timing": "Your Movement Phase",
+    "declare": "If this terrain feature has a Steward, pick a visible friendly non- HERO FLESH-EATER COURTS unit that is not in combat to be the target.",
+    "effect": "The target can move D3\". If the target was set up this turn, it can move D6\" instead. It cannot move into combat during that move."
+   },
+   {
+    "name": "STEWARD OF THE REALM ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this terrain feature has a Steward: The Steward cannot use MOVE abilities. Instead of measuring range or visibility to the Steward, measure to this terrain feature instead. All attacks that would target the Steward target this terrain feature instead. If this terrain feature is destroyed, before removing it from the battlefield, inflict D3 mortal damage on the Steward. Then, set up the Steward on the battlefield within 3\" of this terrain feature and not in combat . That unit is no longer the Steward. If it is not possible to set up the Steward, it is slain."
+   }
+  ],
+  "keywords": [
+   "FACTION TERRAIN",
+   "DEATH",
+   "FLESH-EATER COURTS"
+  ],
+  "unit_size": 1,
+  "points": 10,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Cadaverous-Barricade",
+  "name": "Cadaverous Barricade",
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "grand_alliance": "Death",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "GRASPING HANDS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Enemy units cannot use RUN or RETREAT abilities while they are within this MANIFESTATION ’s combat range . In addition, if an enemy unit is picked to use a MOVE ability while it is within this MANIFESTATION ’s combat range, halve that unit’s Move characteristic (rounding up) for the rest of the turn."
+   }
+  ],
+  "keywords": [
+   "MANIFESTATION",
+   "ENDLESS SPELL",
+   "WARD ( 6+ )",
+   "DEATH",
+   "FLESH-EATER COURTS"
+  ],
+  "unit_size": null,
+  "points": null,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Chalice-of-Ushoran",
+  "name": "Chalice of Ushoran",
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "grand_alliance": "Death",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "DRAUGHTS OF DELUSION ",
+    "timing": "Any Combat Phase",
+    "declare": "Pick an enemy unit within 6\" of this MANIFESTATION to be the target.",
+    "effect": "Roll a dice. On a 3+, your opponent must pick 1 of the following to apply for the rest of the turn: Drink Deep from the Chalice: Other than the Companion weapon ability, weapon abilities for attacks made by the target have no effect. Turn Aside and Suffer the Consequences: Combat attacks that target that enemy unit score critical hits on unmodified hit rolls of 5+."
+   }
+  ],
+  "keywords": [
+   "MANIFESTATION",
+   "ENDLESS SPELL",
+   "WARD ( 6+ )",
+   "DEATH",
+   "FLESH-EATER COURTS"
+  ],
+  "unit_size": null,
+  "points": null,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Corpsemare-Stampede",
+  "name": "Corpsemare Stampede",
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "grand_alliance": "Death",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Corpsemare Trample",
+    "range": "",
+    "attacks": "6",
+    "hit": "5+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Crit (2 Hits)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "TRAMPLED UNDERFOOT ",
+    "timing": "Your Charge Phase",
+    "declare": "This MANIFESTATION can use this ability even if it is in combat . Pick a point on a battlefield edge to be the target. Then, make a stampede roll of 2D6. Add 1D6 to the roll for each battle round that this MANIFESTATION has been on the battlefield and has not been banished . For example, the stampede roll would be 2D6 in the turn in which it was summoned, 3D6 in your next turn, and so on.",
+    "effect": "This MANIFESTATION can move a distance up to the value of the stampede roll in a straight line directly towards the target. It can move through the combat ranges of enemy units. It cannot end that move in combat unless it ends that move within ½\" of a visible enemy unit. If it does so, this MANIFESTATION has charged . Roll a D3 for each enemy unit that this MANIFESTATION passed across during that move. On a 2+, inflict an amount of mortal damage on that enemy unit equal to the roll. In addition, if this MANIFESTATION charged this turn, add the value of the stampede roll to the Attacks characteristic of this MANIFESTATION ’s Corpsemare Trample for the rest of the turn."
+   }
+  ],
+  "keywords": [
+   "MANIFESTATION",
+   "ENDLESS SPELL",
+   "FLY",
+   "WARD ( 6+ )",
+   "DEATH",
+   "FLESH-EATER COURTS"
+  ],
+  "unit_size": null,
+  "points": null,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Big-Drogg-Fort-Kicka",
+  "name": "Big Drogg Fort-Kicka",
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "grand_alliance": "Death",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "GRIEVOUS HALITOSIS ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "Pick an enemy unit in combat with this unit to be the target.",
+    "effect": "Roll a dice for each model in the target unit. For each 6, inflict 1 mortal damage on the target."
+   },
+   {
+    "name": "TIMBERRRRR! ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "When the MEGA-GARGANT in this regiment of renown is slain, before removing it from play, the players must roll off . The winner picks a point on the battlefield within 3\" of that model. Inflict D3 mortal damage on each unit (friendly and enemy) within 3\" of that point that has a lower Health characteristic than that model."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 450,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Blades-of-the-Hollow-King",
+  "name": "Blades of the Hollow King",
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "grand_alliance": "Death",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Ezechiarian Greatsword",
+    "range": "",
+    "attacks": "5",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "2",
+    "damage": "2",
+    "abilities": [
+     "Crit (Auto-wound)"
+    ]
+   },
+   {
+    "name": "Sissendra’s Twin Blades",
+    "range": "",
+    "attacks": "8",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Crit (Mortal)"
+    ]
+   },
+   {
+    "name": "Kennistrix’s Fangs",
+    "range": "",
+    "attacks": "2",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "3",
+    "damage": "D3",
+    "abilities": [
+     "Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "THE HUNGER ",
+    "timing": "Once Per Turn (Army), End of Any Turn",
+    "declare": "",
+    "effect": "If this unit used a FIGHT ability this turn, Heal (D3) this unit. Heal (2D3) this unit instead if it destroyed an enemy unit this turn using a FIGHT ability."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 260,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Casket-of-Resurrections",
+  "name": "Casket of Resurrections",
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "grand_alliance": "Death",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "DARK RESURRECTION ",
+    "timing": "Once Per Turn (Army), End of Any Turn",
+    "declare": "If any damage points were allocated to an enemy unit by this unit’s combat attacks this turn and that enemy unit was destroyed this turn, pick a friendly non- UNIQUE DEATH INFANTRY HERO that has been destroyed to be the target.",
+    "effect": "Set up a replacement unit identical to the target wholly within 12\" of this unit. The replacement unit can only be set up in combat with enemy units that are in combat with this unit."
+   },
+   {
+    "name": "ETHEREAL ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Ignore negative modifiers to save rolls for units in this Regiment of Renown ."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 200,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Cogfort-Raiders",
+  "name": "Cogfort Raiders",
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "grand_alliance": "Death",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [],
+  "keywords": [],
+  "unit_size": null,
+  "points": 450,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Outlaw-Conqueror-Cogfort",
+  "name": "Outlaw Conqueror Cogfort",
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "grand_alliance": "Death",
+  "move": "6\"",
+  "health": "25",
+  "save": "3+",
+  "control": "10",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Realmscorcher Flame Cannon",
+    "range": "18\"",
+    "attacks": "6D6",
+    "hit": "2+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Anti- INFANTRY (+1 Rend)"
+    ]
+   },
+   {
+    "name": "Crew’s Leadshotters",
+    "range": "12\"",
+    "attacks": "6",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": [
+     "Shoot in Combat"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Crushing Iron Feet",
+    "range": "",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "4",
+    "abilities": [
+     "Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "BATTLE DAMAGED",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit has 10 or more damage points: The Attacks characteristic of its Crushing Iron Feet is 3. It has a Control characteristic of 5."
+   },
+   {
+    "name": "EVERYONE ABOARD! ",
+    "timing": "Deployment Phase",
+    "declare": "Pick up to 1 friendly INFANTRY HERO and up to 1 friendly non- reinforced , non- HERO INFANTR y unit that have not been deployed.",
+    "effect": "Set up those units in reserve as this unit’s passengers . They have now been deployed."
+   },
+   {
+    "name": "THIS IS YOUR STOP, MAGGOTS! ",
+    "timing": "Once Per Battle, Any Charge Phase",
+    "declare": "Pick this unit’s passengers to be the targets.",
+    "effect": "Set up each target wholly within 6\" of this unit and more than 9\" from all enemy units. In addition, the targets’ melee weapons have Charge (+1 Damage) for the rest of the turn."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "WAR MACHINE",
+   "ORDER"
+  ],
+  "unit_size": null,
+  "points": null,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Craventhrone-Executioners",
+  "name": "Craventhrone Executioners",
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "grand_alliance": "Death",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "ENEMY OF THE THRONE ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Add 1 to hit rolls and wound rolls for units in this Regiment of Renown for attacks that target a SENTENCED unit."
+   },
+   {
+    "name": "ETHEREAL ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Ignore negative modifiers to save rolls for units in this Regiment of Renown ."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 290,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Enforcers-of-the-Tithe",
+  "name": "Enforcers of the Tithe",
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "grand_alliance": "Death",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "COLLECT THE TITHE ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "Pick the GOTHIZZAR HARVESTER in this Regiment of Renown to use this ability, then pick a NON-HERO INFANTRY unit (friendly or enemy) within its combat range to be the target.",
+    "effect": "Roll a dice. If the roll equals or exceeds the target’s Health characteristic, 1 model in the target unit is slain, then give the unit using this ability 1 bone-tithe point ."
+   },
+   {
+    "name": "SOUL TAX ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick the Mortisan Ossifector in this Regiment of Renown to cast this spell, then: Pick a friendly unit, excluding units in this Regiment of Renown, to be the target. Pick a unit in this Regiment of Renown to be the recipient . The target and the recipient must be wholly within 12\" of and visible to the caster. Then, make a casting roll of 2D6.",
+    "effect": "Until the start of your next turn: The target has a maximum control score of 1. Add 1 to hit rolls and wound rolls for the recipient ’s combat attacks ."
+   },
+   {
+    "name": "REBUILD ON THE MARCH ",
+    "timing": "Your Movement Phase",
+    "declare": "Pick the Gothizzar Harvester in this Regiment of Renown to use this ability if it has 6 bone-tithe points . Then, pick another unit in this Regiment of Renown that has been destroyed to be the target.",
+    "effect": "Reset the Gothizzar Harvester ’s bone-tithe points to 0. Then, set up a replacement of the target unit with half the number of models (rounding up) wholly within 9\" of the Gothizzar Harvester and more than 9\" from all enemy units."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 470,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Heralds-of-the-Bone-tithe",
+  "name": "Heralds of the Bone-tithe",
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "grand_alliance": "Death",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "THE DECREE OF NAGASH ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick the friendly Vokmortian in this Regiment of Renown to cast this spell, pick a visible enemy unit within 12\" of them to be the target, then make a casting roll of 2D6.",
+    "effect": "For the rest of the turn, each time your opponent declares a FIGHT ability for the target, unless they spend 1 command point as a reaction, that FIGHT ability has no effect. Designer’s Note: That FIGHT ability does not count as a command."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 510,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Karahtet-s-Siege-Breaker",
+  "name": "Karahtet’s Siege Breaker",
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "grand_alliance": "Death",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "REINFORCE PAVISE ",
+    "timing": "Your Hero Phase",
+    "declare": "If the Mortek Crawler in this Regiment of Renown is wholly within 12\" of and visible to the friendly Mortisan Ossifector in this Regiment of Renown, pick that Mortisan Ossifector to cast this spell, pick that Mortek Crawler to be the target, then make a casting roll of 2D6.",
+    "effect": "Until the start of your next turn, the target has WARD ( 5+ ) ."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 360,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Mask-of-the-Deceiver",
+  "name": "Mask of the Deceiver",
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "grand_alliance": "Death",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [],
+  "keywords": [],
+  "unit_size": null,
+  "points": 170,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Mask-of-The-Deceiver-1",
+  "name": "Mask of The Deceiver",
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "grand_alliance": "Death",
+  "move": "5\"",
+  "health": "6",
+  "save": "5+",
+  "control": "2",
+  "ward": "5+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "The Trickster’s Staff",
+    "range": "",
+    "attacks": "3",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "MASKED IN PLAIN SIGHT ",
+    "timing": "Deployment Phase",
+    "declare": "This unit must be deployed using this ability.",
+    "effect": "Set up this unit in reserve incognito . It has now been deployed. Friendly incognito units are destroyed at the end of the fifth battle round and not at the start of the fourth battle round"
+   },
+   {
+    "name": "BAIT AND SWITCH ",
+    "timing": "Any Hero Phase",
+    "declare": "This unit can use this ability if it is incognito . Pick this unit and a friendly INFANTRY HERO to be the targets. One target must be incognito and the other must be on the battlefield.",
+    "effect": "Set up the incognito target wholly within 6\" of the other target and not in combat . Then, remove the other target from the battlefield and set it up in reserve incognito . If this unit is destroyed, before removing it from play, set up the friendly incognito unit wholly within 6\" of a battlefield edge and not in combat."
+   },
+   {
+    "name": "FORCEFUL COMMAND ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick a visible friendly unit wholly within 12\" of this unit to be the target, then make a casting roll of 2D6.",
+    "effect": "Until the start of your next turn: The target cannot use MOVE abilities. The target’s melee weapons have Anti-charge (+1 Rend) ."
+   }
+  ],
+  "keywords": [
+   "UNIQUE",
+   "HERO",
+   "WIZARD ( 2 )",
+   "INFANTRY",
+   "WARD ( 5+ )",
+   "CHAOS",
+   "DISCIPLES OF TZEENTCH",
+   "DAEMON"
+  ],
+  "unit_size": null,
+  "points": null,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Rogue-Engine",
+  "name": "Rogue Engine",
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "grand_alliance": "Death",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [],
+  "keywords": [],
+  "unit_size": null,
+  "points": 470,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Outlaw-Cannonade-Cogfort-1",
+  "name": "Outlaw Cannonade Cogfort",
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "grand_alliance": "Death",
+  "move": "6\"",
+  "health": "25",
+  "save": "3+",
+  "control": "10",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Godbreaker Cannon",
+    "range": "24\"",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "4",
+    "abilities": []
+   },
+   {
+    "name": "Breacher Cannon",
+    "range": "12\"",
+    "attacks": "6",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Anti- INFANTRY (+1 Rend)"
+    ]
+   },
+   {
+    "name": "Crew’s Leadshotters",
+    "range": "12\"",
+    "attacks": "6",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": [
+     "Shoot in Combat"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Crushing Iron Feet",
+    "range": "",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "4",
+    "abilities": [
+     "Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "BATTLE DAMAGED",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit has 10 or more damage points: The Attacks characteristic of its Crushing Iron Feet is 3. It has a Control characteristic of 5."
+   },
+   {
+    "name": "MERCENARY ATTITUDES ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick another friendly NON-UNIQUE unit wholly within 12\" of this unit to be the target.",
+    "effect": "Pick 1 of the following effects to apply until the start of your next turn and while the target is wholly within 12\" of this unit: You can re-roll run rolls for the target. Add 1 to charge rolls for the target. The target cannot be targeted by shooting attacks . Add 1 to wound rolls for the target’s combat attacks . Add 10 to the target’s control score ."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "WAR MACHINE",
+   "ORDER"
+  ],
+  "unit_size": null,
+  "points": null,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Scions-of-the-Necropolis",
+  "name": "Scions of the Necropolis",
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "grand_alliance": "Death",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "BULWARK OF THE NECROPOLIS ",
+    "timing": "End of Any Turn",
+    "declare": "Pick an enemy unit in combat with a unit in this Regiment of Renown to be the target.",
+    "effect": "Subtract 2D6 from the target’s control score for the rest of the turn."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 770,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "The-Beast-of-Castle-Sternieste",
+  "name": "The Beast of Castle Sternieste",
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "grand_alliance": "Death",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "DEATHLESS MONSTROSITY ",
+    "timing": "Once Per Turn (Army), Your Hero Phase",
+    "declare": "",
+    "effect": "Heal (3) this unit"
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 190,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "The-Liche-s-Hand",
+  "name": "The Liche’s Hand",
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "grand_alliance": "Death",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "SKELETAL SPLINTERING ",
+    "timing": "Your Hero Phase",
+    "declare": "This spell can be cast by the same WIZARD more than once per phase. Pick the Arkhan the Black in this Regiment of Renown to cast this spell, pick a visible enemy unit within 18\" of them that has not been picked to be the target of this spell this turn to be the target, then make a casting roll of 2D6.",
+    "effect": "Roll a number of dice equal to the number of models in the target unit. For each 5+, inflict 1 mortal damage on that unit."
+   },
+   {
+    "name": "UNHOLY SACRAMENTS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Add 1 to the number of dice rolled when making banishment rolls for the Arkhan the Black in this Regiment of Renown, to a maximum of 3."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 790,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "The-Lost-Song-Spirits",
+  "name": "The Lost-Song Spirits",
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "grand_alliance": "Death",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "ENDLESS WANDERING ",
+    "timing": "Once Per Turn (Army), Enemy Hero Phase",
+    "declare": "Pick a unit in this Regiment of Renown that is not in combat to use this ability.",
+    "effect": "That unit can use the ‘ Normal Move ’ ability as if it were your movement phase."
+   },
+   {
+    "name": "OMINOUS FOG ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Units in this Regiment of Renown are not visible to enemy units more than 12\" from them while they are wholly within 9\" of the Treelord in this Regiment of Renown."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 370,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Neferata-s-Royal-Echelon",
+  "name": "Neferata’s Royal Echelon",
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "grand_alliance": "Death",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "SOULPIKE ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick the Neferata in this Regiment of Renown to cast this spell, pick a visible enemy unit within 18\" of them to be the target, then make a casting roll of 2D6.",
+    "effect": "Until the start of your next turn, each time the target uses a CHARGE ability, immediately after that ability has been resolved, roll a number of dice equal to the unmodified charge roll for that ability. For each 4+, inflict 1 mortal damage on the target."
+   },
+   {
+    "name": "PREMEDITATED DEMISE ",
+    "timing": "Once Per Turn (Army), Your Hero Phase",
+    "declare": "Pick an enemy unit within 12\" of the Neferata in this Regiment of Renown to be the target.",
+    "effect": "Until the start of your next turn, ward rolls cannot be made for damage points inflicted on the target by attacks made by units in this Regiment of Renown."
+   },
+   {
+    "name": "THE BLOOD QUEEN’S WILL ",
+    "timing": "Once Per Battle (Army), End of Any Turn",
+    "declare": "Pick an enemy unit contesting an objective that the Neferata in this Regiment of Renown is contesting to be the target.",
+    "effect": "Roll a dice. On a 2-5, subtract 10 from the control score of the target for the rest of the turn. On a 6, the target has a maximum control score of 1 for the rest of the turn."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 760,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Nurgle-s-Gift",
+  "name": "Nurgle’s Gift",
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "grand_alliance": "Death",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "INCUBATION PERIOD ",
+    "timing": "Deployment Phase",
+    "declare": "This ability must be used to deploy this Regiment of Renown .",
+    "effect": "Set up the units in this Regiment of Renown in reserve festering within . They have now been deployed."
+   },
+   {
+    "name": "BURSTING WITH LIFE ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "If a friendly non- NURGLE’S GIFT unit would be destroyed, before the last model is removed from play, roll a dice. Add 1 to the roll for each other friendly non- NURGLE’S GIFT unit that has been destroyed this battle. On a 5+, pick a friendly unit that is festering within and set it up wholly within 6\" of that model. It can be set up in combat ."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 180,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Stumblefoot-Gargant",
+  "name": "Stumblefoot Gargant",
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "grand_alliance": "Death",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "PROJECTILE VOMIT ",
+    "timing": "Once Per Turn (Army), Your Shooting Phase",
+    "declare": "Pick this unit to use this ability if it has not used a RAMPAGE ability this turn. Then, pick a point on the battlefield within 6\" of this unit and pick all other units (friendly and enemy) within 3\" of that point to be the targets.",
+    "effect": "Roll a D3 for each target. On a 2+, inflict an amount of mortal damage on that target equal to the roll."
+   },
+   {
+    "name": "BELLOWING MOCKERY ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "Pick this unit to use this ability if it has not used a RAMPAGE ability this turn, then pick an enemy unit within this unit’s combat range to be the target.",
+    "effect": "Roll a dice. On a 3+, subtract 1 from hit rolls for the target’s attacks for the rest of the turn."
+   },
+   {
+    "name": "WHAT’RE YOU LOOKIN’ AT? ",
+    "timing": "Once Per Turn (Army), Any Charge Phase",
+    "declare": "Pick this unit to use this ability if it charged this turn and has not used a RAMPAGE ability this turn. Then, pick an enemy unit within 9\" of this unit to be the target.",
+    "effect": "Roll 2D6. This unit can move a number of inches equal to the roll. It can pass through enemy models and must end that move in combat with the target."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 140,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "The-Sorrowmourn-Choir",
+  "name": "The Sorrowmourn Choir",
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "grand_alliance": "Death",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "GHOSTLY PATHS ",
+    "timing": "Your Hero Phase",
+    "declare": "This spell can be cast by the same WIZARD more than once per phase. Pick the Lady Olynder in this Regiment of Renown to cast this spell, pick a visible friendly unit in this Regiment of Renown that is wholly within 12\" of them, that is not in combat and that has not been picked to be the target of this spell this turn to be the target, then make a casting roll of 2D6.",
+    "effect": "Remove the target from the battlefield and set it up again more than 9\" from all enemy units."
+   },
+   {
+    "name": "INSUBSTANTIAL ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Ignore negative modiers to save rolls for units in this Regiment of Renown"
+   },
+   {
+    "name": "HARVESTERS OF SORROW ",
+    "timing": "Once Per Turn (Army), Any Charge Phase",
+    "declare": "Pick an enemy unit in combat with a unit in this Regiment of Renown to be the target.",
+    "effect": "Roll a dice. On a 3+, the target cannot use commands for the rest of the turn."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 590,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "The-Sternieste-Garrison",
+  "name": "The Sternieste Garrison",
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "grand_alliance": "Death",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "STALKING BLADES ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick the Mannfred von Carstein in this Regiment of Renown to cast this spell, pick a visible enemy unit within 12\" of them to be the target, then make a casting roll of 2D6.",
+    "effect": "Inflict 1 mortal damage on the target for each other enemy unit within 3\" of the target."
+   },
+   {
+    "name": "ENGULFING SHADOWS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Each time a unit in this Regiment of Renown is set up , add 1 to the Attacks characteristic of that unit’s melee weapons for the rest of the turn."
+   },
+   {
+    "name": "COVER OF NIGHT ",
+    "timing": "Once Per Turn (Army), Your Hero Phase",
+    "declare": "Pick 1 friendly unit in this Regiment of Renown that is not in combat to be the target.",
+    "effect": "Remove that unit from the battlefield and set it up again more than 6\" from all enemy units."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 680,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Veremord-s-Shamblers",
+  "name": "Veremord’s Shamblers",
+  "faction": "Flesh-eater Courts",
+  "faction_slug": "flesh-eater-courts",
+  "grand_alliance": "Death",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "VITIATING VAPOURS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Subtract 1 from ward rolls for enemy units while they are within 12\" of the Corpse Cart in this Regiment of Renown ."
+   },
+   {
+    "name": "LEGEND AMONG GRAVEROBBERS ",
+    "timing": "End of Any Turn",
+    "declare": "Pick the Corpse Cart in this Regiment of Renown to use this ability if it is within 3\" of the Deadwalker Zombies unit in this Regiment of Renown. Then, pick each enemy INFANTRY , CAVALRY and BEAST unit within 12\" of the Corpse Cart to be the targets.",
+    "effect": "For each target that had any models slain this turn, you can return D3 slain models to the Deadwalker Zombies unit in this Regiment of Renown."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 210,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ }
+]

@@ -1,0 +1,273 @@
+[
+ {
+  "faction": "Seraphon",
+  "faction_slug": "seraphon",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "",
+  "text": "/noindex The Seraphon are the implacable turning of the cosmos personified. No mercy lies in their hearts – only a chillingly single-minded dedication to their goal. They are an enigmatic force in the Mortal Realms, an ancient race from beyond the stars born from an amalgam of celestial power, alien technology and a core of pure savagery. This page contains all of the rules you need to field your Seraphon miniatures on the battlefields of the Mortal Realms, from a host of exciting faction rules to a range of warscrolls. The rules are split into the following sections:"
+ },
+ {
+  "faction": "Seraphon",
+  "faction_slug": "seraphon",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Traits",
+  "text": "Seraphon armies can use the following abilities: Once Per Battle, Deployment Phase THE GREAT PLAN : The Seraphon look to the heavens for guidance, scrying the stars above in the hope that the Great Plan is revealed to them. Declare: You must use this ability. Pick an ASTERISM ability to be prophesied. Effect: That ASTERISM ability can be used for the rest of the battle, but the others cannot, unless prophesied by the ‘Further the Great Plan’ ability. Once Per Battle Round FURTHER THE GREAT PLAN : As the battle unfolds, so do the machinations of the Old Ones. Declare: You cannot use this ability in the first battle round. Pick an ASTERISM that you have prophesied. You cannot pick an ASTERISM that you have previously picked this battle. If you do not meet the condition below that corresponds to that ASTERISM , this ability has no effect. Itzl the Tamer: 3 or more enemy units have been destroyed. Quetzl the Preserver: There are no enemy units wholly within friendly territory. Sotek the Deliverer: The enemy general is in combat or has been destroyed. Tepok the Seer: There are any friendly SLANN units on the battlefield and no friendly SLANN units are in combat or have been destroyed. Effect: Pick an ASTERISM ability to be prophesied. Its effects apply in addition to those of all other prophesied ASTERISM abilities. Passive ITZL THE TAMER : Itzl is the most bestial of all the Old Ones and his asterism fills the Seraphon with ferocity. Effect: Companion weapons used by friendly SERAPHON units have Crit (2 Hits) . KEYWORDS ASTERISM Passive QUETZL THE PRESERVER : Quetzl grants protection from the dangers of the physical realms."
+ },
+ {
+  "faction": "Seraphon",
+  "faction_slug": "seraphon",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Traits",
+  "text": "KEYWORDS ASTERISM Passive QUETZL THE PRESERVER : Quetzl grants protection from the dangers of the physical realms. Effect: Subtract 1 from the Rend characteristic of melee weapons for attacks that target friendly SERAPHON units that are wholly within friendly territory. KEYWORDS ASTERISM Passive SOTEK THE DELIVERER : The Asterism of Sotek emboldens the Seraphon with a war-hungry aggression. Effect: Add 2 to the Move characteristic of friendly SERAPHON units. KEYWORDS ASTERISM Passive TEPOK THE SEER : The sign of Tepok, resplendent in the stars above, enlivens the land with thrumming geomantic energy. Effect: Add 1 to casting rolls for friendly SERAPHON units. KEYWORDS ASTERISM"
+ },
+ {
+  "faction": "Seraphon",
+  "faction_slug": "seraphon",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations",
+  "text": "You can pick 1 of the following battle formations for a Seraphon army. Each battle formation grants a different ability you can use in the battle. BATTLE PROFILE Name Points Eternal Starhost 0 Sunclaw Starhost 0 Shadowstrike Starhost 0 Thunderquake Starhost 0"
+ },
+ {
+  "faction": "Seraphon",
+  "faction_slug": "seraphon",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Eternal Starhost",
+  "text": "Once Per Turn (Army), Your Movement Phase CELESTIAL TRANSLOCATION : In a flash of starlight, an Eternal Starhost arrives to enact the will of the Old Ones. Tapping into the celestial power that surrounds the slann, they teleport across the battlefield to catch the foe off guard. Declare: Pick a friendly SERAPHON unit wholly within 12\" of a friendly SERAPHON WIZARD to use this ability. Effect: Remove that unit from the battlefield and set it up again on the battlefield more than 9\" from all enemy units."
+ },
+ {
+  "faction": "Seraphon",
+  "faction_slug": "seraphon",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Sunclaw Starhost",
+  "text": "Once Per Turn (Army), End of Any Turn VENGEANCE OF AZYR : The celestite weapons carried by the warriors of a Sunclaw Starhost are supercharged with the power of Azyr. Declare: Pick up to 3 friendly SAURUS or KROXIGOR units that are in combat to be the targets. Effect: For each target: Make a pile-in move . Then, pick an enemy unit in combat with the target and roll a D3. On a 2+, inflict an amount of mortal damage on that enemy unit equal to the roll."
+ },
+ {
+  "faction": "Seraphon",
+  "faction_slug": "seraphon",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Shadowstrike Starhost",
+  "text": "Once Per Turn (Army), Your Shooting Phase NIMBLE AND QUICK : The skink warriors of a Shadowstrike Starhost outmanoeuvre their enemies at every turn. Declare: Pick up to 3 friendly SKINK INFANTRY or SKINK CAVALRY units that are not in combat to be the targets. Effect: Each target can move D6\". Each target cannot move into combat during any part of that move."
+ },
+ {
+  "faction": "Seraphon",
+  "faction_slug": "seraphon",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Thunderquake Starhost",
+  "text": "Passive SCALY MONSTROSITIES : The great beasts of the Seraphon are almost invincible when they march forth as a pack. Effect: Add 2 to the Health characteristic of friendly SERAPHON MONSTER units."
+ },
+ {
+  "faction": "Seraphon",
+  "faction_slug": "seraphon",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Heroic Traits > Celestial Disciplines",
+  "text": "HERO only BATTLE PROFILE Name Points BEING OF THE STARS 0 REPTILIAN CUNNING 0 BEASTMASTER 0 Passive BEING OF THE STARS : This hero has a particularly strong connection to their astral heritage, causing their corporeality to wax and wane. Effect: Ignore modifiers to save rolls for this unit (positive and negative). Passive REPTILIAN CUNNING : With cold-blooded calculation, this general looks for opportunities to strike. Effect: If this unit charged this turn, if a friendly unit wholly within 12\" of this unit uses the ‘ All-out Attack ’ command in the combat phase, no command points are spent. Passive BEASTMASTER : This mighty leader has a primal dominance over the beasts of the Seraphon hosts, driving them forward to battle. Effect: Add 2\" to the Move characteristic of friendly SERAPHON CAVALRY and SERAPHON MONSTER units for the rest of the phase if they are wholly within 12\" of this unit at the start of the move."
+ },
+ {
+  "faction": "Seraphon",
+  "faction_slug": "seraphon",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Heroic Traits > Servants of the Cosmic Order",
+  "text": "HERO only BATTLE PROFILE Name Points KEEPER OF THE OLD WAYS 0 CHILD OF THE STARS 0 CHOSEN OF QUETZL 0 Once Per Turn, Reaction: You declared the ‘ Further the Great Plan ’ ability KEEPER OF THE OLD WAYS : Having spent centuries poring over tablets of the Old Ones or in deep meditation, or perhaps through some primal intuition, this Seraphon possesses knowledge of ancient secrets concerning the workings of the cosmos. Effect: You can pick 2 different ASTERISM abilities instead of 1. They are both used in addition to the one you picked in the deployment phase . Passive CHILD OF THE STARS : This warrior is made of pure star-matter, immortal and eternal. Effect: If this unit would be destroyed, before removing it from play, roll a dice. On a 3+, this unit is not destroyed and any remaining damage points inflicted on it have no effect. Then, Heal (D3) this unit. This unit cannot use this ability again for the rest of the battle. Any Combat Phase CHOSEN OF QUETZL : This champion of Quetzl the Preserver is a master tactician, coordinating the movement of nimble skinks to outmanoeuvre the foe. Declare: Pick a visible friendly non- MONSTER SKINK unit that is in combat and is wholly within 12\" of this unit to be the target. Effect: Roll a dice. On a 3+, the target can move up to 8\". It can move through the combat ranges of enemy units but cannot end that move in combat."
+ },
+ {
+  "faction": "Seraphon",
+  "faction_slug": "seraphon",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Heroic Traits > Servants of the Cosmic Order",
+  "text": "HERO only BATTLE PROFILE Name Points ARCANE DETERMINATION 0 CALM AND COLLECTED 0 LORD OF SPACE AND TIME 20 Passive ARCANE DETERMINATION : Their body thrumming with celestial energies, this Seraphon draws strength from nearby spell-forms in order to see the will of the Old Ones done. Effect: Add 10 to this unit’s control score while it is wholly within 12\" of a friendly MANIFESTATION . Once Per Battle, End of Your Turn CALM AND COLLECTED : Pure tranquillity radiates from this Seraphon, causing anger to dissipate across the battlefield. Effect: Reduce your and your opponent’s fury levels by up to 3, to a minimum of 0. You must reduce both players’ fury levels by the same amount. End of Your Turn LORD OF SPACE AND TIME : Having mastered temporal manipulation, this slann can store time before bending it to their will. This enhancement can only be given to Slann Starmasters . Declare: Pick any number of friendly SERAPHON units wholly within 12\" of this unit that have not used a MOVE ability this turn to be the targets. Effect: This unit gains a number of stored time points equal to the number of targets picked. Then, if this unit has 5 or more stored time points , you can pick up to 3 visible enemy units within 18\" of it. In your opponent’s next turn, halve the Move characteristic of those enemy units. If you do so, this unit cannot use this ability again for the rest of the battle."
+ },
+ {
+  "faction": "Seraphon",
+  "faction_slug": "seraphon",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Artefacts of Power > Treasures of the Old Ones",
+  "text": "HERO only BATTLE PROFILE Name Points COATL FAMILIAR 20 INCANDESCENT RECTRICES 0 BLOODRAGE PENDANT 0 Once Per Battle, Reaction: You declared a SPELL ability for a friendly Seraphon Wizard within this unit’s combat range COATL FAMILIAR : Though only a juvenile example of the great feathered serpents, this winged creature is still sacred to the mage-god Tepok. Effect: Add D6 to the casting roll for that spell. Any Hero Phase INCANDESCENT RECTRICES : This vibrant plumage imbues the bearer with the restorative power of the heavens. Effect: Heal (D3) this unit. Passive BLOODRAGE PENDANT : Carved from the bones of savage reptilian megafauna, the Bloodrage Pendant spurs a warrior’s killing rage – all the more should they themselves shed gore. Effect: Add 1 to the Attacks characteristic of this unit’s melee weapons. Add 2 instead if the number of damage points allocated to this unit is equal to or greater than half of this unit’s Health characteristic (rounding up)."
+ },
+ {
+  "faction": "Seraphon",
+  "faction_slug": "seraphon",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Monstrous Traits > Monstrous Trait",
+  "text": "Monstrous Traits are unique enhancements that can only be given to MONSTERS . A unit can only have 1 Monstrous Trait. BATTLE PROFILE Name Points TITAN OF THE LAND 0 ANCIENT DEFENDER 0 ARMOUR CRUNCHER 0 Passive TITAN OF THE LAND : This warbeast has absorbed so much of its environment’s latent magic that it has become a locus of the natural energies of the Mortal Realms. Effect: This unit counts as a terrain piece for the purpose of picking targets for the friendly Realmshaper Engine ’s ‘Power Unleashed’ ability. Do not inflict any mortal damage on this unit as part of that ability. Passive ANCIENT DEFENDER : This venerable beast has seen countless battles, as evidenced by its heavily scarred hide. Effect: Add 1 to hit rolls for attacks made by this unit’s Companion weapons. Any Combat Phase ARMOUR CRUNCHER : The sheer heft and strength of this beast sees it crush and crumple well-protected foes in their own armour before it even gets around to tearing into them with tooth, horn and claw. Declare: Pick an enemy unit in combat with this unit to be the target. Effect: Roll a dice. If the roll equals or exceeds the target’s Save characteristic, subtract 1 from save rolls for the target for the rest of the turn. KEYWORDS RAMPAGE"
+ },
+ {
+  "faction": "Seraphon",
+  "faction_slug": "seraphon",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Monstrous Traits > Beasts of the Dark Jungle",
+  "text": "( SERAPHON MONSTER only) BATTLE PROFILE Name Points ARMOUR CRUNCHER 10 TITANIC SLAM 10 CHAMELEONIC CAMOUFLAGE 10 Any Combat Phase ARMOUR CRUNCHER : The sheer heft and strength of this beast sees it crush and crumple well‑protected foes in their own armour before it even gets around to tearing into them with tooth, horn and claw. Declare: Pick an enemy unit in combat with this unit to be the target. Effect: You can spend 1 rage dice . If you do: Apply the effect below. If your opponent’s fury level is lower than yours, they must increase their fury level by 1, to a maximum of 7. Otherwise, roll a dice. If the roll equals or exceeds the target’s Save characteristic, apply the effect below. Subtract 1 from save rolls for the target for the rest of the turn. KEYWORDS RAMPAGE Your Combat Phase TITANIC SLAM : Whether because of an earthshaking charge or the swipe of a colossal tail, the enemy is thrown to the ground. Declare: Pick an enemy unit in combat with this unit to be the target. Effect: Roll a dice. Add 1 to the roll if this unit charged this turn. On a 3+, the target has STRIKE-LAST for the rest of the turn. KEYWORDS RAMPAGE Passive CHAMELEONIC CAMOUFLAGE : This beast’s scales are iridescent while it is mobile, but they quickly change to blend in with the environment when the creature comes to a halt. Effect: While this unit has not used a MOVE ability in the same turn, it is not visible to enemy units more than 12\" away"
+ },
+ {
+  "faction": "Seraphon",
+  "faction_slug": "seraphon",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Spell Lore",
+  "text": "BATTLE PROFILE Name Points Lore of Celestial Manipulation 0 Lore of Primal Jungles 0"
+ },
+ {
+  "faction": "Seraphon",
+  "faction_slug": "seraphon",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Spell Lore > Lore of Celestial Manipulation",
+  "text": "Your Hero Phase 6 MYSTICAL UNFORGING : The magic of unmaking flies from the wizard’s outstretched hands. Declare: Pick a friendly SERAPHON WIZARD to cast this spell, pick a visible enemy unit within 12\" of them to be the target, then make a casting roll of 2D6. Effect: Subtract 1 from the Rend characteristic of the target’s weapons until the start of your next turn. KEYWORDS SPELL, UNLIMITED Your Hero Phase 7 COMET’S CALL : Their consciousness soaring up to the heavens, the wizard summons a celestial comet that plummets down into the enemy ranks. Declare: Pick a friendly SERAPHON WIZARD to cast this spell, pick a visible enemy unit within 18\" of them to be the target, then make a casting roll of 2D6. Effect: Roll a dice for each model in the target unit. For each 5+, inflict 1 mortal damage on the target. KEYWORDS SPELL Your Hero Phase 6 SPEED OF HUANCHI : With the grace and momentum of a prowling beast, the allies of the priestly mage are filled with a celestial haste. Declare: Pick a friendly SERAPHON WIZARD to cast this spell, pick a visible friendly SERAPHON unit wholly within 12\" of them to be the target, then make a casting roll of 2D6. Effect: Until the start of your next turn, the target can use a RUN ability and still use SHOOT and/or CHARGE abilities later in the turn. KEYWORDS SPELL"
+ },
+ {
+  "faction": "Seraphon",
+  "faction_slug": "seraphon",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Spell Lore > Lore of Primal Jungles",
+  "text": "Your Hero Phase 6 LIGHT OF CHOTEC : The wizard calls upon the sun god Chotec to energise an injured warrior with rays of invigorating solar magics. Declare: Pick a friendly SERAPHON WIZARD to cast this spell, pick a visible friendly SERAPHON unit wholly within 12\" of them to be the target, then make a casting roll of 2D6. Effect: Roll a number of dice equal to the number of damage points the target has. For each 4+, Heal (1) the target. KEYWORDS SPELL, UNLIMITED Your Hero Phase 8 THE EARTH TREMBLES : With a focused pulse of will, the Starmaster sets the energy of the ley lines spiking until the ground is violently torn asunder. Declare: Pick a friendly SERAPHON WIZARD to cast this spell, pick a point on the battlefield within 18\" of them to be the target point, then make a casting roll of 2D6. Effect: Draw a straight line between the target point and the closest part on the caster’s base. Roll a D3 for each unit (friendly and enemy) that has models passed across by this line. On a 2+, inflict an amount of mortal damage on that unit equal to the roll. KEYWORDS SPELL Your Hero Phase 7 EMPOWERED CELESTITE : Tapping into the ancient technologies within the weapons of the Coalesced, a light is birthed in each; for a few moments, every strike shatters armour in an explosion of sparks. Declare: Pick a friendly SERAPHON WIZARD to cast this spell, pick a visible friendly SAURUS unit wholly within 12\" of them to be the target, then make a casting roll of 2D6. Effect: Add 1 to the Rend characteristic of the target’s melee weapons for the rest of the turn. KEYWORDS SPELL"
+ },
+ {
+  "faction": "Seraphon",
+  "faction_slug": "seraphon",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Sunblooded Prowlers",
+  "text": "Stealth and brutality epitomise a band of Sunblood Prowlers. These expert hunters are relentless seekers of prey, Seraphon charged with the eradication of specific threats to their slann lords' enigmatic plans. Once they have the scent of a foe, nothing save death can dissuade them from their task. An eclectic but adaptable force, the Sunblooded Prowlers are drawn together under an astral confluence sacred to three of the mighty Old Ones. The chameleonic Hunters of Huanchi are fast-moving and able to seize ground for the slower saurus to exploit. These warriors are the brute strength of the cohort, a solid and unyielding block of scaly flesh. Their saurus leader and his warriors form the Sunblood Pack, and little can withstand their ferocity. Accompanied by its skink Sun Acolytes blessed by Itzl, a Spawn of Chotec delivers gouts of flaming acid, whilst Terrawings bite and hinder. Foes are quickly run to ground by these ruthless Seraphon, and woe betide any who incur their ire. This Spearhead army consists of the following units: General Sunblood Pack with Venomites token Designer’s Note: Even though the Sunblood Pack is a unit of three models, it is referred to as your ’ general ’. Units 5 Saurus Warriors 5 Saurus Warriors 5 Hunters of Huanchi 5 Hunters of Huanchi 3 Terrawings 1 Spawn of Chotec",
+  "spearhead_name": "Sunblooded Prowlers"
+ },
+ {
+  "faction": "Seraphon",
+  "faction_slug": "seraphon",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Sunblooded Prowlers > Battle Traits",
+  "text": "HIDDEN HUNTERS The Hunters of Huanchi can blend in with their surroundings and vanish from sight. Your 2 Hunters of Huanchi units and the Spawn of Chotec are not set up during the deployment phase . Instead, from the third battle round onwards, they can use the Chameleon Ambush Ability: Your Movement Phase CHAMELEON AMBUSH : The Hunters of Huanchi and the Spawn of Chotec emerge from hiding to unleash a hail of potent poisoned projectiles. Effect: Set up this unit anywhere on the battlefield more than 6\" from all enemy units. Once Per Turn (Army), End of Any Turn VENGEANCE OF AZYR : The celestite weapons carried by the warriors of a Sun blooded Prowlers host are supercharged with the power of Azyr. Declare: Pick each enemy unit in combat with a friendly SAURUS unit to be the targets. Effect: Roll a dice for each target. On a 4+, inflict 1 mortal damage on the target.",
+  "spearhead_name": "Sunblooded Prowlers"
+ },
+ {
+  "faction": "Seraphon",
+  "faction_slug": "seraphon",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Sunblooded Prowlers > Regiment Abilities",
+  "text": "Pick 1 of the following regiment abilities. Your Hero Phase SCALED AEGIS : The tenacity of the saurus Sunbloods is legendary, and that of the cohorts under their command equally so. Declare: Pick a friendly SAURUS unit to be the target Effect: Roll a dice. On a 3+, that unit has WARD ( 6+ ) until the start of your next turn. Your Shooting Phase FOLLOWERS OF HUANCHI : Huanchi guides the shots of the skinks and their bestial companions. Declare: Pick a friendly SKINK unit to be the target. Effect: Roll a dice. On a 3+, the target’s ranged weapons have Crit (Auto-wound) for the rest of the turn, including Companion weapons.",
+  "spearhead_name": "Sunblooded Prowlers"
+ },
+ {
+  "faction": "Seraphon",
+  "faction_slug": "seraphon",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Sunblooded Prowlers > Enhancements",
+  "text": "Give your general 1 of the following enhancements. Your Hero Phase INSTINCTIVE COMMANDER : The saurus Sunblood has no need to utter orders, his warriors advancing with instinctive understanding. Declare: Pick a visible friendly unit wholly within 12\" of your general and not in combat to be the target. Effect: Roll a dice. On a 3+, the target can immediately use the ' Normal Move ' ability as if it were your movement phase. Any Combat Phase VENOMITE SWARM : Lethal venom drips from the fangs and claws of Sotek's Venomites. Declare: Pick an enemy unit in combat with your general to be the target. Effect: If your general’s Venomites token is on the battlefield, roll a D3. On a 1, remove that token from the battlefield. On a 2+, inflict an amount of mortal damage on the target equal to the roll. Any Combat Phase SAVAGE MAULING : Once the saurus Sunblood begins the dismemberment of the enemy, even mystical defences crumble under his terrible strength Declare: Pick an enemy unit in combat with your general to be the target. Effect: Ward rolls cannot be made for the target for the rest of the turn. End of Any Turn BLESSED BY THE OLD ONES : The Sunblood is whisked away by powers unseen moments before a fatal blow can fall, perhaps granting his indomitable spirit time enough to bring him to his feet once more. Declare: Your general must use this ability if it has been destroyed. Roll a dice. Effect: On a 2+, you can set up a replacement unit with 1 Sunblood model anywhere on the battlefield more than 6\" from all enemy units.",
+  "spearhead_name": "Sunblooded Prowlers"
+ },
+ {
+  "faction": "Seraphon",
+  "faction_slug": "seraphon",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Sunblooded Prowlers > Warscrolls",
+  "text": "• SPEARHEAD WARSCROLL • Sunblood Pack 5\" 3 4+ 1 A Sunblood is a potent warrior and leader whose roaring savagery inspires his fellow Seraphon to acts of primal ferocity in the name of the Old Ones. Always accompanied by a pair of Saurus Bodyguards who would give their lives for their charge, the Sunblood Pack is a formidable opponent that any foe would do well to think twice about engaging in combat. • SPEARHEAD WARSCROLL • Sunblood Pack MELEE WEAPONS Atk Hit Wnd Rnd Dmg Celestite Weapons Celestite Weapons 3 3+ 3+ 1 2 The models in this unit are 1 Sunblood and 2 Saurus Bodyguard. Each model is armed with Celestite Weapons. This unit’s Venomites are a token. Passive SCALED PROTECTORS : The saurus bodyguard know no other purpose than to follow and protect their Sunblood leader until their dying breath. Effect: While this unit includes a Sunblood , ignore the first damage point that would be allocated to this unit each phase and add 1 to this unit’s control score . Your Hero Phase SAVAGE BELLOW : The Sunblood looses a fearsome bellow, inspiring a fearsome savagery in his warriors. Declare: Pick a visible friendly unit wholly within 12\" of this unit to be the target and roll a dice. Effect: On a 3+, the target’s weapons have Crit (2 Hits) for the rest of the turn, including Companion weapons. KEYWORDS HERO , INFANTRY • SPEARHEAD WARSCROLL • Spawn of Chotec 5\" 8 5+ 1 Believed to be the children of the eponymous sun god, Spawn of Chotec are predatory creatures capable of belching forth deadly liquid flame. Enemies who survive this fiery burst soon find themselves horrifically digested alive by the caustic juices.",
+  "spearhead_name": "Sunblooded Prowlers"
+ },
+ {
+  "faction": "Seraphon",
+  "faction_slug": "seraphon",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Sunblooded Prowlers > Warscrolls",
+  "text": "Enemies who survive this fiery burst soon find themselves horrifically digested alive by the caustic juices. • SPEARHEAD WARSCROLL • Spawn of Chotec RANGED WEAPONS Rng Atk Hit Wnd Rnd Dmg Glob of Flame Acid [ Companion ] Glob of Flame Acid Companion 16\" 1 4+ 2+ 2 D3+3 MELEE WEAPONS Atk Hit Wnd Rnd Dmg Fiery Maw [ Companion ] Fiery Maw Companion 3 3+ 3+ 2 3 Passive SUN ACOLYTES : The Sun Acolytes that accompany a Spawn of Chotec carry out complex tasks upon the battlefield safe in the knowledge that the salamander serves as a deadly deterrent to would be attackers. Effect: This unit has a crew of 3 Sun Acolytes that are tokens . Add 1 to this unit’s control score for each Sun Acolyte it has. If this unit has no Sun Acolytes , it has a maximum control score of 1. Each time you make an unmodified save roll of 1 for this unit, remove 1 of its Sun Acolytes from the battlefield after the Attack ability has been resolved (the damage point is still inflicted). KEYWORDS BEAST • SPEARHEAD WARSCROLL • Saurus Warriors 5\" 2 4+ 1 The saurus are the warrior caste of the Seraphon race. From the moment they emerge from the spawning pools, they are perfectly adapted for their task: muscular, protected by iron-hard scales and possessing vicious claws and teeth. Saurus are predators by nature, capable of fighting with immense savagery, yet though their minds are focused entirely on war, they are not mindless. They share a bond with their spawn-kin that goes beyond words, allowing them to fight with uncanny coordination and discipline in the prosecution of the Great Plan.",
+  "spearhead_name": "Sunblooded Prowlers"
+ },
+ {
+  "faction": "Seraphon",
+  "faction_slug": "seraphon",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Sunblooded Prowlers > Warscrolls",
+  "text": "with their spawn-kin that goes beyond words, allowing them to fight with uncanny coordination and discipline in the prosecution of the Great Plan. • SPEARHEAD WARSCROLL • Saurus Warriors MELEE WEAPONS Atk Hit Wnd Rnd Dmg Celestite Club Celestite Club 2 3+ 3+ 1 1 Passive ORDERED COHORTS : Devoted servants of the Old Ones, Saurus Warriors are as intractable in defence as they are relentless upon the attack. Effect: Add 1 to save rolls for this unit while it is contesting an objective you control . KEYWORDS INFANTRY • SPEARHEAD WARSCROLL • Terrawings 12\" 2 5+ 1 Smaller - but no less vicious - cousins of the Terradons, Terrawings are often found accompanying Hunters of Huanchi. Their natural aggression and ear-splitting shrieks ca hold the attention of any foe, allowing the skinks to slip away. • SPEARHEAD WARSCROLL • Terrawings MELEE WEAPONS Atk Hit Wnd Rnd Dmg Snapping Beaks [ Companion ] Snapping Beaks Companion 3 4+ 4+ - 1 Any Combat Phase NERVE-SHREDDING SCREECHES : The shrill cries of a Terrawing flock can cause disarray across the enemy line. Declare: Pick an enemy unit in combat with this unit to be the target. Effect: Roll a dice. On a 4+, subtract 1 from hit rolls for the target’s combat attacks for the rest of the turn. KEYWORDS BEAST , FLY , REINFORCEMENTS • SPEARHEAD WARSCROLL • Hunters of Huanchi 8\" 1 6+ 1 Hunters of Huanchi armed with dartpipes stalk their prey with infinite patience. Able to blend perfectly into their environment, these peerless hunters silently creep up on their targets before unleashing a storm of blowdarts covered in the most potent venoms.",
+  "spearhead_name": "Sunblooded Prowlers"
+ },
+ {
+  "faction": "Seraphon",
+  "faction_slug": "seraphon",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Sunblooded Prowlers > Warscrolls",
+  "text": "environment, these peerless hunters silently creep up on their targets before unleashing a storm of blowdarts covered in the most potent venoms. • SPEARHEAD WARSCROLL • Hunters of Huanchi RANGED WEAPONS Rng Atk Hit Wnd Rnd Dmg Dartpipe Dartpipe 10\" 2 3+ 3+ - 1 MELEE WEAPONS Atk Hit Wnd Rnd Dmg Feeble Claws Feeble Claws 1 4+ 5+ - 1 Any Shooting Phase STAR-VENOM : The blowdarts used by the Hunters of Huanchi are coated in deadly toxins. Declare: Pick an enemy unit that had any damage points allocated to it this turn by attacks made with this unit’s Dartpipe to be the target. Effect: Roll a dice. On a 2+, subtract 1 from wound rolls for the target’s combat attacks for the rest of the turn. KEYWORDS INFANTRY",
+  "spearhead_name": "Sunblooded Prowlers"
+ },
+ {
+  "faction": "Seraphon",
+  "faction_slug": "seraphon",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Starscale Warhost",
+  "text": "Cold-blooded and enigmatic, the Seraphon are a merciless race. These reptilian warriors are utterly committed to their masters’ Great Plan, and any who interfere – intentionally or otherwise – with that cosmic design are marked for obliteration. Often, it is a Starscale Warhost that will be dispatched to ensure the Plan’s continuation. Whether tracking down a target marked for death by the esoteric slann or defending the enchanted jungles in which the Seraphon dwell, these forces are more than a match for their warm-blooded adversaries. Cohorts of Saurus Warriors are the heart of each Starscale Warhost. As savage on the attack as they are formidable on the defence, they can excel even when outnumbered. At their side lumber the Kroxigor; though these towering brutes are primarily labourers, their immense strength makes them well suited for battle, making red ruin of more stubborn adversaries. The greatest weapon of a Starscale Warhost, however, is its saurus overlord and the monstrous Carnosaur upon which they ride. Coaxed from the deepest jungles, Carnosaurs are living engines of destruction, capable of swallowing warriors whole. Guided by the strategic instincts of the Oldbloods, a Starscale Warhost is a brutal weapon in service of the Great Plan. This Spearhead army consists of the following units: General Saurus Oldblood on Carnosaur Units 5 Saurus Warriors 5 Saurus Warriors 3 Kroxigor",
+  "spearhead_name": "Starscale Warhost"
+ },
+ {
+  "faction": "Seraphon",
+  "faction_slug": "seraphon",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Starscale Warhost > Battle Traits",
+  "text": "Any Combat Phase BEAST OF THE DARK JUNGLES : The perilous jungles of the Seraphon are the hunting grounds of the mighty Carnosaur, a reptilian titan that strikes fear and awe into the hearts of its enemies. Declare: Pick your general to use this ability if they are in combat . Effect: Pick 1 of the following: Gargantuan Jaws: Pick an enemy unit in combat with your general and roll a dice. If the roll exceeds that unit’s Health characteristic, 1 model in that unit is slain. Roar: Pick an enemy unit in combat with your general. Subtract D6 from that unit’s control score this turn.",
+  "spearhead_name": "Starscale Warhost"
+ },
+ {
+  "faction": "Seraphon",
+  "faction_slug": "seraphon",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Starscale Warhost > Regiment Abilities",
+  "text": "Pick 1 of the following regiment abilities. Once Per Phase, End of Any Turn PREDATORY FIGHTERS : These warriors bite bloody chunks of flesh from their foes in battle. Declare: Roll a dice for each enemy unit in combat with any friendly units. Effect: On a 3+, inflict 1 mortal damage on the unit being rolled for. Passive TEMPLE-CITY GUARDIANS : Patrolling the lands on the outskirts of their domain, these defenders will stop at nothing to see intruders driven back. Effect: Friendly units have WARD ( 6+ ) while they are wholly within friendly territory.",
+  "spearhead_name": "Starscale Warhost"
+ },
+ {
+  "faction": "Seraphon",
+  "faction_slug": "seraphon",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Starscale Warhost > Enhancements",
+  "text": "Give your general 1 of the following enhancements. End of Any Turn SOTEK'S GAZE : The eyes of this gilded war-mask resonate with the pitiless hunger of the Serpent God. With it, the Oldblood brutally cows lesser foes. Effect: Roll a dice. Add the roll to your general’s control score this turn. Passive BLADE OF REALITIES : Entrusted only to the most formidable Oldbloods, this pan-dimensional weapon exists to bring about the end of tyrants. Effect: Add 1 to the Rend characteristic of your general’s Relic Celestite Weapon . Once Per Battle, Enemy Movement Phase ANCIENT STRATEGIST : This Oldblood has centuries of experience in commanding their cohorts. Declare: Pick a friendly unit wholly within 12\" of your general. You cannot pick your general. Effect: That unit can use the ‘ Normal Move ’ ability as if it were your movement phase. Passive THE WRATH OF CHOTEC : An ancient relic removed from the deepest temple vaults, this gauntlet allows an Oldblood to channel the full might of the Seraphon’s solar god. Effect: The Attacks characteristic of your general’s Sunbolt Gauntlet is 6 instead of D6.",
+  "spearhead_name": "Starscale Warhost"
+ },
+ {
+  "faction": "Seraphon",
+  "faction_slug": "seraphon",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Starscale Warhost > Warscrolls",
+  "text": "• SPEARHEAD WARSCROLL • Saurus Oldblood on Carnosaur 10\" 14 4+ 5 As a saurus ages, their body become even more finely honed for war, and greater degrees of tactical skill are unlocked within them. They become able to orchestrate grand flanking attacks and sudden feints, though they still act upon instinct above all. They also grow to possess the will not only to wield the destructive relics of the Old Ones but to master a Carnosaur – a huge bipedal monster of ancient times. The battle frenzy of a Carnosaur is, if anything, even greater than its saurus rider, and together beast and master can tear apart even the most terrible of adversaries. • SPEARHEAD WARSCROLL • Saurus Oldblood on Carnosaur RANGED WEAPONS Rng Atk Hit Wnd Rnd Dmg Sunbolt Gauntlet [ Shoot in Combat ] Sunbolt Gauntlet Shoot in Combat 12\" D6 3+ 3+ 1 1 MELEE WEAPONS Atk Hit Wnd Rnd Dmg Relic Celestite Weapon Relic Celestite Weapon 5 3+ 3+ 1 2 Carnosaur’s Massive Jaws [ Companion ] Carnosaur’s Massive Jaws Companion 3 4+ 2+ 2 3 Passive BATTLE DAMAGED Effect: While this unit has 10 or more damage points, the Attacks characteristic of its Carnosaur’s Massive Jaws is 1. Your Hero Phase ANCIENT WARLORD : An Oldblood commands their saurian brethren with relentless focus and drive. Declare: Pick a friendly unit wholly within 12\" of this unit to be the target. You cannot pick this unit. Effect: Until the start of your next turn, add 1 to charge rolls for the target. KEYWORDS HERO , MONSTER • SPEARHEAD WARSCROLL • Saurus Warriors 5\" 2 4+ 1 The saurus are the warrior caste of the Seraphon race. From the moment they emerge from the spawning pools, they are perfectly adapted for their task: muscular, protected by iron-hard scales and possessing vicious claws and teeth.",
+  "spearhead_name": "Starscale Warhost"
+ },
+ {
+  "faction": "Seraphon",
+  "faction_slug": "seraphon",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Starscale Warhost > Warscrolls",
+  "text": "from the spawning pools, they are perfectly adapted for their task: muscular, protected by iron-hard scales and possessing vicious claws and teeth. Saurus are predators by nature, capable of fighting with immense savagery, yet though their minds are focused entirely on war, they are not mindless. They share a bond with their spawn-kin that goes beyond words, allowing them to fight with uncanny coordination and discipline in the prosecution of the Great Plan. • SPEARHEAD WARSCROLL • Saurus Warriors MELEE WEAPONS Atk Hit Wnd Rnd Dmg Celestite Club Celestite Club 2 3+ 3+ 1 1 Passive ORDERED COHORTS : Devoted servants of the Old Ones, Saurus Warriors are as intractable in defence as they are relentless upon the attack. Effect: Add 1 to save rolls for this unit while it is contesting an objective you control . KEYWORDS INFANTRY • SPEARHEAD WARSCROLL • Kroxigor 5\" 6 4+ 2 Kroxigor are towering brutes, spawned in aeons past to serve as the physical labourers of the Seraphon. Their comparative lack of intellect is offset by their primitive determination and, most of all, their terrifying strength – strength that can see them snatch an armoured knight from the saddle and rip them apart. When war calls, the might of the Kroxigor is brought to bear against the Seraphon’s enemies. Wielding toothed mauls and hammers that glow with celestial energies, the Kroxigor demolish foes with broad and punishing swings while shrugging off their panicked retaliatory strikes. • SPEARHEAD WARSCROLL • Kroxigor MELEE WEAPONS Atk Hit Wnd Rnd Dmg Drakebite Maul Drakebite Maul 4 4+ 2+ 1 2 Passive BRUTAL BLOWS : Kroxigor swing their weapons in wide arcs, smashing aside a multitude of foes with each blow. Effect: This unit’s melee weapons have Crit (2 Hits) if the target unit has 5 or more models.",
+  "spearhead_name": "Starscale Warhost"
+ },
+ {
+  "faction": "Seraphon",
+  "faction_slug": "seraphon",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Starscale Warhost > Warscrolls",
+  "text": "Effect: This unit’s melee weapons have Crit (2 Hits) if the target unit has 5 or more models. KEYWORDS INFANTRY noindex /noindex noindex",
+  "spearhead_name": "Starscale Warhost"
+ }
+]

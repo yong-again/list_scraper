@@ -1,0 +1,3034 @@
+[
+ {
+  "id": "Knight-of-Shrouds-on-Ethereal-Steed",
+  "name": "Knight of Shrouds on Ethereal Steed",
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "grand_alliance": "Death",
+  "move": "12\"",
+  "health": "7",
+  "save": "5+",
+  "control": "2",
+  "ward": "5+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Sword of Stolen Hours",
+    "range": "",
+    "attacks": "5",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Crit (Auto-wound)"
+    ]
+   },
+   {
+    "name": "Ethereal Steed’s Ghostly Hooves and Teeth",
+    "range": "",
+    "attacks": "3",
+    "hit": "5+",
+    "wound": "3+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": [
+     "Companion , Crit (Auto-wound)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "STOLEN HOURS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Each time this unit uses a FIGHT ability , after that FIGHT ability has been resolved, Heal (X) this unit, where X is the number of damage points allocated to enemy units by combat attacks made as part of that FIGHT ability."
+   },
+   {
+    "name": "CAVALRY OVERSEER ",
+    "timing": "Reaction: You declared a FIGHT ability for this unit",
+    "declare": "",
+    "effect": "Pick a friendly NON-HERO NIGHTHAUNT CAVALRY or WAR MACHINE unit that has not used a FIGHT ability this turn and is within this unit’s combat range to be the target. The target can be picked to use a FIGHT ability immediately after the FIGHT ability used by this unit has been resolved. If it is picked to do so, add 1 to hit rolls for the target’s attacks for the rest of the turn."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "CAVALRY",
+   "FLY",
+   "WARD ( 5+ )",
+   "DEATH",
+   "NIGHTHAUNT"
+  ],
+  "unit_size": 1,
+  "points": 160,
+  "base_size": "75 × 42mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Cursed Soul , Any NIGHTHAUNT"
+ },
+ {
+  "id": "Reikenor-the-Grimhailer",
+  "name": "Reikenor the Grimhailer",
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "grand_alliance": "Death",
+  "move": "12\"",
+  "health": "7",
+  "save": "5+",
+  "control": "2",
+  "ward": "5+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Fellreaper",
+    "range": "",
+    "attacks": "5",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "2",
+    "damage": "2",
+    "abilities": [
+     "Charge (+1 Damage) , Crit (Auto-wound)"
+    ]
+   },
+   {
+    "name": "Kyllaron’s Ghostly Hooves and Teeth",
+    "range": "",
+    "attacks": "3",
+    "hit": "5+",
+    "wound": "3+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": [
+     "Companion , Crit (Auto-wound)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "WRAITHSTORM ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick a visible enemy unit within 12\" of this unit to be the target, then make a casting roll of 2D6.",
+    "effect": "Inflict D3 mortal damage on the target. If any models are slain as a result of this ability, inflict a further D3 mortal damage on the target."
+   },
+   {
+    "name": "CORPSE CANDLES ",
+    "timing": "Any Hero Phase",
+    "declare": "Pick either this unit or a visible enemy unit within 12\" of this unit to be the target.",
+    "effect": "If you picked this unit, allocate 1 damage point to this unit and add 1 to casting rolls for this unit for the rest of the turn ( ward rolls cannot be made for that damage point). If you picked an enemy unit, roll a dice. On a 3+, inflict 1 mortal damage on that enemy unit and for the rest of the turn: Add 1 to casting rolls for this unit. Add 1 to this unit’s power level ."
+   },
+   {
+    "name": "GRIM JUSTICE ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Add 1 to hit rolls and wound rolls for attacks made with this unit’s Fellreaper if the target is a WIZARD or a PRIEST ."
+   }
+  ],
+  "keywords": [
+   "UNIQUE",
+   "HERO",
+   "WIZARD ( 1 )",
+   "CAVALRY",
+   "FLY",
+   "WARD ( 5+ )",
+   "DEATH",
+   "NIGHTHAUNT"
+  ],
+  "unit_size": 1,
+  "points": 200,
+  "base_size": "75 × 42mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Cursed Soul , Any NIGHTHAUNT"
+ },
+ {
+  "id": "Guardian-of-Souls",
+  "name": "Guardian of Souls",
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "grand_alliance": "Death",
+  "move": "8\"",
+  "health": "5",
+  "save": "5+",
+  "control": "2",
+  "ward": "5+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Chill Blade",
+    "range": "",
+    "attacks": "3",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Crit (Auto-wound)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "NIGHTMARE LANTERN ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "Pick a visible friendly NIGHTHAUNT unit wholly within 12\" of this unit to be the target.",
+    "effect": "Roll a dice. On a 3+, add 1 to wound rolls for the target’s attacks for the rest of the turn."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "WIZARD ( 1 )",
+   "INFANTRY",
+   "FLY",
+   "WARD ( 5+ )",
+   "DEATH",
+   "NIGHTHAUNT"
+  ],
+  "unit_size": 1,
+  "points": 100,
+  "base_size": "32mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Black Coach , Any INFANTRY , 0-1 Scourge of Ghyran Black Coach"
+ },
+ {
+  "id": "Knight-of-Shrouds",
+  "name": "Knight of Shrouds",
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "grand_alliance": "Death",
+  "move": "8\"",
+  "health": "5",
+  "save": "5+",
+  "control": "2",
+  "ward": "5+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Sword of Stolen Hours",
+    "range": "",
+    "attacks": "5",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Crit (Auto-wound)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "STOLEN HOURS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Each time this unit uses a FIGHT ability , after that FIGHT ability has been resolved, Heal (X) this unit, where X is the number of damage points allocated to enemy units by combat attacks made as part of that FIGHT ability."
+   },
+   {
+    "name": "INFANTRY OVERSEER ",
+    "timing": "Reaction: You declared a FIGHT ability for this unit",
+    "declare": "",
+    "effect": "Pick a friendly non- HERO NIGHTHAUNT INFANTRY unit that has not used a FIGHT ability this turn and is within this unit’s combat range to be the target. The target can be picked to use a FIGHT ability immediately after the FIGHT ability used by this unit has been resolved. If it is picked to do so, add 1 to hit rolls for the target’s attacks for the rest of the turn."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "INFANTRY",
+   "FLY",
+   "WARD ( 5+ )",
+   "DEATH",
+   "NIGHTHAUNT"
+  ],
+  "unit_size": 1,
+  "points": 100,
+  "base_size": "32mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Cursed Soul , Any NIGHTHAUNT"
+ },
+ {
+  "id": "Krulghast-Cruciator",
+  "name": "Krulghast Cruciator",
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "grand_alliance": "Death",
+  "move": "8\"",
+  "health": "6",
+  "save": "5+",
+  "control": "2",
+  "ward": "5+",
+  "ranged_weapons": [
+   {
+    "name": "Phantasmal Torture",
+    "range": "12\"",
+    "attacks": "4",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "2",
+    "damage": "1",
+    "abilities": [
+     "Crit (Auto-wound) , Shoot in Combat"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Talons and Flensing Knives",
+    "range": "",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Crit (Auto-wound)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "EMPOWERED THROUGH EXCRUCIATION ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Ignore the first damage point that would be allocated to each friendly NIGHTHAUNT unit wholly within 12\" of this unit in each phase."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "INFANTRY",
+   "FLY",
+   "WARD ( 5+ )",
+   "DEATH",
+   "NIGHTHAUNT"
+  ],
+  "unit_size": 1,
+  "points": 150,
+  "base_size": "40mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Black Coach , Any INFANTRY , 0-1 Scourge of Ghyran Black Coach"
+ },
+ {
+  "id": "Kurdoss-Valentian-the-Craven-King",
+  "name": "Kurdoss Valentian The Craven King",
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "grand_alliance": "Death",
+  "move": "8\"",
+  "health": "7",
+  "save": "5+",
+  "control": "5",
+  "ward": "5+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Sepulchral Sceptre",
+    "range": "",
+    "attacks": "5",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "2",
+    "damage": "3",
+    "abilities": [
+     "Crit (Auto-wound)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "HAIL KURDOSS! KING OF NOTHING! ",
+    "timing": "Your Charge Phase",
+    "declare": "If this unit charged this phase, pick a friendly Craventhrone Guard unit that is not in combat to be the target.",
+    "effect": "The target can immediately use a SHOOT ability as if it were your shooting phase, but all of its attacks must target an enemy unit in combat with this unit. The target cannot use CHARGE abilities for the rest of the turn."
+   },
+   {
+    "name": "IF I CANNOT RULE, NONE SHALL RULE! ",
+    "timing": "Once Per Turn, Reaction: Opponent declared a command for a unit within 12\" of this unit",
+    "declare": "",
+    "effect": "Roll a dice. On a 3+, unless your opponent spends 1 additional command point to use that command, the command has no effect, it still counts as having been used and the command points spent to use the command are still lost."
+   }
+  ],
+  "keywords": [
+   "UNIQUE",
+   "HERO",
+   "INFANTRY",
+   "FLY",
+   "WARD ( 5+ )",
+   "DEATH",
+   "NIGHTHAUNT"
+  ],
+  "unit_size": 1,
+  "points": 160,
+  "base_size": "60mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Cursed Soul , Any NIGHTHAUNT"
+ },
+ {
+  "id": "Lady-Olynder-Mortarch-of-Grief",
+  "name": "Lady Olynder Mortarch of Grief",
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "grand_alliance": "Death",
+  "move": "8\"",
+  "health": "7",
+  "save": "5+",
+  "control": "2",
+  "ward": "5+",
+  "ranged_weapons": [
+   {
+    "name": "Horrifying Visage",
+    "range": "12\"",
+    "attacks": "1",
+    "hit": "2+",
+    "wound": "2+",
+    "rend": "3",
+    "damage": "D6",
+    "abilities": [
+     "Crit (Auto-wound) , Shoot in Combat"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Staff of Midnight",
+    "range": "",
+    "attacks": "6",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": [
+     "Crit (Auto-wound)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "MORTARCH OF GRIEF ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "If the unmodified hit roll or unmodified wound roll for an attack that targets this unit is 1-4, the attack fails and the attack sequence ends."
+   },
+   {
+    "name": "NO REST FOR THE WICKED ",
+    "timing": "Once Per Battle, Your Hero Phase",
+    "declare": "Pick any number of friendly NIGHTHAUNT units on the battlefield to be the targets.",
+    "effect": "For each target, you can return a number of slain models to it with a combined Health characteristic of up to D3+3."
+   },
+   {
+    "name": "GRIEF-STRICKEN ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick a visible enemy unit within 18\" of this unit to be the target, then make a casting roll of 2D6.",
+    "effect": "Ignore positive modifiers to the target’s control score and to hit rolls , wound rolls and save rolls for the target for the rest of the turn."
+   }
+  ],
+  "keywords": [
+   "WARMASTER",
+   "UNIQUE",
+   "HERO",
+   "WIZARD ( 2 )",
+   "INFANTRY",
+   "FLY",
+   "WARD ( 5+ )",
+   "DEATH",
+   "NIGHTHAUNT"
+  ],
+  "unit_size": 1,
+  "points": 320,
+  "base_size": "60mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Cursed Soul , Any NIGHTHAUNT"
+ },
+ {
+  "id": "Lord-Executioner",
+  "name": "Lord Executioner",
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "grand_alliance": "Death",
+  "move": "8\"",
+  "health": "5",
+  "save": "5+",
+  "control": "2",
+  "ward": "5+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Decapitating Greataxe",
+    "range": "",
+    "attacks": "5",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "2",
+    "damage": "2",
+    "abilities": [
+     "Anti- HERO (+1 Rend) , Crit (Auto-wound)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "STARING DEATH IN THE FACE ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "Pick an enemy unit in combat with this unit to be the target.",
+    "effect": "Roll a dice. On a 2+, subtract 1 from the Attacks characteristic of the target’s melee weapons for the rest of the turn. In addition, if the target is a HERO , subtract 5 from the target’s control score for the rest of the turn."
+   },
+   {
+    "name": "GHASTLY DESCENT ",
+    "timing": "End of Any Turn",
+    "declare": "Pick an enemy INFANTRY or CAVALRY HERO that had any damage points allocated to it this turn by this unit’s attacks to be the target.",
+    "effect": "Roll a dice. Add 1 to the roll if the target is a SENTENCED unit. On a 5+, the target is automatically destroyed."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "INFANTRY",
+   "FLY",
+   "WARD ( 5+ )",
+   "DEATH",
+   "NIGHTHAUNT"
+  ],
+  "unit_size": 1,
+  "points": 160,
+  "base_size": "40mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Black Coach , Any INFANTRY , 0-1 Scourge of Ghyran Black Coach Notes: This HERO can join an eligible regiment as a Cursed Soul ."
+ },
+ {
+  "id": "Lord-Vitriolic",
+  "name": "Lord Vitriolic",
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "grand_alliance": "Death",
+  "move": "8\"",
+  "health": "5",
+  "save": "5+",
+  "control": "2",
+  "ward": "5+",
+  "ranged_weapons": [
+   {
+    "name": "Hurled Vial",
+    "range": "10\"",
+    "attacks": "1",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "2",
+    "damage": "D6",
+    "abilities": [
+     "Crit (Auto-wound)"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Culler’s Sickle",
+    "range": "",
+    "attacks": "3",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": [
+     "Crit (Auto-wound)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "SPECTRAL ALCHEMY ",
+    "timing": "Once Per Turn (Army), Your Shooting Phase",
+    "declare": "Pick an enemy unit within 10\" of this unit to be the target.",
+    "effect": "Roll a dice. On a 3+, pick 1 of the following effects or roll two dice and apply both corresponding effects in an order of your choosing, including duplicate effects: 1 Phantasmal Solvent: If the target has a Move characteristic of’-’, inflict 6 mortal damage on the target. 2 Acidic Fug: Inflict D3 mortal damage on the target. 3 Fling Concoctions: Add 1 to the Attacks characteristic of this unit’s Hurled Vial this phase but all attacks made by this unit this phase must target that enemy unit. 4 Choking Vapours: If the target is a WIZARD , subtract 1 from its power level until the start of your next turn. 5 Fear-laced Hallucinogen: If the target is a PRIEST , remove D3 ritual points from it. 6 Unholy Prescription: Ward rolls cannot be made for the target for the rest of the turn."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "INFANTRY",
+   "FLY",
+   "WARD ( 5+ )",
+   "DEATH",
+   "NIGHTHAUNT"
+  ],
+  "unit_size": 1,
+  "points": 120,
+  "base_size": "40mm",
+  "can_be_reinforced": false,
+  "regiment_options": "Any INFANTRY , 0-1 Black Coach , 0-1 Scourge of Ghyran Black Coach Notes: This HERO can join an eligible regiment as a Cursed Soul ."
+ },
+ {
+  "id": "Scriptor-Mortis",
+  "name": "Scriptor Mortis",
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "grand_alliance": "Death",
+  "move": "8\"",
+  "health": "5",
+  "save": "5+",
+  "control": "2",
+  "ward": "5+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Malicious Quill",
+    "range": "",
+    "attacks": "3",
+    "hit": "4+",
+    "wound": "4+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": [
+     "Crit (Auto-wound)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "SENTENCED TO ETERNAL TORMENT ",
+    "timing": "Once Per Turn (Army), Your Hero Phase",
+    "declare": "Pick a visible enemy unit within 18\" of this unit to be the target.",
+    "effect": "Roll a dice. On a 3+, inflict 1 mortal damage on the target and the target has the SENTENCED keyword until the start of your next turn."
+   },
+   {
+    "name": "JUDGE, JURY AND EXECUTIONER ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Each time a friendly NIGHTHAUNT INFANTRY unit uses a FIGHT ability , if all of its attacks target the same SENTENCED enemy unit, that friendly unit’s melee weapons have Crit (Mortal) for that FIGHT ability."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "INFANTRY",
+   "FLY",
+   "WARD ( 5+ )",
+   "DEATH",
+   "NIGHTHAUNT"
+  ],
+  "unit_size": 1,
+  "points": 110,
+  "base_size": "40mm",
+  "can_be_reinforced": false,
+  "regiment_options": "Any INFANTRY , 0-1 Black Coach , 0-1 Scourge of Ghyran Black Coach Notes: This HERO can join an eligible regiment as a Cursed Soul ."
+ },
+ {
+  "id": "Spirit-Torment",
+  "name": "Spirit Torment",
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "grand_alliance": "Death",
+  "move": "8\"",
+  "health": "5",
+  "save": "5+",
+  "control": "2",
+  "ward": "5+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Shacklegheist Chains",
+    "range": "",
+    "attacks": "5",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Crit (Auto-wound)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "CAPTURED SOUL ENERGY ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Each time a friendly NIGHTHAUNT unit wholly within 12\" of this unit uses the ’ Rally ’ command, you can make 3 additional rally rolls of D6."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "INFANTRY",
+   "FLY",
+   "WARD ( 5+ )",
+   "DEATH",
+   "NIGHTHAUNT"
+  ],
+  "unit_size": 1,
+  "points": 110,
+  "base_size": "40mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Black Coach , Any INFANTRY , 0-1 Scourge of Ghyran Black Coach Notes: This HERO can join an eligible regiment as a Cursed Soul ."
+ },
+ {
+  "id": "Cairn-Wraith",
+  "name": "Cairn Wraith",
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "grand_alliance": "Death",
+  "move": "8\"",
+  "health": "5",
+  "save": "5+",
+  "control": "2",
+  "ward": "5+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Cairnoch Scythe",
+    "range": "",
+    "attacks": "5",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "2",
+    "damage": "2",
+    "abilities": [
+     "Crit (Auto-wound)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "EAGER DEATH-DEALERS ",
+    "timing": "Once Per Battle (Army), Any Combat Phase",
+    "declare": "Pick a visible friendly Grimghast Reapers unit wholly within 12\" of this unit to be the target.",
+    "effect": "Add 1 to wound rolls for the target’s combat attacks for the rest of the turn."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "INFANTRY",
+   "FLY",
+   "WARD ( 5+ )",
+   "DEATH",
+   "NIGHTHAUNT"
+  ],
+  "unit_size": 1,
+  "points": 130,
+  "base_size": "25mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Black Coach , Any INFANTRY , 0-1 Scourge of Ghyran Black Coach Notes: This unit will move to Warhammer Legends on 1 June 2026. This HERO can join an eligible regiment as a Cursed Soul ."
+ },
+ {
+  "id": "Tomb-Banshee",
+  "name": "Tomb Banshee",
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "grand_alliance": "Death",
+  "move": "8\"",
+  "health": "5",
+  "save": "5+",
+  "control": "2",
+  "ward": "5+",
+  "ranged_weapons": [
+   {
+    "name": "Piercing Scream",
+    "range": "10\"",
+    "attacks": "2",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "2",
+    "damage": "D3",
+    "abilities": [
+     "Shoot in Combat"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Ancient Chill Dagger",
+    "range": "",
+    "attacks": "3",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "2",
+    "damage": "D3",
+    "abilities": [
+     "Crit (Auto-wound)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "GHOSTLY HOWL ",
+    "timing": "Once Per Battle (Army), Any Shooting Phase",
+    "declare": "Pick an enemy unit in combat with this unit to be the target.",
+    "effect": "Inflict D3 mortal damage on the target. If any models in the target unit are slain by this ability, the target cannot use commands for the rest of the turn."
+   },
+   {
+    "name": "CACOPHONY OF SORROW ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While there are any visible friendly Myrmourn Banshees units within this unit’s combat range , ignore positive modifiers to the control scores of enemy units within 12\" of this unit."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "INFANTRY",
+   "FLY",
+   "WARD ( 5+ )",
+   "DEATH",
+   "NIGHTHAUNT"
+  ],
+  "unit_size": 1,
+  "points": 130,
+  "base_size": "25mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Black Coach , Any INFANTRY , 0-1 Scourge of Ghyran Black Coach Notes: This unit will move to Warhammer Legends on 1 June 2026. This HERO can join an eligible regiment as a Cursed Soul ."
+ },
+ {
+  "id": "Scourge-of-Ghyran-Kurdoss-Valentian-the-Craven-King",
+  "name": "Scourge of Ghyran Kurdoss Valentian the Craven King",
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "grand_alliance": "Death",
+  "move": "8\"",
+  "health": "7",
+  "save": "5+",
+  "control": "5",
+  "ward": "5+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Sepulchral Sceptre",
+    "range": "",
+    "attacks": "5",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "2",
+    "damage": "3",
+    "abilities": [
+     "Crit (Auto-wound)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "INESCAPABLE MOCKERY ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Add 1 to hit rolls and wound rolls for this unit’s combat attacks that target an enemy unit that has a lower Control characteristic than this unit."
+   },
+   {
+    "name": "A TRAITOR’S LEGACY ",
+    "timing": "Any Combat Phase",
+    "declare": "If this unit is in combat , pick a visible friendly NIGHTHAUNT unit wholly within 12\" of this unit to be the target.",
+    "effect": "Pick 1 of the following to apply for the rest of the turn: Regicide and Kinslaying: The target’s melee weapons have Anti‐ HERO (+1 Rend) . Usurpation and Larceny: Add 5 to the target’s control score . Sedition and Betrayal: Enemy units cannot use commands while they are in combat with the target."
+   }
+  ],
+  "keywords": [
+   "UNIQUE",
+   "HERO",
+   "INFANTRY",
+   "FLY",
+   "WARD ( 5+ )",
+   "DEATH",
+   "NIGHTHAUNT"
+  ],
+  "unit_size": 1,
+  "points": 170,
+  "base_size": "60mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Cursed Soul , Any NIGHTHAUNT Notes: This unit is legal for Matched Play for battles fought using the General’s Handbook 2025-26 battlepack."
+ },
+ {
+  "id": "Nagash-Supreme-Lord-of-the-Undead",
+  "name": "Nagash Supreme Lord of the Undead",
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "grand_alliance": "Death",
+  "move": "10\"",
+  "health": "18",
+  "save": "3+",
+  "control": "10",
+  "ward": "5+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Zefet-nebtar, the Mortis Blade",
+    "range": "",
+    "attacks": "4",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "2",
+    "damage": "3",
+    "abilities": []
+   },
+   {
+    "name": "Alakanash, the Staff of Power",
+    "range": "",
+    "attacks": "4",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "2",
+    "damage": "D6",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "BATTLE DAMAGED",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit has 10 or more damage points, subtract 3 from its power level ."
+   },
+   {
+    "name": "THE STAFF OF POWER ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Add 2 to casting rolls for this unit while it has not miscast any spells this turn. If this unit miscasts a spell, ignore the restriction that would stop this unit from casting any more spells this turn."
+   },
+   {
+    "name": "HAND OF DUST ",
+    "timing": "Once Per Turn (Army), End of Any Turn",
+    "declare": "Pick a visible enemy HERO or MONSTER in combat with this unit to be the target.",
+    "effect": "Hide a dice in one of your hands or under one of two appropriate containers. Your opponent must pick one of your hands or containers. If they pick the one hiding the dice, this ability has no effect. If they pick the empty one, the target is automatically destroyed."
+   },
+   {
+    "name": "INVOCATION OF NAGASH ",
+    "timing": "Your Hero Phase",
+    "declare": "This unit can cast this spell more than once per phase. Pick a visible unit wholly within 18\" of this unit that has not been picked to be the target of this spell this turn to be the target, then make a casting roll of 2D6.",
+    "effect": "If the target is an enemy unit, inflict D3 mortal damage on it. If the target is a friendly DEATH unit, pick 1 of the following effects: Return a number of slain models to the target unit with a combined Health characteristic of up to 3. If the target was not set up this turn and is not in combat , it can move up to 3\". It cannot move into combat."
+   },
+   {
+    "name": "SUPREME LORD OF THE UNDEAD ",
+    "timing": "Once Per Battle, Your Hero Phase",
+    "declare": "Pick a friendly non- HERO NON-UNIQUE DEATH unit that has been destroyed to be the target.",
+    "effect": "Set up a replacement unit identical to the target wholly within 12\" of this unit and more than 9\" from all enemy units."
+   }
+  ],
+  "keywords": [
+   "WARMASTER",
+   "UNIQUE",
+   "HERO",
+   "MONSTER",
+   "WIZARD ( 9 )",
+   "FLY",
+   "WARD ( 5+ )",
+   "DEATH",
+   "NIGHTHAUNT"
+  ],
+  "unit_size": 1,
+  "points": 750,
+  "base_size": "130mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Cursed Soul , Any NIGHTHAUNT"
+ },
+ {
+  "id": "Awlrach-the-Drowner",
+  "name": "Awlrach the Drowner",
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "grand_alliance": "Death",
+  "move": "10\"",
+  "health": "7",
+  "save": "5+",
+  "control": "2",
+  "ward": "5+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Deathwood Oar",
+    "range": "",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "-",
+    "damage": "D3",
+    "abilities": [
+     "Crit (Auto-wound)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "PASSAGE THROUGH THE UNDERWORLDS ",
+    "timing": "Once Per Battle, Your Movement Phase",
+    "declare": "If this unit is not in combat , pick a friendly non- HERO NIGHTHAUNT unit that is not in combat and is wholly within 12\" of this unit to be the target.",
+    "effect": "Remove this unit and the target from the battlefield, then set them up again on the battlefield wholly within 6\" of each other and more than 7\" from all enemy units."
+   },
+   {
+    "name": "DRIFTING ON SPECTRAL TIDES ",
+    "timing": "End of Any Turn",
+    "declare": "",
+    "effect": "Roll a dice. On a 3+, this unit can immediately use the ’ Normal Move ’ or the ’ Retreat ’ ability as if it were your movement phase."
+   }
+  ],
+  "keywords": [
+   "UNIQUE",
+   "HERO",
+   "WAR MACHINE",
+   "FLY",
+   "WARD ( 5+ )",
+   "DEATH",
+   "NIGHTHAUNT"
+  ],
+  "unit_size": 1,
+  "points": 110,
+  "base_size": "80mm",
+  "can_be_reinforced": false,
+  "regiment_options": "0-1 Cursed Soul , Any NIGHTHAUNT"
+ },
+ {
+  "id": "Dreadblade-Harrows",
+  "name": "Dreadblade Harrows",
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "grand_alliance": "Death",
+  "move": "12\"",
+  "health": "3",
+  "save": "6+",
+  "control": "1",
+  "ward": "5+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Dreadblade",
+    "range": "",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Crit (Auto-wound)"
+    ]
+   },
+   {
+    "name": "Ethereal Steed’s Ghostly Hooves and Teeth",
+    "range": "",
+    "attacks": "3",
+    "hit": "5+",
+    "wound": "3+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": [
+     "Companion , Crit (Auto-wound)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "CURSE OF LOYALTY ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "If this unit charged this turn, add 3 to the control scores of friendly NIGHTHAUNT units while they are wholly within 12\" of this unit."
+   },
+   {
+    "name": "PHANTASMAL DISCORPORATION ",
+    "timing": "Once Per Turn (Army), Your Movement Phase",
+    "declare": "",
+    "effect": "Remove this unit from the battlefield and set it up again on the battlefield more than 9\" from all enemy units."
+   }
+  ],
+  "keywords": [
+   "CAVALRY",
+   "FLY",
+   "WARD ( 5+ )",
+   "DEATH",
+   "NIGHTHAUNT"
+  ],
+  "unit_size": 2,
+  "points": 140,
+  "base_size": "60 × 35mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Hexwraiths",
+  "name": "Hexwraiths",
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "grand_alliance": "Death",
+  "move": "12\"",
+  "health": "3",
+  "save": "6+",
+  "control": "1",
+  "ward": "5+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Ethereal Steed’s Ghostly Hooves and Teeth",
+    "range": "",
+    "attacks": "2",
+    "hit": "5+",
+    "wound": "3+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": [
+     "Crit (Auto-wound) , Companion"
+    ]
+   },
+   {
+    "name": "Spectral Scythe",
+    "range": "",
+    "attacks": "2",
+    "hit": "4+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Charge (+1 Damage) , Crit (Auto-wound)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "SPECTRAL HUNTERS ",
+    "timing": "Any Charge Phase",
+    "declare": "If this unit charged this phase, pick an enemy unit within 1\" of it to be the target.",
+    "effect": "Roll a D3. On a 2+, inflict an amount of mortal damage on the target equal to the roll."
+   }
+  ],
+  "keywords": [
+   "CAVALRY",
+   "CHAMPION",
+   "FLY",
+   "WARD ( 5+ )",
+   "DEATH",
+   "NIGHTHAUNT"
+  ],
+  "unit_size": 5,
+  "points": 150,
+  "base_size": "60 × 35mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Bladegheist-Revenants",
+  "name": "Bladegheist Revenants",
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "grand_alliance": "Death",
+  "move": "8\"",
+  "health": "2",
+  "save": "6+",
+  "control": "1",
+  "ward": "5+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Tomb Greatblade",
+    "range": "",
+    "attacks": "2",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Crit (Auto-wound)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "THRASHING DESPERATION ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit contests an objective you control, enemy units cannot finish a charge move within ½\" of a model in this unit unless the unmodified charge roll was 7 or more."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "FLY",
+   "WARD ( 5+ )",
+   "DEATH",
+   "NIGHTHAUNT"
+  ],
+  "unit_size": 10,
+  "points": 200,
+  "base_size": "32mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Chainghasts",
+  "name": "Chainghasts",
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "grand_alliance": "Death",
+  "move": "8\"",
+  "health": "3",
+  "save": "6+",
+  "control": "2",
+  "ward": "5+",
+  "ranged_weapons": [
+   {
+    "name": "Ghastflails",
+    "range": "12\"",
+    "attacks": "2",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "2",
+    "damage": "1",
+    "abilities": [
+     "Crit (Auto-wound)"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Ghastflails",
+    "range": "",
+    "attacks": "2",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "2",
+    "damage": "1",
+    "abilities": [
+     "Crit (Auto-wound)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "ANOTHER LINK IN THE CHAIN ",
+    "timing": "Any Combat Phase",
+    "declare": "",
+    "effect": "Roll a dice. Add 1 to the roll if this unit is wholly within 12\" of any friendly Spirit Torments . On a 3+, for the rest of the turn, add 1 to hit rolls for combat attacks made by friendly NIGHTHAUNT units while they are wholly within 12\" of this unit."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "FLY",
+   "WARD ( 5+ )",
+   "DEATH",
+   "NIGHTHAUNT"
+  ],
+  "unit_size": 2,
+  "points": 90,
+  "base_size": "32mm",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Chainrasps",
+  "name": "Chainrasps",
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "grand_alliance": "Death",
+  "move": "8\"",
+  "health": "1",
+  "save": "6+",
+  "control": "1",
+  "ward": "5+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Malignant Weapon",
+    "range": "",
+    "attacks": "2",
+    "hit": "4+",
+    "wound": "5+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": [
+     "Crit (Auto-wound)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "CHILLING HORDE ",
+    "timing": "Once Per Battle (Army), Deployment Phase",
+    "declare": "Pick up to 3 friendly Chainrasps units to be the targets.",
+    "effect": "Each target can move 6\" but cannot end that move in combat ."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "CHAMPION",
+   "FLY",
+   "WARD ( 5+ )",
+   "DEATH",
+   "NIGHTHAUNT"
+  ],
+  "unit_size": 10,
+  "points": 100,
+  "base_size": "25mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Craventhrone-Guard",
+  "name": "Craventhrone Guard",
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "grand_alliance": "Death",
+  "move": "8\"",
+  "health": "2",
+  "save": "6+",
+  "control": "1",
+  "ward": "5+",
+  "ranged_weapons": [
+   {
+    "name": "Soulhunter’s Crossbow",
+    "range": "16\"",
+    "attacks": "2",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Crit (Auto-wound)"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Wicked Sidearm",
+    "range": "",
+    "attacks": "1",
+    "hit": "4+",
+    "wound": "4+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": [
+     "Crit (Auto-wound)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "BLACK-HEARTED LACKEYS ",
+    "timing": "Once Per Turn (Army), Your Movement Phase",
+    "declare": "Pick an enemy unit in combat with this unit to be the target.",
+    "effect": "Roll a D3. On a 2+, this unit immediately uses the ’ Retreat ’ ability without any mortal damage being inflicted on it. Then, inflict an amount of mortal damage on the target equal to the roll."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "CHAMPION",
+   "STANDARD BEARER ( 1/5 )",
+   "FLY",
+   "WARD ( 5+ )",
+   "DEATH",
+   "NIGHTHAUNT"
+  ],
+  "unit_size": 5,
+  "points": 100,
+  "base_size": "32mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Dreadscythe-Harridans",
+  "name": "Dreadscythe Harridans",
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "grand_alliance": "Death",
+  "move": "8\"",
+  "health": "2",
+  "save": "6+",
+  "control": "1",
+  "ward": "5+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Scythed Limbs",
+    "range": "",
+    "attacks": "3",
+    "hit": "4+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Crit (Auto-wound)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "HARROWING SHRIEKS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Enemy units cannot be healed or have slain models returned to them while they are in combat with this unit."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "CHAMPION",
+   "FLY",
+   "WARD ( 5+ )",
+   "DEATH",
+   "NIGHTHAUNT"
+  ],
+  "unit_size": 10,
+  "points": 190,
+  "base_size": "32mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Grimghast-Reapers",
+  "name": "Grimghast Reapers",
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "grand_alliance": "Death",
+  "move": "8\"",
+  "health": "2",
+  "save": "6+",
+  "control": "1",
+  "ward": "5+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Slasher Scythe",
+    "range": "",
+    "attacks": "2",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Anti- INFANTRY (+1 Rend) , Crit (Auto-wound)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "REAPED LIKE CORN ",
+    "timing": "Any Combat Phase",
+    "declare": "Pick an enemy unit that is within the combat ranges of 5 or more models in this unit to be the target.",
+    "effect": "Roll a number of dice equal to the number of models in the target unit. For each 6, inflict 1 mortal damage on the target. If the target unit has 20 or more models, inflict 1 mortal damage on the target for each 5+ instead."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "CHAMPION",
+   "FLY",
+   "WARD ( 5+ )",
+   "DEATH",
+   "NIGHTHAUNT"
+  ],
+  "unit_size": 10,
+  "points": 190,
+  "base_size": "32mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Myrmourn-Banshees",
+  "name": "Myrmourn Banshees",
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "grand_alliance": "Death",
+  "move": "8\"",
+  "health": "2",
+  "save": "6+",
+  "control": "1",
+  "ward": "5+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Chill Dagger",
+    "range": "",
+    "attacks": "2",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": [
+     "Anti- WIZARD (+1 Rend) , Crit (Auto-wound)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "SPELL-EATERS ",
+    "timing": "Reaction: Opponent declared a SPELL ability",
+    "declare": "",
+    "effect": "If a friendly NIGHTHAUNT unit wholly within 12\" of this unit was picked to be the target of that spell, this unit can use the ’ Unbind ’ ability as if it had WIZARD ( 1 ) . Add 1 to the unbinding roll for that ability. If the spell is unbound, inflict D3 mortal damage on the caster."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "FLY",
+   "WARD ( 5+ )",
+   "DEATH",
+   "NIGHTHAUNT"
+  ],
+  "unit_size": 4,
+  "points": 100,
+  "base_size": "32mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Pyregheists",
+  "name": "Pyregheists",
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "grand_alliance": "Death",
+  "move": "8\"",
+  "health": "2",
+  "save": "6+",
+  "control": "1",
+  "ward": "5+",
+  "ranged_weapons": [
+   {
+    "name": "Gout of Balefire",
+    "range": "10\"",
+    "attacks": "2",
+    "hit": "2+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Crit (Auto-wound) , Shoot in Combat"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Flaming Weapons",
+    "range": "",
+    "attacks": "2",
+    "hit": "4+",
+    "wound": "4+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": [
+     "Crit (Auto-wound)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "LIGHT A PYRE ",
+    "timing": "Once Per Turn (Army)",
+    "declare": "If this unit is contesting an objective , pick a visible enemy unit within 6\" of this unit to be the target.",
+    "effect": "Roll a D3. On a 2+: Inflict an amount of mortal damage on the target equal to the roll. Add a number equal to the roll to this unit’s control score for the rest of the turn."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "CHAMPION",
+   "FLY",
+   "WARD ( 5+ )",
+   "DEATH",
+   "NIGHTHAUNT"
+  ],
+  "unit_size": 8,
+  "points": 180,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Spirit-Hosts",
+  "name": "Spirit Hosts",
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "grand_alliance": "Death",
+  "move": "8\"",
+  "health": "3",
+  "save": "6+",
+  "control": "1",
+  "ward": "5+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Spectral Claws and Daggers",
+    "range": "",
+    "attacks": "6",
+    "hit": "4+",
+    "wound": "4+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": [
+     "Crit (Auto-wound)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "DRAWN TO WAR ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Friendly NIGHTHAUNT INFANTRY HEROES have WARD ( 4+ ) while they are wholly within this unit’s combat range ."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "FLY",
+   "WARD ( 5+ )",
+   "DEATH",
+   "NIGHTHAUNT"
+  ],
+  "unit_size": 3,
+  "points": 110,
+  "base_size": "50mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Glaivewraith-Stalkers",
+  "name": "Glaivewraith Stalkers",
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "grand_alliance": "Death",
+  "move": "8\"",
+  "health": "2",
+  "save": "6+",
+  "control": "1",
+  "ward": "5+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Hunter’s Glaive",
+    "range": "",
+    "attacks": "2",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "2",
+    "damage": "1",
+    "abilities": [
+     "Charge (+1 Damage) , Crit (Auto-wound)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "UNERRING HUNTERS ",
+    "timing": "Reaction: Once Per Turn (Army), Any Combat Phase",
+    "declare": "",
+    "effect": "For the rest of the turn, each time this unit makes a pile-in move , add 3\" to the distance it can move."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "MUSICIAN ( 1/4 )",
+   "FLY",
+   "WARD ( 5+ )",
+   "DEATH",
+   "NIGHTHAUNT"
+  ],
+  "unit_size": 4,
+  "points": 100,
+  "base_size": "32mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "Scourge-of-Aqshy-Spirit-Hosts-2",
+  "name": "Scourge of Aqshy Spirit Hosts",
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "grand_alliance": "Death",
+  "move": "8\"",
+  "health": "3",
+  "save": "6+",
+  "control": "1",
+  "ward": "5+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Spectral Claws and Daggers",
+    "range": "",
+    "attacks": "6",
+    "hit": "4+",
+    "wound": "4+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": [
+     "Crit (Auto-wound)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "TERRIFYING SPECTRES ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "Pick an enemy unit in combat with this unit to be the enemy target. Then, you can pick a friendly NIGHTHAUNT HERO in combat with the enemy target to be the friendly target.",
+    "effect": "You can spend 1 rage dice . If you do: Apply the effect below. If your opponent’s fury level is lower than yours, they must increase their fury level by 1, to a maximum of 7. Otherwise, roll a dice. On a 3+, apply the effect below. For the rest of the turn: Subtract 1 from hit rolls for attacks made by the enemy target that do not target this unit. Ignore positive modifiers to hit rolls for the enemy target’s attacks. If you picked a friendly target, add 1 to the Damage characteristic of its melee weapons for attacks that target the enemy target."
+   }
+  ],
+  "keywords": [
+   "INFANTRY",
+   "FLY",
+   "WARD ( 5+ )",
+   "DEATH",
+   "NIGHTHAUNT"
+  ],
+  "unit_size": 3,
+  "points": 100,
+  "base_size": "50mm",
+  "can_be_reinforced": true,
+  "regiment_options": ""
+ },
+ {
+  "id": "The-Headsmen-s-Curse",
+  "name": "The Headsmen’s Curse",
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "grand_alliance": "Death",
+  "move": "8\"",
+  "health": "3",
+  "save": "5+",
+  "control": "1",
+  "ward": "5+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Terminus",
+    "range": "",
+    "attacks": "3",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "2",
+    "damage": "D6",
+    "abilities": [
+     "Crit (Auto-wound)"
+    ]
+   },
+   {
+    "name": "Tool of Judgement",
+    "range": "",
+    "attacks": "3",
+    "hit": "4+",
+    "wound": "4+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "FURIOUS INDICTMENT ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick an enemy unit within 12\" of this unit to be the target.",
+    "effect": "Roll a dice. On a 3+, the target is condemned until the start of your next turn. While a unit is condemned : Halve that unit’s Move characteristic. That unit cannot use RETREAT abilities. Subtract 1 from the number of dice rolled when making charge rolls for that unit, to a minimum of 1."
+   }
+  ],
+  "keywords": [
+   "UNIQUE",
+   "INFANTRY",
+   "FLY",
+   "WARD ( 5+ )",
+   "DEATH",
+   "NIGHTHAUNT"
+  ],
+  "unit_size": 4,
+  "points": 150,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Thorns-of-the-Briar-Queen",
+  "name": "Thorns of the Briar Queen",
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "grand_alliance": "Death",
+  "move": "8\"",
+  "health": "2",
+  "save": "5+",
+  "control": "1",
+  "ward": "5+",
+  "ranged_weapons": [
+   {
+    "name": "Piercing Scream",
+    "range": "12\"",
+    "attacks": "D3",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "2",
+    "damage": "D3",
+    "abilities": [
+     "Shoot in Combat"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Ancient Chill Dagger",
+    "range": "",
+    "attacks": "3",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "2",
+    "damage": "D3",
+    "abilities": [
+     "Crit (Auto-wound)"
+    ]
+   },
+   {
+    "name": "Malignant Weapon",
+    "range": "",
+    "attacks": "2",
+    "hit": "4+",
+    "wound": "5+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": [
+     "Crit (Auto-wound)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "GHOSTLY HOWL ",
+    "timing": "Once Per Turn (Army), Any Shooting Phase",
+    "declare": "Pick an enemy unit that had any damage points allocated to it this turn by attacks made with this unit’s Piercing Scream to be the target.",
+    "effect": "Roll a dice. On a 2+, the target cannot use commands until the start of your next turn."
+   },
+   {
+    "name": "THE BRIAR QUEEN ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit’s Briar Queen is on the battlefield, it has WIZARD ( 1 ) ."
+   }
+  ],
+  "keywords": [
+   "UNIQUE",
+   "INFANTRY",
+   "FLY",
+   "WARD ( 5+ )",
+   "DEATH",
+   "NIGHTHAUNT"
+  ],
+  "unit_size": 7,
+  "points": 140,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Black-Coach",
+  "name": "Black Coach",
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "grand_alliance": "Death",
+  "move": "10\"",
+  "health": "12",
+  "save": "5+",
+  "control": "5",
+  "ward": "5+",
+  "ranged_weapons": [
+   {
+    "name": "Soulreach Grasp",
+    "range": "10\"",
+    "attacks": "2",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "2",
+    "damage": "2",
+    "abilities": [
+     "Crit (Auto-wound) , Shoot in Combat"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Relic Bearers’ Claws and Ethereal Steeds’ Hooves",
+    "range": "",
+    "attacks": "14",
+    "hit": "4+",
+    "wound": "4+",
+    "rend": "-",
+    "damage": "1",
+    "abilities": [
+     "Crit (Auto-wound) , Companion"
+    ]
+   },
+   {
+    "name": "Wraith’s Spectral Weapons",
+    "range": "",
+    "attacks": "5",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Anti- INFANTRY (+1 Rend) , Crit (Auto-wound)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "RUNAWAY COACH ",
+    "timing": "Any Charge Phase",
+    "declare": "If this unit charged this phase, pick an enemy unit within 1\" of it to be the target.",
+    "effect": "Roll a D3. On a 2+, inflict an amount of mortal damage equal on the target equal to the roll."
+   },
+   {
+    "name": "NIMBUS OF POWER ",
+    "timing": "Once Per Turn (Army), Your Movement Phase",
+    "declare": "",
+    "effect": "If this unit is not in combat , remove it from the battlefield and set it up again on the battlefield more than 9\" from all enemy units."
+   },
+   {
+    "name": "EVOCATION OF DEATH ",
+    "timing": "End of Any Turn",
+    "declare": "If any damage points were allocated to an enemy unit by this unit’s combat attacks this turn and that enemy unit was destroyed this turn, pick a friendly non- UNIQUE NIGHTHAUNT HERO that has been destroyed.",
+    "effect": "Set up a replacement unit wholly within 12\" of this unit. The replacement unit can only be set up in combat with enemy units that are in combat with this unit."
+   }
+  ],
+  "keywords": [
+   "WAR MACHINE",
+   "FLY",
+   "WARD ( 5+ )",
+   "DEATH",
+   "NIGHTHAUNT"
+  ],
+  "unit_size": 1,
+  "points": 200,
+  "base_size": "170 × 105mm",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Scourge-of-Aqshy-Black-Coach",
+  "name": "Scourge of Aqshy Black Coach",
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "grand_alliance": "Death",
+  "move": "10\"",
+  "health": "12",
+  "save": "5+",
+  "control": "5",
+  "ward": "5+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Wraith’s Spectral Weapons",
+    "range": "",
+    "attacks": "5",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "2",
+    "damage": "2",
+    "abilities": [
+     "Charge (+1 Damage) , Crit (Auto-wound)"
+    ]
+   },
+   {
+    "name": "Black Coach’s Iron-shod Wheels",
+    "range": "",
+    "attacks": "8",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "2",
+    "damage": "2",
+    "abilities": [
+     "Crit (Auto-wound) , Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "SPECTRAL ATTENDANTS ",
+    "timing": "Once Per Turn (Army), Any Hero Phase",
+    "declare": "",
+    "effect": "Pick 1 of the following to apply for the rest of the turn: Noble Blade: This unit’s melee weapons, including Companion weapons, have Crit (Mortal) instead of Crit (Auto-wound) . Unholy Grail: Pick a friendly NIGHTHAUNT unit wholly within 12\" of this unit. Each time that unit uses the ‘ Rally ’ command, you receive 3 additional rally points. Tome of Undead Lore: This unit has WIZARD ( 1 ) ."
+   },
+   {
+    "name": "ONE STOP, NO RETURN ",
+    "timing": "Once Per Turn (Army), Any Hero Phase",
+    "declare": "Pick an objective you do not control to be the target.",
+    "effect": "For the rest of the turn, while enemy units are contesting the target objective, attacks made by those units cannot score critical hits while this unit is also contesting it (treat them as regular hits instead)."
+   },
+   {
+    "name": "SPECTRAL CARRIAGE ",
+    "timing": "Your Charge Phase",
+    "declare": "",
+    "effect": "For the rest of the phase, add 1 to the number of dice rolled when making charge rolls for this unit, to a maximum of 3."
+   }
+  ],
+  "keywords": [
+   "WAR MACHINE",
+   "FLY",
+   "WARD ( 5+ )",
+   "DEATH",
+   "NIGHTHAUNT"
+  ],
+  "unit_size": 1,
+  "points": 290,
+  "base_size": "170 × 105mm",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Scourge-of-Ghyran-Black-Coach",
+  "name": "Scourge of Ghyran Black Coach",
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "grand_alliance": "Death",
+  "move": "10\"",
+  "health": "12",
+  "save": "5+",
+  "control": "5",
+  "ward": "5+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Wraith’s Spectral Weapons",
+    "range": "",
+    "attacks": "5",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "2",
+    "damage": "2",
+    "abilities": [
+     "Charge (+1 Damage) , Crit (Auto-wound)"
+    ]
+   },
+   {
+    "name": "Black Coach’s Iron-shod Wheels",
+    "range": "",
+    "attacks": "8",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "2",
+    "damage": "2",
+    "abilities": [
+     "Crit (Auto-wound) , Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "SPECTRAL ATTENDANTS ",
+    "timing": "Once Per Turn (Army), Any Hero Phase",
+    "declare": "",
+    "effect": "Pick 1 of the following to apply for the rest of the turn: Noble Blade: This unit’s melee weapons, including Companion weapons, have Crit (Mortal) instead of Crit (Auto-wound) . Unholy Grail: Pick a friendly NIGHTHAUNT unit wholly within 12\" of this unit. Each time that unit uses the ‘ Rally ’ command, you receive 3 additional rally points. Tome of Undead Lore: This unit has WIZARD ( 1 ) ."
+   },
+   {
+    "name": "ONE STOP, NO RETURN ",
+    "timing": "Once Per Turn (Army), Any Hero Phase",
+    "declare": "Pick an objective you do not control to be the target.",
+    "effect": "For the rest of the turn, while enemy units are contesting the target objective, they cannot score critical hits while this unit is also contesting it ( hit rolls that would be critical hits score hits instead)."
+   },
+   {
+    "name": "SPECTRAL CARRIAGE ",
+    "timing": "Your Charge Phase",
+    "declare": "",
+    "effect": "For the rest of the phase, add 1 to the number of dice rolled when making charge rolls for this unit, to a maximum of 3."
+   }
+  ],
+  "keywords": [
+   "WAR MACHINE",
+   "FLY",
+   "WARD ( 5+ )",
+   "DEATH",
+   "NIGHTHAUNT"
+  ],
+  "unit_size": 1,
+  "points": 290,
+  "base_size": "170 × 105mm",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Nexus-of-Grief",
+  "name": "Nexus of Grief",
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "grand_alliance": "Death",
+  "move": "-",
+  "health": "8",
+  "save": "5+",
+  "control": "-",
+  "ward": "5+",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "HUNGRY CRYPTS ",
+    "timing": "Once Per Turn (Army), Your Movement Phase",
+    "declare": "",
+    "effect": "Remove this terrain feature from the battlefield and set it up again on the battlefield within 3\" of a friendly NIGHTHAUNT unit, more than 3\" from all objectives and enemy units, more than 1\" from all terrain features and more than 12\" from all other friendly Nexuses of Grief ."
+   },
+   {
+    "name": "SCREAMS OF THE PENITENT ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Enemy units cannot use commands while they are within 3\" of this terrain feature."
+   },
+   {
+    "name": "AWFUL REFASHIONING ",
+    "timing": "Once Per Turn (Army), End of Any Turn",
+    "declare": "Pick a friendly Nexus of Grief , then pick up to 3 friendly NIGHTHAUNT units wholly within 12\" of it to be the targets. You cannot pick the same unit to be a target of this ability more than once per phase.",
+    "effect": "For each target: If the target is damaged, Heal (D3) the target. If the target is not damaged, return a number of slain models to it with a combined Health characteristic of up to D3."
+   }
+  ],
+  "keywords": [
+   "FACTION TERRAIN",
+   "WARD ( 5+ )",
+   "DEATH",
+   "NIGHTHAUNT"
+  ],
+  "unit_size": 1,
+  "points": 0,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Mortalis-Terminexus",
+  "name": "Mortalis Terminexus",
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "grand_alliance": "Death",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "KEEPER OF MORTALITY ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick a visible friendly NIGHTHAUNT unit within 3\" of this MANIFESTATION to be the target.",
+    "effect": "Roll a dice. On a 2+, pick 1 of the following effects: Add 1 to run rolls and charge rolls for target for the rest of the turn. Heal (3) the target."
+   }
+  ],
+  "keywords": [
+   "MANIFESTATION",
+   "ENDLESS SPELL",
+   "WARD ( 6+ )",
+   "DEATH",
+   "NIGHTHAUNT"
+  ],
+  "unit_size": null,
+  "points": null,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Shyish-Reaper",
+  "name": "Shyish Reaper",
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "grand_alliance": "Death",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Almighty Reap",
+    "range": "",
+    "attacks": "1",
+    "hit": "3+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "4",
+    "abilities": [
+     "Crit (Auto-wound)"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "SOUL REAPER ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Add 2 to the Attacks characteristic of this MANIFESTATION ’s Almighty Reap if it charged in the same turn."
+   }
+  ],
+  "keywords": [
+   "MANIFESTATION",
+   "ENDLESS SPELL",
+   "FLY",
+   "WARD ( 6+ )",
+   "DEATH",
+   "NIGHTHAUNT"
+  ],
+  "unit_size": null,
+  "points": null,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Vault-of-Souls",
+  "name": "Vault of Souls",
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "grand_alliance": "Death",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "SIPHON SOULS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Each time a model from a friendly or enemy unit is slain within 12\" of this MANIFESTATION , give this MANIFESTATION a soul point , to a maximum of 6."
+   },
+   {
+    "name": "SOUL ERUPTION ",
+    "timing": "End of Any Turn",
+    "declare": "If this MANIFESTATION has 6 soul points, pick any number of enemy units within 6\" of this MANIFESTATION to be the targets.",
+    "effect": "Roll 6 dice for each target. For each 4+, inflict 1 mortal damage on the target. Then, reset this MANIFESTATION ’s soul points to 0."
+   }
+  ],
+  "keywords": [
+   "MANIFESTATION",
+   "ENDLESS SPELL",
+   "WARD ( 6+ )",
+   "DEATH",
+   "NIGHTHAUNT"
+  ],
+  "unit_size": null,
+  "points": null,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Big-Drogg-Fort-Kicka",
+  "name": "Big Drogg Fort-Kicka",
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "grand_alliance": "Death",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "GRIEVOUS HALITOSIS ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "Pick an enemy unit in combat with this unit to be the target.",
+    "effect": "Roll a dice for each model in the target unit. For each 6, inflict 1 mortal damage on the target."
+   },
+   {
+    "name": "TIMBERRRRR! ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "When the MEGA-GARGANT in this regiment of renown is slain, before removing it from play, the players must roll off . The winner picks a point on the battlefield within 3\" of that model. Inflict D3 mortal damage on each unit (friendly and enemy) within 3\" of that point that has a lower Health characteristic than that model."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 450,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Blades-of-the-Hollow-King",
+  "name": "Blades of the Hollow King",
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "grand_alliance": "Death",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "Ezechiarian Greatsword",
+    "range": "",
+    "attacks": "5",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "2",
+    "damage": "2",
+    "abilities": [
+     "Crit (Auto-wound)"
+    ]
+   },
+   {
+    "name": "Sissendra’s Twin Blades",
+    "range": "",
+    "attacks": "8",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Crit (Mortal)"
+    ]
+   },
+   {
+    "name": "Kennistrix’s Fangs",
+    "range": "",
+    "attacks": "2",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "3",
+    "damage": "D3",
+    "abilities": [
+     "Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "THE HUNGER ",
+    "timing": "Once Per Turn (Army), End of Any Turn",
+    "declare": "",
+    "effect": "If this unit used a FIGHT ability this turn, Heal (D3) this unit. Heal (2D3) this unit instead if it destroyed an enemy unit this turn using a FIGHT ability."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 260,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Cogfort-Raiders",
+  "name": "Cogfort Raiders",
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "grand_alliance": "Death",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [],
+  "keywords": [],
+  "unit_size": null,
+  "points": 450,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Outlaw-Conqueror-Cogfort",
+  "name": "Outlaw Conqueror Cogfort",
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "grand_alliance": "Death",
+  "move": "6\"",
+  "health": "25",
+  "save": "3+",
+  "control": "10",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Realmscorcher Flame Cannon",
+    "range": "18\"",
+    "attacks": "6D6",
+    "hit": "2+",
+    "wound": "4+",
+    "rend": "1",
+    "damage": "1",
+    "abilities": [
+     "Anti- INFANTRY (+1 Rend)"
+    ]
+   },
+   {
+    "name": "Crew’s Leadshotters",
+    "range": "12\"",
+    "attacks": "6",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": [
+     "Shoot in Combat"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Crushing Iron Feet",
+    "range": "",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "4",
+    "abilities": [
+     "Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "BATTLE DAMAGED",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit has 10 or more damage points: The Attacks characteristic of its Crushing Iron Feet is 3. It has a Control characteristic of 5."
+   },
+   {
+    "name": "EVERYONE ABOARD! ",
+    "timing": "Deployment Phase",
+    "declare": "Pick up to 1 friendly INFANTRY HERO and up to 1 friendly non- reinforced , non- HERO INFANTR y unit that have not been deployed.",
+    "effect": "Set up those units in reserve as this unit’s passengers . They have now been deployed."
+   },
+   {
+    "name": "THIS IS YOUR STOP, MAGGOTS! ",
+    "timing": "Once Per Battle, Any Charge Phase",
+    "declare": "Pick this unit’s passengers to be the targets.",
+    "effect": "Set up each target wholly within 6\" of this unit and more than 9\" from all enemy units. In addition, the targets’ melee weapons have Charge (+1 Damage) for the rest of the turn."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "WAR MACHINE",
+   "ORDER"
+  ],
+  "unit_size": null,
+  "points": null,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Heralds-of-the-Bone-tithe",
+  "name": "Heralds of the Bone-tithe",
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "grand_alliance": "Death",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "THE DECREE OF NAGASH ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick the friendly Vokmortian in this Regiment of Renown to cast this spell, pick a visible enemy unit within 12\" of them to be the target, then make a casting roll of 2D6.",
+    "effect": "For the rest of the turn, each time your opponent declares a FIGHT ability for the target, unless they spend 1 command point as a reaction, that FIGHT ability has no effect. Designer’s Note: That FIGHT ability does not count as a command."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 510,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Karahtet-s-Siege-Breaker",
+  "name": "Karahtet’s Siege Breaker",
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "grand_alliance": "Death",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "REINFORCE PAVISE ",
+    "timing": "Your Hero Phase",
+    "declare": "If the Mortek Crawler in this Regiment of Renown is wholly within 12\" of and visible to the friendly Mortisan Ossifector in this Regiment of Renown, pick that Mortisan Ossifector to cast this spell, pick that Mortek Crawler to be the target, then make a casting roll of 2D6.",
+    "effect": "Until the start of your next turn, the target has WARD ( 5+ ) ."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 360,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Mask-of-the-Deceiver",
+  "name": "Mask of the Deceiver",
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "grand_alliance": "Death",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [],
+  "keywords": [],
+  "unit_size": null,
+  "points": 170,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Mask-of-The-Deceiver-1",
+  "name": "Mask of The Deceiver",
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "grand_alliance": "Death",
+  "move": "5\"",
+  "health": "6",
+  "save": "5+",
+  "control": "2",
+  "ward": "5+",
+  "ranged_weapons": [],
+  "melee_weapons": [
+   {
+    "name": "The Trickster’s Staff",
+    "range": "",
+    "attacks": "3",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": []
+   }
+  ],
+  "abilities": [
+   {
+    "name": "MASKED IN PLAIN SIGHT ",
+    "timing": "Deployment Phase",
+    "declare": "This unit must be deployed using this ability.",
+    "effect": "Set up this unit in reserve incognito . It has now been deployed. Friendly incognito units are destroyed at the end of the fifth battle round and not at the start of the fourth battle round"
+   },
+   {
+    "name": "BAIT AND SWITCH ",
+    "timing": "Any Hero Phase",
+    "declare": "This unit can use this ability if it is incognito . Pick this unit and a friendly INFANTRY HERO to be the targets. One target must be incognito and the other must be on the battlefield.",
+    "effect": "Set up the incognito target wholly within 6\" of the other target and not in combat . Then, remove the other target from the battlefield and set it up in reserve incognito . If this unit is destroyed, before removing it from play, set up the friendly incognito unit wholly within 6\" of a battlefield edge and not in combat."
+   },
+   {
+    "name": "FORCEFUL COMMAND ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick a visible friendly unit wholly within 12\" of this unit to be the target, then make a casting roll of 2D6.",
+    "effect": "Until the start of your next turn: The target cannot use MOVE abilities. The target’s melee weapons have Anti-charge (+1 Rend) ."
+   }
+  ],
+  "keywords": [
+   "UNIQUE",
+   "HERO",
+   "WIZARD ( 2 )",
+   "INFANTRY",
+   "WARD ( 5+ )",
+   "CHAOS",
+   "DISCIPLES OF TZEENTCH",
+   "DAEMON"
+  ],
+  "unit_size": null,
+  "points": null,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Rogue-Engine",
+  "name": "Rogue Engine",
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "grand_alliance": "Death",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [],
+  "keywords": [],
+  "unit_size": null,
+  "points": 470,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Outlaw-Cannonade-Cogfort-1",
+  "name": "Outlaw Cannonade Cogfort",
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "grand_alliance": "Death",
+  "move": "6\"",
+  "health": "25",
+  "save": "3+",
+  "control": "10",
+  "ward": "",
+  "ranged_weapons": [
+   {
+    "name": "Godbreaker Cannon",
+    "range": "24\"",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "4",
+    "abilities": []
+   },
+   {
+    "name": "Breacher Cannon",
+    "range": "12\"",
+    "attacks": "6",
+    "hit": "3+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "2",
+    "abilities": [
+     "Anti- INFANTRY (+1 Rend)"
+    ]
+   },
+   {
+    "name": "Crew’s Leadshotters",
+    "range": "12\"",
+    "attacks": "6",
+    "hit": "4+",
+    "wound": "3+",
+    "rend": "1",
+    "damage": "D3",
+    "abilities": [
+     "Shoot in Combat"
+    ]
+   }
+  ],
+  "melee_weapons": [
+   {
+    "name": "Crushing Iron Feet",
+    "range": "",
+    "attacks": "4",
+    "hit": "4+",
+    "wound": "2+",
+    "rend": "2",
+    "damage": "4",
+    "abilities": [
+     "Companion"
+    ]
+   }
+  ],
+  "abilities": [
+   {
+    "name": "BATTLE DAMAGED",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "While this unit has 10 or more damage points: The Attacks characteristic of its Crushing Iron Feet is 3. It has a Control characteristic of 5."
+   },
+   {
+    "name": "MERCENARY ATTITUDES ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick another friendly NON-UNIQUE unit wholly within 12\" of this unit to be the target.",
+    "effect": "Pick 1 of the following effects to apply until the start of your next turn and while the target is wholly within 12\" of this unit: You can re-roll run rolls for the target. Add 1 to charge rolls for the target. The target cannot be targeted by shooting attacks . Add 1 to wound rolls for the target’s combat attacks . Add 10 to the target’s control score ."
+   }
+  ],
+  "keywords": [
+   "HERO",
+   "WAR MACHINE",
+   "ORDER"
+  ],
+  "unit_size": null,
+  "points": null,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Scions-of-the-Necropolis",
+  "name": "Scions of the Necropolis",
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "grand_alliance": "Death",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "BULWARK OF THE NECROPOLIS ",
+    "timing": "End of Any Turn",
+    "declare": "Pick an enemy unit in combat with a unit in this Regiment of Renown to be the target.",
+    "effect": "Subtract 2D6 from the target’s control score for the rest of the turn."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 770,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "The-Beast-of-Castle-Sternieste",
+  "name": "The Beast of Castle Sternieste",
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "grand_alliance": "Death",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "DEATHLESS MONSTROSITY ",
+    "timing": "Once Per Turn (Army), Your Hero Phase",
+    "declare": "",
+    "effect": "Heal (3) this unit"
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 190,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "The-Horror-of-Hallow-s-Watch",
+  "name": "The Horror of Hallow’s Watch",
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "grand_alliance": "Death",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "DARK HUNT ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "In your charge phase , if this unit is not in combat and has not used a RUN or RETREAT ability in the same turn, it must use the ‘ Charge ’ ability, and if the charge roll would allow it to end the move within ½\" of a visible enemy unit, it must do so."
+   },
+   {
+    "name": "RAVENOUS SHRIEKS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Each time an enemy unit is destroyed by this unit’s shooting attacks , add 1 to the Attacks characteristic of this unit’s Death Shriek for the rest of the battle (this effect is cumulative)."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 230,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "The-Liche-s-Hand",
+  "name": "The Liche’s Hand",
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "grand_alliance": "Death",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "SKELETAL SPLINTERING ",
+    "timing": "Your Hero Phase",
+    "declare": "This spell can be cast by the same WIZARD more than once per phase. Pick the Arkhan the Black in this Regiment of Renown to cast this spell, pick a visible enemy unit within 18\" of them that has not been picked to be the target of this spell this turn to be the target, then make a casting roll of 2D6.",
+    "effect": "Roll a number of dice equal to the number of models in the target unit. For each 5+, inflict 1 mortal damage on that unit."
+   },
+   {
+    "name": "UNHOLY SACRAMENTS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Add 1 to the number of dice rolled when making banishment rolls for the Arkhan the Black in this Regiment of Renown, to a maximum of 3."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 790,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "The-Lost-Song-Spirits",
+  "name": "The Lost-Song Spirits",
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "grand_alliance": "Death",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "ENDLESS WANDERING ",
+    "timing": "Once Per Turn (Army), Enemy Hero Phase",
+    "declare": "Pick a unit in this Regiment of Renown that is not in combat to use this ability.",
+    "effect": "That unit can use the ‘ Normal Move ’ ability as if it were your movement phase."
+   },
+   {
+    "name": "OMINOUS FOG ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Units in this Regiment of Renown are not visible to enemy units more than 12\" from them while they are wholly within 9\" of the Treelord in this Regiment of Renown."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 370,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "The-Scarlet-Jury",
+  "name": "The Scarlet Jury",
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "grand_alliance": "Death",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "PUNISHMENT FITS THE CRIME ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "You believe the ‘Accusations of Regicide’ DELUSION (see Grand Justice Gormayne ’s warscroll)."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 300,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Jerrion-s-Delegation",
+  "name": "Jerrion’s Delegation",
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "grand_alliance": "Death",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "URGENT MISSIVE ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Units in this Regiment of Renown can use CHARGE abilities even if they used a RETREAT ability in the same turn. In addition, no mortal damage is inflicted on units in this Regiment of Renown by RETREAT abilities."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 480,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Neferata-s-Royal-Echelon",
+  "name": "Neferata’s Royal Echelon",
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "grand_alliance": "Death",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "SOULPIKE ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick the Neferata in this Regiment of Renown to cast this spell, pick a visible enemy unit within 18\" of them to be the target, then make a casting roll of 2D6.",
+    "effect": "Until the start of your next turn, each time the target uses a CHARGE ability, immediately after that ability has been resolved, roll a number of dice equal to the unmodified charge roll for that ability. For each 4+, inflict 1 mortal damage on the target."
+   },
+   {
+    "name": "PREMEDITATED DEMISE ",
+    "timing": "Once Per Turn (Army), Your Hero Phase",
+    "declare": "Pick an enemy unit within 12\" of the Neferata in this Regiment of Renown to be the target.",
+    "effect": "Until the start of your next turn, ward rolls cannot be made for damage points inflicted on the target by attacks made by units in this Regiment of Renown."
+   },
+   {
+    "name": "THE BLOOD QUEEN’S WILL ",
+    "timing": "Once Per Battle (Army), End of Any Turn",
+    "declare": "Pick an enemy unit contesting an objective that the Neferata in this Regiment of Renown is contesting to be the target.",
+    "effect": "Roll a dice. On a 2-5, subtract 10 from the control score of the target for the rest of the turn. On a 6, the target has a maximum control score of 1 for the rest of the turn."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 760,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Stumblefoot-Gargant",
+  "name": "Stumblefoot Gargant",
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "grand_alliance": "Death",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "PROJECTILE VOMIT ",
+    "timing": "Once Per Turn (Army), Your Shooting Phase",
+    "declare": "Pick this unit to use this ability if it has not used a RAMPAGE ability this turn. Then, pick a point on the battlefield within 6\" of this unit and pick all other units (friendly and enemy) within 3\" of that point to be the targets.",
+    "effect": "Roll a D3 for each target. On a 2+, inflict an amount of mortal damage on that target equal to the roll."
+   },
+   {
+    "name": "BELLOWING MOCKERY ",
+    "timing": "Once Per Turn (Army), Any Combat Phase",
+    "declare": "Pick this unit to use this ability if it has not used a RAMPAGE ability this turn, then pick an enemy unit within this unit’s combat range to be the target.",
+    "effect": "Roll a dice. On a 3+, subtract 1 from hit rolls for the target’s attacks for the rest of the turn."
+   },
+   {
+    "name": "WHAT’RE YOU LOOKIN’ AT? ",
+    "timing": "Once Per Turn (Army), Any Charge Phase",
+    "declare": "Pick this unit to use this ability if it charged this turn and has not used a RAMPAGE ability this turn. Then, pick an enemy unit within 9\" of this unit to be the target.",
+    "effect": "Roll 2D6. This unit can move a number of inches equal to the roll. It can pass through enemy models and must end that move in combat with the target."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 140,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "The-Sternieste-Garrison",
+  "name": "The Sternieste Garrison",
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "grand_alliance": "Death",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "STALKING BLADES ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick the Mannfred von Carstein in this Regiment of Renown to cast this spell, pick a visible enemy unit within 12\" of them to be the target, then make a casting roll of 2D6.",
+    "effect": "Inflict 1 mortal damage on the target for each other enemy unit within 3\" of the target."
+   },
+   {
+    "name": "ENGULFING SHADOWS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Each time a unit in this Regiment of Renown is set up , add 1 to the Attacks characteristic of that unit’s melee weapons for the rest of the turn."
+   },
+   {
+    "name": "COVER OF NIGHT ",
+    "timing": "Once Per Turn (Army), Your Hero Phase",
+    "declare": "Pick 1 friendly unit in this Regiment of Renown that is not in combat to be the target.",
+    "effect": "Remove that unit from the battlefield and set it up again more than 6\" from all enemy units."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 680,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "The-Summerking-s-Entourage",
+  "name": "The Summerking’s Entourage",
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "grand_alliance": "Death",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "DERANGED TRANSFORMATION ",
+    "timing": "Your Hero Phase",
+    "declare": "Pick the Ushoran in this Regiment of Renown to cast this spell, pick another visible unit in this Regiment of Renown wholly within 12\" of them to be the target, then make a casting roll of 2D6.",
+    "effect": "Until the start of your next turn: Add 2\" to the target’s Move characteristic. Add 1 to wound rolls for the target’s combat attacks ."
+   },
+   {
+    "name": "MADDENING RADIANCE ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Add 1 to the Attacks characteristic of melee weapons used by units in this Regiment of Renown while they are wholly within 12\" of the Ushoran in this Regiment of Renown."
+   },
+   {
+    "name": "SUMMON DELUDED THRONGS ",
+    "timing": "Once Per Battle (Army), Your Movement Phase",
+    "declare": "Pick the Ushoran in this Regiment of Renown to use this ability, then pick another unit in this Regiment of Renown that has been destroyed to be the target.",
+    "effect": "Set up a replacement unit with half the number of models from the target unit (rounding up) wholly within 6\" of a battlefield edge and more than 9\" from all enemy units. The replacement unit is part of this Regiment of Renown."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 640,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ },
+ {
+  "id": "Veremord-s-Shamblers",
+  "name": "Veremord’s Shamblers",
+  "faction": "Nighthaunt",
+  "faction_slug": "nighthaunt",
+  "grand_alliance": "Death",
+  "move": "",
+  "health": "",
+  "save": "",
+  "control": "",
+  "ward": "",
+  "ranged_weapons": [],
+  "melee_weapons": [],
+  "abilities": [
+   {
+    "name": "VITIATING VAPOURS ",
+    "timing": "Passive",
+    "declare": "",
+    "effect": "Subtract 1 from ward rolls for enemy units while they are within 12\" of the Corpse Cart in this Regiment of Renown ."
+   },
+   {
+    "name": "LEGEND AMONG GRAVEROBBERS ",
+    "timing": "End of Any Turn",
+    "declare": "Pick the Corpse Cart in this Regiment of Renown to use this ability if it is within 3\" of the Deadwalker Zombies unit in this Regiment of Renown. Then, pick each enemy INFANTRY , CAVALRY and BEAST unit within 12\" of the Corpse Cart to be the targets.",
+    "effect": "For each target that had any models slain this turn, you can return D3 slain models to the Deadwalker Zombies unit in this Regiment of Renown."
+   }
+  ],
+  "keywords": [],
+  "unit_size": null,
+  "points": 210,
+  "base_size": "",
+  "can_be_reinforced": false,
+  "regiment_options": ""
+ }
+]

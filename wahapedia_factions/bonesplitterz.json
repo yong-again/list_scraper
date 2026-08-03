@@ -1,0 +1,114 @@
+[
+ {
+  "faction": "Bonesplitterz",
+  "faction_slug": "bonesplitterz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "",
+  "text": "/noindex The warclans of the orruks are a big green fist that slams into the guts of the Mortal Realms with each new day. Followers of Gorkamorka, the god of destructive, primal violence, they fight purely for the savage joy of fighting. Ironjaw and Bonesplitter alike are caught up in a tidal wave of violence that smashes entire civilisations to rubble. This page contains all of the rules you need to field your Bonesplitterz miniatures on the battlefields of the Mortal Realms, from a host of exciting faction rules to a range of warscrolls. The rules are split into the following sections:"
+ },
+ {
+  "faction": "Bonesplitterz",
+  "faction_slug": "bonesplitterz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Traits",
+  "text": "Bonesplitterz armies can use the following abilities: Passive SPRING THE TRAP : When the prey is finally corralled, the Bonesplitterz launch themselves forward. The time for kunnin’ is over; now it’s time to get brutal! Effect: Add 1 to wound rolls for friendly BONESPLITTERZ units that charged in the same turn. Once Per Battle, Deployment Phase TAKE DA BAIT : When a group of enemies hurl themselves at a line of grinnin’ Bonesplitterz, too late they realise it was all a trap… Declare: Pick up to 3 friendly BONESPLITTERZ units to be the targets. Effect: For the rest of the battle, add 1 to the Attacks characteristic of each target’s melee weapons while it is in combat with an enemy unit that charged in the same turn, and so long as the target has not charged during the battle. Once Per Battle (Army), Your Hero Phase BONESPLITTERZ WAAAGH! : Their warpaint blazing with ferocious energy, the Bonesplitterz surge forward under the potent mystical guidance of their shamans. Declare: Pick each friendly BONESPLITTERZ WIZARD and BONESPLITTERZ PRIEST to be the targets. Effect: Add 1 to the power level of each target for the rest of the turn. In addition, friendly BONESPLITTERZ units have WARD ( 5+ ) for the rest of the turn. KEYWORDS WAAAGH! Once Per Turn (Army), Any Charge Phase MONSTER HUNTERS : Bonesplitterz mobs are adept at bringing down the many ferocious monsters that inhabit the Mortal Realms. Declare: Pick a friendly BONESPLITTERZ unit in combat with an enemy MONSTER to be the target. Effect: For the rest of the turn, add 1 to wound rolls for the target’s combat attacks and add 1 to save rolls for the target."
+ },
+ {
+  "faction": "Bonesplitterz",
+  "faction_slug": "bonesplitterz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations",
+  "text": "You can pick 1 of the following battle formations for a Bonesplitterz army. Each battle formation grants a different ability you can use in the battle. BATTLE PROFILE Name Points Kunnin’ Rukk 0 Kop Rukk 0 Snaga Rukk 0 Brutal Rukk 0"
+ },
+ {
+  "faction": "Bonesplitterz",
+  "faction_slug": "bonesplitterz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Kunnin’ Rukk",
+  "text": "Once Per Turn (Army), Your Shooting Phase SQUINT-EYE TAKTIKS : Whether down to luck, feverishly launched volleys or the simple act of squinting one eye to ‘aim proppa’, this rukk’s Arrowboys have developed a knack for hitting targets where it hurts. Declare: Pick an enemy unit on the battlefield to be the target. Effect: For the rest of the turn, hit rolls for shooting attacks made by friendly Savage Orruk Arrowboys units that target the target unit score critical hits on unmodified hit rolls of 5+."
+ },
+ {
+  "faction": "Bonesplitterz",
+  "faction_slug": "bonesplitterz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Kop Rukk",
+  "text": "Passive REALM-CHOMPERS : The dokks and bosses of these orruks have devoured so many beast spirits that magical essence is devoured by their warpaint. Effect: Ward rolls cannot be made for enemy units while they are within the combat range of any friendly BONESPLITTERZ HEROES ."
+ },
+ {
+  "faction": "Bonesplitterz",
+  "faction_slug": "bonesplitterz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Snaga Rukk",
+  "text": "Passive WE’Z DA BEASTIEST : The Boarboys of the Snaga Rukks love smashing into startled enemies, but having hunted the greatest of beasts, are no strangers themselves to being barrelled into by stampeding monsters. Effect: Friendly BONESPLITTERZ CAVALRY units have Anti-charge (+1 Rend) ."
+ },
+ {
+  "faction": "Bonesplitterz",
+  "faction_slug": "bonesplitterz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Brutal Rukk",
+  "text": "Once Per Battle, Deployment Phase TIRELESS TRACKERS : The Brutal Rukks move at a relentless pace when hunting prey, appearing suddenly and giving the enemy no time in which to prepare. Effect: Half the friendly non- HERO BONESPLITTERZ INFANTRY units on the battlefield (rounding up) can immediately use the ‘ Normal Move ’ ability as if it were your movement phase."
+ },
+ {
+  "faction": "Bonesplitterz",
+  "faction_slug": "bonesplitterz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Heroic Traits > Da Beast Wivin",
+  "text": "HERO only BATTLE PROFILE Name Points KILLA INSTINKT 0 ’ORRIBLE LEER 0 ONE WIV’ DA BEAST 0 Passive KILLA INSTINKT : This keen-eyed orruk knows exactly where to strike for maximum effect, even against the gargantuan beasts of the Mortal Realms. Effect: This unit’s melee weapons have Crit (Mortal) . Passive ’ORRIBLE LEER : The awful grin of this orruk can send chills down the spine of even the most blood-crazed monsters. Effect: Enemy MONSTERS cannot use RAMPAGE abilities while they are in combat with this unit. Once Per Battle (Army), Any Hero Phase ONE WIV’ DA BEAST : This shaman has consumed the spirits of many a beast, strengthening his spiritual connection to the Twin‑Headed God. Effect: The next time this phase that this unit uses a SPELL ability, instead of making a casting roll for this unit, you can use a value of 6 for the roll that cannot be modified."
+ },
+ {
+  "faction": "Bonesplitterz",
+  "faction_slug": "bonesplitterz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Artefacts of Power > Boss Bones and Other Gubbinz",
+  "text": "HERO only BATTLE PROFILE Name Points DOKK JUICE 0 GLOWIN’ TATTOOZ 0 MONSTA-KILLA CHOMPA 0 Passive DOKK JUICE : A sip of this brew temporarily grants the imbiber the regenerative qualities of a troggoth – if they are able to keep it down for long enough, that is. Effect: If this unit would be destroyed, before removing it from play, roll a dice. On a 3+, this unit is not destroyed and any remaining damage points inflicted on it have no effect. Then, Heal (1) this unit. This unit cannot use this ability again for the rest of the battle. Passive GLOWIN’ TATTOOZ : The beast spirits in these tattoos are so fierce that death itself shies away from them. Effect: This unit has WARD ( 4+ ) . Passive MONSTA-KILLA CHOMPA : No beast worth its bones can escape the bite of this boss’s chompa. Effect: This unit has STRIKE-FIRST while it is in combat with an enemy BEAST or MONSTER ."
+ },
+ {
+  "faction": "Bonesplitterz",
+  "faction_slug": "bonesplitterz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Spell Lore",
+  "text": "BATTLE PROFILE Name Points Lore of the Savage Beast 0"
+ },
+ {
+  "faction": "Bonesplitterz",
+  "faction_slug": "bonesplitterz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Spell Lore > Lore of the Savage Beast",
+  "text": "Your Hero Phase 6 GLOWY GREEN FRENZY : A swirl of green energy coalesces around the boyz, imbuing them with a terrifying ferocity that drives their strikes with primal strength. Declare: Pick a friendly BONESPLITTERZ WIZARD to cast this spell, pick a visible friendly unit wholly within 12\" of them to be the target, then make a casting roll of 2D6. Effect: Add 1 to the Rend characteristic of the target’s melee weapons until the start of your next turn, including Companion weapons. KEYWORDS SPELL, UNLIMITED Your Hero Phase 6 FISTS OF GORK : Great green fists rain down from the sky to pummel the foe. Declare: Pick a friendly BONESPLITTERZ WIZARD to cast this spell, pick a visible enemy unit within 18\" of them to be the target, then make a casting roll of 2D6. Effect: Roll a dice for each model in the target unit. For each 5+, inflict 1 mortal damage on the target. KEYWORDS SPELL Your Hero Phase 6 GORKAMORKA’S WAR CRY : The shaman takes a huge gulp of Waaagh! energy before letting out a world-shaking roar. Declare: Pick a friendly BONESPLITTERZ WIZARD to cast this spell, pick a visible enemy unit within 18\" of them to be the target, then make a casting roll of 2D6. Effect: Until the start of your next turn, subtract 1 from the number of dice rolled when making charge rolls for the target, to a minimum of 1. KEYWORDS SPELL"
+ },
+ {
+  "faction": "Bonesplitterz",
+  "faction_slug": "bonesplitterz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Prayer Lore",
+  "text": "BATTLE PROFILE Name Points Prayers of the Living Wilds 0"
+ },
+ {
+  "faction": "Bonesplitterz",
+  "faction_slug": "bonesplitterz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Prayer Lore > Prayers of the Living Wilds",
+  "text": "Your Hero Phase 3 BASHDOKK DANCE : Thumping his feet in a hectic rhythm, the Wardokk gets the boyz ready to have a massive rukk. Declare: Pick a friendly BONESPLITTERZ PRIEST to chant this prayer, pick a visible friendly BONESPLITTERZ unit wholly within 12\" of them to be the target, then make a chanting roll of D6. Effect: Add 1 to charge rolls and run rolls for the target for the rest of the turn. If the chanting roll was 7+, in addition, for the rest of the turn, the target can use CHARGE abilities even if it used a RUN or RETREAT ability in the same turn. KEYWORDS PRAYER, UNLIMITED Your Hero Phase 4 GRIMDOKK DANCE : Stamping his feet hard on the ground, the Wardokk drives Gorky energy into nearby ladz, causing rent flesh to knit together, and broken bones to grind back into place. Declare: Pick a friendly BONESPLITTERZ PRIEST to chant this prayer, pick a visible friendly BONESPLITTERZ unit wholly within 12\" of them to be the target, then make a chanting roll of D6. Effect: Heal (3) the target unit or return a number of slain models to it with a combined Health characteristic of up to 3. If the chanting roll for this prayer was 9+, instead, Heal (6) the target unit or return a number of slain models to it with a combined Health characteristic of up to 6. KEYWORDS PRAYER Your Hero Phase 5 WEIRDOKK DANCE : Dancing to a rhythm only they can hear, this erratic beat causes havoc with enemy mystics. Declare: Pick a friendly BONESPLITTERZ PRIEST to chant this prayer. Then make a chanting roll of D6. Effect: Subtract 1 from chanting rolls and casting rolls for enemy PRIESTS and WIZARDS while they are within 18\" of the chanter until the start of your next turn."
+ },
+ {
+  "faction": "Bonesplitterz",
+  "faction_slug": "bonesplitterz",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Prayer Lore > Prayers of the Living Wilds",
+  "text": "1 from chanting rolls and casting rolls for enemy PRIESTS and WIZARDS while they are within 18\" of the chanter until the start of your next turn. In addition, if the chanting roll was 11+, enemy Priests within 18\" of the chanter each lose D6 ritual points and enemy WIZARDS cannot use UNBIND abilities while they are within 18\" of the chanter until the start of your next turn. KEYWORDS PRAYER noindex /noindex noindex"
+ }
+]

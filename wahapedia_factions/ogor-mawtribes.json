@@ -1,0 +1,336 @@
+[
+ {
+  "faction": "Ogor Mawtribes",
+  "faction_slug": "ogor-mawtribes",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "",
+  "text": "/noindex When the Ogor Mawtribes march to war, the ground shakes beneath a rolling avalanche of unwashed flesh. Living embodiments of gluttony, ogors worship the ever-hungry Gorkamorka, whom they call the Gulping God. By stuffing their gaping mouths with raw meat, bone and whatever else they can get their greedy hands on, they give praise to their ravenous deity. This page contains all of the rules you need to field your Ogor Mawtribes miniatures on the battlefields of the Mortal Realms, from a host of exciting faction rules to a range of warscrolls. The rules are split into the following sections:"
+ },
+ {
+  "faction": "Ogor Mawtribes",
+  "faction_slug": "ogor-mawtribes",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Traits",
+  "text": "Ogor Mawtribes armies can use the following abilities: Any Charge Phase TRAMPLING CHARGE : At the first opportunity, an ogor will barge intocombat, using its immense girth as a weapon. Declare: Pick a friendly OGOR or RHINOX unit that charged this turn to use this ability, then pick a visible enemy unit within 1\" of it to be the target. Effect: Roll a D3. Add 2 to the roll if this unit is a MONSTER . On a 2+, inflict an amount of mortal damage on the target equal to the roll. Passive RAVENOUS BRUTES : Sighting the enemy, the ogors’ hunger intensifies, and they move with alarming speed to close the distance. Effect: Add 2 to run rolls for friendly OGOR units while you have not used the ‘Feast on Flesh’ ability this battle. Once Per Battle (Army), End of Any Turn FEAST ON FLESH : As the battlelines clash and blood is spilled, the ogors’ hunger must be sated, and they are compelled to gorge on the flesh of their enemies. Declare: Pick each friendly OGOR unit that is in combat or that used a FIGHT ability this turn to be the targets. Effect: Roll a D3 for each target. On a 2+: Heal (X) the target, where X is an amount equal to the roll. Pick an enemy unit in combat with the target. You cannot pick the same enemy unit more than once. Inflict an amount of mortal damage on that enemy unit equal to the roll."
+ },
+ {
+  "faction": "Ogor Mawtribes",
+  "faction_slug": "ogor-mawtribes",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations",
+  "text": "You can pick 1 of the following battle formations for a Ogor Mawtribes army. Each battle formation grants a different ability you can use in the battle. BATTLE PROFILE Name Points Prophets of the Gulping God 0 Heralds of the Everwinter 0 Beast Handlers 0 Blackpowder Fanatics 0 Mawpath Menaces 10 Greedy Eaters 10"
+ },
+ {
+  "faction": "Ogor Mawtribes",
+  "faction_slug": "ogor-mawtribes",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Prophets of the Gulping God",
+  "text": "Passive MASTER BUTCHERS : These ogor shamans know many gruesome secrets of gastromantic magic. Effect: Add 1 to casting rolls for friendly OGOR MAWTRIBES WIZARDS ."
+ },
+ {
+  "faction": "Ogor Mawtribes",
+  "faction_slug": "ogor-mawtribes",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Heralds of the Everwinter",
+  "text": "Passive EYES OF THE STORM : The members of this tribe are masked by frosty squalls and freezing mists as they follow their champions into battle. Effect: Subtract 1 from hit rolls for shooting attacks that target friendly OGOR MAWTRIBES INFANTRY units while they are wholly within 12\" of any friendly BEASTCLAW RAIDERS HEROES ."
+ },
+ {
+  "faction": "Ogor Mawtribes",
+  "faction_slug": "ogor-mawtribes",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Beast Handlers",
+  "text": "Passive BRUTAL STOCK : The beasts of this tribe are said to be the most belligerent and tenacious of all their kind. Effect: Each time a friendly BEASTCLAW RAIDERS MONSTER uses the ‘Trampling Charge’ ability, add 1 to the amount of mortal damage inflicted, if any."
+ },
+ {
+  "faction": "Ogor Mawtribes",
+  "faction_slug": "ogor-mawtribes",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Blackpowder Fanatics",
+  "text": "Passive FEED YER CANNONS! : These artillery-ogors don’t need to be told twice to blast the foe into tiny bits. Effect: Ranged weapons used by friendly Leadbelchers and Ironblaster units have Shoot in Combat while they are within the combat range of a friendly OGOR MAWTRIBES HERO ."
+ },
+ {
+  "faction": "Ogor Mawtribes",
+  "faction_slug": "ogor-mawtribes",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Mawpath Menaces",
+  "text": "Once Per Turn (Army), Enemy Charge Phase FIXATED ON FEEDING : Once they have sighted a potential meal, it is nigh impossible to stop these ever-ravenous ogors from consuming their prize. Declare: Pick a friendly OGOR INFANTRY unit that is not in combat to be the target. Effect: Roll a dice. On a 3+, the target can move a number of inches equal to the roll. It can move through the combat ranges of enemy units and can end that move in combat. If it ended that move in combat , the target has charged . KEYWORDS CORE, MOVE, CHARGE"
+ },
+ {
+  "faction": "Ogor Mawtribes",
+  "faction_slug": "ogor-mawtribes",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Battle Formations > Greedy Eaters",
+  "text": "Once Per Turn (Army), End of Any Turn POSTPRANDIAL WARFARE : Having slurped up their fallen enemies’ innards and picked their bones clean, these ogors rejoin the battle in search of their next repast. Declare: Pick up to D3 friendly OGOR INFANTRY units that were in combat this turn with an enemy unit that was destroyed this turn to be the targets. Effect: Return 1 slain model to each target unit."
+ },
+ {
+  "faction": "Ogor Mawtribes",
+  "faction_slug": "ogor-mawtribes",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Heroic Traits > Traits of Endless Hunger",
+  "text": "HERO only BATTLE PROFILE Name Points GREAT GUTLORD 0 BOOMING ROAR 0 TOUCHED BY THE EVERWINTER 20 Passive GREAT GUTLORD : There are few opponents in the Mortal Realms that can withstand the ravenous power of this ogor. Effect: Ignore negative modifiers to this unit’s control score and to hit rolls and wound rolls for this unit’s attacks. Passive BOOMING ROAR : Relishing the fight, this champion roars a challenge to the enemy that makes the very earth beneath their feet tremble. Effect: Subtract 5 from the control scores of enemy INFANTRY units while they are in combat with this unit. Passive TOUCHED BY THE EVERWINTER : This warrior strayed close to the heart of the Everwinter and emerged with the power to commune with it. Effect: If this unit is not a PRIEST , it has PRIEST ( 1 ) . If this unit is already a PRIEST , you can re-roll chanting rolls of 1 for it instead. If this unit is a WIZARD , it cannot use SPELL abilities and PRAYER abilities in the same phase."
+ },
+ {
+  "faction": "Ogor Mawtribes",
+  "faction_slug": "ogor-mawtribes",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Artefacts of Power > Plunder of the Mawtribes",
+  "text": "HERO only BATTLE PROFILE Name Points GRUESOME TROPHIES 0 THE FANG OF GHUR 0 ELIXIR OF THE FROSTWYRM 0 Passive GRUESOME TROPHIES : This collection of skulls, entrails and hides is an inspiring sight to this ogor’s kin, encouraging them to claim trophies of their own. Effect: Add 1 to hit rolls for combat attacks that target HEROES or MONSTERS made by friendly OGOR MAWTRIBES units while they are wholly within 12\" of this unit. Once Per Battle, Any Combat Phase THE FANG OF GHUR : The amber magic that permeates this weapon grants it the power to bite through arcane wards. Declare: Pick an enemy unit in combat with this unit to be the target. Effect: Ward rolls cannot be made for the target for the rest of the turn. Once Per Battle, Any Shooting Phase ELIXIR OF THE FROSTWYRM : Distilled from the blood of a giant Frostwyrm, this rare elixir temporarily gives the drinker the power of those beasts to vomit forth a torrent of frost magic. Declare: Pick an enemy unit in combat with this unit to be the target. Effect: Roll a dice. Inflict an amount of mortal damage on the target equal to the roll. Then, Heal (X) this unit, where X is an amount equal to the roll."
+ },
+ {
+  "faction": "Ogor Mawtribes",
+  "faction_slug": "ogor-mawtribes",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Artefacts of Power > Plunder of the Mawtribes",
+  "text": "HERO only BATTLE PROFILE Name Points A CHOICE CUT 0 RUSTY GRATER 0 KEY TO THE LARDER 0 Passive A CHOICE CUT : The sight of this colossal slab of meat being awkwardly hefted across the battlefield inspires nearby ogors to fight through the pain – the quicker they flatten the foe, the quicker they can get to feasting. Effect: This unit cannot use RUN abilities. Ignore the first damage point that would be allocated to each friendly OGOR INFANTRY unit each phase while they are wholly within 12\" of and visible to this unit. Passive RUSTY GRATER : By attaching this crudely perforated metal sheet to their favoured blade, this ogor is gifted a snack of shredded flesh when they wield their weapon with enough ferocity. Effect: Each time this unit uses the ‘ Eruption of Fury ’ ability, after that ability has been resolved, Heal (D3) this unit. Deployment Phase KEY TO THE LARDER : This ogor has promised their favoured warriors access to one of the legendary larders in the Great Gutfort – if they are suitably impressive in battle. Declare: Pick a friendly OGOR INFANTRY unit on the battlefield to be the target. Effect: For the rest of the battle, ignore negative modifiers to hit rolls and wound rolls for the target’s combat attacks while they are wholly within 12\" of and visible to this unit."
+ },
+ {
+  "faction": "Ogor Mawtribes",
+  "faction_slug": "ogor-mawtribes",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Big Names",
+  "text": "Big Names are enhancements that can only be given to OGOR MAWTRIBES HEROES . BATTLE PROFILE Name Points GUTSLUGGER 0 MAGE-SWALLOWER 0 MEGAGOBBLER 0 Passive GUTSLUGGER : This ogor is usually found fighting in the thick of a melee and is renowned for their uncanny ability to come out on top. Effect: Add 1 to hit rolls for this unit’s combat attacks if it did not charge in the same turn. Passive MAGE-SWALLOWER : Ever since they ate an entire party of wizardly scholars, the mere presence of this ogor is enough to disrupt magical defences. Effect: Subtract 1 from ward rolls for enemy units while they are within 6\" of this unit. Once Per Battle, Deployment Phase MEGAGOBBLER : Surveying the enemies lined up before them as if considering items on a menu, this ogor chooses today’s main course. Effect: Pick 1 of the following keywords: INFANTRY CAVALRY MONSTER WAR MACHINE BEAST For the rest of the battle, each time any damage points are allocated to an enemy unit with that keyword by this unit’s combat attacks and that enemy unit is destroyed in the same turn, add 1 to the Attacks characteristic of this unit’s melee weapons. This effect is cumulative."
+ },
+ {
+  "faction": "Ogor Mawtribes",
+  "faction_slug": "ogor-mawtribes",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Spell Lore",
+  "text": "BATTLE PROFILE Name Points Lore of Maw-magic 0"
+ },
+ {
+  "faction": "Ogor Mawtribes",
+  "faction_slug": "ogor-mawtribes",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Spell Lore > Lore of Maw-magic",
+  "text": "Your Hero Phase 5 TROGGOTH GUTS : The shaman gobbles down the slippery innards of a troggoth to transfer the beast’s uncanny healing powers to their allies and restore their vigour. Declare: Pick a friendly OGOR MAWTRIBES WIZARD to cast this spell, pick a visible friendly OGOR MAWTRIBES unit within 12\" of them that has not been picked to be the target of this ability this turn to be the target, then make a casting roll of 2D6. Effect: Heal (D3) the target and add 3 to the target’s control score for the rest of the turn. KEYWORDS SPELL, UNLIMITED Your Hero Phase 6 GREASY DELUGE : The caster chews up a big mouthful of rancid fat and gall‑slime before spitting it onto the ground. In moments, enemy warriors are caught in a deluge of foul-smelling grease, slipping and sliding as they try to bring their weapons to bear. Declare: Pick a friendly OGOR MAWTRIBES WIZARD to cast this spell, pick a visible enemy unit within 18\" of them to be the target, then make a casting roll of 2D6. Effect: Subtract 1 from hit rolls for the target’s attacks until the start of your next turn. KEYWORDS SPELL Your Hero Phase 7 BLOOD FEAST : The liver of a powerful beast is held high over the shaman’s head. Gore drips and runs down their face before they take a great bite from it, filling nearby ogors with a frenzied blood-lust. Declare: Pick a friendly OGOR MAWTRIBES WIZARD to cast this spell, pick a visible friendly OGOR INFANTRY unit wholly within 12\" of them to be the target, then make a casting roll of 2D6. Effect: Add 1 to the Attacks characteristic of the target’s melee weapons until the start of your next turn. KEYWORDS SPELL"
+ },
+ {
+  "faction": "Ogor Mawtribes",
+  "faction_slug": "ogor-mawtribes",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Prayer Lore",
+  "text": "BATTLE PROFILE Name Points Everwinter Prayers 0"
+ },
+ {
+  "faction": "Ogor Mawtribes",
+  "faction_slug": "ogor-mawtribes",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Prayer Lore > Everwinter Prayers",
+  "text": "Your Hero Phase 4 CALL OF THE BLIZZARD : An impenetrable snow squall manifests on the battlefield, blocking visibility and shielding nearby Beastclaw warriors. Declare: Pick a friendly OGOR MAWTRIBES PRIEST to chant this prayer, pick a terrain feature within 18\" of them to be the target, then make a chanting roll of D6. Effect: Place a blizzard token next to the target. Terrain features that have a blizzard token gain the ‘ Obscuring ’ terrain ability. In addition, if the chanting roll was 8+, until the start of your next turn, friendly BEASTCLAW RAIDERS units have WARD ( 5+ ) while they are within 3\" of any terrain features that have blizzard tokens . KEYWORDS PRAYER, UNLIMITED Your Hero Phase 5 PULVERISING HAILSTORM : Fist‑sized chunks of ice rain from the sky to crush those below. Declare: Pick a friendly OGOR MAWTRIBES PRIEST to chant this prayer, pick a point on the battlefield within 12\" of them, then pick each visible enemy unit within 3\" of that point to be the targets. Then, make a chanting roll of D6. Effect: Roll a D3 for each target. On a 2+, inflict an amount of mortal damage on the target equal to the roll. If the chanting roll was 8+, double the amount of mortal damage inflicted. KEYWORDS PRAYER Your Hero Phase 4 KEENING GALE : A bone-chilling wind howls across the battlefield, giving speed to the beasts of winter and driving the Everwinter’s monstrous denizens before it. Declare: Pick a friendly OGOR MAWTRIBES PRIEST to chant this prayer, pick a visible friendly OGOR MAWTRIBES MONSTER or Mournfang Pack unit wholly within 12\" of them to be the target, then make a chanting roll of D6. Effect: For the rest of the turn, the target can use a RUN ability and still use CHARGE abilities later in the turn."
+ },
+ {
+  "faction": "Ogor Mawtribes",
+  "faction_slug": "ogor-mawtribes",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Prayer Lore > Everwinter Prayers",
+  "text": "Effect: For the rest of the turn, the target can use a RUN ability and still use CHARGE abilities later in the turn. In addition, if the chanting roll was 8+, you can re-roll run rolls and charge rolls for the target for the rest of the turn. KEYWORDS PRAYER"
+ },
+ {
+  "faction": "Ogor Mawtribes",
+  "faction_slug": "ogor-mawtribes",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Monstrous Traits",
+  "text": "Monstrous Traits are unique enhancements that can only be given to MONSTERS . A unit can only have 1 Monstrous Trait."
+ },
+ {
+  "faction": "Ogor Mawtribes",
+  "faction_slug": "ogor-mawtribes",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "Monstrous Traits > Well-Fed Beasts",
+  "text": "( OGOR MAWTRIBES MONSTER only) BATTLE PROFILE Name Points EXTREMELY OBSTINATE 10 HORN TOSS 10 GRUMPY ALPHA 10 Passive EXTREMELY OBSTINATE : Once this beast has laid claim to something, there is no shifting it. Effect: This unit has a Control characteristic of 15. Any Combat Phase HORN TOSS : Dipping its head against an onrushing foe, with an effortless flick of its horns, this beast sends its attacker flying into the air. Declare: Pick an enemy unit that has no more than 1 model, that is in combat with this unit and that has charged this turn to be the target. Effect: Remove the target from the battlefield and set it up again within 1\" of this unit. Then, roll a D3. On a 2+, inflict an amount of mortal damage on the target equal to the roll. KEYWORDS RAMPAGE Enemy Charge Phase GRUMPY ALPHA : Having established its dominance, this irascible beast can bring another member of the herd to its side with a single bellow. Declare: If this unit is in combat , pick another visible friendly OGOR MONSTER wholly within 12\" of this unit that is not in combat to be the target. Effect: Spend 1 rage dice . If your opponent’s fury level is lower than yours, they must increase their fury level by 1, to a maximum of 7. Then, roll a dice. The target can move a distance in inches up to the roll. It can end that move in combat. If it does so, the target has charged . KEYWORDS RAMPAGE Army of Renown"
+ },
+ {
+  "faction": "Ogor Mawtribes",
+  "faction_slug": "ogor-mawtribes",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Roving Maw",
+  "text": "When you pick the Ogor Mawtribes faction for your army, you can choose for it to be a The Roving Maw Army of Renown . If you do so, use the faction rules on these pages instead of the Ogor Mawtribes faction rules. Every unit in your army must be drawn from the units listed in the roster options box below. All units in your army gain the ROVING MAW keyword. ROSTER OPTIONS GUTBUSTERS units You cannot include Regiments of Renown or a Great Mawpot Gorger Mawpacks"
+ },
+ {
+  "faction": "Ogor Mawtribes",
+  "faction_slug": "ogor-mawtribes",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Roving Maw > Battle Traits",
+  "text": "Passive TASTY MORSELS : Ogors hate wasting even a scrap of meat. Any foes they do not gobble down on the spot are hacked to pieces and saved for the Butcher’s pot. Effect: Each time a model is slain by a friendly Mawpit ’s ‘Throat of Ghur’ ability, you gain 1 tasty morsel . Passive DRIVEN BY STARVATION : Each offering the Head Butcher submits to the Mawpit is one fewer scrap for a ravening Gorger. Effect: Friendly Gorger Mawpack units can use CHARGE abilities even if they used a RUN ability in the same turn unless they are wholly within 3\" of a terrain feature . Any Charge Phase TRAMPLING CHARGE : The charge of bellowing ogors resembles a living avalanche of blubber and metal. Anything in their path is quickly squished into an edible paste. Declare: Pick a friendly Roving Maw unit that charged this turn to use this ability, then pick a visible enemy unit within 1\" of it to be the target. Effect: Roll a D3. On a 2+, inflict an amount of mortal damage on the target equal to the roll. Passive THE REALM HUNGERS : None can tell where hungry, chomping Mawpits will next manifest in the ground. Effect: Units and MANIFESTATIONS are vulnerable to Mawpits while they are on the battlefield unless they are wholly within 1\" of a terrain feature that is not a Mawpit . This ability has no effect on ROVING MAW units or units that have Fly . Once Per Battle Round (Army), Start of Battle Round MAWPITS OF GHUR : These highly aggressive, teeth-filled rents in the ground are drawn to the wider realms by the Butchers’ gastromantic magic. Effect: Roll 2D6 and add the number of tasty morsels you have to the roll. Apply the corresponding effect below for the rest of the battle round. Then, reset your tasty morsels to 0. 2-3 – Subdued : No effect."
+ },
+ {
+  "faction": "Ogor Mawtribes",
+  "faction_slug": "ogor-mawtribes",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Roving Maw > Battle Traits",
+  "text": "Apply the corresponding effect below for the rest of the battle round. Then, reset your tasty morsels to 0. 2-3 – Subdued : No effect. 4-5 – Peckish : Subtract 3 from the control scores of units that are vulnerable to Mawpits . 6-8 – Rumbling : Roll a dice for each unit that is vulnerable to Mawpits . On a 3+, inflict 1 mortal damage on that unit. 9-11 – Famished : Units that are vulnerable to Mawpits cannot use commands . 12+ – Ravenous : Roll a D3 for each unit that is vulnerable to Mawpits . On a 2+, inflict an amount of mortal damage on that unit equal to the roll."
+ },
+ {
+  "faction": "Ogor Mawtribes",
+  "faction_slug": "ogor-mawtribes",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Roving Maw > Heroic Traits",
+  "text": "HERO only Once Per Battle Round (Army), Start of Battle Round PRIME GUTSERVER : This general has fed entire armies to the Mawpits. Effect: If this unit is a Head Butcher, gain 1 tasty morsel ."
+ },
+ {
+  "faction": "Ogor Mawtribes",
+  "faction_slug": "ogor-mawtribes",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Roving Maw > Artefacts of Power",
+  "text": "HERO only Passive FLASKS OF CONGEALED MAW-JUICES : These vessels contains greasy, pungent fluids that squirted from a Mawpit as it gobbled down a victim. They have fortifying effects on those chomping sinkholes into which they are poured. Effect: Friendly Mawpits within this unit’s combat range have WARD ( 5+ ) ."
+ },
+ {
+  "faction": "Ogor Mawtribes",
+  "faction_slug": "ogor-mawtribes",
+  "target": "faction_db",
+  "category": "army_rules",
+  "section": "The Roving Maw > Spell Lore",
+  "text": "Your Hero Phase 6 MAWMEAT : Chunks of meat glistening with ichor are flung into overgrown ruins and undergrowth to attract more Mawpits to the battlefield. Declare: Pick a friendly ROVING MAW WIZARD to cast this spell, pick a visible terrain feature within 18\" of them to be the target, then make a casting roll of 2D6. Effect: For the rest of the battle, units on or within 1\" of the target are vulnerable to Mawpits . This ability had no effect on ROVING MAW units or units that have Fly . KEYWORDS SPELL, UNLIMITED Your Hero Phase 7 RETCHER : As they cast this spell, the Butcher spews their stomach contents over their weaponry, giving their blades ‘extra bite’. Declare: Pick a friendly ROVING MAW WIZARD to cast this spell, then make a casting roll of 2D6. Effect: Add 2 to the Rend characteristic of the caster’s melee weapons until the start of your next turn. KEYWORDS SPELL"
+ },
+ {
+  "faction": "Ogor Mawtribes",
+  "faction_slug": "ogor-mawtribes",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Scrapglutt",
+  "text": "Scrapglutts trawl the deserted battlefields and rusty junkyards of the lands, driven by an ogor hunter's obsession with fashioning lethal mantraps. Any piece of useful wreckage is quickly gathered by eager gnoblars and repurposed as armour and weapons for the warband. Should a rival happen upon their claim, deliberately or not, then violence always follows ... The hunter and his minions, known as the Mantrappers, are first into the fray, sizing up the field. Gnoblars harass the flanks, trying not to stray too close should their leader feel peckish. Bringing up the rear is the Scraplauncher. Drawn by a fearsome rhinox, this ramshackle catapult is an unusual but effective war machine as it hurls payloads of waste metal and other detritus at the enemy. Lumbering in its wake come the lronguts. Slow but well armoured - for ogors - these brutes have been sent by their Tyrant to keep a close eye on the hunter to make sure the Scrapglutt doesn't get their grubby mitts on anything too good. This Spearhead army consists of the following units: General Mantrappers with 3 Gnoblar tokens, 1 Frost Sabre token and 1 Trap token Designer’s Note: This unit’s Trap token has no effect unless you give your general the ’Nasty Trap’ enhancement Units 2 Ironguts 2 Ironguts 4 lronguts 12 Gnoblars 1 Gnoblar Scraplauncher",
+  "spearhead_name": "Scrapglutt"
+ },
+ {
+  "faction": "Ogor Mawtribes",
+  "faction_slug": "ogor-mawtribes",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Scrapglutt > Battle Traits",
+  "text": "BETTER LATE THAN NEVER The Ironguts are a bit slower to battle, enjoying the opportunity to work up an appetite on the way there A unit of Ironguts with 4 models is not set up during the deployment phase . Instead, in the third battle round, that unit can use the following ability: Your Movement Phase LET'S GET STUCK IN : The Ironguts start to arrive, and woe betide whoever gets in their way. Effect: Set up this unit wholly within friendly territory, wholly within 6\" of the battlefield edge, and not in combat .",
+  "spearhead_name": "Scrapglutt"
+ },
+ {
+  "faction": "Ogor Mawtribes",
+  "faction_slug": "ogor-mawtribes",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Scrapglutt > Regiment Abilities",
+  "text": "Pick 1 of the following regiment abilities. Any Hero Phase IT'S A HARD LIFE : It doesn't take much to become lunch when the leader of this Scrapglutt is around. The best the gnoblars can hope for is that someone else is gobbled up first. Declare: Pick a friendly Gnoblars unit within your general’s combat range to be the target. Effect: Roll a D3. On a 2+: Heal (X) your general where X is an amount equal to the roll. 1 model in that Gnoblars unit is slain. Passive FRENZIED ARTILLERY : The gnoblars of this Scrapglutt's Scraplauncher are known for getting a bit carried away. Effect: If the unmodified charge roll for a friendly Gnoblar Scraplauncher is 6+, add 3 the Attacks characteristic of the target’s Companion weapons for the rest of the turn.",
+  "spearhead_name": "Scrapglutt"
+ },
+ {
+  "faction": "Ogor Mawtribes",
+  "faction_slug": "ogor-mawtribes",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Scrapglutt > Enhancements",
+  "text": "Give your general 1 of the following enhancements. Reaction: You declared a FIGHT ability for your general SAVAGE INSTINCTS : As this ogor lays into the enemy, nearby allies can't help but get enthusiastic about the feast to come. Effect: Pick a friendly unit that has not used a FIGHT ability this turn and is within your general’s combat range to be the target. The target can be picked to use a FIGHT ability immediately after the FIGHT ability used by your general has been resolved. Passive MASSIVE BULK : Big, lumbering and nigh-on impossible to kill. Effect: Add 2 to the Health characteristic of your general. Reaction: Once Per Battle, Your Movement Phase NASTY TRAP : Rusted and gnarled, the jaws of this iron trap mangle and snap the thickest bones with ease. Declare: Pick an enemy unit within 12\" of your general to be the target. Effect: Give the target your general’s Trap token. While the target has a Trap token, each time the target is picked to use a MOVE or CHARGE ability, roll a dice. On a 4+, that MOVE or CHARGE ability has no effect and the target’s Trap token is removed Once Per Battle, Any Hero Phase. VETERAN HUNTER : This ogor hunter has a keen eye and even keener hunger, which combine to make him as dangerous as a sudden avalanche. Declare: Pick an enemy unit within 12\" of your general to be the target. Effect: For the rest of the turn, add 1 to the Rend characteristic of your general’s combat attacks that target that unit.",
+  "spearhead_name": "Scrapglutt"
+ },
+ {
+  "faction": "Ogor Mawtribes",
+  "faction_slug": "ogor-mawtribes",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Scrapglutt > Warscrolls",
+  "text": "• SPEARHEAD WARSCROLL • Mantrappers 6\" 7 5+ 5 Mantrappers are led by an Icebrow Hunter, a particularly foul-tempered and cruel ogor with a keen nose for fresh meat. They favour catching their prey with a crossbow-launched snare that shatters bones with its iron jaws. Despite their constant jabbering and bickering, the ogor's accompanying Gnoblar companions are tolerated only because they are useful for carrying weapons, setting trap triggers and carrying out whatever tasks the Icebrow Hunter considers beneath him. • SPEARHEAD WARSCROLL • Mantrappers RANGED WEAPONS Rng Atk Hit Wnd Rnd Dmg Mantrapper Crossbow Mantrapper Crossbow 12\" 2 4+ 2+ 1 D3 MELEE WEAPONS Atk Hit Wnd Rnd Dmg Frost Sabre's Fangs [ Companion ] Frost Sabre's Fangs Companion 3 4+ 3+ 1 1 Culling Knife Culling Knife 4 4+ 2+ 1 2 Passive STAYING USEFUL : The Hunter's companions are handy spotters and trackers. Effect: While any of this unit’s Gnoblar or Frost Sabre tokens are on the battlefield, this unit has WARD ( 5+ ) . Each time you make a successful ward roll for this unit, remove 1 of this unit’s tokens from the battlefield. If this unit’s Frost Sabre token has been removed, it can no longer attack with its Frost Sabre’s Fangs . Your Hero Phase NO SLACKING! : The Icebrow Hunter that leads the Mantrappers gets his followers in line with a menacing snort. Declare: Pick a friendly INFANTRY unit wholly within 12\" of this unit. Effect: Roll a dice On a 3+, add the result to the target’s control score until the start of your next turn. KEYWORDS HERO , INFANTRY • SPEARHEAD WARSCROLL • Ironguts 6\" 4 5+ 2 Ironguts are the meanest ogors around, the elite warriors of their warglutt.",
+  "spearhead_name": "Scrapglutt"
+ },
+ {
+  "faction": "Ogor Mawtribes",
+  "faction_slug": "ogor-mawtribes",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Scrapglutt > Warscrolls",
+  "text": "KEYWORDS HERO , INFANTRY • SPEARHEAD WARSCROLL • Ironguts 6\" 4 5+ 2 Ironguts are the meanest ogors around, the elite warriors of their warglutt. Protected by metal armour plates and carrying immense two-handed weapons, they wade into the thick of the fighting, hacking and bashing their foes to bloody chunks. • SPEARHEAD WARSCROLL • Ironguts MELEE WEAPONS Atk Hit Wnd Rnd Dmg Irongut Weapon Irongut Weapon 3 4+ 2+ 2 3 Passive DOWN TO THE IRONGUTS : It is not often that a mawtribe’s battleline falters, but if it does, the Tyrant will call upon their Ironguts to turn the battle back in their favour. Effect: Ignore negative modifiers to this unit’s control score . KEYWORDS INFANTRY • SPEARHEAD WARSCROLL • Gnoblar Scraplauncher 9\" 9 4+ 2 The height of Gnoblar ingenuity is the Scraplauncher, a catapult that hurls bucketfuls of razor-sharp metal high into the air to rain down upon the enemy. Despite its crude construction, it is a surprisingly lethal war machine. • SPEARHEAD WARSCROLL • Gnoblar Scraplauncher RANGED WEAPONS Rng Atk Hit Wnd Rnd Dmg Piles of Old Scrap [ Crit (Auto-wound) ] Piles of Old Scrap Crit (Auto-wound) 24\" 3D6 4+ 4+ - 1 MELEE WEAPONS Atk Hit Wnd Rnd Dmg Scrappers’ Stabbers Scrappers’ Stabbers 7 5+ 5+ - 1 Rhinox’s Sharp Horns [ Companion ] Rhinox’s Sharp Horns Companion 2 4+ 2+ 1 D3 Your Shooting Phase RAIN OF SCRAP : Salvaged weapons and shards of metal rain down upon the enemy, forcing them to take cover or dodge out of the way. Declare: Pick an enemy unit that had any models slain this turn by this unit’s shooting attacks to be the target. Effect: Subtract 1 from hit rolls for the target’s attacks for the rest of the turn.",
+  "spearhead_name": "Scrapglutt"
+ },
+ {
+  "faction": "Ogor Mawtribes",
+  "faction_slug": "ogor-mawtribes",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Scrapglutt > Warscrolls",
+  "text": "Effect: Subtract 1 from hit rolls for the target’s attacks for the rest of the turn. KEYWORDS WAR MACHINE • SPEARHEAD WARSCROLL • Gnoblars 5\" 1 6+ 1 Devious little creatures obsessed with scooping up scrap metal and other detritus, Gnoblars perform a variety of tasks for their ogor masters, including charging into battle in a vast screeching mob. • SPEARHEAD WARSCROLL • Gnoblars RANGED WEAPONS Rng Atk Hit Wnd Rnd Dmg Sharp Stuff Sharp Stuff 8\" 1 4+ 5+ - 1 MELEE WEAPONS Atk Hit Wnd Rnd Dmg Motley Assortment of Weapons Motley Assortment of Weapons 1 5+ 5+ - 1 End of Any Turn NO SHORTAGE OF VOLUNTEERS : When your choices are potentially dying at the hands of the enemy or being eaten alive by a hungry ogor, most Gnoblars are willing to take their chances with the enemy. Effect: You can return D3 models to this unit. KEYWORDS INFANTRY , REINFORCEMENTS",
+  "spearhead_name": "Scrapglutt"
+ },
+ {
+  "faction": "Ogor Mawtribes",
+  "faction_slug": "ogor-mawtribes",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Tyrant's Bellow",
+  "text": "When an ogor Tyrant wishes to make himself heard, he speaks through his tribe’s most devastating weapon: an ancient great-cannon known as an Ironblaster. Ogors have a special love for blackpowder artillery pieces, for not only do they make a most satisfying roar when fired, but each volley blasts enemies into smoking gobbets of flesh – half-cooked and ready for eating. To own even a single Ironblaster is a mark of great prestige amongst the mawtribes, and Tyrants protect their assets on the battlefield by surrounding them with a retinue of their toughest fighters, known as a Tyrant’s Bellow. When prey is sighted, Mournfang Riders charge off to engage. They harry their targets with gunshot and hacking blows, driving them out into the open. It is then that the guns of the Tyrant’s Bellow open up en masse – not just the Ironblaster itself but also the cannons wielded by the Leadbelchers, lit tapers dangling from their slavering lips. This storm of metal and fire reduces almost everything in its path to charred carrion, much to the amused delight of the Tyrant. Belly rumbling eagerly, the oversized warlord then advances at the head of his favoured Gluttons, hacking into pieces those foes that still stand and selecting the choicest cuts of scorched meat for himself. This Spearhead army consists of the following units: General Tyrant Units 2 Mournfang Pack 3 Ogor Gluttons 3 Ogor Gluttons 4 Leadbelchers 1 Ironblaster",
+  "spearhead_name": "Tyrant's Bellow"
+ },
+ {
+  "faction": "Ogor Mawtribes",
+  "faction_slug": "ogor-mawtribes",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Tyrant's Bellow > Battle Traits",
+  "text": "ON THE MAWPATH The ogor tribes are always roaming the wilds beyond their gluttholds leaving great trails of destruction. Your Ironblaster , Mournfang Pack and 1 unit of Ogor Gluttons are not set up during the deployment phase . Instead, from the third battle round onwards, they can use the following ability: Your Movement Phase BELLOWING ARRIVAL : A mighty roar echoes across the battlefield as more hungry ogors join the fray. Effect: Set up this unit anywhere on the battlefield, within 1\" of a battlefield edge and more than 6\" from all enemy units. KEYWORDS CORE",
+  "spearhead_name": "Tyrant's Bellow"
+ },
+ {
+  "faction": "Ogor Mawtribes",
+  "faction_slug": "ogor-mawtribes",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Tyrant's Bellow > Regiment Abilities",
+  "text": "Pick 1 of the following regiment abilities. Once Per Phase, Any Charge Phase PULVERISING GIRTH : There are few armies in the Mortal Realms that can withstand the charge of ravenous ogors. Declare: Pick any number of friendly units that charged this phase. Effect: For each of those units, pick an enemy unit in combat with it and roll a dice. On a 4+, inflict 1 mortal damage on that enemy unit. Passive BRED FOR TOUGHNESS : Ogors choose only the toughest and most thick-skinned beasts to carry them into battle. Effect: Add 1 to the Health characteristic of your Ironblaster and your Mournfang Pack unit.",
+  "spearhead_name": "Tyrant's Bellow"
+ },
+ {
+  "faction": "Ogor Mawtribes",
+  "faction_slug": "ogor-mawtribes",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Tyrant's Bellow > Enhancements",
+  "text": "Give your general 1 of the following enhancements. Passive LONGSTRIDER : This warrior is said to be capable of running down a sprinting rhinox. Effect: Your general has a Move characteristic of 8\" instead of 6\". Any Combat Phase BOOMING ROAR : Relishing the fight, your general roars a challenge to the enemy that makes the very earth beneath their feet tremble. Effect: Roll a dice. On a 4+, subtract 1 from hit rolls for attacks made by enemy units this phase while they are within 9\" of your general. Once Per Battle, Reaction: Opponent declared an ATTACK ability and targeted your general FLASK OF STONEHORN BLOOD : This icy-blue liquid imbues the one who drinks it with the toughness of a Stonehorn. Effect: Your general has WARD ( 3+ ) this phase. Once Per Battle, Any Movement Phase BLUBBERGRUB : These filthy and disturbingly large maggots are a favourite of the big beasties of the mawtribes. Declare: Pick either your Ironblaster or your Mournfang Pack unit if it is within your general’s combat range . Effect: Heal (D6) that unit.",
+  "spearhead_name": "Tyrant's Bellow"
+ },
+ {
+  "faction": "Ogor Mawtribes",
+  "faction_slug": "ogor-mawtribes",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Tyrant's Bellow > Warscrolls",
+  "text": "• SPEARHEAD WARSCROLL • Tyrant 6\" 8 4+ 5 The ferocious warleaders of the Gutbuster warglutts, Tyrants are living mountains of iron and blubbery flesh. Each has risen to the heights of power by eating their rivals and bullying their tribe-mates into doing as they’re told, and their bottomless appetite can only be satisfied by a lifestyle of constant plunder and war. Despite their girth, they move with surprising speed, hacking their prey into bloody chunks for easier consumption and relying upon a heavy gutplate – and several thick layers of fat – to keep them from harm. • SPEARHEAD WARSCROLL • Tyrant RANGED WEAPONS Rng Atk Hit Wnd Rnd Dmg Ogor Pistols [ Shoot in Combat ] Ogor Pistols Shoot in Combat 10\" 2 4+ 3+ 1 D3 MELEE WEAPONS Atk Hit Wnd Rnd Dmg Thundermace Thundermace 3 4+ 2+ 2 3 Beastskewer Glaive [ Anti- MONSTER (+1 Rend) ] Beastskewer Glaive Anti- MONSTER (+1 Rend) 2 4+ 2+ 1 2 Your Hero Phase BULLY OF THE FIRST DEGREE : Tyrants use abrupt violence to help them maintain an iron rule over their warglutt. Declare: Pick a friendly unit wholly within 12\" of this unit to be the target. You cannot pick this unit. Effect: Add 3 to the control score of the target until the start of your next turn. KEYWORDS HERO , INFANTRY • SPEARHEAD WARSCROLL • Ironblaster 9\" 9 4+ 2 The most destructive blackpowder weapon deployed by the Gutbuster warglutts, the Ironblaster is an immense cannon that hurls solid shot into the heart of the enemy’s ranks, blasting foes into scraps of charred meat. Said to be relics of the long-dead Sky-Titans, these weapons are seen as status symbols amongst the mawtribes, and their deafening roar has announced the commencement of countless gory feasts.",
+  "spearhead_name": "Tyrant's Bellow"
+ },
+ {
+  "faction": "Ogor Mawtribes",
+  "faction_slug": "ogor-mawtribes",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Tyrant's Bellow > Warscrolls",
+  "text": "these weapons are seen as status symbols amongst the mawtribes, and their deafening roar has announced the commencement of countless gory feasts. Each is mounted on a crude carriage and pulled into battle by a rhinox, a bad-tempered beast of the frozen plains that has all the aggression of its ogor master and a battering charge to back it up. • SPEARHEAD WARSCROLL • Ironblaster RANGED WEAPONS Rng Atk Hit Wnd Rnd Dmg Ironblaster Cannon Ironblaster Cannon 18\" 2 4+ 2+ 2 D3+3 MELEE WEAPONS Atk Hit Wnd Rnd Dmg Clubber Clubber 2 4+ 2+ - 2 Rhinox's Sharp Horns [ Companion ] Rhinox's Sharp Horns Companion 2 4+ 2+ 1 D3 Passive RHINOX CHARGE : A rhinox’s double-horned skull can inflict considerable damage when the beast charges into the foe. Effect: The Damage characteristic of this unit’s Rhinox’s Sharp Horns is 3 if it charged in the same turn. KEYWORDS WAR MACHINE • SPEARHEAD WARSCROLL • Ogor Gluttons 6\" 4 5+ 2 Ogor Gluttons are hulking, muscle-bound brutes driven entirely by an unending desire for food. They thunder into battle like an avalanche of sweaty flesh, taking great bites out of their foes even as they attack with crude clubs and cleavers. • SPEARHEAD WARSCROLL • Ogor Gluttons MELEE WEAPONS Atk Hit Wnd Rnd Dmg Ogor Weapons Ogor Weapons 4 4+ 2+ 1 2 Passive DRIVEN BY HUNGER : Gutbusters cannot wait to meet and eat the enemy. Effect: Add 1 to charge rolls for this unit. KEYWORDS INFANTRY • SPEARHEAD WARSCROLL • Leadbelchers 6\" 4 5+ 2 The blackpowder-obsessed gunners known as Leadbelchers lumber into battle, blasting away with their massive guns and utilising them as makeshift bludgeons should the foe be foolish enough to engage them in hand-to-hand combat.",
+  "spearhead_name": "Tyrant's Bellow"
+ },
+ {
+  "faction": "Ogor Mawtribes",
+  "faction_slug": "ogor-mawtribes",
+  "target": "spearhead_db",
+  "category": "spearhead_rules",
+  "section": "Tyrant's Bellow > Warscrolls",
+  "text": "away with their massive guns and utilising them as makeshift bludgeons should the foe be foolish enough to engage them in hand-to-hand combat. • SPEARHEAD WARSCROLL • Leadbelchers RANGED WEAPONS Rng Atk Hit Wnd Rnd Dmg Leadbelcher Gun Leadbelcher Gun 15\" D3 4+ 3+ 1 1 MELEE WEAPONS Atk Hit Wnd Rnd Dmg Bludgeoning Blow Bludgeoning Blow 2 4+ 2+ - 2 Passive FIRING FROM THE BELLY : An ogor’s sturdy frame easily absorbs the recoil of even cannon-sized weapons. Effect: Add 1 to hit rolls for this unit’s shooting attacks if it has not used a MOVE ability this turn. KEYWORDS INFANTRY • SPEARHEAD WARSCROLL • Mournfang Pack 9\" 6 4+ 2 One might as well try to stop a boulder rolling down a mountain as halt the charge of an ogor mounted atop a Mournfang. These beasts make perfect linebreakers – they are ornery in the extreme, feel little in the way of pain, and possess an appetite to rival that of their riders. • SPEARHEAD WARSCROLL • Mournfang Pack MELEE WEAPONS Atk Hit Wnd Rnd Dmg Culling Clubs and Hackers Culling Clubs and Hackers 3 4+ 2+ 1 2 Mounrfang's Tusks [ Companion ] Mounrfang's Tusks Companion 4 4+ 2+ 1 2 Passive LINEBREAKERS : The thick hides of Mournfangs protect them from incoming missile fire as they charge headlong into the enemy’s battleline. Effect: Subtract 1 from wound rolls for shooting attacks that target this unit. KEYWORDS CAVALRY noindex /noindex noindex",
+  "spearhead_name": "Tyrant's Bellow"
+ }
+]
