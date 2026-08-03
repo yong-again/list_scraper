@@ -1,0 +1,10 @@
+# 설치:
+#   python -m venv .venv && .venv/bin/pip install -r requirements.txt
+#   .venv/bin/playwright install chromium   # 크롤러가 쓰는 브라우저 (별도 다운로드 필요)
+
+playwright>=1.61          # list_scraper.py — listhammer.info 크롤링
+pandas>=3.0               # 수집 데이터 가공·통계
+openpyxl>=3.1             # army_list/*.xlsx 생성
+streamlit>=1.59           # app.py 대시보드
+altair>=6.2               # app.py 차트
+pypdf>=6.14               # update_points.py — Battle Profiles PDF 파싱

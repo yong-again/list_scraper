@@ -8,6 +8,14 @@ listhammer.info의 AoS 대회 아미 리스트를 수집해 Excel 리포트와 �
 pipeline.py (스크랩 + Excel 생성)  →  army_list/*.xlsx  →  app.py (웹 대시보드)  →  share.sh (외부 공유)
 ```
 
+## 설치
+
+```bash
+python3 -m venv .venv
+.venv/bin/pip install -r requirements.txt
+.venv/bin/playwright install chromium    # 크롤러용 브라우저 (별도 다운로드)
+```
+
 ## 사용법
 
 ### 0. 포인트 패치 반영 (새 Battle Profiles PDF가 나왔을 때)
