@@ -6,6 +6,7 @@ __pycache__/
 # 산출물 (스크랩 결과)
 army_list/
 logs/
+run/
 update_state.json
 *.csv
 *.xlsx

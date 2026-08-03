@@ -82,8 +82,22 @@ python3 -m venv .venv
 ### 3. 외부 공유 (Cloudflare 터널)
 
 ```bash
-./share.sh    # https://xxxx.trycloudflare.com 주소 출력 (실행 중에만 유효)
+./share.sh    # 포그라운드 공유 (Ctrl+C로 종료, 창을 닫으면 끊김)
 ```
+
+터미널을 닫아도 계속 공유하려면 백그라운드 스크립트를 쓴다.
+
+```bash
+./share_bg.sh start     # 대시보드 + 터널을 백그라운드로 띄우고 공유 주소 출력
+./share_bg.sh status    # 실행 상태와 현재 주소
+./share_bg.sh url       # 주소만 출력 (복사용)
+./share_bg.sh logs      # 로그 실시간 보기 (Ctrl+C로 나가도 계속 실행됨)
+./share_bg.sh restart   # 재시작 (주소 새로 발급)
+./share_bg.sh stop      # 종료
+```
+
+주소는 시작할 때마다 바뀐다. PID는 `run/`, 로그는 `logs/share_*.log` 에 남는다.
+포트는 기본 8765이며 `PORT=9000 ./share_bg.sh start` 로 바꿀 수 있다.
 
 ## 파일 구성
 
@@ -94,7 +108,8 @@ python3 -m venv .venv
 | `weekly_update.py` | 주간 자동 갱신 (config 기반 실행 + launchd 등록/해제) |
 | `config.json` | 갱신 대상 팩션·스케줄·백업 설정 |
 | `app.py` | Streamlit 대시보드 |
-| `share.sh` | Cloudflare 퀵 터널 공유 |
+| `share.sh` | Cloudflare 퀵 터널 공유 (포그라운드) |
+| `share_bg.sh` | 공유 백그라운드 실행 (start/stop/status/url/logs) |
 | `wahapedia_factions/` | 팩션 룰 원문 (JSON) |
 | `warscolls/` | 워스크롤 (유닛 역할 분류에 keywords 사용) |
 | `translations/` | 팩션 룰 한국어 번역 (`{slug}.ko.json`, 수동 작성) |
