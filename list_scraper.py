@@ -157,23 +157,39 @@ def parse_army_list(entries: list[dict]) -> dict:
 
 
 def scrape_row(page: Page, button: Locator, timeout_ms: int,
-               dump_path: Path | None = None) -> dict | None:
+               dump_path: Path | None = None, retries: int = 1) -> dict | None:
     """"아미 리스트 보기" 버튼을 클릭해 모달(.p-dialog)에 뜨는 .army-list를 파싱. 실패 시 None.
+
+    모달 내용은 행마다 서버에서 따로 불러오는데 응답이 느릴 때가 있어, 타임아웃이 나면
+    (열린 채로 멈춰 있는 모달을 정리한 뒤) 최대 `retries`번 다시 시도한다.
 
     dump_path가 주어지면 모달에 뜬 .army-list의 원본 HTML을 그대로 저장한다
     (빌더별 DOM 구조 확인·파서 디버깅용).
     """
-    button.scroll_into_view_if_needed()
-    button.click()
-
     # PrimeVue Dialog는 페이지에 하나뿐인 모달을 재사용한다 (Teleport 방식).
     dialog = page.locator(DIALOG)
     army = dialog.locator(ARMY_LIST)
 
-    # 명시적 대기: 모달 안 내용이 실제로 채워질 때까지 (서버에서 리스트를 따로 불러옴)
-    army.locator(f"{LIST_TITLE}, span.font-semibold").first.wait_for(
-        state="attached", timeout=timeout_ms
-    )
+    for attempt in range(retries + 1):
+        button.scroll_into_view_if_needed()
+        button.click()
+        try:
+            # 명시적 대기: 모달 안 내용이 실제로 채워질 때까지
+            army.locator(f"{LIST_TITLE}, span.font-semibold").first.wait_for(
+                state="attached", timeout=timeout_ms
+            )
+            break
+        except PlaywrightTimeoutError:
+            # 다음 시도 전에, 열린 채로 멈춰 있을 수 있는 모달을 정리
+            try:
+                dialog.locator(DIALOG_CLOSE).click(timeout=2000)
+                dialog.wait_for(state="detached", timeout=5000)
+            except PlaywrightError:
+                pass
+            if attempt == retries:
+                raise
+            print(f"    (재시도 {attempt + 1}/{retries}) 로딩 시간 초과 — 다시 시도합니다")
+
     if dump_path is not None:
         dump_path.write_text(army.evaluate("el => el.outerHTML"), encoding="utf-8")
     parsed = parse_army_list(army.evaluate(EXTRACT_JS))
@@ -261,7 +277,7 @@ def go_next_page(page: Page) -> bool:
 
 
 def scrape(url: str, headless: bool, timeout_ms: int, max_pages: int | None,
-           faction: str = "", dump_html: Path | None = None) -> pd.DataFrame:
+           faction: str = "", dump_html: Path | None = None, retries: int = 1) -> pd.DataFrame:
     records: list[dict] = []
     valid_formations = load_valid_formations(faction) if faction else set()
     if dump_html is not None:
@@ -294,9 +310,10 @@ def scrape(url: str, headless: bool, timeout_ms: int, max_pages: int | None,
                     safe = re.sub(r"[^\w.-]+", "_", f"{row_meta['player']}_{page_no}_{i}") or f"row_{page_no}_{i}"
                     dump_path = dump_html / f"{safe}.html"
                 try:
-                    parsed = scrape_row(page, button, timeout_ms, dump_path)
+                    parsed = scrape_row(page, button, timeout_ms, dump_path, retries)
                 except PlaywrightTimeoutError:
-                    print(f"  ({i + 1}/{n}) {row_meta['player']}: 상세 내용 로딩 시간 초과 — 건너뜀")
+                    print(f"  ({i + 1}/{n}) {row_meta['player']}: 상세 내용 로딩 시간 초과 "
+                          f"({retries + 1}번 시도) — 건너뜀")
                     continue
                 except PlaywrightError as exc:
                     print(f"  ({i + 1}/{n}) {row_meta['player']}: 오류 발생 — {exc}")
@@ -588,6 +605,8 @@ def main() -> None:
     ap.add_argument("--csv", help="CSV도 함께 저장할 경로 (선택)")
     ap.add_argument("--no-headless", action="store_true", help="브라우저 창을 띄워서 실행")
     ap.add_argument("--timeout", type=int, default=15000, help="명시적 대기 타임아웃 (ms)")
+    ap.add_argument("--retries", type=int, default=1,
+                    help="행별 로딩 타임아웃 시 재시도 횟수 (기본: 1번 재시도, 총 2번 시도)")
     ap.add_argument("--max-pages", type=int, default=None, help="최대 크롤링 페이지 수")
     ap.add_argument("--dump-html", metavar="DIR",
                     help="확장된 army-list 원본 HTML을 DIR에 저장 (파서 디버깅용)")
@@ -596,7 +615,8 @@ def main() -> None:
     url = args.url or f"{BASE_URL}?faction={quote_plus(args.faction)}"
     df = scrape(url, headless=not args.no_headless, timeout_ms=args.timeout,
                 max_pages=args.max_pages, faction=args.faction,
-                dump_html=Path(args.dump_html) if args.dump_html else None)
+                dump_html=Path(args.dump_html) if args.dump_html else None,
+                retries=args.retries)
 
     if df.empty:
         print("수집된 데이터가 없습니다.")

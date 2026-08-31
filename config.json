@@ -4,7 +4,8 @@
     "Lumineth Realm-Lords",
     "Slaves to Darkness"
   ],
-  "timeout_ms": 15000,
+  "timeout_ms": 20000,
+  "retries": 2,
   "delay_sec": 5,
   "keep_backups": 4,
   "schedule": {

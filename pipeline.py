@@ -52,10 +52,11 @@ def resolve_faction(name: str, site_factions: list[str]) -> str | None:
     return by_lower.get(name.strip().lower())
 
 
-def run_faction(faction: str, timeout_ms: int) -> bool:
+def run_faction(faction: str, timeout_ms: int, retries: int = 1) -> bool:
     print(f"\n{'=' * 60}\n▶ {faction}\n{'=' * 60}")
     url = f"{BASE_URL}?faction={quote_plus(faction)}"
-    df = scrape(url, headless=True, timeout_ms=timeout_ms, max_pages=None, faction=faction)
+    df = scrape(url, headless=True, timeout_ms=timeout_ms, max_pages=None, faction=faction,
+                retries=retries)
     if df.empty:
         print(f"⚠ {faction}: 수집된 리스트가 없습니다 (대회 데이터 없음 또는 팩션명 불일치).")
         return False
@@ -78,6 +79,8 @@ def main() -> None:
     ap.add_argument("--list", action="store_true", help="사용 가능한 팩션 목록 출력")
     ap.add_argument("--refresh-factions", action="store_true", help="팩션 목록 캐시 갱신")
     ap.add_argument("--timeout", type=int, default=15000, help="행별 대기 타임아웃 (ms)")
+    ap.add_argument("--retries", type=int, default=1,
+                    help="행별 로딩 타임아웃 시 재시도 횟수 (기본: 1번 재시도, 총 2번 시도)")
     ap.add_argument("--delay", type=int, default=5, help="팩션 간 대기 초 (사이트 부하 방지)")
     args = ap.parse_args()
 
@@ -104,7 +107,7 @@ def main() -> None:
     ok, failed = [], []
     for i, faction in enumerate(targets):
         try:
-            (ok if run_faction(faction, args.timeout) else failed).append(faction)
+            (ok if run_faction(faction, args.timeout, args.retries) else failed).append(faction)
         except Exception as exc:  # 한 팩션 실패가 전체를 멈추지 않게
             print(f"✖ {faction}: 오류 — {exc}", file=sys.stderr)
             failed.append(faction)

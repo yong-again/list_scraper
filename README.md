@@ -35,6 +35,9 @@ python3 -m venv .venv
 .venv/bin/python pipeline.py --list                     # 지원 팩션 목록 (25개)
 .venv/bin/python pipeline.py "Ironjawz" "Sylvaneth"     # 지정 팩션 수집 (대소문자 무관)
 .venv/bin/python pipeline.py --all                      # 전체 팩션 (약 1시간)
+.venv/bin/python pipeline.py "Lumineth Realm-Lords" --timeout 20000 --retries 2
+  # 네트워크가 느린 서버(원격 SSH 등)에서 행별 로딩 타임아웃이 잦다면
+  # --timeout 을 올리거나 --retries 로 재시도 횟수를 늘린다 (기본: 15초, 1회 재시도)
 ```
 
 팩션당 `army_list/{팩션}_army_list.xlsx` 생성 — 3개 시트:
@@ -49,7 +52,8 @@ python3 -m venv .venv
 ```jsonc
 {
   "factions": ["Ironjawz", "Kharadron Overlords"],  // "Ironjawz" 처럼 한 개만 써도 되고, "all" 이면 전체 팩션
-  "timeout_ms": 15000,      // 행별 대기 타임아웃
+  "timeout_ms": 15000,      // 행별 대기 타임아웃 — 타임아웃이 잦으면 올릴 것
+  "retries": 1,             // 행별 로딩 타임아웃 시 재시도 횟수 (총 시도 = retries + 1)
   "delay_sec": 5,           // 팩션 간 대기 (사이트 부하 방지)
   "keep_backups": 4,        // army_list/history/ 에 보관할 이전 xlsx 개수
   "schedule": { "weekday": "sun", "hour": 4, "minute": 0 }

@@ -44,6 +44,7 @@ WEEKDAYS = {"sun": 0, "mon": 1, "tue": 2, "wed": 3, "thu": 4, "fri": 5, "sat": 6
 DEFAULTS = {
     "factions": [],
     "timeout_ms": 15000,
+    "retries": 1,
     "delay_sec": 5,
     "keep_backups": 4,
     "schedule": {"weekday": "sun", "hour": 4, "minute": 0},
@@ -115,7 +116,7 @@ def run(cfg: dict, targets: list[str]) -> int:
         for i, faction in enumerate(targets):
             try:
                 backup_existing(faction, cfg["keep_backups"])
-                success = run_faction(faction, cfg["timeout_ms"])
+                success = run_faction(faction, cfg["timeout_ms"], cfg["retries"])
                 (ok if success else failed).append(faction)
                 log(f"{'✔' if success else '⚠'} {faction}", fh)
             except Exception as exc:  # 한 팩션 실패가 전체를 멈추지 않게
