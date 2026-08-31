@@ -1,6 +1,7 @@
 """Listhammer 메타 통계 대시보드 (Streamlit).
 
 army_list/ 폴더의 *_army_list.xlsx 파일들을 읽어 팩션별 통계를 웹으로 표시한다.
+사이드바의 "새 팩션 수집"에서 대시보드를 켠 채로 바로 스크랩을 실행할 수도 있다.
 
 실행:
     .venv/bin/streamlit run app.py
@@ -8,6 +9,7 @@ army_list/ 폴더의 *_army_list.xlsx 파일들을 읽어 팩션별 통계를 �
 
 from __future__ import annotations
 
+import json
 from pathlib import Path
 
 import altair as alt
@@ -21,8 +23,10 @@ from list_scraper import (
     load_unit_points,
     load_unit_roles,
 )
+from pipeline import fetch_site_factions, run_faction
 
 ARMY_LIST_DIR = Path("army_list")
+CONFIG_PATH = Path("config.json")
 
 # 팔레트 (dataviz 기준: 단일 색조 막대 + 차분한 축/그리드)
 PRIMARY = "#2a78d6"
@@ -44,6 +48,14 @@ def available_factions() -> dict[str, Path]:
     files = sorted(f for f in ARMY_LIST_DIR.glob("*_army_list.xlsx")
                    if not f.name.startswith("~$"))  # Excel이 열려 있을 때 생기는 잠금 파일 제외
     return {f.stem.removesuffix("_army_list").replace("_", " "): f for f in files}
+
+
+def default_timeout_ms() -> int:
+    """config.json의 timeout_ms를 재사용 (없으면 파이프라인 기본값과 동일하게 15초)."""
+    try:
+        return int(json.loads(CONFIG_PATH.read_text()).get("timeout_ms", 15000))
+    except (OSError, ValueError, json.JSONDecodeError):
+        return 15000
 
 
 @st.cache_data(show_spinner="데이터 로딩 중...")
@@ -144,18 +156,102 @@ def frac(label: str, numerator: str, denominator: str) -> None:
 
 
 # ---------------------------------------------------------------------------
-# 사이드바 — 팩션 선택 & 필터
+# 사이드바 — 새 팩션 수집 (검색/선택 → 스크랩 → 목록 갱신)
 # ---------------------------------------------------------------------------
 
 factions = available_factions()
-if not factions:
-    st.error(f"`{ARMY_LIST_DIR}/` 폴더에 *_army_list.xlsx 파일이 없습니다. "
-             "먼저 `python list_scraper.py --faction \"...\"` 으로 데이터를 수집하세요.")
-    st.stop()
 
 with st.sidebar:
     st.title("⚔️ Listhammer 메타")
-    faction = st.selectbox("팩션", list(factions))
+
+    with st.expander("➕ 새 팩션 수집", expanded=not factions):
+        try:
+            site_factions = fetch_site_factions()
+        except Exception as exc:  # 사이트 접속 실패 등 — 캐시가 있으면 이후에도 계속 시도 가능
+            site_factions = []
+            st.caption(f"⚠ 팩션 목록을 가져오지 못했습니다: {exc}")
+
+        picked = st.multiselect(
+            "팩션 검색 / 선택",
+            options=site_factions,
+            format_func=lambda f: f"✅ {f}" if f in factions else f,
+            help="입력해서 검색하거나 목록을 펼쳐 클릭으로 선택하세요 (여러 개 선택 가능) · "
+                 "✅ = 이미 수집된 팩션 (다시 선택하면 최신 데이터로 갱신)",
+        )
+        bcol1, bcol2 = st.columns(2)
+        do_refresh = bcol1.button("목록 새로고침", use_container_width=True,
+                                  help="사이트에서 팩션 목록을 다시 가져옵니다")
+        do_scrape = bcol2.button("스크랩 시작", type="primary",
+                                 use_container_width=True, disabled=not picked)
+
+        if do_refresh:
+            with st.spinner("사이트에서 팩션 목록 가져오는 중..."):
+                try:
+                    fetch_site_factions(refresh=True)
+                except Exception as exc:
+                    st.error(f"팩션 목록 갱신 실패: {exc}")
+            st.rerun()
+
+        if do_scrape and picked:
+            timeout_ms = default_timeout_ms()
+            status = st.status(f"🔄 스크래핑 진행 중... (0/{len(picked)})", expanded=True)
+            ok, failed, log = [], [], []
+            with status:
+                for i, fac in enumerate(picked, 1):
+                    status.update(label=f"🔄 스크래핑 진행 중... ({i}/{len(picked)}) — {fac}")
+                    st.write(f"▶ {fac}")
+                    try:
+                        success = run_faction(fac, timeout_ms)
+                    except Exception as exc:
+                        success = False
+                        st.write(f"　✖ 오류: {exc}")
+                        log.append(f"✖ {fac}: 오류 — {exc}")
+                    else:
+                        if success:
+                            st.write("　✔ 완료")
+                            ok.append(fac)
+                            log.append(f"✔ {fac}: 완료")
+                        else:
+                            st.write("　⚠ 실패 (대회 데이터 없음 또는 로딩 실패)")
+                            failed.append(fac)
+                            log.append(f"⚠ {fac}: 실패 (대회 데이터 없음 또는 로딩 실패)")
+
+            # st.rerun()이 이 스크립트 실행을 즉시 끊어버려서 방금 만든 status의 "완료" 상태를
+            # 화면에 그릴 틈이 없다 (레이스 컨디션) — 결과를 session_state에 넘겨 rerun 직후
+            # 새 스크립트 실행에서 다시 그린다.
+            label = (f"✅ 완료 — {len(ok)}개 성공" + (f" · {len(failed)}개 실패" if failed else "")
+                     if ok else "❌ 모두 실패했습니다")
+            st.session_state["scrape_result"] = {
+                "label": label, "state": "complete" if ok else "error", "log": log,
+            }
+
+            load_faction.clear()  # 갱신된 xlsx를 다시 읽도록 캐시 무효화
+            if ok:
+                st.session_state["faction_select"] = ok[-1]
+            st.rerun()
+
+        elif "scrape_result" in st.session_state:
+            # 방금 rerun 되어 돌아온 결과를 여기서 한 번 보여주고 지운다 (다음 상호작용부터는 사라짐)
+            result = st.session_state.pop("scrape_result")
+            with st.status(result["label"], state=result["state"], expanded=bool(result["log"])):
+                for line in result["log"]:
+                    st.write(line)
+            if result["state"] == "complete":
+                st.toast(result["label"], icon="✅")
+
+if not factions:
+    with st.sidebar:
+        st.info("아직 수집된 팩션이 없습니다. 위 '➕ 새 팩션 수집'에서 팩션을 선택해 시작하세요.")
+    st.title("⚔️ Listhammer 메타")
+    st.info(f"`{ARMY_LIST_DIR}/` 폴더에 *_army_list.xlsx 파일이 없습니다. "
+            "사이드바의 '➕ 새 팩션 수집'에서 팩션을 검색·선택해 스크랩하거나, "
+            "터미널에서 `python list_scraper.py --faction \"...\"` 으로 수집하세요.")
+    st.stop()
+
+with st.sidebar:
+    if st.session_state.get("faction_select") not in factions:
+        st.session_state.pop("faction_select", None)  # 스크랩 실패 등으로 목록에서 사라진 값 방지
+    faction = st.selectbox("팩션", list(factions), key="faction_select")
     d_all = load_faction(str(factions[faction]), faction)
 
     from datetime import datetime
