@@ -10,6 +10,7 @@ army_list/ 폴더의 *_army_list.xlsx 파일들을 읽어 팩션별 통계를 �
 from __future__ import annotations
 
 import json
+import time
 from pathlib import Path
 
 import altair as alt
@@ -56,6 +57,14 @@ def default_timeout_ms() -> int:
         return int(json.loads(CONFIG_PATH.read_text()).get("timeout_ms", 15000))
     except (OSError, ValueError, json.JSONDecodeError):
         return 15000
+
+
+def default_retries() -> int:
+    """config.json의 retries를 재사용 (없으면 파이프라인 기본값과 동일하게 1회)."""
+    try:
+        return int(json.loads(CONFIG_PATH.read_text()).get("retries", 1))
+    except (OSError, ValueError, json.JSONDecodeError):
+        return 1
 
 
 @st.cache_data(show_spinner="데이터 로딩 중...")
@@ -192,16 +201,18 @@ with st.sidebar:
                     st.error(f"팩션 목록 갱신 실패: {exc}")
             st.rerun()
 
-        if do_scrape and picked:
+        def run_scrape_job(targets: list[str]) -> None:
+            """실제 스크랩 루프 — 확인 없이 바로 실행되는 공통 경로."""
             timeout_ms = default_timeout_ms()
-            status = st.status(f"🔄 스크래핑 진행 중... (0/{len(picked)})", expanded=True)
+            retries = default_retries()
+            status = st.status(f"🔄 스크래핑 진행 중... (0/{len(targets)})", expanded=True)
             ok, failed, log = [], [], []
             with status:
-                for i, fac in enumerate(picked, 1):
-                    status.update(label=f"🔄 스크래핑 진행 중... ({i}/{len(picked)}) — {fac}")
+                for i, fac in enumerate(targets, 1):
+                    status.update(label=f"🔄 스크래핑 진행 중... ({i}/{len(targets)}) — {fac}")
                     st.write(f"▶ {fac}")
                     try:
-                        success = run_faction(fac, timeout_ms)
+                        success = run_faction(fac, timeout_ms, retries)
                     except Exception as exc:
                         success = False
                         st.write(f"　✖ 오류: {exc}")
@@ -224,11 +235,50 @@ with st.sidebar:
             st.session_state["scrape_result"] = {
                 "label": label, "state": "complete" if ok else "error", "log": log,
             }
+            # 방금 실행한 요청을 기록해둔다 — 똑같은 요청이 곧바로 다시 들어오면(중복/큐잉된
+            # 클릭) 확인을 거치도록 하기 위함.
+            st.session_state["last_scrape_request"] = {"picked": sorted(targets), "at": time.time()}
+            st.session_state["scrape_confirm"] = None
 
             load_faction.clear()  # 갱신된 xlsx를 다시 읽도록 캐시 무효화
             if ok:
                 st.session_state["faction_select"] = ok[-1]
             st.rerun()
+
+        DUP_WINDOW_SEC = 60  # 이 시간 안에 같은 팩션 조합으로 또 요청이 오면 "중복" 취급
+
+        if do_scrape and picked:
+            already = [f for f in picked if f in factions]
+            last = st.session_state.get("last_scrape_request")
+            is_dup = bool(
+                last and last["picked"] == sorted(picked)
+                and time.time() - last["at"] < DUP_WINDOW_SEC
+            )
+            if already or is_dup:
+                # 바로 실행하지 않고 한 번 확인을 거친다 (무한 재요청/중복 스크랩 방지)
+                st.session_state["scrape_confirm"] = {
+                    "picked": picked, "already": already, "is_dup": is_dup,
+                }
+            else:
+                run_scrape_job(picked)
+
+        confirm = st.session_state.get("scrape_confirm")
+        if confirm:
+            msgs = []
+            if confirm["is_dup"]:
+                msgs.append("방금 같은 팩션으로 스크랩을 요청했습니다.")
+            if confirm["already"]:
+                msgs.append(f"이미 수집된 팩션이 있습니다: {', '.join(confirm['already'])}.")
+            st.warning(" ".join(msgs) + " 다시 가져오시겠습니까?")
+            cc1, cc2 = st.columns(2)
+            if cc1.button("다시 가져오기", type="primary", use_container_width=True,
+                          key="confirm_rescrape"):
+                targets = confirm["picked"]
+                st.session_state["scrape_confirm"] = None
+                run_scrape_job(targets)
+            if cc2.button("취소", use_container_width=True, key="cancel_rescrape"):
+                st.session_state["scrape_confirm"] = None
+                st.rerun()
 
         elif "scrape_result" in st.session_state:
             # 방금 rerun 되어 돌아온 결과를 여기서 한 번 보여주고 지운다 (다음 상호작용부터는 사라짐)
