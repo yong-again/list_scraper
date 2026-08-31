@@ -1,7 +1,7 @@
 """Listhammer.info AoS 아미 리스트 크롤러 (Playwright 기반).
 
-각 대회 결과 행의 확장 버튼(.p-datatable-row-toggle-button)을 클릭해
-상세 아미 리스트(.army-list)를 펼친 뒤 유닛명/포인트를 수집한다.
+각 대회 결과 행의 "아미 리스트 보기" 버튼을 클릭해 모달(.p-dialog)에 뜨는
+상세 아미 리스트(.army-list)를 파싱해 유닛명/포인트를 수집한다.
 페이지네이션이 있으면 마지막 페이지까지 순회한다.
 
 사용 예:
@@ -31,7 +31,12 @@ from playwright.sync_api import (
 )
 
 BASE_URL = "https://listhammer.info/aos"
-TOGGLE_BUTTON = ".p-datatable-row-toggle-button"
+# 2026-08 사이트 개편: 예전에는 행 안에 인라인으로 펼쳐졌지만(.p-datatable-row-toggle-button),
+# 지금은 각 행의 "아미 리스트 보기" 버튼(aria-label="View {player}'s army list")을 누르면
+# 모달(.p-dialog)이 뜨는 방식으로 바뀌었다.
+TOGGLE_BUTTON = '.p-datatable-tbody button[aria-label*="army list" i]'
+DIALOG = ".p-dialog"
+DIALOG_CLOSE = ".p-dialog-close-button"
 ARMY_LIST = ".army-list"
 LIST_TITLE = ".text-lg.font-bold"
 
@@ -40,7 +45,7 @@ LIST_TITLE = ".text-lg.font-bold"
 EXTRACT_JS = """
 (el) => Array.from(el.querySelectorAll(':scope > div')).map(div => {
     const nameSpan = div.querySelector('span.font-semibold');
-    const ptsSpan = div.querySelector('span.text-gray-400');
+    const ptsSpan = div.querySelector('span.text-muted-color, span.text-gray-400');
     return {
         cls: div.getAttribute('class') || '',
         text: div.textContent.trim(),
@@ -125,6 +130,9 @@ def parse_army_list(entries: list[dict]) -> dict:
                 if key.startswith("battle_tactic"):  # "Battle Tactic(s) Cards" 등 변형 통일
                     key = "battle_tactics"
                 meta[key] = val.strip()
+            elif section == "Faction Terrain":
+                # span 없이 섹션 헤더 다음 줄에 이름만 오는 형식 (예: "Shrine Luminor")
+                meta.setdefault("faction_terrain", text)
             elif section:
                 # 일부 빌더 형식: 유닛이 span 없이 "Arkanaut Company (180) (ALWAYS VETERAN)"처럼 표기됨
                 m = re.match(r"^(.+?)\s*\((\d+)\)\s*(.*)$", text)
@@ -150,23 +158,19 @@ def parse_army_list(entries: list[dict]) -> dict:
 
 def scrape_row(page: Page, button: Locator, timeout_ms: int,
                dump_path: Path | None = None) -> dict | None:
-    """토글 버튼 하나를 클릭해 확장된 .army-list를 파싱. 실패 시 None.
+    """"아미 리스트 보기" 버튼을 클릭해 모달(.p-dialog)에 뜨는 .army-list를 파싱. 실패 시 None.
 
-    dump_path가 주어지면 확장된 .army-list의 원본 HTML을 그대로 저장한다
+    dump_path가 주어지면 모달에 뜬 .army-list의 원본 HTML을 그대로 저장한다
     (빌더별 DOM 구조 확인·파서 디버깅용).
     """
-    row = button.locator("xpath=ancestor::tr[1]")
+    button.scroll_into_view_if_needed()
+    button.click()
 
-    # 이미 펼쳐져 있으면 클릭 생략 (aria-expanded 기반)
-    if button.get_attribute("aria-expanded") != "true":
-        button.scroll_into_view_if_needed()
-        button.click()
+    # PrimeVue Dialog는 페이지에 하나뿐인 모달을 재사용한다 (Teleport 방식).
+    dialog = page.locator(DIALOG)
+    army = dialog.locator(ARMY_LIST)
 
-    # PrimeVue는 클릭된 행 바로 아래에 확장 행(tr)을 삽입한다
-    expansion = row.locator("xpath=following-sibling::tr[1]")
-    army = expansion.locator(ARMY_LIST)
-
-    # 명시적 대기: 'Loading...'이 실제 내용(제목 또는 유닛 스팬)으로 바뀔 때까지
+    # 명시적 대기: 모달 안 내용이 실제로 채워질 때까지 (서버에서 리스트를 따로 불러옴)
     army.locator(f"{LIST_TITLE}, span.font-semibold").first.wait_for(
         state="attached", timeout=timeout_ms
     )
@@ -174,11 +178,12 @@ def scrape_row(page: Page, button: Locator, timeout_ms: int,
         dump_path.write_text(army.evaluate("el => el.outerHTML"), encoding="utf-8")
     parsed = parse_army_list(army.evaluate(EXTRACT_JS))
 
-    # 다음 행 처리를 위해 다시 접기 (DOM을 가볍게 유지)
+    # 모달을 완전히 닫을 때까지 대기 (다음 행 클릭 시 이전 모달과 겹치지 않도록)
     try:
-        button.click()
+        dialog.locator(DIALOG_CLOSE).click()
+        dialog.wait_for(state="detached", timeout=timeout_ms)
     except PlaywrightError:
-        pass  # 접기 실패는 치명적이지 않음
+        pass  # 닫기 실패는 치명적이지 않음
 
     return parsed
 
